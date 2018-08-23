@@ -8,6 +8,8 @@ header-includes:
     - \fancyhead[LO,LE]{Immanuel Church, Core Seminar}
     - \usepackage{tikz}
     - \usetikzlibrary{calc,shapes.multipart,chains,arrows}
+fontfamily: libertine
+fontfamilyoptions: sfdefault
 ---
 
 # Week 1: Introduction and Genesis 1-11
@@ -22,7 +24,7 @@ Now, before we begin, I'd like to focus in on the Old Testament and set up some 
 
 1. Second: the Old Testament tells us about Jesus, and it does it in three ways:
    1. It is the context for the events of the New Testament, both historically and thematically. From Abraham's sacrifice on, for example, God spent 2,000 years getting us ready for the idea of a substitute sacrifice on our behalf. That's how we undersand what Jesus did on the Cross
-   1. The Old Testament is the source of, by one count, 295 references and 600 allusions in the New Testament that help us understand who Jesus is. THe New Testament writers clear expect a working knowledge of the old Testament
+   1. The Old Testament is the source of, by one count, 295 references and 600 allusions in the New Testament that help us understand who Jesus is. THe New Testament writers clear expect a working knowledge of the Old Testament.[^1]
    1. And, more than just an aid for konwing the New Testament better, Jesus Himself says that the Old Testament teaches about him (Luke 24:44). This was the Jesus who made the astonishing claim that he came to fulfill the law and the prophets (5:17). The Bible, in its entirety, is a book about Jesus.
 
 If Ic ould summarize the entire Old Testament in a simple phrase, it would be "promises made." We learn of our _need_ for God's promises - we are sinners, unable to save ourselves and condemned to hell by a just God. But we learn of our promise-making God, who in his mercy promises us what we could never achieve ourselves. Similarly, as we'll see next Spring, the message of the New Testament is "promises kept.". Particularly in Jesus Christ.
@@ -33,7 +35,7 @@ So, what does "promises made" look like? Before we look at the first part of Gen
 
 The Bible beings, on page 1, in Genesis 1:1, with God's creation of the universe - from _nothing_ and the crown of his creation, mankind, made in his image, to rflect his character. This is chapters 1 and 2 of the Bible. Then, in chapter 3, God's first humans disobey him and the whole cosmos falls into ruin as a consequence.
 
-The narrative continues with things going from bad to worse. In Genesis 12, God begins his plan of redemption, calling Abrham to be the first of his new people. God leads him - and ultimately his family - to his place, the promised land of Canaan. After a series of providential twists, these people end up as slaves in Egypt, yet they also quickly reproduce and become a great nation.
+The narrative continues with things going from bad to worse. In Genesis 12, God begins his plan of redemption, calling Abrham to be the first of his new people. God leads him - and ultimately his family - to his place, the promised land of Canaan. After a series of providential twists, these people end up as slaves in Egypt, yet they also quickly reproduce and become a great nation.[^2]
 
 
 
@@ -49,3 +51,5 @@ The narrative continues with things going from bad to worse. In Genesis 12, God 
 
 
 
+[^1]: These statistics come from Roger Nicole, "The New Testaments Use of the Old Testament," in _Revelation and the Bible_, ed. Carl F. H. Henry (Grand Rapids: Baker, 1958), 135-51, reprinted in _The Right Doctrine from the Wrong Text?_, ed. G. K. Beale (Grand Rapids: Baker, 1994), 13-14.
+[^2]: 1 Kings 8:46, Psalm 14:3, Proverbs 20:9, Eccles. 7:20

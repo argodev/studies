@@ -1,59 +1,43 @@
 PANDOC=/usr/bin/pandoc
-PANDOC_OPTIONS=--smart --standalone
-PANDOC_PDF_OPTIONS=-V geometry:margin=1in
+PANDOC_OPTIONS=--standalone
+PANDOC_PDF_OPTIONS=-V geometry:margin=1in -V fontsize:12pt -V linestretch:1.25 --pdf-engine=xelatex
+PANDOC_SLIDE_OPTIONS=-s --mathjax -i -t revealjs --template revealjs.template --data-dir ./ -V theme=white -V slideNumber='c/t' -V transition:convex
 
-# Targets and dependencies
-.PHONY: clean homework
+BDIR=build
+RJSDIR=reveal.js
 
-all : clean class01 class02 class03 class04 class05 class06 class07 class08 class09 class10 class11
+## Markdown extension (e.g. md, markdown, mdown).
+MEXT = md
+
+# All markdown files in the working directory
+MAN_SRC = $(wildcard *_Manuscript.$(MEXT))
+HAND_SRC = $(wildcard *_Handout.$(MEXT))
+SLIDE_SRC = $(wildcard *_Slides.$(MEXT))
+
+MANUSCRIPTS=$(MAN_SRC:.md=.pdf)
+HANDOUTS=$(HAND_SRC:.md=.pdf)
+SLIDES=$(SLIDE_SRC:.md=.html)
+
+# I'm a MakeFile N00b so I'm documenting more than I need so I ensure I understand/can later remember what is going on.
+
+# - Make, with no arguments, will execute the first target in the file (this is why we often put all first)
+# - the files after the : in the target definition tell make that it should run if any of those change
+
+# targets for all, manuscripts, handouts, slides
+all: clean manuscripts handouts slides
+manuscripts: $(MANUSCRIPTS)
+handouts: $(HANDOUTS)
+slides: $(SLIDES)
+
+%.pdf : %.md
+	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/$@ $<
+
+%.html : %.md
+	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_SLIDE_OPTIONS) -o $(BDIR)/$@ $<
+
+.PHONY: clean
 
 clean :
-	- $(RM) *.pdf
-
-class01 :
-	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o Class_01_Manuscript.pdf Class_01_Manuscript.md
-
-
-class02 :
-	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o Class_02_Manuscript.pdf Class_02_Manuscript.md
-
-
-class03 :
-	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o Class_03_Manuscript.pdf Class_03_Manuscript.md
-
-
-class04 :
-	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o Class_04_Manuscript.pdf Class_04_Manuscript.md
-
-
-class05 :
-	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o Class_05_Manuscript.pdf Class_05_Manuscript.md
-
-
-class06 :
-	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o Class_06_Manuscript.pdf Class_06_Manuscript.md
-
-
-class07 :
-	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o Class_07_Manuscript.pdf Class_07_Manuscript.md
-
-
-class08 :
-	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o Class_08_Manuscript.pdf Class_08_Manuscript.md
-
-
-class09 :
-	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o Class_09_Manuscript.pdf Class_09_Manuscript.md
-
-
-
-class10 :
-	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o Class_10_Manuscript.pdf Class_10_Manuscript.md
-
-
-class11 :
-	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o Class_11_Manuscript.pdf Class_11_Manuscript.md
-
-
-class12 :
-	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o Class_12_Manuscript.pdf Class_12_Manuscript.md
+	rm -rf $(BDIR)
+	mkdir -p $(BDIR)/
+	cp -r $(RJSDIR) $(BDIR)/
