@@ -1,5 +1,5 @@
 ---
-title: Introduction to the Old Testament
+title: Ruth, Samuel, Job
 author: Immanuel Church
 ---
 

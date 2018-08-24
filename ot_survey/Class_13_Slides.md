@@ -1,5 +1,5 @@
 ---
-title: Introduction to the Old Testament
+title: Chronicles, Ezra, Nehemiah, Esther
 author: Immanuel Church
 ---
 

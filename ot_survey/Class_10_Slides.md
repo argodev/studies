@@ -1,5 +1,5 @@
 ---
-title: Introduction to the Old Testament
+title: Amos, Obadiah, Jonah, Micah
 author: Immanuel Church
 ---
 

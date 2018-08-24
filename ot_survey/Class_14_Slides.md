@@ -1,5 +1,5 @@
 ---
-title: Introduction to the Old Testament
+title: Haggai, Zechariah, Malachi
 author: Immanuel Church
 ---
 

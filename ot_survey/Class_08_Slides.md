@@ -1,5 +1,5 @@
 ---
-title: Introduction to the Old Testament
+title: Ecclesiastes, Song of Songs, Kings
 author: Immanuel Church
 ---
 

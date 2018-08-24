@@ -1,10 +1,10 @@
 ---
-title: Class 1 - Introduction to the Old Testament
+title: Class 12 - Ezekiel, Daniel
 author: Immanuel Church
 header-includes:
     - \usepackage{fancyhdr}
     - \pagestyle{fancy}
-    - \fancyhead[RO,RE]{Class 1 - Introduction to the Old Testament}
+    - \fancyhead[RO,RE]{Class 12 - Ezekiel, Daniel}
     - \fancyhead[LO,LE]{Immanuel Church, Core Seminar}
     - \usepackage{tikz}
     - \usetikzlibrary{calc,shapes.multipart,chains,arrows}

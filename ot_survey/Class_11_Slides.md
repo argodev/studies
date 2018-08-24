@@ -1,5 +1,5 @@
 ---
-title: Introduction to the Old Testament
+title: Nahum, Hababakuk, Zephaniah, Jeremiah, Lamentations
 author: Immanuel Church
 ---
 

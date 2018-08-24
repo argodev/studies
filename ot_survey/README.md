@@ -12,14 +12,14 @@ consider the [original materials available on their website](http://www.capitolh
 | 2 | 9/16 | Genesis | 02 Genesis 1-11 <br> 03 Genesis 12-50 |
 | 3 | 9/23 | Exodus | 04 Exodus 1-19 <br> 05 Exodus 20-40 |
 | 4 | 9/30 | Leviticus, Numbers | 06 Leviticus <br> 07 Numbers |
-| 5 | 10/7 (or 14) | Deuteronomy, Joshuah, Judges | 08 Deuteronomy <br> 09 Joshua and Judges |
+| 5 | 10/7 (or 14) | Deuteronomy, Joshua, Judges | 08 Deuteronomy <br> 09 Joshua and Judges |
 | 6 | 10/21| Ruth, Samuel, Job | 10 Ruth and Samuel <br> 11 Job |
 | 7 | 10/28 | Psalms, Proverbs | 12 Psalms <br> 13 Proverbs |
 | 8 | 11/4 | Ecclesiastes, Song of Songs, Kings | 14 Ecclesiastes and the Song of Songs <br> 15 Kings |
 | 9 | 11/11 | Isaiah, Hosea, Joel | 16 Isaiah <br> 17 Hosea and Joel |
 | 10 | 11/18 | Amos, Obadiah, Jonah, Micah | 18 Amos and Obadiah <br> 19 Jonah and Micah  |
 | 11 | 11/25 | Nahum, Hababakuk, Zephaniah, Jeremiah, Lamentations |  20 Nahum, Hababakuk and Zephaniah <br> 21 Jeremiah and Lamantations  |
-| 12 | 12/2 | Exekiel, Daniel| 22 Ezekiel <br> 23 Daniel |
+| 12 | 12/2 | Ezekiel, Daniel| 22 Ezekiel <br> 23 Daniel |
 | 13 | 12/9 | Chronicles, Ezra, Nehemiah, Esther | 24 Chronicles <br> 25 Ezra, Nehemiah and Esther |
 | 14 | 12/16 | Haggai, Zechariah, Malachi | 26 Haggai, Zechariah and Malachi |
 
