@@ -1,7 +1,14 @@
 ---
 title: Introduction to the Old Testament
-author: Immanuel Church
+author: Old Testament Seminar
 ---
+
+## Overivew
+
+- 14 weeks through the Old Testament
+- Spring Semester will be New Testament
+- Relationship to Biblical Theology Class
+- Additional resources [iknox.org/ot/](http://iknox.org/ot)
 
 ## Why Study the Old Testament?
 

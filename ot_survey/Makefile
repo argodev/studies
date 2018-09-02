@@ -1,6 +1,6 @@
 PANDOC=/usr/bin/pandoc
 PANDOC_OPTIONS=--standalone
-PANDOC_PDF_OPTIONS=-V geometry:margin=1in -V fontsize:12pt -V linestretch:1.25 --pdf-engine=xelatex
+PANDOC_PDF_OPTIONS=--template pdf.template --data-dir ./ -V geometry:margin=1in -V fontsize:12pt -V linestretch:1.25 --pdf-engine=xelatex
 PANDOC_SLIDE_OPTIONS=-s --mathjax -i -t revealjs --template revealjs.template --data-dir ./ -V theme=white -V slideNumber='c/t' -V transition:convex
 
 BDIR=build
