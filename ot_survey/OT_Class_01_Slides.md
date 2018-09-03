@@ -3,7 +3,7 @@ title: Introduction to the Old Testament
 author: Old Testament Seminar
 ---
 
-## Overivew
+## Overview
 
 - 14 weeks through the Old Testament
 - Spring Semester will be New Testament
@@ -17,8 +17,9 @@ author: Old Testament Seminar
 
 ## Historical Overview of the Old Testament
 
-- Eat spaghetti
-- Drink wine
+- The Histories
+- The Writings
+- The Prophets
 
 ## The story of Sin and Holiness
 
@@ -34,7 +35,7 @@ author: Old Testament Seminar
 
 ## Conclusion
 
-- And the answer is...
+- Does the Old Testament make any progress in God's progress to redeem his people?
 - Next Week: Genesis
 
 ## Credits
