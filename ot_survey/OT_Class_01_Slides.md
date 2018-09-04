@@ -5,9 +5,9 @@ author: Old Testament Seminar
 
 ## Overview
 
+- Relationship to Biblical Theology Class
 - 14 weeks through the Old Testament
 - Spring Semester will be New Testament
-- Relationship to Biblical Theology Class
 - Additional resources [iknox.org/ot/](http://iknox.org/ot)
 
 ## Why Study the Old Testament?
@@ -32,6 +32,7 @@ author: Old Testament Seminar
 - The promise to Adam and Eve
 - The promise to Noah
 - The promise to Abraham
+- The promise to David
 
 ## Conclusion
 
