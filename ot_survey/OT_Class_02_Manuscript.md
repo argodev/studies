@@ -132,4 +132,4 @@ What we are seeing here in these crucial chapters of Genesis is what happens whe
 
 [^2]: This idea of two telling is not unique to Genesis; elsewhere in the Bible, say in the account of Deborah in Judges, we see first a lyrical, poetic account and then a more straightforward, event-by-event account.
 
-[^3]: The next verse, 1 John 3:9, contrasts this group with those who are born of God — who have his "seed" in them.
+[^3]: The next verse, 1 John 3:9, contrasts this group with those who are born of God - who have his "seed" in them.
