@@ -128,8 +128,161 @@ And that takes us through these first 11 chapters.  So let's go back to my earli
 
 What we are seeing here in these crucial chapters of Genesis is what happens when sinful man intersects with a holy God.  There is just consequence for sinners' actions.  But there is also a patient and gracious response from a loving God.  Redemptive-history has begun.  God has set out on His course to redeem fallen humanity and the corrupted universe.  He is out to restore the pristine environment and perfect peace, love, and fellowship that existed in the original creation.  To do this He will deal with sin and conquer death, through keeping the promise which He made the woman that one of her descendants will triumph over the enmity of Satan.  That's where we're going as we continue through the Bible.
 
+# Introduction Two
+"'Is anything too hard for the Lord?'" (Genesis 18:14).  That’s God speaking.  Abraham was about 100; his wife Sarah about 90.  God had just told them that they were going to conceive a child, their first together, after decades of barrenness and aging -- within about a year's time. And they laughed at Him.
+
+Abraham laughed out loud. And Sarah laughed to herself.  What God promised them was so ridiculous and so preposterous, so ..._inconceivable_... it simply couldn't happen.  Their bodies were as good as dead.  God must have been joking, or insincere, or perhaps even mistaken.  And so they laughed.  And God corrected them.  He asked: "'Is anything too hard for the Lord?' At the appointed time I will return to you, about this time next year, and Sarah shall have a son."  (Genesis 18:14)  
+
+A year later, when a son was born to Sarah in her old age, God made sure they remembered their faithlessness.  He commanded them to name the child "Isaac," which means: "He laughs."  It seems the mocking laughter of their disbelief had been turned into a laughter of joy.
+
+Well, you've found yourself in the Old Testament overview class in our second class on the Book of Genesis, covering the bulk of the book, chapters 12-50.  Last week we looked at the first main event in Genesis - the creation and fall of Adam and Eve.  This week we look at the second main event, which I just described - the establishment of a special family through Abraham.
+
+So, what all do these 38 chapters in Genesis cover?  They give us a view into the lives and families of Abraham, his son Isaac, and his son Jacob. (These three are also known as the Partiarchs).  And understanding this family line is crucial to our understanding of the Bible.  Because through them God begins to unfold his plan of redemption, which we can summarize in a few phrases.  God's special people, will live in God's special place, under God's special rule.  People, place, and rule.
+
+We can summarize this part of Genesis like this:
+
+_God is making a gracious covenant with one man and his descendants which will bless the entire world.  In this covenant God has promised to be their God.  He also promises, unilaterally, that they will be His special **people**, that they will live in the **place** of His choosing, and that they will enjoy a unique relationship with Him, under His **rule**._  
+
+## Outline
+
+To orient you to our time together this morning: after some background, I’m just going to walk through the three generations of Genesis: Abraham, Isaac, and Jacob.  And help you understand how God’s plan of redemption unfolds through them: God’s people in God’s place under God’s rule.  We’ll start with a very brief summary of these chapters to give you context.
+
+(1) Abraham:  The life and times of Abraham are found in chapters 12-23.  They detail God's calling of _Abram_ out of Mesopotamia.  They reveal a progression of promises to him.  Then, at the end of this section, God finally ratifies all that he has said to him with a covenant sign -- circumcision -- and a new name: _Abraham_.  They also reveal a troubled family history for Abraham, both within his own marriage, and with his nephew Lot.
+
+(2)  Isaac:  The next section of Genesis, covering the adult life of Isaac, is found in Chapters 24-28.  Famously, Isaac and his wife Rebekah had twin sons, Jacob and Esau.  Like Abraham's, Isaac's household was troubled with sin and faithlessness, a humbling reminder to us, their children in the faith, of God's enduring mercy and unshakable love.
+
+(3) Jacob:  The adult life and family life of Jacob occupies nearly the entire second half of the book, detailing his multiple marriages and therefore severely troubled family life.  But Moses draws our attention, once again, to just one of this Patriach’s sons: in this case, Joseph.  This is the moving and extravagant story of the annoying favorite son, sold by his brothers into slavery in Egypt and then into prison.  From prison, God then vaults Joseph to the highest office in the land.  Joseph uses this position to bring a fulfillment, in part, to God's promises to his great grandfather: to be a blessing to the nations.  He delivers the nations, and even his own family from a devastating famine.
+
+As you read through this book, you see the extravagance and unexpectedness of God's plan.  Old women will give birth to sons, younger brothers will rule the older, arrogant men will be turned to humility, slaves will become rulers, and the homeless will be given a home.  God's story line of promise and fulfillment is not a normal human story.  At every is the unexpected and the impossible.  Man's plans are consistently thwarted, and God's sovereignty is supreme.
+
+You see, God has arranged his plan of salvation to encourage our trust in him.  If he could accomplish reversals like those in this book, he can accomplish such change even in our lives and in our time, for his own glory.
+
+## Recap of Genesis 1-11 (the problem)
+
+Before we jump into our review of Genesis 12-50, however, let's remind ourselves of Genesis 1-11.  God made all that exists, including Adam and Eve.  He gave them a special place to live in, he commanded them to be fruitful and multiply into a global people, and he set them under his benevolent and perfect kingdom rule.
+
+Then they sinned.  
+
+But just as God condemns Adam and Eve, he also sets the first glimmer of hope in a promise of salvation.  In cursing Eve, the mother of all humankind, God also says:
+
+> And I will put enmity between you and the woman, and between your offspring and hers; he will crush your head, and you will strike his heel. (3:15)
+
+Remember, this "enmity" is actually really good news.  It means that the seed of the woman will war against the seed of the serpent, and that one day the seed of the woman would prevail.  This promised one will restore God's people, to God's place, under God's rule.  So now in this second part of Genesis, we see this plan begin to play out.
+
+By way of historical review, Moses is still our author.  Starting in chapter 12,we can begin to assign some dates to these events.  We’ll pick up today with Abraham, whose story takes place about 2,000 years BC (give or take a 100 years or so).  And we’ll cover through the life of Joseph, whose death we can date somewhere around 1800 BC.
+
+## God and Abraham
+
+OK.  With that as background, let’s turn to our text.  We’ll start with the story of Abraham.  Turn to __chapter 12__, and let’s read __verses 1-3__.  
+
+> Now the Lord said to Abram, "Go from your country and your kindred and your father's house to the land that I will show you. And I will make of you a great nation, and I will bless you and make your name great, so that you will be a blessing. I will bless those who bless you, and him who dishonors you I will curse, and in you all the families of the earth shall be blessed."
+
+In these promises to Abraham we see God’s purposes in His kingdom: His people in His place under His rule.  We’ll look at each of these components of the kingdom.  
+
+Let's start with God’s _place_, the land God promises to Abraham.  
+
+In verse 1 God promises Abraham a land.  This land is significant because you’ll remember that with Adam and Eve’s sin they were driven out of the perfect land of Eden.  The land promised here to Abraham, the land of Canaan, was a real historic location.  But it also serves as a picture of a greater reality to come – that new creation at the end of time.  God is reversing the fall and reestablishing for Himself a people who will live in a certain place under His rule, like Adam and Eve did.  It’s not the complete return to Paradise, but it is a foreshadowing of it.[^4]
+
+Abraham and his immediate descendants understood this.  In __Hebrews 11__ we read this:  "By faith Abraham obeyed when he was called to go out to a place that he was to receive as an inheritance. And he went out, not knowing where he was going. By faith he went to live in the land of promise, as in a foreign land, living in tents with Isaac and Jacob, heirs with him of the same promise. 10 For he was looking forward to the city that has foundations, whose designer and builder is God."
+
+This explains the true nature of the promised land -- it is a heavenly city built by God and not man.  But Abraham's pilgrimage is also an encouragement to us.  The record in Genesis is that Abraham wandered the whole of the rest of his days. In fact, the only plot of land Abraham officially owned during his lifetime was the grave-plot where he buried his wife.  And just like Abraham, if we share his faith, we’ve been called from our natural home in this world, to God's heavenly country.  We are pilgrims who await the fulfillment of God's promise.  If we hold to this faith as Abraham did, we will share in these same blessings.
+
+So that’s the promise of the Land.
+
+_Secondly_, notice that in __verse 2__ God will make of Abraham a great __nation__.  In understanding the development of the kingdom of God, this nation is God’s people.  From Abraham will descend that Godly line, which originated with the woman Eve, who will eventually give birth to the Savior of the world.  This is clear from the next verse, __verse 3__.
+
+> I will bless those who bless you, and whoever curses you I will curse; and all peoples on earth will be blessed through you.
+
+While Abraham and his descendants make up one family, one nation, the blessing here is for all families.  Through God’s special relationship with Abraham’s descendants anyone anywhere can repent of their sins and put their trust in the Lord Jesus Christ for forgiveness, eternal life, and a relationship with God.
+
+All well and good.  But how is this going to happen?  Turn to chapter 15.
+
+God has promised Abram that he would make him into a great nation.  Then, verse 2:
+
+> But Abram said, "O Lord God, what will you give me, for I continue childless, and the heir of my house is Eliezer of Damascus?" And Abram said, "Behold, you have given me no offspring, and a member of my household will be my heir."
+
+Abraham was 75 years old when the promises of chapter 12 were made, and his entire life his wife, Sarah, had been barren.  Now he’s beginning to doubt if he’ll ever have one son, let alone an entire nation’s worth of sons.  So God reaffirms His promise to Abraham.
+
+Continuing on in chapter 15, verse 6:
+
+> And he believed the Lord, and he counted it to him as righteousness.
+
+Abraham is counted righteous in the sight of God because of his faith.  This is good news for Abraham after we’ve seen how sinful mankind is.  Abraham is a sinner just like everyone else, but he is counted righteous because of his faith in God.  This is a doctrine that Paul will often stress in the New Testament.  In Romans 4 and in Galatians 3 Paul uses this very verse to prove that the only way anyone can be righteous in the sight of God is through faith, and faith alone.  The Bible is clear that no one can ever, through their good behavior, or good deeds, or church attendance, or baptism, or anything in themselves, earn this necessary righteousness.  But we can be given it by faith.
+
+So we’ve seen something about God’s promise of a people - and in the obstacle God has sovereignly laid in the way (Sarah’s barrenness), we’ve seen an important characteristic of this people.  Faith.
+
+Third, then, let’s turn to consider God’s rule over His kingdom.  Now, significantly, this aspect of God’s plan is not as clear in the story of Abraham.  But that makes sense - because it’s the part that the people failed to live up to in the garden of Eden.  So God simply re-imposing his rule just doesn’t make sense.  Instead, God’s rule will have to take a new form.  And that is precisely what we see.  Take a look at chapter 15, where God makes a covenant with Abraham.  A covenant, in this context, is a solemn bond and agreement between two parties, with terms and conditions, that can only be broken upon the penalty of death.
+  
+In verse 8, Abraham has to ask - and I can certainly empathize with him - "how can I know that these promises will come true?"  After all, God’s promises to Adam and Eve depended on their obedience, and so they failed.  What about these promises?  God then quickly replies in verse 13: "Know for certain..."  The ritual of animal sacrifice and mutilation that we find in the rest of this chapter is designed so that Abraham can “know for certain” that God will make good on his promises[^5].  Because when it comes time for God and Abraham to ratify the covenant together, God puts Abraham to sleep and he does it alone.  In other words - this is a covenant God will deliver on regardless of Abraham’s obedience.  It is a covenant of grace.  
+
+We’ll visit the covenant many more times in our Old Testament overview.  For now, we see that God is in covenant with Abraham, a covenant that will bless all the nations of the world as we read in Genesis 12.  But unlike the rule of God we saw in Genesis 2, where the covenant depended on Adam and Eve holding up their end of the bargain, this covenant is unilateral: dependent only on God.  In chapter 26 we read about how the covenant promises are passed along to Abraham’s son Isaac, and then again passed long to his son, Jacob, in chapter 35.  In all of this we have people, place, and, though less clearly, rule.
+
+So, why are we picking our way so slowly through this?  For that matter, why does Moses suddenly focus in here?  After all, chapters 1-11 of Genesis are cosmic in scope and global in scale.  And then suddenly we focus in on God’s dealings with a single man: Abraham.  Why?  Because in these promises we see the blueprint for God’s plan of redemption, as he takes the pieces broken in Eden—God’s people in God’s place under God’s rule - and begins to bring them back together.  And that brings us to Isaac, because these promises given to Abraham are not fulfilled in Abraham’s lifetime - but are passed along to his son.  And so this family line becomes a line of promise - just as we saw in Genesis 3:15
+
+## God and Isaac
+
+Well, Abraham does finally have a son.  And naturally, the reader is wondering if this is the promised one?  Well, as we read on we find out the answer is no.  Isaac makes a lot of the same mistakes his father made, and he dies without seeing the promises fulfilled.  But, he doesn’t die without an heir through whom the promises can continue.  So is his son Esau the one who will receive the blessing and carry the Kingdom of God forward?  He is after all the firstborn.  Surprisingly, the answer is no.  His younger brother, Jacob, is the heir of the covenant!  God has, through His free choice, decided that it is through Jacob that His plan of redemption will continue.  
+
+The idea that God chooses who will be his is one of the most challenging doctrines in the Bible.  It’s the doctrine of __election__.  It’s the doctrine that some will be given grace; and those "some" are chosen by God purely on the grounds of grace, not on the grounds of anything they've done.
+
+Well, why would God choose one son over the other?  Was Jacob more righteous than his twin brother Esau?  Clearly not.  Just read the following chapters. Jacob is a sly, deceitful opportunist. If you think Jacob was chosen because he was more righteous than Esau, or more faithful to God, then the rest of Jacob’s story becomes very confusing. Let me tell you the explanation we see in Romans 9:
+
+> ...when Rebekah had conceived children by one man, our forefather Isaac, though they were not yet born and had done nothing either good or bad - in order that God's purpose of election might continue, not because of works but because of him who calls - she was told, "The older will serve the younger." – Romans 9:10b-12
+
+Did you hear that?  God chose Jacob before either twin had done anything good or bad.  And the reason He chose Jacob _then_ was so that "God’s purpose in election might stand."  And what is that purpose?  So that inclusion in God’s special family might come "not by works but because of Him who calls."
+
+So do you see how critical the themes are that God is unveiling in this family?  We’ve learned another thing about God’s people right here: they become part of God’s people by being called by God into faith.  Not by being physically descended from Abraham.
+
+We have no rights over God.  We are all rebels.  If we get anything good from God, it is by pure, one-hundred percent, vintage __grace__!  And this grace is to God’s glory.  God’s grace is meant to humble us, knowing that we have nothing to commend ourselves to God with; and it’s intended to give glory to God for how kind He has been to us who know Him through His Son, and are included in His gracious kingdom.[^6]
+
+So through the family of Isaac, we learn a bit more about God’s plan of redemption.  Let’s now zero in on his son, Jacob, to see what we can learn there, as the story of the seed of the woman continues.
+
+## God and Jacob
+
+From Jacob will grow the great nation that God promised to Abraham.  Abraham had only one legitimate son.  Isaac had two, but only one was included in the promise.  Now Jacob has twelve sons, and things really start moving.  At least numerically-speaking, as Jacob’s family (remember, God renamed Jacob Israel), starts to grow into the great nation God had promised.  In particular, we focus on Joseph, one of Jacob’s sons.
+
+Let’s briefly go through __Joseph’s story__.  Turn to Genesis 37:9-11. Joseph has a dream that his mother and father and all his brothers bow down to him.
+
+This dream is a prophecy of Joseph’s future role as savior. But his brother’s aren’t exactly pleased with their uppity younger brother.  Verse 11 says they were jealous; by the end of the chapter, they’ve sold Joseph into slavery in Egypt.  There, he’s able to work his way up to a high position, but when he’s betrayed by his master’s wife, he’s thrown into jail.  After many years in jail he’s finally released.  But this time, by an amazing work of God, he’s serving as the prime minister of Egypt!  The Pharaoh puts him in charge of the food supplies for the nation.  And when a famine hits, it’s Joseph’s wisdom and foresight, which he credits to have come from God, that saves the Egyptians.  And he saves many other nations around them - including his family back in Canaan.  
+
+Now there are many things going on in this story that we could look at, but let’s look at just one thing.  Let’s see Joseph’s response when he encounters his brothers again after all his troubles, the same brothers who sold him into his troubles all those years earlier.  Turn to chapter __45__, and look at __verses 4-5__.
+
+> And he said, "I am your brother, Joseph, whom you sold into Egypt. And now do not be distressed or angry with yourselves because you sold me here, for God sent me before you to preserve life."
+
+Or, as he says later, in chapter 50 (verse 20): "As for you, you meant evil against me, but God meant it for good, to bring it about that many people should be kept alive, as they are today."
+
+Isn’t that interesting?  Joseph says that _they_ sold him into slavery.  They cannot escape the responsibility for their actions.  But in the same breath he says that God sent him before them.  Why?  To preserve life from the famine.
+
+What an astonishing reversal! What a demonstration of God's grace. We have real responsibility for what we do, whether good or evil.  But finally, and ultimately, God superintends everything.  His is complete and total control.  And what’s more, he uses that total control both to uphold justice and to demonstrate mercy, even as Joseph is doing here.  Remember that from a theological perspective, there was more at stake here than just the people of Egypt.  God had promised Abraham that he would use Abraham’s seed to bless the world - a continuation of his promise to Adam and Eve of a Savior.  And the threat of starvation for Jacob and his family threatened the extinction of the line through which God promised to save the world.  So the impossible story of Joseph, who saved that family, really showcases the lengths God will go to to keep his promise.  God really did intend these things for good.
+
+Admittedly sometimes it is very hard to see how God is in control when so many tragic and disastrous things happen.  We make no claim that we can understand what God is doing.  But we can be assured that the universe is not spinning out of the control of its Creator.  He is doing good things in every situation, no matter how hard it is to see.  Even Joseph I’m sure at times in his prison cell wondered what in the world God was doing to him.  But nonetheless, here at the end, Joseph can see what God was doing: preparing to save many lives through Joseph.  And yet as satisfying as that may have been, Joseph would never comprehend in his lifetime the real good that was being accomplished.
+
+And we get a picture of that even greater good as we leave the book of Genesis.  Turns out Joseph isn’t the One Seed to come into the world.  Rather, it will be through Judah, his brother.
+
+Turn to __chapter 49__, and look at __verse 8__. This is a prophecy concerning __Judah__, one of Jacob’s sons.  
+
+> Judah, your brothers shall praise you; your hand shall be on the neck of your enemies; your father's sons shall bow down before you.
+
+Do you hear the language from Genesis 3:15 there – putting down the neck of his enemies?  And look at __verse 10__.
+
+> The scepter shall not depart from Judah, nor the ruler's staff from between his feet, until tribute comes to him; and to him shall be the obedience of the peoples.
+
+What we have here is a prophecy that through Judah will come a ruler, a king, for the people.  And that king will be the one who triumphs over Satan, crushing his head.  Jesus, of course.  The words of this prophecy are a little vague, admittedly, but this concept will become clearer as we continue through the Old Testament.
+
+So, then, an amazing journey through three generations to see God’s plan of redemption beginning to unfold.  God’s people - a people called by God through faith.  In God’s place.  Under God’s rule - the rule of the promised Savior of the world.  God’s people, the line of the promise, has come under great attack through these chapters.  And yet God has saved them.  God’s people remain in tact.  But at what cost!  Look at the very last verse of the book: "So Joseph died at the age of a hundred and ten.  And after they embalmed him, he was placed in a coffin in Egypt."
+
+Are God’s people still in God’s place?  Most certainly not.  "Placed in a coffin in Egypt."  That’s why God himself had to appear to Jacob in chapter 46 to convince him to go to Egypt at Joseph’s invitation, because Jacob understood the theological consequences of leaving God’s place.
+
+So... as we end Genesis, we’re beginning to see God’s people created.  They are still under God’s rule.  But they are out of God’s place.  We’ll have to wait until next week to see how God takes action to bring his people back to their earthly home.  
+
 [^1]: These divisions are not arbitrary, but textually determined.  Each section begins with the phrase ``This is the account of...'' This repetition shows a natural break in Moses’ writing.
 
 [^2]: This idea of two telling is not unique to Genesis; elsewhere in the Bible, say in the account of Deborah in Judges, we see first a lyrical, poetic account and then a more straightforward, event-by-event account.
 
 [^3]: The next verse, 1 John 3:9, contrasts this group with those who are born of God - who have his "seed" in them.
+
+[^4]: Everything in the Old Testament needs to be understood as foreshadowing of greater realities in the New Testament.  And those New Testament realities need to be understood as a return to the Edenic conditions God’s creatures once enjoyed.  So here is an illustration that the teacher may find helpful and can use if he deems it necessary:  Consider a slide-projector.  It has a light inside which shines through a slide, and projected up on the screen is a large beautiful picture.  Well everything in the Old Testament (land, seed, blessing, kingdom, king, priesthood, sacrifices, tabernacles, temple, prophets, etc) are like the slide in the projector.  By themselves they aren’t very exciting.  They are small and hard to see.  You certainly can’t see any detail.  Well, they weren’t meant to be viewed by themselves.  They are all intended to go into the projector and be illuminated up on the screen.  Then you can see all the colors and shapes and details that go into making a beautiful picture.  So it is with the Old Testament. The land, the king, the priests, and so on, were never meant to be ends in themselves.  They are meant to project forward to something far greater.  It’s as thought the light behind them is the pattern in Eden, they, as the slide, serve as the pattern, but it’s the New Testament reality that is the goal of the whole projector idea.  As it says in Colossians 2:17: “These are a shadow of the things what were to come; the reality however is found in Christ.”
+
+[^5]: But notice, if you will, that Abraham does not pass through the dead animals.  Only God does.  And notice that there are no obligations for Abraham to keep up his end of the covenant.  There are only promises coming down from God!  This covenant is completely unilateral, in that God has set all the terms, and entirely unconditional.  God will keep these promises regardless of Abraham’s and his descendants’ actions.  Now, this does not mean that Abraham’s descendants will have no obligations at all. The conditions that Abraham’s descendants have to meet will be added later?  When will that be?  [WAIT FOR SOMEONE TO ANSWER]  They will receive some duties in Genesis 17, but the bulk of Israel’s covenant responsibilities will be given from Mount Sinai, after God leads them out of slavery through His servant Moses.  More on that later.  The point I’m trying to make now, is that the promise comes before the obligations.  So while Israel has real duties, and there will be real consequences if they are not faithful, the promises will still stand.  This is because God’s plan of redemption, of which this is a part, depends on His grace and His desire to renew the universe with a renewed humanity in it.  It does not depend on sinful man.  We’ve seen how far sinful man has gotten. Galatians 3:17-18:  “The law, introduced 430 years later, does not set aside the covenant previously established by God and thus do away with the promise.  For if the inheritance depends on the law, then it no longer depends on a promise; but God in his grace gave it to Abraham through a promise.”
+
+[^6]: While there are a lot who would object to this doctrine on philosophical grounds, there is little argument that the Bible is clear about this.  And while those philosophical questions deserve answers, and there are answers to them, they are beyond the scope of this class.  J. I. Packer, Wayne Grudem, R. K. McGregor Wright, and (of course) John Calvin and Jonathan Edwards are good to read on this issue.
