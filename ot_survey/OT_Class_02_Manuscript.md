@@ -17,28 +17,21 @@ fontfamilyoptions: sfdefault
 
 Welcome back to our second class in the Old Testament overview! This morning we turn our focus from the whole of the Old Testament - where we looked last week - to narrow in on the book of Genesis. This is one of the few weeks wherein we'll focus on only one book  because of how foundational it is to understanding the rest of the Bible.
 
-Historically, the context for Genesis is actually hundreds of years after the last events described in the book.  This portion of the Bible was written by Moses.  As a side note, there has been some discussion as to whether or not Moses wrote the first five books of the Bible.  I've provided a second handout that Capitol Hill provided that addresses this topic a bit for those interested in learning more. As Genesis was being written, God was doing something special: creating a people of his own by which he would reveal himself to the world.  And this book provides background for that people, telling them where they came from.  But more importantly, it informs them of the problem God is solving through them, the problem of sin - and it prefigures how he will solve it.
+Historically, the context for Genesis is actually hundreds of years after the last events described in the book.  This portion of the Bible was written by Moses. _As a side note, there has been some discussion as to whether or not Moses wrote the first five books of the Bible.  I've provided a second handout that Capitol Hill provided that addresses this topic a bit for those interested in learning more._ As Genesis was being written, God was doing something special: creating a people of his own by which he would reveal himself to the world.  And this book provides background for that people, telling them where they came from.  But more importantly, it informs them of the problem God is solving through them, the problem of sin - and it prefigures how he will solve it.
 
-Aside from straight historical context, however - the context of when and to whom the book was written - I'll introduce something each week called the "_redemptive-historical_" context. What I mean by that is where this book fits into the larger story of the whole Bible.  The one story that is holding the Bible together is God's work in history to redeem, to rescue, to save a people by His grace and for His glory.  So it's important where a book fits in that long story of redemption.  So each week when we look at a book, we'll ask the same question. What has God been up to, what has he accomplished in his plan so far, up to the point where we are studying?
+Aside from straight historical context, however - the context of when and to whom the book was written - I'll introduce something each week called the "_redemptive-historical_" context. What I mean by that is where this book fits into the larger story of the whole Bible.  As we discussed last week, the one story that is holding the Bible together is God's work in history to redeem, to rescue, to save a people by His grace and for His glory.  So it's important where a book fits in that long story of redemption.  So each week when we look at a book, we'll ask the same question. What has God been up to, what has he accomplished in his plan so far, up to the point where we are studying?
 
-Obviously, the first eleven chapters of Genesis are at the very beginning of history.  And, in fact, until we hit chapter 3 there is no need for redemption at all. But as we turn to Genesis 3, we will see that no sooner do our first parents plunge us into ruin, God begins his plan to save us from that ruin.  Every week we'll be checking in to see where God is in that plan.
+Obviously, the first few chapters of Genesis are at the very beginning of history.  And, in fact, until we hit chapter 3 there is no need for redemption at all. But as we turn to Genesis 3, we will see that no sooner do our first parents plunge us into ruin, God begins his plan to save us from that ruin.  Every week we'll be checking in to see where God is in that plan.
+
+# Part 1: Genesis 1-11
 
 ## Theme and Outline
 
-So, on to Genesis 1-11.  The theme of these chapters is simple: _God reveals his character through the world he has created_.  And you'll see an outline on the back of your handout that I hope you'll find useful in your own study.
-
-[This outline does not need to be covered in the class. They just need to know that it is in the handout]
-
-1. Genesis 1:1-2:3[^1] The Telling of the Seven Days of Creation
-1. Genesis 2:4-4:26 The Dawn of Humanity: 2 Seeds
-1. Genesis 5:1-6:8 The Descendants of Adam and Their Sin
-1. Genesis 6:9-9:29 The Punishment for Sin: Un-Creating the Universe... and Grace: Re-Creating the Universe
-1. Genesis 10:1-11:9 Humanity after the Flood: Still Sinful
-1. Genesis 11:10-26 The Seed of the Woman Continues On
+The theme of these chapters is simple: _God reveals his character through the world he has created_.  And you'll see an outline for this section your handout that I hope you'll find useful in your own study.
 
 The story of Genesis 1-11 unfolds something like this (you'll see it traced out along your handout): There exists an eternal and self-sufficient God, who by sheer verbal fiat has created the universe and all that is in it, in order to display his glory.  The crown of his created order is mankind, the only creature created in God's image.  Mankind display God's glory as they obediently govern the earth while enjoying loving fellowship with God and each other.  But our first parents choose to set themselves up as equals with God, disobeying him and incurring the just wrath of God.  While expelled from that pristine fellowship with God, they do not receive the complete wrath they deserve.  In fact, God has already begun a plan to overturn the curse of sin by placing enmity between the seed of the serpent and the seed of the woman.  As generations continue, the sin resident in the hearts of mankind goes from bad to worse (yet the seed of the woman continues).  And even partial judgment of the world does not end the world of sin.  And so rebellion against God continues.
 
-In a moment, we'll look into how that story plays out through these first eleven chapters of the Bible.  But as we do that, I want to leave a question with you.  Genesis isn't just historical background for the Bible, it is the foundation for the rest of the Bible.  So the question for us to think about together over the next few minutes: what would be missing in our understanding of the rest of the Bible if we didn't have Genesis 1-11? I'll ask you that at the end of today's class.
+In a moment, we'll look into how that story plays out through these first eleven chapters of the Bible.  But as we do that, I want to leave a question with you.  Genesis isn't just historical background for the Bible, it is the foundation for the rest of the Bible.  So the question for us to think about together over the next few minutes: what would be missing in our understanding of the rest of the Bible if we didn't have Genesis 1-11?
 
 ## Genesis 1:1-25
 
@@ -59,9 +52,7 @@ The crown of his created order is mankind, the only creature created in God's im
 
 Notice in verse 26 that human beings are said to be created in the image of God.  God made everything else 'after their kind' (1:12, 21, 24, 25). Human beings were not created after the pattern of some other creature, but of God himself – in His 'image', in His 'likeness.' God has reason, intelligence, memory, ethical norms, the capacity to love and have relationship with others, the ability to speak and communicate ideas, and so forth.  That is what it means that we are created in His image.  And so we have a distinct relationship to God, in that we have the ability to have a personal relationship with God.  But being made in God's image also carries with it a distinct role in the created order.  We are to take these attributes of God, which He has instilled in us, and thereby shine His characteristics all over the earth.  In doing so, we image His glory to creation.
 
-Do you see there in verses 26 and 28 that man is called to have dominion over the various parts of the creation?  The best way to think of this is that man's job was to make the rest of creation like the garden of Eden, the place where man had fellowship with God.  This is a spiritual reality as much as it is an organizational one; man acts as a king over, and a priest for, creation.  In that sense, the goal of man's calling in these verses is best expressed in the prophesy of Habakkuk: "_for the earth will be filled with the knowledge of the glory of the LORD, as the waters cover the sea."_(2:14)
-
-And now as we get into chapter two, we see this focus on mankind played out with a second telling of the account of creation that focuses on Adam and Eve.[^2] Here is a clear picture of the peace and harmony of this created order.
+And now as we get into chapter two, we see this focus on mankind played out with a __second telling__ of the account of creation that focuses on Adam and Eve.[^2] Here is a clear picture of the peace and harmony of this created order.
 
 But this idyllic role for mankind was to be under the greater kingship of God.  That's why we see that command in verses 15-17 [READ]   If they do eat of it, what will happen?  They will 'surely die.'
 
@@ -109,7 +100,7 @@ But again, God's wrath is mixed with mercy, for he will not fail to deliver his 
 
 Okay, so man has become exceedingly sinful.  And God has judged him for it.  Yet all the while God has still had grace on mankind, and He's still faithful to His promises.  But why did we need to go into all that detail about judgment taking on the form of un-creation, and grace taking on the form of re-creation?
 
-Well, I want to introduce you to something called typology.  Typology is this: God in His providence has done things in the Old Testament – caused events, created institutions, used people – that are types of the things he will do in the future.  Generally things about Jesus.God has carried His plan of redemption forward in the Old Testament in such a way to get us ready for Christ.  So the flood narrative in Genesis, the un-creating and the re-creating, is a picture of a future, cataclysmic undoing and redoing of the universe.  Not by water this time, but by fire. The flood was a real historical event.  But the next time will be a far more terrible judgment, and the re-creation will be a return to paradise.  Because at that second coming of Christ sin will be eradicated for good.  Turn to 2 Peter 3 for a moment.  Look at verses 5-7, [READ] and verses 11-13.  So Noah's flood is both historical event and a picture of a greater judgment and re-creation at the end of time. It is a "type" of judgment - prefiguring the final judgment.  Thus the language of "typology."
+Well, I want to introduce you to something called typology.  Typology is this: God in His providence has done things in the Old Testament – caused events, created institutions, used people – that are types of the things he will do in the future.  Generally things about Jesus. God has carried His plan of redemption forward in the Old Testament in such a way to get us ready for Christ.  So the flood narrative in Genesis, the un-creating and the re-creating, is a picture of a future, cataclysmic undoing and redoing of the universe.  Not by water this time, but by fire. The flood was a real historical event.  But the next time will be a far more terrible judgment, and the re-creation will be a return to paradise.  Because at that second coming of Christ sin will be eradicated for good.  Turn to 2 Peter 3 for a moment.  Look at verses 5-7, [READ] and verses 11-13.  So Noah's flood is both historical event and a picture of a greater judgment and re-creation at the end of time. It is a "type" of judgment - prefiguring the final judgment.  Thus the language of "typology."
 
 As we move through the Scriptures we will see many other Old Testament events, institutions, and persons prefiguring Christ's work like this.
 
@@ -119,23 +110,24 @@ _And so rebellion against God continues._
 
 But though creation is re-made, the problem of sin remains.  And so first Noah, and then the entire human race, show their sin as we move into chapters 10 and 11.  In chapter 11, the Tower of Babel, humanity wants a name for themselves.  But weren't they supposed to about the business of promoting God's name, and God's glory, not their own?  And furthermore, they don't want to be scattered over the earth.  But weren't they commanded to multiply and fill the earth, by spreading out?  Once again we see mankind ignoring God's right to rule and foolishly determining his own agenda in the world.  Well, as expected, God will not allow such mutiny.  Their plans are halted, and the nations are created, who will not come together again until this part of the curse is reversed when Jesus inaugurates the multi-ethnic church.
 
-# Conclusions
+## Part 1: Summary
 
 And that takes us through these first 11 chapters.  So let's go back to my earlier question.  What would we lose if God had simply started the Bible with Genesis 12 when God’s story of redemption begins in earnest with Abram?
 
 - Chapters 1 and 2: God's perfect design, the reality of our past and future, and our guide for the present.
 - Chapters 3-11: the nature of our sin. Not until Romans 1 will we again see in the Bible such a plain depiction of the absolute and whole-hearted rebellion of mankind against its creator.
 
-What we are seeing here in these crucial chapters of Genesis is what happens when sinful man intersects with a holy God.  There is just consequence for sinners' actions.  But there is also a patient and gracious response from a loving God.  Redemptive-history has begun.  God has set out on His course to redeem fallen humanity and the corrupted universe.  He is out to restore the pristine environment and perfect peace, love, and fellowship that existed in the original creation.  To do this He will deal with sin and conquer death, through keeping the promise which He made the woman that one of her descendants will triumph over the enmity of Satan.  That's where we're going as we continue through the Bible.
+What we are seeing here in these crucial chapters of Genesis is what happens when sinful man intersects with a holy God.  There is just consequence for sinners' actions.  But there is also a patient and gracious response from a loving God.  Redemptive-history has begun.  God has set out on His course to redeem fallen humanity and the corrupted universe.  He is out to restore the pristine environment and perfect peace, love, and fellowship that existed in the original creation.  To do this He will deal with sin and conquer death, through keeping the promise which He made the woman that one of her descendants will triumph over the enmity of Satan.
 
-# Introduction Two
+# Part 2: Genesis 12-50
+
 "'Is anything too hard for the Lord?'" (Genesis 18:14).  That’s God speaking.  Abraham was about 100; his wife Sarah about 90.  God had just told them that they were going to conceive a child, their first together, after decades of barrenness and aging -- within about a year's time. And they laughed at Him.
 
 Abraham laughed out loud. And Sarah laughed to herself.  What God promised them was so ridiculous and so preposterous, so ..._inconceivable_... it simply couldn't happen.  Their bodies were as good as dead.  God must have been joking, or insincere, or perhaps even mistaken.  And so they laughed.  And God corrected them.  He asked: "'Is anything too hard for the Lord?' At the appointed time I will return to you, about this time next year, and Sarah shall have a son."  (Genesis 18:14)  
 
 A year later, when a son was born to Sarah in her old age, God made sure they remembered their faithlessness.  He commanded them to name the child "Isaac," which means: "He laughs."  It seems the mocking laughter of their disbelief had been turned into a laughter of joy.
 
-Well, you've found yourself in the Old Testament overview class in our second class on the Book of Genesis, covering the bulk of the book, chapters 12-50.  Last week we looked at the first main event in Genesis - the creation and fall of Adam and Eve.  This week we look at the second main event, which I just described - the establishment of a special family through Abraham.
+In this second part of the book we look at the second main event, which I just described - the establishment of a special family through Abraham.
 
 So, what all do these 38 chapters in Genesis cover?  They give us a view into the lives and families of Abraham, his son Isaac, and his son Jacob. (These three are also known as the Partiarchs).  And understanding this family line is crucial to our understanding of the Bible.  Because through them God begins to unfold his plan of redemption, which we can summarize in a few phrases.  God's special people, will live in God's special place, under God's special rule.  People, place, and rule.
 
@@ -145,7 +137,7 @@ _God is making a gracious covenant with one man and his descendants which will b
 
 ## Outline
 
-To orient you to our time together this morning: after some background, I’m just going to walk through the three generations of Genesis: Abraham, Isaac, and Jacob.  And help you understand how God’s plan of redemption unfolds through them: God’s people in God’s place under God’s rule.  We’ll start with a very brief summary of these chapters to give you context.
+As we move through this section, we are going to walk through the three generations of Genesis: Abraham, Isaac, and Jacob.  And help you understand how God’s plan of redemption unfolds through them: God’s people in God’s place under God’s rule.  We’ll start with a very brief summary of these chapters to give you context.
 
 (1) Abraham:  The life and times of Abraham are found in chapters 12-23.  They detail God's calling of _Abram_ out of Mesopotamia.  They reveal a progression of promises to him.  Then, at the end of this section, God finally ratifies all that he has said to him with a covenant sign -- circumcision -- and a new name: _Abraham_.  They also reveal a troubled family history for Abraham, both within his own marriage, and with his nephew Lot.
 
@@ -153,23 +145,11 @@ To orient you to our time together this morning: after some background, I’m ju
 
 (3) Jacob:  The adult life and family life of Jacob occupies nearly the entire second half of the book, detailing his multiple marriages and therefore severely troubled family life.  But Moses draws our attention, once again, to just one of this Patriach’s sons: in this case, Joseph.  This is the moving and extravagant story of the annoying favorite son, sold by his brothers into slavery in Egypt and then into prison.  From prison, God then vaults Joseph to the highest office in the land.  Joseph uses this position to bring a fulfillment, in part, to God's promises to his great grandfather: to be a blessing to the nations.  He delivers the nations, and even his own family from a devastating famine.
 
-As you read through this book, you see the extravagance and unexpectedness of God's plan.  Old women will give birth to sons, younger brothers will rule the older, arrogant men will be turned to humility, slaves will become rulers, and the homeless will be given a home.  God's story line of promise and fulfillment is not a normal human story.  At every is the unexpected and the impossible.  Man's plans are consistently thwarted, and God's sovereignty is supreme.
+As you read through this book, you see the extravagance and unexpectedness of God's plan.  Old women will give birth to sons, younger brothers will rule the older, arrogant men will be turned to humility, slaves will become rulers, and the homeless will be given a home.  God's story line of promise and fulfillment is not a normal human story.  At every turn is the unexpected and the impossible.  Man's plans are consistently thwarted, and God's sovereignty is supreme.
 
 You see, God has arranged his plan of salvation to encourage our trust in him.  If he could accomplish reversals like those in this book, he can accomplish such change even in our lives and in our time, for his own glory.
 
-## Recap of Genesis 1-11 (the problem)
-
-Before we jump into our review of Genesis 12-50, however, let's remind ourselves of Genesis 1-11.  God made all that exists, including Adam and Eve.  He gave them a special place to live in, he commanded them to be fruitful and multiply into a global people, and he set them under his benevolent and perfect kingdom rule.
-
-Then they sinned.  
-
-But just as God condemns Adam and Eve, he also sets the first glimmer of hope in a promise of salvation.  In cursing Eve, the mother of all humankind, God also says:
-
-> And I will put enmity between you and the woman, and between your offspring and hers; he will crush your head, and you will strike his heel. (3:15)
-
-Remember, this "enmity" is actually really good news.  It means that the seed of the woman will war against the seed of the serpent, and that one day the seed of the woman would prevail.  This promised one will restore God's people, to God's place, under God's rule.  So now in this second part of Genesis, we see this plan begin to play out.
-
-By way of historical review, Moses is still our author.  Starting in chapter 12,we can begin to assign some dates to these events.  We’ll pick up today with Abraham, whose story takes place about 2,000 years BC (give or take a 100 years or so).  And we’ll cover through the life of Joseph, whose death we can date somewhere around 1800 BC.
+By way of historical review, Moses is still our author.  Starting in chapter 12, we can begin to assign some dates to these events.  We’ll pick up today with Abraham, whose story takes place about 2,000 years BC (give or take a 100 years or so).  And we’ll cover through the life of Joseph, whose death we can date somewhere around 1800 BC.
 
 ## God and Abraham
 
@@ -186,8 +166,6 @@ In verse 1 God promises Abraham a land.  This land is significant because you’
 Abraham and his immediate descendants understood this.  In __Hebrews 11__ we read this:  "By faith Abraham obeyed when he was called to go out to a place that he was to receive as an inheritance. And he went out, not knowing where he was going. By faith he went to live in the land of promise, as in a foreign land, living in tents with Isaac and Jacob, heirs with him of the same promise. 10 For he was looking forward to the city that has foundations, whose designer and builder is God."
 
 This explains the true nature of the promised land -- it is a heavenly city built by God and not man.  But Abraham's pilgrimage is also an encouragement to us.  The record in Genesis is that Abraham wandered the whole of the rest of his days. In fact, the only plot of land Abraham officially owned during his lifetime was the grave-plot where he buried his wife.  And just like Abraham, if we share his faith, we’ve been called from our natural home in this world, to God's heavenly country.  We are pilgrims who await the fulfillment of God's promise.  If we hold to this faith as Abraham did, we will share in these same blessings.
-
-So that’s the promise of the Land.
 
 _Secondly_, notice that in __verse 2__ God will make of Abraham a great __nation__.  In understanding the development of the kingdom of God, this nation is God’s people.  From Abraham will descend that Godly line, which originated with the woman Eve, who will eventually give birth to the Savior of the world.  This is clear from the next verse, __verse 3__.
 
@@ -209,13 +187,13 @@ Continuing on in chapter 15, verse 6:
 
 Abraham is counted righteous in the sight of God because of his faith.  This is good news for Abraham after we’ve seen how sinful mankind is.  Abraham is a sinner just like everyone else, but he is counted righteous because of his faith in God.  This is a doctrine that Paul will often stress in the New Testament.  In Romans 4 and in Galatians 3 Paul uses this very verse to prove that the only way anyone can be righteous in the sight of God is through faith, and faith alone.  The Bible is clear that no one can ever, through their good behavior, or good deeds, or church attendance, or baptism, or anything in themselves, earn this necessary righteousness.  But we can be given it by faith.
 
-So we’ve seen something about God’s promise of a people - and in the obstacle God has sovereignly laid in the way (Sarah’s barrenness), we’ve seen an important characteristic of this people.  Faith.
+So we’ve seen something about God’s promise of a people - and in the obstacle God has sovereignly laid in the way (Sarah’s barrenness), we’ve seen an important characteristic of this people: __Faith__.
 
 Third, then, let’s turn to consider God’s rule over His kingdom.  Now, significantly, this aspect of God’s plan is not as clear in the story of Abraham.  But that makes sense - because it’s the part that the people failed to live up to in the garden of Eden.  So God simply re-imposing his rule just doesn’t make sense.  Instead, God’s rule will have to take a new form.  And that is precisely what we see.  Take a look at chapter 15, where God makes a covenant with Abraham.  A covenant, in this context, is a solemn bond and agreement between two parties, with terms and conditions, that can only be broken upon the penalty of death.
   
 In verse 8, Abraham has to ask - and I can certainly empathize with him - "how can I know that these promises will come true?"  After all, God’s promises to Adam and Eve depended on their obedience, and so they failed.  What about these promises?  God then quickly replies in verse 13: "Know for certain..."  The ritual of animal sacrifice and mutilation that we find in the rest of this chapter is designed so that Abraham can “know for certain” that God will make good on his promises[^5].  Because when it comes time for God and Abraham to ratify the covenant together, God puts Abraham to sleep and he does it alone.  In other words - this is a covenant God will deliver on regardless of Abraham’s obedience.  It is a covenant of grace.  
 
-We’ll visit the covenant many more times in our Old Testament overview.  For now, we see that God is in covenant with Abraham, a covenant that will bless all the nations of the world as we read in Genesis 12.  But unlike the rule of God we saw in Genesis 2, where the covenant depended on Adam and Eve holding up their end of the bargain, this covenant is unilateral: dependent only on God.  In chapter 26 we read about how the covenant promises are passed along to Abraham’s son Isaac, and then again passed long to his son, Jacob, in chapter 35.  In all of this we have people, place, and, though less clearly, rule.
+We’ll visit the covenant many more times in our Old Testament overview.  For now, we see that God is in covenant with Abraham, a covenant that will bless all the nations of the world as we read in Genesis 12.  But unlike the rule of God we saw in Genesis 2, where the covenant depended on Adam and Eve holding up their end of the bargain, this covenant is unilateral: dependent only on God.  In chapter 26 we read about how the covenant promises are passed along to Abraham’s son Isaac, and then again passed along to his son, Jacob, in chapter 35.  In all of this we have people, place, and, though less clearly, rule.
 
 So, why are we picking our way so slowly through this?  For that matter, why does Moses suddenly focus in here?  After all, chapters 1-11 of Genesis are cosmic in scope and global in scale.  And then suddenly we focus in on God’s dealings with a single man: Abraham.  Why?  Because in these promises we see the blueprint for God’s plan of redemption, as he takes the pieces broken in Eden—God’s people in God’s place under God’s rule - and begins to bring them back together.  And that brings us to Isaac, because these promises given to Abraham are not fulfilled in Abraham’s lifetime - but are passed along to his son.  And so this family line becomes a line of promise - just as we saw in Genesis 3:15
 
@@ -268,6 +246,8 @@ Do you hear the language from Genesis 3:15 there – putting down the neck of hi
 > The scepter shall not depart from Judah, nor the ruler's staff from between his feet, until tribute comes to him; and to him shall be the obedience of the peoples.
 
 What we have here is a prophecy that through Judah will come a ruler, a king, for the people.  And that king will be the one who triumphs over Satan, crushing his head.  Jesus, of course.  The words of this prophecy are a little vague, admittedly, but this concept will become clearer as we continue through the Old Testament.
+
+## Part 2: Summary
 
 So, then, an amazing journey through three generations to see God’s plan of redemption beginning to unfold.  God’s people - a people called by God through faith.  In God’s place.  Under God’s rule - the rule of the promised Savior of the world.  God’s people, the line of the promise, has come under great attack through these chapters.  And yet God has saved them.  God’s people remain in tact.  But at what cost!  Look at the very last verse of the book: "So Joseph died at the age of a hundred and ten.  And after they embalmed him, he was placed in a coffin in Egypt."
 
