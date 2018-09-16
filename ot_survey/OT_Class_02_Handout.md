@@ -140,8 +140,6 @@ The Kingdom: God’s people in God’s place under God’s rule
 ### God’s Rule – Genesis 15:7-21
 
 - Covenant
-    Suzerain
-    Vassal
 
 ### Is Isaac the Seed?
 

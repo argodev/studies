@@ -3,27 +3,91 @@ title: Genesis
 author: Immanuel Church
 ---
 
-## Why Study the Old Testament?
+## Introduction
 
-- It teaches us about God
-- It tells us about Christ
+- Redemptive-historical context
 
-## Historical Overview of the Old Testament
+## Theme/Outline
 
-- Eat spaghetti
-- Drink wine
+- Character of God
+- Wrath is not complete
 
-## The story of Sin and Holiness
+## Genesis 1:1-25
 
-- We cannot deal with sin ourselves
-- Atonement
-- The "Riddle" of the old testament
+- Who is God?
+  - Eternal
+  - Self-Sufficient
+  - Sovereign
+  - Good
 
-## The story of the Promise
+## Genesis 1:26-2:17
 
-- The promise to Adam and Eve
-- The promise to Noah
-- The promise to Abraham
+- Who is Man?
+  - Image of God
+  - __Not__ God
+
+## Genesis 3
+
+- Fall
+- Enmity
+  - Satan and the Human Race
+  - Woman's Offspring and Serpent's Offspring
+  - One Seed of Woman and Satan
+
+## Genesis 4
+
+- Cain kills Abel
+- Serpent Wins?
+
+## Genesis 5
+
+- "And then he died"
+
+## Genesis 6-9
+
+- Flood
+- Undoing of creation/Recreation
+- Typology
+
+## Part 1 Summary
+
+- What happens when sinful man intersects with a holy God
+
+## Part 2: Genesis 12-50
+
+- God's People in God's Place under His Rule?
+
+## Outline
+
+- Patriarchs
+  - Abraham
+  - Issac
+  - Jacob
+- Grace
+
+## God & Abraham
+
+- Land
+- Faith
+- Covenant
+
+## God & Issac
+
+- Jacob not Esau?
+
+## God & Jacob
+
+- 12 Tribes
+- Joseph
+  - Brothers were accountable
+  - God's plan
+- Savior will come from Judah
+
+## Conclusion
+
+- Genesis ends with God's story of redemption unfulfilled
+  - In a coffin in Egypt...
+- Next Week: Exodus
 
 ## Conclusion
 
