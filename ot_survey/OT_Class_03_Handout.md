@@ -15,10 +15,6 @@ fontfamilyoptions: sfdefault
 
 # Part 1: Exodus 1-19
 
-## Introduction
-
-> "All the world’s a stage..."
-
 ## Overview of Ex. 1-19
 
 - Redemptive-historical context and setting – 1:1, 1:7
@@ -39,7 +35,7 @@ fontfamilyoptions: sfdefault
   - The caring provider (16:11-12)
 - __John 8:58__ | “Before Abraham was, I am!”
 
-### II.   God’s Mighty Pattern of Redemption
+### II.   God’s Pattern of Redemption
 
 1) __3:7__ | The problem: slavery
 2) __6:6__ | The solution: judgment and sacrifice

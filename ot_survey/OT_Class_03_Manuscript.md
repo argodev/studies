@@ -15,17 +15,17 @@ fontfamilyoptions: sfdefault
 
 # Class 3: Exodus
 
-William Shakespeare famously wrote, “All the world’s a stage, and all the men and women merely players.” It’s an intriguing way to think about our lives. But it’s most compelling when we consider who the director of this grand play is: God. _The Bible presents this world as a divinely-crafted stage for playing out the great story of human history._ And it’s purpose? To showcase God’s excellence and glory.
+Good morning, and welcome back to our Old Testament Survey. We are still working on finding our stride... after the introduction two weeks ago and Genesis last week, we'll be covering Exodus this week. Next week we'll start to pick up the pace and cover Leviticus and Numbers, and the following week is Deuteronomy, Joshua and Judges.
 
-So before we get into our material for today, let's talk about that. The Exodus is a great story--but for many reasons it’s more important than that. Why? __*Why is it critical to understand the Exodus if we’re going to understand the rest of the Bible?*__
+The Exodus is a great story -- but as you might imagine, it's not _just_ a story... it serves an important role in our view of Scripture. I'd like you to think through the following question as we walk through our study today: __*Why is it critical to understand the Exodus if we’re going to understand the rest of the Bible?*__
 
-That’s what we’ll see today in Exodus. In the last two weeks, we observed the beginning of God’s great drama in the book of Genesis. Genesis unfolded the story for a few generations after Abraham, but for the most part God’s plan of redemption was unknown beyond this small band of Hebrews. Now, in Exodus, God will turn the floodlights on and his salvation purposes will be seen on the world stage as he defeats the most powerful nation on earth and delivers his people, all for his own glory. And not only does the scope of the drama expand, but in Exodus God also introduces themes and patterns that will shape the way he works throughout the rest of history. 
+Last week we observed the beginning of God’s great drama in the book of Genesis. Genesis unfolded the story for a few generations after Abraham, but for the most part God’s plan of redemption was unknown beyond this small band of Hebrews. Now, in Exodus, God will turn the floodlights on and his salvation purposes will be seen on the world stage as he defeats the most powerful nation on earth and delivers his people, all for his own glory. And not only does the scope of the drama expand, but in Exodus God also introduces themes and patterns that will shape the way he works throughout the rest of history.
 
-So, for our study today, we’ll approach the first half of Exodus in two ways. First, because this is a historical narrative, we’ll do a quick overview of the story to see the main points and find out how Exodus fits into redemptive history. Then, we’ll step back and explore five main themes that emerge from this foundational account. We’ll discuss what each theme means in the context of Exodus, and how it lays a foundation for the rest of Scripture.
+For the first part of our study today, we’ll approach the first half of Exodus in two ways. Because this is a historical narrative, we’ll first do a quick overview of the story to see the main points and find out how Exodus fits into redemptive history. Then, we’ll step back and explore five main themes that emerge from this foundational account. We’ll discuss what each theme means in the context of Exodus, and how it lays a foundation for the rest of Scripture.
 
 # Part 1: Exodus 1-19
 
-Ready to dive in? Our overview begins where we left off last week. Remember the crucial verse that guided our study of Genesis, Gen. 3:15? God declared that the seed of the woman, a promised Son, will crush the head of Satan, and Satan will strike his heel. Who is this seed? We learned in Genesis that he would come from the line of Abraham.
+Our overview of Exodus begins where we left off last week. Remember the crucial verse that guided our study of Genesis, Gen. 3:15? God declared that the seed of the woman, a promised Son, will crush the head of Satan, and Satan will strike his heel. Who is this seed? We learned in Genesis that he would come from the line of Abraham.
 
 Now, God had made a promise to Abraham that his descendants would become a great nation that would possess the land of Canaan and be a blessing to the rest of the world. But that’s not the case at the start of Exodus. They aren’t a great nation, and they don’t possess any land. Instead they are living as foreigners in Egypt, where they settled with their brother Joseph during a great famine.
 
@@ -33,13 +33,13 @@ But one aspect of God’s promise to Abraham _is_ being fulfilled – the promis
 
 And the great hope in Exodus, chapter 2 verse 24, is that God hears Israel’s cry for help. Look at 2:24: A man named Moses is born in chapter 2, and in chapter 3 God appears to Moses in a burning bush. God reveals his plan in 3:8, to rescue his people.
 
-After that, the showdown begins. This is not a battle between Egypt and Israel – it is a battle between Egypt’s Pharaoh and Israel’s God — the great “I AM.” Starting in 7:14, God sends a series of horrific plagues upon the land. But after the first few plagues, God begins to distinguish in his judgment between Egypt and Israel to make it plain who is his enemy and who is his people. The Egyptians receive boils on their skin, hail destroys their land, locusts devour their crops, utter darkness suffocates their homes. But none of these plagues affect God’s people. Amazingly, Pharaoh refuses to yield and release Israel.
+After that, the showdown begins. This is not a battle between Egypt and Israel – _it is a battle between Egypt’s Pharaoh and Israel’s God_ - the great “I AM.” Starting in 7:14, God sends a series of horrific plagues upon the land. But after the first few plagues, God begins to distinguish in his judgment between Egypt and Israel to make it plain who is his enemy and who is his people. The Egyptians receive boils on their skin, hail destroys their land, locusts devour their crops, utter darkness suffocates their homes. But none of these plagues affect God’s people. Amazingly, Pharaoh refuses to yield and release Israel.
 
 Not, that is, until one final act of judgment: the tenth plague. The Lord warns Moses that he will go throughout Egypt and kill every firstborn son at midnight. But even as he plans to pour wrath out on his enemies, the Lord in his mercy provides a way to spare his people. Each family is to slaughter a year-old lamb and put its blood on their door frame. We see this in Ex. 12:13: “The blood shall be a sign for you, on the houses where you are. And when I see the blood, I will pass over you, and no plague will befall you to destroy you.” That’s why this decisive act of judgment and grace is called the “Passover” – God passes over those homes that are marked by the blood of the substitute, the lamb that was slain.
 
-Well. After this ultimate blow, Pharaoh finally surrenders, and Israel marches out of Egypt in a great “Exodus” – the word comes from the Greek for “departure.” But the Lord is not done with Egypt yet. Look at 14:4: “I will harden Pharaoh's heart, and he will pursue them, and I will get glory over Pharaoh and all his host, and the Egyptians shall know that I am the Lord.” So in a pillar of fire by night and cloud by day, God leads them to the shore of the Red Sea - a dead end, a trap. Red hot in pursuit, the Egyptian army closes in. The Lord divides the waters, Israel walks through on dry land, and then the Lord drowns their enemies in a torrent of judgment. An amazing account.
+Well. After this ultimate blow, Pharaoh finally surrenders, and Israel marches out of Egypt in a great “Exodus” – the word comes from the Greek for “departure.” But the Lord is not done with Egypt yet. Look at 14:4: “_I will harden Pharaoh's heart, and he will pursue them, and I will get glory over Pharaoh and all his host, and the Egyptians shall know that I am the Lord._” So in a pillar of fire by night and cloud by day, God leads them to the shore of the Red Sea - a dead end, a trap. Red hot in pursuit, the Egyptian army closes in. The Lord divides the waters, Israel walks through on dry land, and then the Lord drowns their enemies in a torrent of judgment. An amazing account.
 
-Now... the people have been redeemed by the Lord; will they continue to trust the Lord?  Their journey is not over – in fact, their trek to the promised land has just begun. In chapter 15 Moses praises God for his deliverance... but then the people complain that there’s no water or food. Yet, even though this grumbling, disobedient people are not worthy of God’s favor, God leads them through the desert to make a covenant with them. Look at 19:4-5: “You yourselves have seen what I did to the Egyptians, and how I bore you on eagles' wings and brought you to myself. Now therefore, if you will indeed obey my voice and keep my covenant, you shall be my treasured possession among all peoples, for all the earth is mine.” God descends upon Mt. Sinai in all his majestic holiness, and as we’ll see next week, he marks Israel off as his own by giving them his law.
+Now... the people have been redeemed by the Lord; will they continue to trust the Lord?  Their journey is not over – in fact, their trek to the promised land has just begun. In chapter 15 Moses praises God for his deliverance... but then the people complain that there’s no water or food. Yet, even though this grumbling, disobedient people are not worthy of God’s favor, God leads them through the desert to make a covenant with them. Look at 19:4-5: “_You yourselves have seen what I did to the Egyptians, and how I bore you on eagles' wings and brought you to myself. Now therefore, if you will indeed obey my voice and keep my covenant, you shall be my treasured possession among all peoples, for all the earth is mine._” God descends upon Mt. Sinai in all his majestic holiness, and as we’ll see later, he marks Israel off as his own by giving them his law.
 
 It’s an amazing chapter in redemptive history – oppression, judgment, and miraculous deliverance. The promises made to Abraham are one step closer to their fulfillment in the seed of the woman that is to come. But this is not just a gripping story. In fact, you may have noticed during our overview that throughout the narrative, God speaks – he speaks to Moses and Aaron, and through them he speaks to Pharaoh and to the people of Israel. Through his words, the Lord reveals the meaning of the great events he’s accomplished on this grand stage. And it’s for that reason that Exodus is a foundational book for understanding the rest of the Bible. That’s what we’ll discuss next, as we look at five key theological themes that emerge in this first half of Exodus.
 
@@ -49,9 +49,9 @@ __[TAKE QUESTIONS]__
 
 The first theme is __*God’s Unique Identity*__.
 
-Let’s look at 3:13-14. “Then Moses said to God, ‘If I come to the people of Israel and say to them, “The God of your fathers has sent me to you,” and they ask me, “What is his name?” what shall I say to them?’ God said to Moses, ‘I am who I am.’ And he said, ‘Say this to the people of Israel, “I am has sent me to you.”’” He is saying that He exists and that His existence is absolute; He did not derive His existence from anyone or anything else. He is self-existent, self-sufficient. He simply and absolutely _is_. As the I AM, God reveals himself as the free and sovereign ruler – and that is why he will prevail against Egypt on this grand stage.
+Let’s look at 3:13-14. “_Then Moses said to God, ‘If I come to the people of Israel and say to them, “The God of your fathers has sent me to you,” and they ask me, “What is his name?” what shall I say to them?’ God said to Moses, ‘I am who I am.’ And he said, ‘Say this to the people of Israel, “I am has sent me to you.”’_” He is saying that He exists and that His existence is absolute; He did not derive His existence from anyone or anything else. He is self-existent, self-sufficient. He simply and absolutely _is_. As the I AM, God reveals himself as the free and sovereign ruler – and that is why he will prevail against Egypt on this grand stage.
 
-You’ll notice that from this point on in Exodus, Moses refers to God most often not by the word “God” but by “The Lord” – in all caps in our English Bibles. The Hebrew for this title is “Yahweh,” which most literally means “I AM.” Against Egypt’s countless deities, God insists that he is supreme, he is unique. The verse that sums up the conflict between God and Pharaoh is 5:2: “But Pharaoh said, “Who is the Lord [that is, Yahweh], that I should obey his voice and let Israel go? _Who is the Lord_?! The whole book of Exodus is an answer to that question.
+You’ll notice that from this point on in Exodus, Moses refers to God most often not by the word “God” but by “The Lord” – in all caps in our English Bibles. The Hebrew for this title is “Yahweh,” which most literally means “I AM.” Against Egypt’s countless deities, God insists that __he is supreme__, __he is unique__. The verse that sums up the conflict between God and Pharaoh is 5:2: “But Pharaoh said, “Who is the Lord [that is, Yahweh], that I should obey his voice and let Israel go? _Who is the Lord_?! The whole book of Exodus is an answer to that question.
 
 Let’s walk through just a few of the attributes of the “I AM” that Exodus reveals to us.
 
@@ -68,17 +68,17 @@ Moving to our second theme -- not only do we see something of God’s unique ide
 
 1. __First, the problem: the people are oppressed in slavery__. The exodus is the salvation of God’s people out of something: in this case, out of tyrannical captivity.
 
-1. __Second, the solution: the Lord’s single-handedly acts to save the people, sparing them from his judgment through a blood sacrifice__. The concept of redemption, of course, refers to purchasing freedom for a slave. The death of the Passover lamb is the ransom price for the firstborn sons of Israel.
+1. __Second, the solution: the Lord single-handedly acts to save the people, sparing them from his judgment through a blood sacrifice__. The concept of redemption, of course, refers to purchasing freedom for a slave. The death of the Passover lamb is the ransom price for the firstborn sons of Israel.
 
-1. And __third, the result: the Lord leads his people to the promised land where they can worship him and be in fellowship with him__. When Moses tells Pharaoh that God wants his people free, he says the reason is that the Lord’s people can go to *worship* God. So, Israel is rescued out of slavery with the intent of taking them into a land where they can worship as God’s people in God’s place under God’s rule. And this last point is critical. If we only think of the Exodus as a release from physical slavery, we will misunderstand all the references to it that come later in the Bible. Instead, we need to see the ultimate goal as worship and relationship.
+1. And __third, the result: the Lord leads his people to the promised land where they can worship him and be in fellowship with him__. When Moses tells Pharaoh that God wants his people free, he says the reason is that the Lord’s people can go to *worship* God. So, Israel is rescued out of slavery with the intent of taking them into a land where they can worship as God’s __people__ in God’s __place__ under God’s __rule__. And this last point is critical. If we only think of the Exodus as a release from physical slavery, we will misunderstand all the references to it that come later in the Bible. _Instead, we need to see the ultimate goal as worship and relationship_.
 
 These three aspects of God’s redemption – the problem of slavery, the solution of salvation by sacrifice, and the result of restored worship – will be major reoccurring themes in the rest of the Bible.
 
 For example, listen to how Psalm 130:7 reflects this exodus pattern: “O Israel, hope in the Lord! For with the Lord there is steadfast love, and with him is plentiful redemption. And he will redeem Israel from all his iniquities.” The problem? Not a foreign captor, but the people’s own sins. The solution? God himself will redeem. The result? Israel puts its hope in the Lord.
 
-Or for another example, in a twist, the OT prophetic books describe Israel’s later exile into Babylon as a reversal of the exodus. The people fall out of fellowship with God and lose the land, becoming aliens again in foreign lands where they are again mistreated.[^2] Then the return from exile is portrayed as a new and greater exodus, returning to the land by God’s mighty right arm, to again have fellowship with Him.[^3]
+Or for another example, in a twist, the OT prophetic books describe Israel’s later exile into Babylon as a reversal of the exodus. The people fall out of fellowship with God and lose the land, becoming aliens again in foreign lands where they are again mistreated.[^2] Then the return from exile is portrayed __as a new and greater exodus__, returning to the land by God’s mighty right arm, to again have fellowship with Him.[^3]
 
-Ultimately, we see the greatest expression of what the exodus foreshadowed in the ministry of Christ. In Luke 9:31 Jesus literally calls His death and resurrection an “exodus.”  Titus 2:14 says that Jesus Christ “gave himself for us to redeem us [the solution] from all lawlessness [the problem] and to purify for himself a people for his own possession [the result].”
+Ultimately, we see the greatest expression of what the exodus foreshadowed in the ministry of Christ. In Luke 9:31 Jesus literally calls His death and resurrection an “exodus” (the ESV uses the word "departure", but the Greek is "exodus").  Titus 2:14 says that Jesus Christ “gave himself for us to redeem us [the solution] from all lawlessness [the problem] and to purify for himself a people for his own possession [the result].”
 
 Isn’t it amazing: the very real and historic event of the Exodus was in part God getting us ready for Christ. So that _we_ could be saved from our sin! When you remember your own slavery to sin, let it drive you to worship and thank the God that has so powerfully rescued us.
 
@@ -108,13 +108,13 @@ So, how does Israel do at representing God as God’s “son?” Pretty poorly. 
 1. Then, in 16:2, they begin to march through the __desert__ wilderness.
 1. But in 16:8, they grumble against the Lord because they have no __food__ to eat.
 1. In 17:2, they put the Lord to the __test__ when they quarrel with Moses about not having water to drink.
-1. Then, in Exodus 32 (which we’ll think more about next week), while Moses receives the very 10 commandments that forbade idolatry, the people __worship__ a golden calf and call it their god!
+1. Then, in Exodus 32 (which we’ll cover more in a few minutes), while Moses receives the very 10 commandments that forbade idolatry, the people __worship__ a golden calf and call it their god!
 
-And this behavior only gets worse as the Old Testament goes along. But their failure as God’s son only highlights Jesus as God’s son. Matthew is careful to point this out in Matthew 3-4. (1) In his baptism, Jesus passes through waters and is called “God’s beloved son;” (2) Then, he goes into the desert to be tempted; (3) His first temptation is about not having food to eat; (4) His second temptation is to “test” God; and (5) his final temptation is to worship someone other than God. But put in the same circumstances as Israel, God’s true son obeys perfectly. He is the fulfillment of all that Israel was supposed to be. He is the true Israel[^6].
+And this behavior only gets worse as the Old Testament goes along. But their failure as God’s son only highlights __Jesus__ as God’s son. Matthew is careful to point this out in Matthew 3-4. (1) In his baptism, Jesus passes through waters and is called “God’s beloved son;” (2) Then, he goes into the desert to be tempted; (3) His first temptation is about not having food to eat; (4) His second temptation is to “test” God; and (5) his final temptation is to worship someone other than God. But put in the same circumstances as Israel, God’s true son obeys perfectly. He is the fulfillment of all that Israel was supposed to be. He is the true Israel[^6].
 
 ## V. God’s Glorious Motive
 
-Finally, we should conclude by considering what ties all these themes together – fifth, _God’s Glorious Motive_.
+Finally, we should conclude this section by considering what ties all these themes together – fifth, _God’s Glorious Motive_.
 
 Most secular retellings of the Exodus miss this point entirely. They focus on the tragedy of slavery or the heroism of Moses. But when you read the text, you can’t get around the most common refrain in Exodus, a refrain that shows God’s motive in all that he does. Look at 6:7: “I will take you to be my people, and I will be your God, and you shall know that I am the Lord your God, who has brought you out from under the burdens of the Egyptians.” “and you shall know that I am the Lord” – this phrase occurs at least 14 times in the first half of the book. God’s purpose is to show off who he is, to exalt his glory!
 
@@ -130,17 +130,13 @@ There is great application that we can draw from this: you were created to bring
 
 It’s no surprise that just like the other themes we’ve seen today, God’s self-glorification becomes a central theme in the New Testament. As it says in Rev. 1:5-6: “To him who loves us [God’s unique identity!] and has freed us from our sins [God’s mighty redemption!] by his blood [God’s substitutionary sacrifice!], and has made us a kingdom, priests[^9] to his God and Father [God’s special people!], to him be __glory__ and dominion [God’s glorious motive!] for ever and ever! Amen.”
 
-## Part 1: Appendix
-
-This emphasis on _spiritual liberation_ becomes vital when we consider the ways in which we’re called to apply Exodus to our lives as Christians. Many who study Exodus conclude that the best way for us to apply the book is to lend our efforts to fight slavery and oppression on earth – whether it is human trafficking, systemic injustice, racism, or genocide. Now, all of those are good things for Christians to oppose – we believe all people are created in the image of God, and we are those who are called to love our neighbor as ourselves. But to treat those things as the primary application of Exodus is to miss the point entirely. According to the New Testament, the main thing Exodus teaches us is that the most desperate need of all people is the spiritual liberation that comes through repentance and faith in Jesus, our Passover lamb! That’s why God set up the Passover celebration so that his people’s primary memory, instituted in their calendar, would be his passing over them in judgment rather than his delivering them from slavery. That’s why New Testament references to the book of Exodus focus on the Passover, not on the Exodus per se. The primary application of the Passover is to believe in Christ, because those who turn to Jesus are washed11 and justified12 by his blood. This is not to say that Christians should be indifferent to earthly suffering. As John Piper has recently said, “we Christians care about all suffering – especially eternal suffering.”13
-
 # Part 2: Exodus 20-40
 
-Good morning again.  Last week we started Exodus; this week we hope to finish it.  By way of context, we are still in the mid-15th century BC, and Moses is still our author. Yahweh has just rescued His people out of brutal slavery in Egypt through great signs and wonders, judging Egypt in the process.  In it all, Yahweh caused His great name to be magnified in all the earth.  Now the people are heading toward to a land promised to their ancestors long ago.  And on the way, they come to a place called “Mount Sinai” where they are to worship Yahweh before they go any further.  
+As we move into the second half of the book, God has has just rescued His people out of brutal slavery in Egypt through great signs and wonders, judging Egypt in the process.  In it all, Yahweh caused His great name to be magnified in all the earth.  Now the people are heading toward to a land promised to their ancestors long ago.  And on the way, they come to a place called “Mount Sinai” where they are to worship Yahweh before they go any further.  
 
 In the scope of God’s greater plan to redeem a people for Himself out of all the nations of the world, and return the world to it’s original Edenic state, we are at a real high point.  As soon as the first sin was committed, God had promised to send a Savior.  Then we saw that He promised one man, Abraham, that the promised Savior would be one of his descendants.  
 
-Well, it’s in today’s section of Scripture that we see Abraham’s descendants becoming a real nation.  They are about to get laws and a national religion.  The re-creation of humanity is slowly creeping forward, and God is beginning to dwell with His people again!
+Well, it’s in this section of Scripture that we see Abraham’s descendants becoming a real nation.  They are about to get laws and a national religion.  The re-creation of humanity is slowly creeping forward, and God is beginning to dwell with His people again!
 
 ## Theme
 
@@ -148,19 +144,19 @@ A thematic sentence for the second half of Exodus might sound like this:
 
 _God is establishing the covenant terms to direct His people in how to live in fellowship with Him since He will now dwell with them._
 
-So in this part of God’s word we’ll see the covenant laws that Israel was to live by.  And we’ll also see the construction of something called “the tabernacle,” where God’s presence was.  In it all we’ll see how poorly the people kept the terms of the covenant (the laws), and Yahweh’s response to them as covenant breakers.  Again, biblically speaking, a covenant is an inviolable bond between two parties that, if kept, brings about great blessing, but, if broken, brings a curse.  In these chapters, Yahweh will give the terms of the covenant to His people.  Will Yahweh enforce the full wrath of the covenant curse should they break it?  We’ll have to see.  
+So in this part of God’s word we’ll see the covenant laws that Israel was to live by.  And we’ll also see the construction of something called “the tabernacle,” where God’s presence was.  In it all we’ll see how poorly the people kept the terms of the covenant (the laws), and Yahweh’s response to them as covenant breakers.  Again, biblically speaking, a covenant is an inviolable bond between two parties that, if kept, brings about great blessing, but, if broken, brings a curse.  In these chapters, Yahweh will give the terms of the covenant to His people.
 
 Now, in this second half of the book there's a lot of laws.  But in this class, I'm going to talk a lot about grace.  You'll see why in a moment.  But first, I want us to think about those two concepts for a moment.  __*Why is it that we need to understand God’s Law if we’re going to understand God’s Grace?*__
 
 ## Structure
 
-It's important that we take a few minutes here at the beginning to talk about the structure of the second half of Exodus because that will provide us with a basic outline for our time together. In chapters 20 through 23 of our text, we have the Ten Commandments, or the Decalogue as it’s sometimes called, along with additional commandments and regulations regarding society, morality, and the religious calendar of God's people. These four chapters, which lay out the covenant obligations of Israel, act as prologue to the second half of the book.
+It's important that we take a few minutes here at the beginning to talk about the structure of the second half of Exodus because that will provide us with a basic outline for our time together. In chapters 20 through 23 of our text, we have the Ten Commandments, or the Decalogue as it’s sometimes called, along with additional commandments and regulations regarding society, morality, and the religious calendar of God's people. _These four chapters, which lay out the covenant obligations of Israel, act as prologue to the second half of the book_.
 
-Now, here's where the structure gets interesting. Chapters 24 through 40 are written using a literary devise called a chiasm. A chiasm is a structure, found commonly in texts from the ancient world, in which important concepts or ideas are placed in a symmetric order for emphasis. The chiasm in chapters 24 through 40 of Exodus is especially noteworthy because it presents us, right here at the outset of the Old Testament, with a beautiful picture of the gospel. Turn over to the back of your handout and let me explain.
+Now, here's where the structure gets interesting. Chapters 24 through 40 are written using a literary devise called a chiasm. A chiasm is a structure, found commonly in texts from the ancient world, in which important concepts or ideas are placed in a symmetric order for emphasis. The chiasm in chapters 24 through 40 of Exodus is especially noteworthy because it presents us, right here at the outset of the Old Testament, with a beautiful picture of the gospel. Let's look at the slide here and see if I can explain.
 
-Section II - which covers chapter 24 - is about the ultimate goal of the covenant: fellowship with God.  Then III explains how that’s going to happen; it gives the instructions for building the tabernacle where God will dwell with his people.  But then IV, chapters 32-34, test the covenant.  In chapter 32 the people sin.  In chapter 33 God shows grace.  In chapter 34, quite unexpectedly, God renews the covenant even after the people’s rebellion.  And then we continue to work our way out of the chiam, with each section paralleling the one above it.  Section V parallels section III as it describes the tabernacle getting built.  And then in section VI we see the promise of section II fulfilled as God’s presence enters the tabernacle.
+Section II - which covers chapter 24 - is about the ultimate goal of the covenant: fellowship with God.  Then III explains how that’s going to happen; it gives the instructions for building the tabernacle where God will dwell with his people.  But then IV, chapters 32-34, test the covenant.  In chapter 32 the people sin.  In chapter 33 God shows grace.  In chapter 34, quite unexpectedly, God renews the covenant even after the people’s rebellion.  And then we continue to work our way out of the chiasm, with each section paralleling the one above it.  Section V parallels section III as it describes the tabernacle getting built.  And then in section VI we see the promise of section II fulfilled as God’s presence enters the tabernacle.
 
-Now, in a chiams the most crucial piece is in the middle.  The “crux” of the matter, so to speak.  So what’s in the middle of this section of laws, disobedience, and punishment?  It’s chapter 33: grace.  The centerpiece of the gospel at the turning point of this second half of Exodus.  As we journey through the second half of Exodus, we’ll talk about each part of the chiasm in more detail.  And as we do that, my hope is that we’ll take away a greater awe for God’s grace to us in Christ - previewed here in Exodus.
+Now, in a chiasm the most crucial piece is in the middle.  The “crux” of the matter, so to speak.  So what’s in the middle of this section of laws, disobedience, and punishment?  It’s chapter 33: grace.  The centerpiece of the gospel at the turning point of this second half of Exodus.  As we journey through the second half of Exodus, we’ll talk about each part of the chiasm in more detail.  And as we do that, my hope is that we’ll take away a greater awe for God’s grace to us in Christ - previewed here in Exodus.
 
 ## Exodus 20-23: Covenant Obligations
 
@@ -192,14 +188,14 @@ In other words, the first purpose of the law is that it revealed who God is.  Th
 
 OK - but the law gets broken, doesn’t it?  How does that all fit into this?  In Galatians 3 (verses 17-19), we read a few important aspects to this answer.
 
-1. First, we see that the law in no way replaces the God’s gracious covenant he had made with Abraham.  Even when the law is broken by God’s people, God will never break his gracious promise to Abraham.
-1. Second, the law was added because of our sin.  It is there to make our sin clear to us so that we will flee to God’s savior.
+1. First, we see that the law __in no way replaces the God’s gracious covenant he had made with Abraham__.  Even when the law is broken by God’s people, God will never break his gracious promise to Abraham.
+1. Second, __the law was added because of our sin__.  It is there to make our sin clear to us so that we will flee to God’s savior.
 
-I want to make sure this is very clear.  First you have the promise. Then you have the law.  Why is the law added to the promise?  First, as we saw in Exodus 19, to fulfill God’s purposes of revealing his character.  But second, as we learn later in the New Testament, it was added because of transgression; because through the law we become conscious of our need for a Savior.
+I want to make sure this is very clear.  _First_ you have the promise. _Then_ you have the law.  Why is the law added to the promise?  First, as we saw in Exodus 19, to fulfill God’s purposes of revealing his character.  But second, as we learn later in the New Testament, it was added because of transgression; because through the law we become conscious of our need for a Savior.
 
 Two reasons here, then, why the covenant of law was added to the covenant of grace.
 
-One last point of clarification needs to be made concerning the Law.  And it’s this: Israelites were not saved because they kept the law.  Rather, you’ll notice that Exodus 20:2 says that the Israelites were __*already*__ saved out of their bondage before they were given the law.  No one has ever been saved by keeping any kind of law.  Salvation has always been by grace through faith.  
+One last point of clarification needs to be made concerning the Law.  And it’s this: Israelites were not saved because they kept the law.  Rather, you’ll notice that Exodus 20:2 says that the Israelites were __*already*__ saved out of their bondage in Egypt before they were given the law.  No one has ever been saved by keeping any kind of law.  Salvation has always been by grace through faith.  
 
 The application for us here should be obvious: don’t use the Law as means to establish your own righteousness, as though God will approve of you if you keep it well enough.  Rather, use the Law to remind yourself of your own sinfulness and drive you to Christ!  Then, endeavor, by the grace and strength that God provides through His Spirit, to keep the law – not to establish your own righteousness, but – to image God more accurately to the world.  
 
@@ -217,7 +213,7 @@ He’s about to disown them!  Did you notice that He doesn’t call them “my p
 
 But look at what Moses does.  Moses is _truly_ a type of Christ here.  Look at verses 11-13.
 
-> 11 But Moses implored the Lord his God and said, “O Lord, why does your wrath burn hot against your people, whom you have brought out of the land of Egypt with great power and with a mighty hand?12 Why should the Egyptians say, ‘With evil intent did he bring them out, to kill them in the mountains and to consume them from the face of the earth’? Turn from your burning anger and relent from this disaster against your people. 13 Remember Abraham, Isaac, and Israel, your servants, to whom you swore by your own self, and said to them, ‘I will multiply your offspring as the stars of heaven, and all this land that I have promised I will give to your offspring, and they shall inherit it forever.’”
+> 11 But Moses implored the Lord his God and said, “O Lord, why does your wrath burn hot against your people, whom you have brought out of the land of Egypt with great power and with a mighty hand? 12 Why should the Egyptians say, ‘With evil intent did he bring them out, to kill them in the mountains and to consume them from the face of the earth’? Turn from your burning anger and relent from this disaster against your people. 13 Remember Abraham, Isaac, and Israel, your servants, to whom you swore by your own self, and said to them, ‘I will multiply your offspring as the stars of heaven, and all this land that I have promised I will give to your offspring, and they shall inherit it forever.’”
 
 Moses intercedes on behalf of the people.  And look at what Moses appeals to in God: God’s desire for His own glory.  Did you see it there?  Look again at verse 12.  He doesn’t want the nations to see God’s actions as evidence that God is evil.  And look at verse 13.  Moses appeals to Yahweh’s faithfulness and covenant trustworthiness.  He says, “Keep your promises! Do it for Your own name’s sake!”  
 
@@ -233,13 +229,13 @@ But we are not done with Moses’ request just yet.  Look at verse 18. “Then M
 
 Just like we’ll see ultimately with Christ’s death on the cross, God is making a way to be with his people while protecting them from the holy outlash of his glory against their sins.
 
-Exodus 25-31 and Exodus 35-40:1-33: Instructions for and Construction of a Covenant Meeting Place
+## Exodus 25-31 and Exodus 35-40:1-33: Instructions for and Construction of a Covenant Meeting Place
 
-Now, speaking of God’s glory and how that causes a problem for sinful people, let's turn the “tabernacle,” our next pairing in the chiasm.  The tabernacle was a tent which Yahweh instructed His people to build so that He could dwell with them, even though they were sinful.  How can Yahweh dwell with His people, and “go with them” as Moses asked, if they are sinful?  Well, the tabernacle offers the solution. In these very important chapters describing the Tabernacle and its worship we are pointed backwards and forwards in the Biblical storyline as this question is answered.
+Now, speaking of God’s glory and how that causes a problem for sinful people, let's turn the “tabernacle,” our next pairing in the chiasm.  The tabernacle was a tent which Yahweh instructed His people to build so that He could dwell with them, even though they were sinful.  How can Yahweh dwell with His people, and “go with them” as Moses asked, if they are sinful?  Well, the tabernacle offers the solution. In these chapters describing the Tabernacle and its worship we are pointed _backwards_ and _forwards_ in the Biblical storyline as this question is answered.
 
 First, we’re pointed backward:
 
-## Backward
+### Backward
 
 The tabernacle is presented in these chapters as a reconstruction of Eden. Let’s look at how:
 
@@ -251,7 +247,7 @@ Note the parallels between this account and the creation account.
   - Pure gold (Gen 2:12; Ex. 23:3)
   - Precious jewels (Gen 2:12; Ex. 25:7)
   - Guarded by cherubim (Gen 3:24; Ex 25:18)
-- Sabbath. Here is another parallel. 
+- Sabbath. Here is another parallel.
   - At the close of Creation account in Genesis 2:1-3 is a reminder that God rested on the Sabbath day.
   - The last instruction in the tabernacle account is to observe the Lord’s Sabbath (Ex. 31:12-18)
 - God’s Evaluation
@@ -259,11 +255,11 @@ Note the parallels between this account and the creation account.
   - After the tabernacle is built, Moses “saw all the work, and behold, they had done it just as the Lord had commanded.” (Ex 39:43)
 - Fall
   - Creation in Genesis 1 & 2 is followed by the Fall of Genesis 3 where Adam and Eve disobey God’s command.
-  - Immediately after chapter 31…what comes next? Another “fall”. Exodus 32 Israel worships the Golden Calf and disobeys God’s command.
+  - Immediately after chapter 31... what comes next? Another “fall”. Exodus 32 Israel worships the Golden Calf and disobeys God’s command.
 
 Time and time again, God tells Moses that the tabernacle was to be build according to the pattern he had shown him. The tabernacle was to be a model of God’s edenic paradise, of his heavenly abode. God was creating a place where he would dwell with his people.
 
-## Forward
+### Forward
 
 And yet, let’s think about these chapters in light of whats coming ahead. Let’s focus on chapter 29, an insightful and, frankly, astonishing chapter in which God lays out how these priests are to be consecrated and explains the function and purpose of the tabernacle. The persevering question at this point in the Biblical narrative - How can a sinful people dwell in the presence of a holy God? It’s addressed here. Let’s look at seven descriptions in this chapter.
 
