@@ -15,7 +15,7 @@ fontfamilyoptions: sfdefault
 
 # Class 4 - Leviticus, Numbers
 
-## Introduction
+# Part 1: Leviticus
 
 Good morning and welcome back! Today we’re covering the book of Leviticus.  It’s got very little narrative.  And at times it provides a lot of detail about things that seem quite unrelated to modern life.  So it’s often neglected.  But without Leviticus, we would lose a huge body of knowledge about God’s holiness, our sin, and Christ’s work on the cross.  So I’m looking forward to our time in Leviticus today.
 
@@ -43,7 +43,7 @@ The outline printed in your handout allows you to quickly see how Leviticus emph
 
 Notice that the flow of the book follows a real gospel train of thought:  First there are laws to tell the Israelites how they might approach God (part I).  But when they fail in their obedience, provision is made for them in the form of a substitutionary sacrifice (part II).  Then, from that position of forgiveness and grace, the people are called to live holy lives (part III)[^2].  
 
-For the rest of the class, I’m simply going to walk you through this outline to show how Leviticus puts all these pieces together.  We’ll start with the offerings.  Then the priesthood.  Then the holiness code—which is both 11-15 _and_ 18-27.  And we’ll finish with the section in between, 16-17, the Day of Atonement.
+For the first half of the class, I’m simply going to walk you through this outline to show how Leviticus puts all these pieces together.  We’ll start with the offerings.  Then the priesthood.  Then the holiness code - which is both 11-15 _and_ 18-27.  And we’ll finish with the section in between, 16-17, the Day of Atonement.
 
 ## Chapters 1-7: The Offerings
 
@@ -101,13 +101,13 @@ There you hear the explicit setting apart from the other nations.  __22:31-32__:
 
 > “So you shall keep my commandments and do them: I am the Lord.  And you shall not profane my holy name, that I may be sanctified among the people of Israel.
 
-Does anyone know what it means to “profane” God’s name?  [WAIT FOR SOMEONE TO ANSWER]  It means to treat as common or ordinary or mundane that which is really special and distinct.  So God’s “name,” that is to say, His image and reputation, is tagged onto Israel.  So they can’t be a people who take this identification with God lightly or irreverently. 
+Does anyone know what it means to “profane” God’s name?  [WAIT FOR SOMEONE TO ANSWER]  It means to treat as common or ordinary or mundane that which is really special and distinct.  So God’s “name,” that is to say, His image and reputation, is tagged onto Israel.  So they can’t be a people who take this identification with God lightly or irreverently.
 
-God is giving them these commands so that in their everyday lives, they’ll be reminded that they are a holy nation, a people set apart for the Lord.  God has written it into their very culture that wherever they turn, they will be reminded of their distinct status, and their call to be holy. 
+God is giving them these commands so that in their everyday lives, they’ll be reminded that they are a holy nation, a people set apart for the Lord.  God has written it into their very culture that wherever they turn, they will be reminded of their distinct status, and their call to be holy.
 
 Now do we need to obey these laws?  Do we need to pay attention to what we eat and touch and so forth in order to be holy, or in order to draw near to God?  We’ll talk about this more in a few weeks, so no need to answer this question fully today.  But in short, No.  We are not the nation-state of Israel under the old covenant.  We are not called to be a political-geographic-nation distinct from the other nations.  All of the law was fulfilled in Christ.  And these particular laws were fulfilled in Christ in such a way as to no longer govern us.  That said, we are also to be a special people, set apart by and for the Lord.  The Church is called to be holy for the same reason that Israel was. Israel bore the name of the One who delivered them from Egypt and bondage.  And just like them, we proclaim with our lives the glories of the One who has delivered us out of the bondage of sin and death![^3]
 
-> 1 Peter 1:14-16  14 As obedient children, do not be conformed to the passions of your former ignorance,15 but as he who called you is holy, you also be holy in all your conduct, 16 since it is written, “You shall be holy, for I am holy.”
+> 1 Peter 1:14-16  14 As obedient children, do not be conformed to the passions of your former ignorance, 15 but as he who called you is holy, you also be holy in all your conduct, 16 since it is written, “You shall be holy, for I am holy.”
 
 [TAKE QUESTIONS]
 
@@ -152,7 +152,7 @@ So why is the Day of Atonement the centerpiece of the book of Leviticus?  Becaus
 
 [TAKE QUESTIONS]  
 
-## Conclusion and Application
+## Part 1 Conclusion and Application
 
 The call to be holy is a serious one, and we hear it with great sobriety.  But we hear it as people who are aware of our sin and in need of atonement outside of ourselves.  We look to Jesus to establish our standing before the Lord.  We will never reach God’s perfect standard of holiness this side of heaven, and so we need the Lord Jesus Christ; we need the gospel.  Then with the grace God gives, we can live distinct lives – lives of faith and obedience.
 
@@ -162,7 +162,7 @@ Let’s make two points of application before we close. First, feel the weight o
 
 Second, if your are a Christian, look forward to the day when all sin is done and we are freed to worship God in perfect holiness for all eternity!! John’s Revelation concludes with a stirring account of this future day:
 
-> 1 Then I saw a new heaven and a new earth, for the first heaven and the first earth had passed away, and the sea was no more. 2 And I saw the holy city, new Jerusalem, coming down out of heaven from God, prepared as a bride adorned for her husband.3 And I heard a loud voice from the throne saying, “Behold, the dwelling place of God is with man. He will dwell with them, and they will be his people, and God himself will be with them as their God. 4 He will wipe away every tear from their eyes, and death shall be no more, neither shall there be mourning, nor crying, nor pain anymore, for the former things have passed away.”
+> 1 Then I saw a new heaven and a new earth, for the first heaven and the first earth had passed away, and the sea was no more. 2 And I saw the holy city, new Jerusalem, coming down out of heaven from God, prepared as a bride adorned for her husband. 3 And I heard a loud voice from the throne saying, “Behold, the dwelling place of God is with man. He will dwell with them, and they will be his people, and God himself will be with them as their God. 4 He will wipe away every tear from their eyes, and death shall be no more, neither shall there be mourning, nor crying, nor pain anymore, for the former things have passed away.”
 
 This is our great hope! Yes our sin is heavy and costly, but it is not forever if we know Christ! It is a passing burden that has been atoned for by our great high priest. There will come a day when all is made new.  When you and I will sing the glories of God face to face with our Creator.  Because He has removed all barriers, all hindrances, all sin! Live in joyful expectation of this day and pray that God will keep you and sustain you so that we might all be together once more in eternity.
 
@@ -170,13 +170,13 @@ This is our great hope! Yes our sin is heavy and costly, but it is not forever i
 
 [PRAY]
 
-# Introduction 2
+# Part 2: Numbers
 
-Good morning! We’re about a quarter of the way through our study of the Old Testament, looking at every book from a 50,000 foot perspective to understand its message and main themes. And we’re always looking forward into the New Testament to see how the Old Testament teaches us about the Gospel – the good news about Jesus Christ, His Church, and Heaven to come.  In fact, as we get into this morning’s study of this fourth book of the Bible, Numbers, we’ll be looking at each of those themes.
+As we move into the second half of our study today, we are about a quarter of the way through our study of the Old Testament, looking at every book from a 50,000 foot perspective to understand its message and main themes. With each book we are looking forward into the New Testament to see how the Old Testament teaches us about the Gospel – the good news about Jesus Christ, His Church, and Heaven to come.  In fact, as we get into this morning’s study of this fourth book of the Bible, Numbers, we’ll be looking at each of those themes.
 
 [PRAY]
 
-## Context 2
+## Context for Numbers
 
 Let’s start with context. Numbers comes after Exodus, when God’s people, the Israelites, leave Egypt. And they’ve just received the Ten Commandments at Sinai. But we haven’t quite reached the Promised Land, and so we’re still before the books of Deuteronomy and Joshua.
 
@@ -210,7 +210,7 @@ OK - that’s what we’re going to see in this book.  But to make sure we’re 
 
 So - back to Numbers.  We’re going to break the book into three pieces based on three major themes that support the summary statement I just gave you.
 
-- In chapter 1 to chapter 10 we see __God preparing__ his people for the fulfilment of his promises.
+- In chapter 1 to chapter 10 we see __God preparing__ his people for the fulfillment of his promises.
 - In chapter 11 to chapter 16 we see __God punishing__ his people for their great unbelief and lack of trust in his promises being fulfilled.
 - And in chapters 17 to 36 we see __God’s patience__ with his people. Perhaps most importantly, we learn that his promises will be fulfilled in spite of everything that has taken place.
 
@@ -224,11 +224,11 @@ Second, we see God’s promise of a __place__ taking shape. Once the preparation
 
 Between those two periods of census (chapters 1-4) and setting out (chapter 10), we also see God’s people being primed for the fullness of his __presence__. As we saw in Exodus, the people cannot draw near to God unless they are clean.  So in chapters 5 and 6 we see the camp being cleansed; in chapter 7, the tabernacle is consecrated; and in chapter 8v5, we see the priests being inducted into their roles.
 
-However, chapters 9 and 10, also, centre on God’s presence with his people when they move. In chapter 9 we see God’s presence in the form of a fire and a cloud over the tabernacle. Look with me at Numbers 9v15-17:
+However, chapters 9 and 10, also, center on God’s presence with his people when they move. In chapter 9 we see God’s presence in the form of a fire and a cloud over the tabernacle. Look with me at Numbers 9v15-17:
 
 > 15 On the day that the tabernacle was set up, the cloud covered the tabernacle, the tent of the testimony. And at evening it was over the tabernacle like the appearance of fire until morning. 16 So it was always: the cloud covered it by day and the appearance of fire by night. 17 And whenever the cloud lifted from over the tent, after that the people of Israel set out, and in the place where the cloud settled down, there the people of Israel camped.
 
-And as we see in chapter 2, the camp is designed so that the tabernacle, and its accompanying cloud or pillar of fire, is always right in the middle.  So the people are always reminded that Yahweh is dwelling with them in the very centre of their camp.  
+And as we see in chapter 2, the camp is designed so that the tabernacle, and its accompanying cloud or pillar of fire, is always right in the middle.  So the people are always reminded that Yahweh is dwelling with them in the very center of their camp.  
 
 I guess it’s easy for many of us to feel somewhat envious of how close these people lived to God’s visible presence.  “If only I could live with that fiery cloud always in view!”  But of course, we need to remember that as Christians we don’t live in a camp that’s indwelt by God; we ourselves are indwelt by his Spirit.  We have his very Word in our hands.  We are far more blessed than they were.
 
@@ -246,7 +246,7 @@ In this famous chapter, Yahweh has instructed Moses to send spies into the land.
 
 > “We came to the land to which you sent us. It flows with milk and honey, and this is its fruit.  However, the people who dwell in the land are strong, and the cities are fortified and very large. And besides, we saw the descendants of Anak there.”
 
-That wasn’t exactly the report that Moses was hoping they’d bring back. Caleb’s report in verse 30 is more like it: 
+That wasn’t exactly the report that Moses was hoping they’d bring back. Caleb’s report in verse 30 is more like it:
 
 > But Caleb quieted the people before Moses and said, “Let us go up at once and occupy it, for we are well able to overcome it.”
 
@@ -256,7 +256,7 @@ But of the 12 spies, only Caleb and Joshua responded in faith.  The ten other sp
 
 > 1 Then all the congregation raised a loud cry, and the people wept that night. 2 And all the people of Israel grumbled against Moses and Aaron. The whole congregation said to them, “Would that we had died in the land of Egypt! Or would that we had died in this wilderness! 3 Why is the Lord bringing us into this land, to fall by the sword? Our wives and our little ones will become a prey. Would it not be better for us to go back to Egypt?” 4 And they said to one another, “Let us choose a leader and go back to Egypt.”
 
-Ok so it’s mutiny! And worse, they want to return to slavery! As Moses and Aaron are quick to point out their rebellion is against the Lord (14v7). They don’t want to be a separate people, they don’t want a separate land, they don’t want to bless the nations, they don’t want God’s presence!
+OK so it’s mutiny! And worse, they want to return to slavery! As Moses and Aaron are quick to point out their rebellion is against the Lord (14v7). They don’t want to be a separate people, they don’t want a separate land, they don’t want to bless the nations, they don’t want God’s presence!
 
 Now, it’s worth pausing here to reflect on the roots of their sin and often our own sin. Notice the constant connection between their dissatisfaction and their sin. Complaining reveals an underlying spiritual state. The people are given supernatural food they don’t have to work for. They’ve been miraculously rescued from Egypt without having to fight a single battle. They have a faithful leader. They have God’s law. It’s easy to see how they’ve been blessed and how inappropriate their complaining is.  But how often do we have a similar attitude? Sinful dissatisfaction tells us more about our souls than our circumstances. Beware of discontentment.
 
@@ -300,7 +300,7 @@ OK, on to our final section. So far we’ve seen how God __prepares__ the people
 
 We may have thought that God’s punishment and justice would have been enough to quell the rebellion and dissatisfaction in the Israelite camp. However, as we start this new section it’s quickly apparent that God’s people continue in their sin and disbelief. In chapter 17, the people misrepresent what God says. In verse 13, the people cry, “Everyone who comes near, who comes near to the tabernacle of the Lord, shall die!” which is clearly not true.
 
-Then in chapter 20, we discover that not even Moses is immune to the sinful dishonouring of Lord, since he, in a fit of anger, strikes a rock rather than speaking to it as God had told him to do (verse 8-12).  And so Moses receives the same punishment as this generation of Israelites.
+Then in chapter 20, we discover that not even Moses is immune to the sinful dishonoring of Lord, since he, in a fit of anger, strikes a rock rather than speaking to it as God had told him to do (verse 8-12).  And so Moses receives the same punishment as this generation of Israelites.
 
 In Numbers 21, we are back to the heart of their discontentment. Let’s start reading at verse 4.
 
