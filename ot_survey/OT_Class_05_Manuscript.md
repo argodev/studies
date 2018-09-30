@@ -17,13 +17,13 @@ fontfamilyoptions: sfdefault
 
 Today, as we conclude our overview of the Five Books of Moses, we’ll encounter one of the greatest transitions in the Bible, as the people of Israel prepare to enter the Promised Land.  While they wait on the plains of Moab for that long-expected day, Moses delivers three final exhortations to the people on God’s behalf.  These sermons are what make up most of our book today: Deuteronomy.  The name comes from the Greek for “second law,” because much of the book is a second giving of the law that we’ve seen already in the Pentateuch.  But this book is far more than a repetition of the law.  It’s the Bible’s summary of God’s covenant with Israel.  So you’ll see in the rest of the Old Testament overview, the authors continue to come back to one book more than any other in the Pentateuch.  They come back to Deuteronomy.  It’s the key to understanding Joshua.  And Judges.  We’ll use it to structure our study of 1 and 2 Samuel.  And 1 and 2 Kings. You get the picture.  This book is central to the rest of Scripture.
 
-Now, one way that it’s central is that it helps us understand the role of the law and of grace in our salvation.  So let’s start there.  Some people have said that in the Old Testament, people are saved by works and in the New, by grace.  But we know that’s not true.  Romans 3 makes it clear that salvation has only and ever been by grace.  So, based on your knowledge of the Old Testament, where are some of the places where it talks about our need for God’s grace?
+Now, one way that it’s central is that it helps us understand the role of the law and of grace in our salvation.  So let’s start there.  _Some people have said that in the Old Testament, people are saved by works and in the New, by grace.  **But we know that’s not true.**_  Romans 3 makes it clear that salvation has only and ever been by grace.  So, based on your knowledge of the Old Testament, where are some of the places where it talks about our need for God’s grace?
 
 ## Context
 
 Let’s talk a bit about the context of the book, and then we’ll dive into our study.  We left off last week at the end of Numbers, with Israel on the plains of Moab, just across the Jordan River from the Promised Land.  It’s around 1400BC.  The first generation that came out of Egypt has died.  The second generation is ready to enter and occupy Canaan.  And as Numbers leaves off, we begin Deuteronomy.  And we see in the opening verses that this is going to be a book of Moses’ sermons.
 
-But why?  If they’re so close to this land they’ve been dreaming of for 40 years, why stop here on the border… to listen to sermons?  Why?  Because there’s much more at stake than just a place to live.  Israel is a nation founded on the promises of God that’s been sustained by the power of God.  They’ve been redeemed from slavery, constituted as a nation, brought into covenant with Yahweh, given good laws and a tabernacle where God’s glory dwelt.  And so possession of the land of Canaan is the last of the puzzle pieces to come together for God to make good on all of his promises to Abraham.  Now, they could easily get confused and think that all they need is a place to live.  So to work against that, God uses Deuteronomy to renew his covenant with them—the complete and finished puzzle of his relationship with them.  Deuteronomy is the book that future generations will turn to again and again.  To understand who they are and what it means for them to be in covenant with Yahweh.  
+But why?  If they’re so close to this land they’ve been dreaming of for 40 years, why stop here on the border… to listen to sermons?  Why?  Because there’s much more at stake than just a place to live.  Israel is a nation founded on the promises of God that’s been sustained by the power of God.  They’ve been redeemed from slavery, constituted as a nation, brought into covenant with Yahweh, given good laws and a tabernacle where God’s glory dwelt.  And so possession of the land of Canaan is the last of the puzzle pieces to come together for God to make good on all of his promises to Abraham.  Now, they could easily get confused and think that all they need is a place to live.  So to work against that, God uses Deuteronomy to renew his covenant with them - the complete and finished puzzle of his relationship with them.  Deuteronomy is the book that future generations will turn to again and again.  To understand who they are and what it means for them to be in covenant with Yahweh.  
 
 ## Structure
 
@@ -39,7 +39,7 @@ It’s this Mosaic Covenant that’s being expounded and ratified here in Deuter
 
 ## Historical Prologue - Chs. 1-4
 
-First, the covenant’s Historical Prologue.  Chapters 1 through 4 are a review of the Israel’s relationship with Yahweh to date.  The theme?  Yahweh has shown himself to be both just and merciful.  The history here is the same as we saw last week in the book of Numbers.  The people’s lack of trust in God’s power (Dt. 1:32), God’s refusing to let the first generation enter the land (Dt. 1:35), the people’s wanderings in the desert (Dt. 2:14), and God’s gracious provision (Dt. 2:7) and military victory (Dt. 2:24-3:11).   The summary of all this is 4:35:  “To you it was shown, that you might know that the Lord is God; there is no other besides him.”  Moses continues in verse 40:  “Therefore you shall keep his statutes and his commandments, which I command you today, that it may go well with you and with your children after you, and that you may prolong your days in the land that the Lord your God is giving you for all time.”  A perfectly faithful God requires perfect faithfulness to himself.
+First, the covenant’s Historical Prologue.  Chapters 1 through 4 are a review of the Israel’s relationship with Yahweh to date.  The theme?  Yahweh has shown himself to be both just and merciful.  The history here is the same as we saw last week in the book of Numbers.  The people’s lack of trust in God’s power (Dt. 1:32), God’s refusing to let the first generation enter the land (Dt. 1:35), the people’s wanderings in the desert (Dt. 2:14), and God’s gracious provision (Dt. 2:7) and military victory (Dt. 2:24-3:11).   The summary of all this is 4:35:  “_To you it was shown, that you might know that the Lord is God; there is no other besides him._”  Moses continues in verse 40:  “_Therefore you shall keep his statutes and his commandments, which I command you today, that it may go well with you and with your children after you, and that you may prolong your days in the land that the Lord your God is giving you for all time._”  A perfectly faithful God requires perfect faithfulness to himself.
 
 That’s the history: God has been gracious.  And that’s the charge: therefore, follow God alone.  What will it look like for the people to obey that charge once they’re in the land?  God tells them, by giving them his covenant stipulations in Moses’ next speech.  
 
@@ -55,9 +55,9 @@ But if total, exclusive love is at the core of how Israel was to engage with its
 
 > “It was not because you were more in number than any other people that the Lord set his love on you and chose you, for you were the fewest of all peoples, but it is because the Lord loves you and is keeping the oath that he swore to your fathers, that the Lord has brought you out with a mighty hand and redeemed you from the house of slavery, from the hand of Pharaoh king of Egypt.”
 
-Here we have a majestic window into the mystery of God’s electing love.  He chose this people simply because he loved them.  Not because of anything about them; he just loved them.  Their relationship with God is based entirely in God’s grace.
+Here we have a majestic window into the mystery of God’s electing love.  He chose this people simply because he loved them.  _Not because of anything about them_; __he just loved them__.  Their relationship with God is based entirely in God’s grace.
 
-We can apply this to our lives too.  Though we are in a different chapter of redemptive history, love should still be at the center of how we engage with God.  When Jesus was asked what the greatest commandment was, he quoted Deuteronomy 6:4.  " You shall love the Lord your God with all your heart and with all your soul and with all your strength and with all your mind, and your neighbor as yourself. (Luke 10:27)."  But, like Israel, we must recognize that we can only love God because he first chose and loved us.  We love God by first tasting his gracious, electing love for us.
+We can apply this to our lives too.  Though we are in a different chapter of redemptive history, love should still be at the center of how we engage with God.  When Jesus was asked what the greatest commandment was, he quoted Deuteronomy 6:4.  " You shall love the Lord your God with all your heart and with all your soul and with all your strength and with all your mind, and your neighbor as yourself. (Luke 10:27)."  _But, like Israel, we must recognize that we can only love God because he first chose and loved us.  We love God by first tasting his gracious, electing love for us_.
 
 And as we look over this section of general covenant stipulations, we see that a crucial part of loving God is obeying the first commandment:  having no other gods but him.  That’s why Moses instructs the people to completely destroy foreign idols in chapter 7 (7:5-6), to never forget God’s faithfulness in chapter 8 (8:10-14), and to remember that idolatry is deadly in chapter 9 (9:27-29).
 
@@ -65,7 +65,7 @@ With this guiding principle of loving faithfulness in place, Moses proceeds to e
 
 ## Specific Stipulations: Justice and Holiness -- Chs. 12-26
 
-Moses starts in 12:1 by saying, “These are the statutes and rules that you shall be careful to do in the land that the Lord, the God of your fathers, has given you to possess, all the days that you live on the earth.”  The point of these 15 chapters is that as God’s people in God’s land, they were to worship God alone, reflect God’s holiness, and represent God’s justice.  But… in spite of that straightforward purpose, this section of Deuteronomy may be the toughest to work through as we meditate on this book in our personal devotions.  Why?  Well, the general principle in 12:1 is followed by command after command that don’t really seem to apply to us.  Like, how to destroy idols (Chs. 12-13), clean and unclean food (Ch. 14), tithes, animal property, and national feasts (Chs. 14:22-16:17).  How are we to make sense of _all_ these laws?  
+Moses starts in 12:1 by saying, “These are the statutes and rules that you shall be careful to do in the land that the Lord, the God of your fathers, has given you to possess, all the days that you live on the earth.”  The point of these 15 chapters is that as God’s people in God’s land, they were to worship God alone, reflect God’s holiness, and represent God’s justice.  But... in spite of that straightforward purpose, this section of Deuteronomy may be the toughest to work through as we meditate on this book in our personal devotions.  Why?  Well, the general principle in 12:1 is followed by command after command that don’t really seem to apply to us.  Like, how to destroy idols (Chs. 12-13), clean and unclean food (Ch. 14), tithes, animal property, and national feasts (Chs. 14:22-16:17).  How are we to make sense of _all_ these laws?  
 
 For one, it’s helpful to see that there’s a basic structure in place. If you look at the back of your handout, you’ll see a guide to this underlying format:  broadly speaking, the laws follow the order of the Ten Commandments.
 
@@ -73,19 +73,19 @@ Now, knowing that structure may be useful, but it doesn’t tell us everything w
 
 As we’ve discussed already, this period in the Bible sees God fulfilling his promises to Abraham by establishing Israel as his special people.  In order to set the stage for Christ, the promised seed of Eve, God is graciously setting Israel apart.  They are the holy nation from whom the Messiah would descend.  And the fact that Israel is God’s _covenant_ nation means that they are obligated to obey his law.  When you read these laws, remember the context: they were given to Israel at a specific point in history.
 
-Now, today, Christ has come.  We’re in a different stage of redemption history.  That doesn’t mean that this law is irrelevant, though.  As we discussed a couple of weeks ago, the law still reveals God’s flawless character, it still exposes our need for a Savior, and it stills instruct Christians about how to live.[^3]  Jesus said in Matthew 5:17 that he didn’t come to abolish the law.  Instead, he came to fulfill it.  Now, in one sense he fulfilled it by obeying it perfectly.  So Deut. 27:26 says, “Cursed be anyone who does not confirm the words of this law by doing them.”  Because Jesus was the only one who “did” them, he is the only one not under a curse.  So he was able to die in our place, bearing our curse, so that we might be set free from the curse of the law.  (Cf. Rom. 6:14).
+Now, today, Christ has come.  _We’re_ in a different stage of redemption history.  That doesn’t mean that this law is irrelevant, though.  As we discussed a couple of weeks ago, the law still reveals God’s flawless character, it still exposes our need for a Savior, and it stills instruct Christians about how to live.[^3]  Jesus said in Matthew 5:17 that he didn’t come to abolish the law.  Instead, he came to fulfill it.  Now, in one sense he fulfilled it by obeying it perfectly.  So Deut. 27:26 says, “Cursed be anyone who does not confirm the words of this law by doing them.”  Because Jesus was the only one who “did” them, he is the only one not under a curse.  So he was able to die in our place, bearing _our_ curse, so that we might be set free from the curse of the law.  (Cf. Rom. 6:14).
 
 But that’s not all that Jesus meant when he said he “fulfilled” the law.  In John 5:39 Jesus claims that the Old Testament “bear[s] witness about _me_.”  It’s his portrait, so to speak.  And that’s exactly what we see as we read through how the New Testament authors use the Old Testament.  They see the Old Testament as pointing to Christ.
 
 OK.  Good background on the law.  But we still don’t know how to apply it, do we?  Let’s make this practical.  In order to understand how to apply a section of the Old Testament law, we need to understand exactly how it points to Christ.  How it is fulfilled in Christ.  To do this, a helpful starting point is to divide the law into three different categories.
 
 - The _moral_ laws are largely permanent and apply directly to us, because they aren’t limited to the national, ethnic context of Israel.  A prime example would be the Greatest Commandment (“love the Lord your God”...).
-- On the other hand, the civil laws applied to the political nation of Israel’s governance and justice,
-- and the ceremonial laws dealt with Israel’s temple sacrifices, religious offerings, and national feasts.   These were pointing to Christ in the sense that a shadow points to the real thing.  So once Christ came, their purpose was complete.  And so they are no longer binding on Christians.
+- On the other hand, the _civil_ laws applied to the political nation of Israel’s governance and justice,
+- and the _ceremonial_ laws dealt with Israel’s temple sacrifices, religious offerings, and national feasts.   These were pointing to Christ in the sense that a shadow points to the real thing.  So once Christ came, their purpose was complete.  And so they are no longer binding on Christians.
 
 So, given that the law is fulfilled in Christ and that it divides broadly into those 3 categories, let me suggest three ways we can practically apply the law today:
 
-- First, we should follow the New Testament’s instruction regarding these laws.  For example, laws about clean and unclean food like we see in Deut. 14?  In the NT, Mark 7 and Acts 10 teach that Christians do not need to follow those rules - they were part of the ceremonial law.  But, in contrast, moral laws that are repeated or even amplified in the NT, like “do not murder,” are valid for Christians today. 
+- First, we should follow the New Testament’s instruction regarding these laws.  For example, laws about clean and unclean food like we see in Deut. 14?  In the NT, Mark 7 and Acts 10 teach that Christians do not need to follow those rules - they were part of the ceremonial law.  But, in contrast, moral laws that are repeated or even amplified in the NT, like “do not murder,” _are_ valid for Christians today.
 - Second, we should understand what these laws teach us about God’s character.  Deut. 22:11 forbids the Israelites from mixing wool and linen in the same article of clothing, to remind them about God’s holiness and the nation’s distinctness from the world.  We don’t have to obey this law, but it tells us something important about God.
 - Third, we should appreciate Jesus’ perfection because he upheld all these laws.  All of them.
 
@@ -103,7 +103,7 @@ But, if Israel will not stay faithful to Yahweh, the covenant includes terrible 
 
 If we’re the people of Israel listening to Moses, our hearts should be quaking right now!  The curses are horrific!  And the blessings only come... if we’re perfect??  
 
-It seems that failure is inevitable.  Deuteronomy leaves us with no false impressions that the people will be able to maintain the demands of this covenant.  In fact, in chapters 29-30, Moses directly tells the people that they will fall short.  The reason, in 29:4, is that “But to this day the Lord has not given you a heart to understand or eyes to see or ears to hear.”  The people can only keep the covenant if they are given new hearts - and only God can do that.
+_It seems that failure is inevitable_.  Deuteronomy leaves us with no false impressions that the people will be able to maintain the demands of this covenant.  In fact, in chapters 29-30, Moses directly tells the people that they will fall short.  The reason, in 29:4, is that “But to this day the Lord has not given you a heart to understand or eyes to see or ears to hear.”  The people can only keep the covenant if they are given new hearts - and only God can do that.
 
 And it’s precisely at this point that Deuteronomy turns to hope.  God’s law and its curses do stand against the people.   But God himself, as this book comes to a close, makes some astounding promises of grace.  
 
@@ -111,11 +111,11 @@ First, he promises restoration for all who repent of breaking his covenant.  30:
 
 Second, God himself promises to give a new heart to his people.  Back in 10:16, the Lord commanded the people to “Circumcise therefore the foreskin of your heart, and be no longer stubborn.” What he was after wasn’t mere externalities, seen in circumcision of the flesh.  But inward transformation: circumcision of the heart.  So what refreshing news that in 30:6, Moses declares that even after the people go into exile for their disobedience, “_And the Lord your God will circumcise your heart and the heart of your offspring, so that you will love the Lord your God with all your heart and with all your soul, that you may live._”  What God commanded, and yet the people were unable to do on their own, God does.  He will transform their hearts.  
 
-So is the book of Deuteronomy a covenant of works or a covenant of grace?  I guess it’s both, isn’t it?  The Mosaic covenant is there to be sure.  And yet behind it is the covenant of grace God made with Abraham, that depended in no way on obedience.  God will restore them.  God will circumcise their hearts.  So which is it, works or grace?  The next few books in the Old Testament - and the entire rest of the Old Testament for that matter - will wrestle with that.  And we will finally see in Jesus Christ that it is both: a covenant of works that he kept perfectly on our behalf so that we might receive by grace the blessings of the covenant of works.
+So is the book of Deuteronomy a covenant of works or a covenant of grace?  I guess it’s both, isn’t it?  The Mosaic covenant is there to be sure.  And yet behind it is the covenant of grace God made with Abraham, that depended in no way on obedience.  _God_ will restore them.  _God_ will circumcise their hearts.  So which is it, works or grace?  The next few books in the Old Testament - and the entire rest of the Old Testament for that matter - will wrestle with that.  And we will finally see in Jesus Christ that it is both: a covenant of works that he kept perfectly on our behalf so that we might receive _by grace_ the blessings of the covenant of works.
 
 So, it’s not that the law was God’s plan A and the gospel was plan B.  This law is part of God’s perfect plan to set apart his people and to expose their need.  It paves the way for the divine intervention that would enable true obedience and a new intimacy with God through the redemption that would come in Christ.[^4]
 
-For us, as we read this Third Speech of Moses, we should pay attention to God’s concern for the heart.  Even as Christians, our hearts can be tempted to turn away to the “other gods” (29:18) of our age.  How do we respond to this temptation?  We learn here that to have a pure heart we must depend on God.  God’s Spirit is the one who changes us so radically that we do desire to “choose life,” which is the final plea that Moses makes in Deut. 30:19.   So, depend on him through prayer.  Confess your need.  And choose life.
+For us, as we read this Third Speech of Moses, we should pay attention to God’s concern for the heart.  Even as Christians, our hearts can be tempted to turn away to the “other gods” (29:18) of our age.  How do we respond to this temptation?  We learn here that to have a pure heart we must _depend on God_.  God’s Spirit is the one who changes us so radically that we do desire to “choose life,” which is the final plea that Moses makes in Deut. 30:19.   So, depend on him through prayer.  Confess your need.  And choose life.
 
 ## Conclusion: Israel’s Future -- Chs. 31-34
 
@@ -129,13 +129,9 @@ And as we close, there’s one more thing in the final verses of Deuteronomy tha
 
 [Questions]
 
-Let’s pray.
+# Historical Books
 
-# Joshua
-
-Good morning.  Today we’re on through the Old Testament into the narratives of Joshua and Judges.  The books of Moses, the first five books, have been completed. And so we now journey out of the “Torah”, or the “Pentateuch”, and into the “the Historical Books.”
-
-[PRAY]
+Now we are going to move into the narratives of Joshua and Judges.  The books of Moses, the first five books, have been completed. And so we now journey out of the “Torah”, or the “Pentateuch”, and into the "the Historical Books."
 
 Before we look at the detail of Joshua and Judges, let’s start by looking at some context.  The book of Joshua was probably written by Joshua himself within the first 15 years of the 14th century BC. At the start of the book, as you might remember, the nation of Israel is outside the land of Canaan, eastward over the Jordan River. But by the end of the book they will have taken and occupied the land (as you can see from the map). We can summarize Joshua by saying: Joshua is all about conquest. The Israelites enter the land, take the land, possess the land, and come to rest.
 
@@ -171,6 +167,8 @@ Finally, as the book of Joshua comes to its conclusion in chapters 22-24 we see 
 
 [TAKE QUESTIONS]
 
+# Joshua
+
 OK well with that overview in mind, let’s return to our theme sentence for Joshua – “__trusting a faithful savior to lead God’s people to land and rest__.” There are four ideas, which flow out of that key sentence that I want us to focus in on this morning.
 
 The first, as you’ll see from the handout, is __Trusting as God’s people__. Turn with me to chapter 1 and verse 5...
@@ -179,11 +177,11 @@ The first, as you’ll see from the handout, is __Trusting as God’s people__. 
 
 So here they are – God’s people on the edge of the Promised Land and the call is to be strong and courageous.  Is that _self_-confidence?  No: it’s confidence that the same God who was with Moses will be with his promised people again.
 
-This idea of trusting in the fact that they are God’s people is further emphasized when are circumcised in chapter 5, marking them out from the other nations.  And it’s reiterated in chapter 8 when the people renew their covenant with God.
+This idea of trusting in the fact that they are _God’s_ people is further emphasized when are circumcised in chapter 5, marking them out from the other nations.  And it’s reiterated in chapter 8 when the people renew their covenant with God.
 
-Now, it’s not that the people earned this right.  In fact, both of these events happen before a single battle is fought.  They are reminded of their status as God’s people, and that gives them confidence that they can take the land.
+Now, it’s not that the people earned this right.  In fact, both of these events happen before a single battle is fought.  They are reminded of their status as God’s people, _and that gives them confidence_ that they can take the land.
 
-And, of course, we’re in the same position, aren’t we?  As Christians, we are God’s people.  Not because we earned it but because of his grace alone.  And because we are God’s people. We can have every confidence that we will enter the land he’s promised to us: heaven.
+And, of course, we’re in the same position, aren’t we?  As Christians, we are God’s people.  Not because we earned it but because of his grace alone.  And _because_ we are God’s people. We can have every confidence that we will enter the land he’s promised to us: heaven.
 
 The second theme I want to draw out in this section is the fact while the Israelites are to trust in God, they do that by __Trusting in God’s faithful savior__.
 
@@ -283,7 +281,7 @@ Now, we need to be very careful how we apply this, this side of the New Testamen
 
 However, following this idea, we must see that the biggest theme in the whole book of Judges is the __requirement of a perfect Savior who leads to true rest__.
 
-You see, every cycle in Judges reminds us that God’s people need a perfect Savior. Previously God’s people had Joshua, but Joshua dies. After him come these judges, who are types of Christ.  But they are neither lasting nor faithful. Yes, they save them briefly, but these judges are not the best ethical role models, nor do they ever bring a lasting rule. What is needed is a monarchy - a line of perfect savior kings, who lead God’s people to obey His word perfectly.
+You see, every cycle in Judges reminds us that God’s people need a perfect Savior. Previously God’s people had Joshua, but Joshua dies. After him come these judges, who are _types_ of Christ.  But they are neither lasting nor faithful. Yes, they save them briefly, but these judges are not the best ethical role models, nor do they ever bring a lasting rule. What is needed is a monarchy - a line of perfect savior kings, who lead God’s people to obey His word perfectly.
 
 What’s interesting is that in Judges, right in the centre of the book, right in the centre of this dark book, God’s people get a king. No it’s not Saul or David, but Abimelech. Look with me to Judges 9v6: “all the leaders of Shechem came together, and all Beth-millo, and they went and made Abimelech king, by the oak of the pillar at Shechem.”
 
