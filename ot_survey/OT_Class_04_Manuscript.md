@@ -15,13 +15,13 @@ fontfamilyoptions: sfdefault
 
 # Class 4 - Leviticus, Numbers
 
-# Part 1: Leviticus
+Good morning and welcome back! Today we’re covering the books of Leviticus and Numbers - the combined graveyard of annual Bible reading plans. Compared to the books we have covered so far, there is very little narrative and they seem to provide an excessive amount of detail about things we don't think we need to care about. If we are honest with ourselves, we could easily find ourselves thinking that the Bible would be perfectly fine without these too books. If that seems too brash for you to admit to, we often live without reading those books, so the practical result is the same.
 
-Good morning and welcome back! Today we’re covering the book of Leviticus.  It’s got very little narrative.  And at times it provides a lot of detail about things that seem quite unrelated to modern life.  So it’s often neglected.  But without Leviticus, we would lose a huge body of knowledge about God’s holiness, our sin, and Christ’s work on the cross.  So I’m looking forward to our time in Leviticus today.
+What we want to see today, is what these books tell us about God, his holiness, and his work on the cross. These books _are_ important, and they greatly enrich our understanding of what Christ did on the cross. I hope you will enjoy our walk through these too books this morning.
 
 [PRAY]
 
-## Context
+# Part 1: Leviticus
 
 Let’s begin with some context.  Leviticus picks up right where Exodus left off. In fact, the entire book takes place less than a month after the tabernacle was finished[^1].  It is still around the mid 15th century BC.  We’re still at the foot of Mount Sinai, where God brought the Israelites after their escape from Egypt, and where Moses received the 10 commandments.  It was on Mount Sinai where Moses also received the instructions for building the tabernacle.  And after the Israelites built it, we saw that God’s glory filled it, and it became the physical manifestation of His dwelling with His people.  So what’s next?  That’s where Leviticus comes in.
 
@@ -49,17 +49,17 @@ For the first half of the class, I’m simply going to walk you through this out
 
 Chapters 1 though 7 explain how ordinary Israelites are to bring offerings to God. There are five main offerings: the burnt offering, the grain offering, the peace offering, the sin offering, and the guilt offering.
 
-We’ll start with the burnt offering; it’s meant as atonement for sin.  Look at __chapter 1, verses 3-5__.
+We’ll start with the __burnt offering__; it’s meant as atonement for sin.  Look at __chapter 1, verses 3-5__.
 
 > 3 “If his offering is a burnt offering from the herd, he shall offer a male without blemish. He shall bring it to the entrance of the tent of meeting, that he may be accepted before the Lord. 4 He shall lay his hand on the head of the burnt offering, and it shall be accepted for him to make atonement for him. 5 Then he shall kill the bull before the Lord, and Aaron's sons the priests shall bring the blood and throw the blood against the sides of the altar that is at the entrance of the tent of meeting.
 
 The placing of the hands on the head is a symbolic act of the transfer of the sinner’s guilt onto the bull.  Then the bull is killed for that person’s sins.  So when an Israelite is aware of his sin, this is what he needed to do.  How many bulls, sheep, goats, birds, etc. do you think a single Israelite might offer in his entire adult life?  You think the Lord takes sin seriously?  Well, the Israelites had that graphically imprinted on them through these offerings.
 
-Then we have the __grain offerings__ (2:1), offered as acts of devotion and remembrance.   And there were __peace offerings__ (3:1), which emphasized the fact that all that belonged to the Israelites was really the Lord’s (3:16-17).  Another offering was the __sin offering__ (4:3), which was meant to cover sins that were unintentional, or done in ignorance (4:2).  Even if one doesn’t know some action is a sin, it still is.  God’s standards are measured by His own holiness, not by our own awareness.  Interesting thought.  Did you ever think that if you didn’t mean to sin, it wasn’t sin?  Apparently, intentions aren’t everything.
+Then we have the __grain offerings__ (2:1), offered as acts of devotion and remembrance.   And there were __peace offerings__ (3:1), which emphasized the fact that all that belonged to the Israelites was really the Lord’s (3:16-17).  Another offering was the __sin offering__ (4:3), which was meant to cover sins that were unintentional, or done in ignorance (4:2).  Even if one doesn’t know some action is a sin, it still is.  God’s standards are measured by His own holiness, not by our own awareness. Did you ever think that if you didn’t mean to sin, it wasn’t sin?  Intentions aren’t everything.
 
 Finally, there is the __guilt or trespass offering__ (5:6), which is meant to highlight the wickedness of sin and atone for it at the same time.  This particular one is to be offered when one becomes ritually unclean or sins against his neighbor.
 
-Then, chapters six and seven layout how these sacrifices are to be made. Every detail is laid out: how much of what offering is to be sacrificed, how animals are to be slaughtered, what utensils are and are not to be used, etc. God intends his people, both then and now, to feel the sheer burden caused by our sin.  What’s most noteworthy here is the uncompromising exactness of our Holy God—all as a foreshadowing of how Christ was the perfect lamb who was slain on our behalf.
+Then, chapters six and seven layout how these sacrifices are to be made. Every detail is laid out: how much of what offering is to be sacrificed, how animals are to be slaughtered, what utensils are and are not to be used, etc. _God intends his people, both then and now, to feel the sheer burden caused by our sin._  What’s most noteworthy here is the uncompromising exactness of our Holy God - all as a foreshadowing of how Christ was the perfect lamb who was slain on our behalf.
 
 [TAKE QUESTIONS]
 
@@ -160,11 +160,6 @@ Let’s make two points of application before we close. First, feel the weight o
 
 > Hebrews 10:19-23  19 Therefore, brothers, since we have confidence to enter the holy places by the blood of Jesus, 20 by the new and living way that he opened for us through the curtain, that is, through his flesh, 21 and since we have a great priest over the house of God, 22 let us draw near with a true heart in full assurance of faith, with our hearts sprinkled clean from an evil conscience and our bodies washed with pure water. 23 Let us hold fast the confession of our hope without wavering, for he who promised is faithful.
 
-Second, if your are a Christian, look forward to the day when all sin is done and we are freed to worship God in perfect holiness for all eternity!! John’s Revelation concludes with a stirring account of this future day:
-
-> 1 Then I saw a new heaven and a new earth, for the first heaven and the first earth had passed away, and the sea was no more. 2 And I saw the holy city, new Jerusalem, coming down out of heaven from God, prepared as a bride adorned for her husband. 3 And I heard a loud voice from the throne saying, “Behold, the dwelling place of God is with man. He will dwell with them, and they will be his people, and God himself will be with them as their God. 4 He will wipe away every tear from their eyes, and death shall be no more, neither shall there be mourning, nor crying, nor pain anymore, for the former things have passed away.”
-
-This is our great hope! Yes our sin is heavy and costly, but it is not forever if we know Christ! It is a passing burden that has been atoned for by our great high priest. There will come a day when all is made new.  When you and I will sing the glories of God face to face with our Creator.  Because He has removed all barriers, all hindrances, all sin! Live in joyful expectation of this day and pray that God will keep you and sustain you so that we might all be together once more in eternity.
 
 [TAKE QUESTIONS]
 
@@ -178,7 +173,7 @@ As we move into the second half of our study today, we are about a quarter of th
 
 ## Context for Numbers
 
-Let’s start with context. Numbers comes after Exodus, when God’s people, the Israelites, leave Egypt. And they’ve just received the Ten Commandments at Sinai. But we haven’t quite reached the Promised Land, and so we’re still before the books of Deuteronomy and Joshua.
+Let’s start with context. Numbers comes after the Exodus, when God’s people, the Israelites, leave Egypt. And they’ve just received the Ten Commandments at Sinai. But we haven’t quite reached the Promised Land, and so we’re still before the books of Deuteronomy and Joshua.
 
 In Numbers we’ll see the people of Israel pack up camp from the foot of Mount Sinai and move toward the land of Canaan, the fertile land just east of the Mediterranean Sea. If you look at your handout you’ll see a map of the Israelite journey. The route is only 200 miles, but the narrative will span 40 years, because, as we’ll see, the people don’t go straight into the land.  Instead, they around in the wilderness.  By breaking the chapters up geographically, we see chapters 1-10 are about packing up at Sinai, chapters 11-12 about the journey to Kadesh where the people rebel, chapters 13-19 explain the wanderings in the wilderness, and chapters 20-21 describe the journey to the plains of Moab. Finally, in chapters 22-36, we’ll see that Israel is camped on the eastern bank of the Jordan River, looking across the river at the Promised Land [map in handout].
 
@@ -214,7 +209,9 @@ So - back to Numbers.  We’re going to break the book into three pieces based o
 - In chapter 11 to chapter 16 we see __God punishing__ his people for their great unbelief and lack of trust in his promises being fulfilled.
 - And in chapters 17 to 36 we see __God’s patience__ with his people. Perhaps most importantly, we learn that his promises will be fulfilled in spite of everything that has taken place.
 
-So first, let’s look at these initial chapters and see how __God’s preparation preserves his promises (1-10)__
+So first, let’s look at these initial chapters and see how
+
+## God’s preparation preserves his promises (1-10)
 
 At the start of these first ten chapters God’s people are still at the foot of Mount Sinai, ready to break camp.  The mood is very optimistic. This was it! They’d received the laws, they’re in covenant with Yahweh, He dwells among them, and now they’re going up to take the land of Canaan. These chapters are full of anticipation. Let’s dive in and see how the first three promises to Abraham are being fulfilled[^4].
 
