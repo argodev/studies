@@ -33,7 +33,7 @@ You’ll remember that we’ve defined a “covenant” as a bond in blood, sove
 
 Well, if you’ve been with us in the OT class so far, you know that this covenant model is one of the major ways that God chose to deal with his people.  We’ve seen how God covenanted with Abraham to make his descendants a great nation, with Yahweh reigning and ruling over them in Canaan. Then, in Exodus, we saw the obligations Abraham’s descendants were bound to in a new covenant: the Ten Commandments and laws in Exodus 20-24.  This covenant, called the Mosaic Covenant, was a gracious step forward in God’s redemptive plan -- it made the people into a nation, revealed God’s holy character through his law, and established the sacrificial system that prepared the way for Christ’s atonement on the cross.[^2]  But it also formally placed an obligation on the nation of Israel: to be holy as God is holy, with the curse of death if they fell short.
 
-It’s this Mosaic Covenant that’s being expounded and ratified here in Deuteronomy.  In fact, turn to the back page of your handout and you’ll see that the whole book of Deuteronomy follows the format of a covenant document commonly used in the ancient Near-East.  We begin with a historical prologue in chapters 1-4, where Moses in his first speech recounts God’s past faithfulness to the people.  Then, the heart of the book is Moses’ second speech.  That’s where he details the covenant stipulations that bind the people.  First, general commands in chapters 5-11 about their exclusive relationship to God.  Then, specific commands in chapters 12-26 about how to operate as God’s people in the land.  In Moses’ third speech, he explains the blessings and curses that will result if the people are faithful or unfaithful to the covenant.  The conclusion of the book gives a window into Israel’s future as the covenant people of God.  For the rest of our class today, we’ll walk through this covenant document section by section.
+It’s this Mosaic Covenant that’s being expounded and ratified here in Deuteronomy.  In fact, if you look at the outline of Deuteronomy in your handout and you’ll see that the whole book of Deuteronomy follows the format of a covenant document commonly used in the ancient Near-East.  We begin with a historical prologue in chapters 1-4, where Moses in his first speech recounts God’s past faithfulness to the people.  Then, the heart of the book is Moses’ second speech.  That’s where he details the covenant stipulations that bind the people.  First, general commands in chapters 5-11 about their exclusive relationship to God.  Then, specific commands in chapters 12-26 about how to operate as God’s people in the land.  In Moses’ third speech, he explains the blessings and curses that will result if the people are faithful or unfaithful to the covenant.  The conclusion of the book gives a window into Israel’s future as the covenant people of God.  For the rest of our time in Deuteronomy, we’ll walk through this covenant document section by section.
 
 [Questions]
 
@@ -57,7 +57,7 @@ But if total, exclusive love is at the core of how Israel was to engage with its
 
 Here we have a majestic window into the mystery of God’s electing love.  He chose this people simply because he loved them.  _Not because of anything about them_; __he just loved them__.  Their relationship with God is based entirely in God’s grace.
 
-We can apply this to our lives too.  Though we are in a different chapter of redemptive history, love should still be at the center of how we engage with God.  When Jesus was asked what the greatest commandment was, he quoted Deuteronomy 6:4.  " You shall love the Lord your God with all your heart and with all your soul and with all your strength and with all your mind, and your neighbor as yourself. (Luke 10:27)."  _But, like Israel, we must recognize that we can only love God because he first chose and loved us.  We love God by first tasting his gracious, electing love for us_.
+We can apply this to our lives too.  Though we are in a different chapter of redemptive history, love should still be at the center of how we engage with God.  When Jesus was asked what the greatest commandment was, he quoted Deuteronomy 6:4.  "You shall love the Lord your God with all your heart and with all your soul and with all your strength and with all your mind, and your neighbor as yourself. (Luke 10:27)."  _But, like Israel, we must recognize that we can only love God because he first chose and loved us.  We love God by first tasting his gracious, electing love for us_.
 
 And as we look over this section of general covenant stipulations, we see that a crucial part of loving God is obeying the first commandment:  having no other gods but him.  That’s why Moses instructs the people to completely destroy foreign idols in chapter 7 (7:5-6), to never forget God’s faithfulness in chapter 8 (8:10-14), and to remember that idolatry is deadly in chapter 9 (9:27-29).
 
@@ -67,7 +67,7 @@ With this guiding principle of loving faithfulness in place, Moses proceeds to e
 
 Moses starts in 12:1 by saying, “These are the statutes and rules that you shall be careful to do in the land that the Lord, the God of your fathers, has given you to possess, all the days that you live on the earth.”  The point of these 15 chapters is that as God’s people in God’s land, they were to worship God alone, reflect God’s holiness, and represent God’s justice.  But... in spite of that straightforward purpose, this section of Deuteronomy may be the toughest to work through as we meditate on this book in our personal devotions.  Why?  Well, the general principle in 12:1 is followed by command after command that don’t really seem to apply to us.  Like, how to destroy idols (Chs. 12-13), clean and unclean food (Ch. 14), tithes, animal property, and national feasts (Chs. 14:22-16:17).  How are we to make sense of _all_ these laws?  
 
-For one, it’s helpful to see that there’s a basic structure in place. If you look at the back of your handout, you’ll see a guide to this underlying format:  broadly speaking, the laws follow the order of the Ten Commandments.
+For one, it’s helpful to see that there’s a basic structure in place. If you look at the third page of your handout, you’ll see a guide to this underlying format:  broadly speaking, the laws follow the order of the Ten Commandments.
 
 Now, knowing that structure may be useful, but it doesn’t tell us everything we need to know about how to apply these laws today.  To understand that, we need to take a step back and review the chapter of _redemptive history_ that Deuteronomy is in.
 
@@ -153,8 +153,6 @@ While in Judges we have...
 
 __*REQUIRING a PERFECT savior to MAINTAIN this land and rest*__
 
-__*Let’s stop here for a moment.  What are some of the parallels between what the people of Israel were facing during these early years in the Promised Land - and what we face in our lives as Christians?*__
-
 Well, with these themes in mind let’s start into Joshua with an overview of the whole book.  The book of Joshua divides neatly into four chronological sections, or four periods of trust for the Israelites.  As we quickly run through these sections, you can flip through your Bible to watch the chapter headings and follow along.
 
 In chapters 1-5 we discover that the Israelites must trust God as they __ENTER the Promised Land__. The Israelites start off (chapter 1) confidently trusting God in the plains of Moab, but they must depend on God as they spy out the land (chapter 2), and then finally as they cross the Jordan (in Exodus-like fashion in chapters 3 and 4).
@@ -177,7 +175,7 @@ The first, as you’ll see from the handout, is __Trusting as God’s people__. 
 
 So here they are – God’s people on the edge of the Promised Land and the call is to be strong and courageous.  Is that _self_-confidence?  No: it’s confidence that the same God who was with Moses will be with his promised people again.
 
-This idea of trusting in the fact that they are _God’s_ people is further emphasized when are circumcised in chapter 5, marking them out from the other nations.  And it’s reiterated in chapter 8 when the people renew their covenant with God.
+This idea of trusting in the fact that they are _God’s_ people is further emphasized when they are circumcised in chapter 5, marking them out from the other nations.  And it’s reiterated in chapter 8 when the people renew their covenant with God.
 
 Now, it’s not that the people earned this right.  In fact, both of these events happen before a single battle is fought.  They are reminded of their status as God’s people, _and that gives them confidence_ that they can take the land.
 
@@ -193,7 +191,7 @@ And so, because Joshua and the Israelites do trust and obey, Joshua is able to l
 
 Again, the New Testament parallels for us shouldn’t be that difficult to make.  Joshua (just like Moses) prefigures the coming of God’s ultimately faithful savior.  Jesus Christ perfectly obeys God’s law.  So he’s the one who brings us into the New Heavens and New Earth, if we obey him.
 
-The main theme in the book of Joshua, and the third theme, which flows out of our theme sentence, is the need to __trust God for land__. This is huge, as you might imagine. Now just to clarify, the significance of the land is a major concept to grasp.  Because Canaan is more than just a physical piece of property.  It is a picture of what the Garden of Eden was, and what the New Heavens and the New Earth are going to be. 
+The main theme in the book of Joshua, and the third theme, which flows out of our theme sentence, is the need to __trust God for land__. This is huge, as you might imagine. Now just to clarify, the significance of the land is a major concept to grasp.  Because Canaan is more than just a physical piece of property.  It is a picture of what the Garden of Eden was, and what the New Heavens and the New Earth are going to be.
 
 To see this land parallelism fleshed out, turn with me to one fascinating text in chapter 5:13-15. As you turn there let me quickly set the context for you. God’s people have just crossed the Jordan, and God’s people are about to enter God’s place first time. 
 
@@ -209,7 +207,7 @@ Now, the people trust God for the land.  God sends his angel ahead of them.  And
 
 Not a single word has failed. The people are in possession of God’s place, safely with him.  Just like we will be able to say when we stand before him in heaven.
 
-But we can’t help but be disturbed at the bloody and brutal chapters in between the angel’s arrival in chapter 5 and this wonderfully fulfilled promise in chapter 21.  Indeed that is really much what so much of Joshua is about. 
+But we can’t help but be disturbed at the bloody and brutal chapters in between the angel’s arrival in chapter 5 and this wonderfully fulfilled promise in chapter 21.  Indeed that is really much what so much of Joshua is about.
 
 And so we read 6:21 of Jericho - “Then they devoted all in the city to destruction, both men and women, young and old, oxen, sheep, and donkeys, with the edge of the sword.”
 
@@ -255,7 +253,7 @@ The upshot of this is that Israel descends into a repeated cycle of rebellion, f
 
 This cycle repeats 9 times through 14 chapters. But it’s important to note that this cycle isn’t the same each time.  It’s a downward spiral. In fact the victory of each judge is increasingly elusive as the book continues. Othniel, in chapter 3, has complete victory... but Ehud, who follows him, has victory only through deception. In chapter 4, Deborah has victory, but some of the tribes are cursed. Gideon has victory, in chapters 6-8, but eventually we have civil war. Jepthah, in chapters 10-12, has victory but it is marred by the tragedy of his daughter, and again things eventually devolve into civil war. And even though he does great damage, Samson, the last and most famous judge of all, never actually defeats the Philistines, in chapters 13-16.
 
-So by the time we reach chapter 17, we Israel is at the depth of their sin. Chapters 17-18 reveal their religious corruption while chapters 19-21 reveal their moral and social corruption. As the book concludes the author sadly reflects on the Israelites’ plight and their desperate need for a perfect savior and true rest in the land.
+So by the time we reach chapter 17, Israel is at the depth of their sin. Chapters 17-18 reveal their religious corruption while chapters 19-21 reveal their moral and social corruption. As the book concludes the author sadly reflects on the Israelites’ plight and their desperate need for a perfect savior and true rest in the land.
 
 OK.  Let’s return to our theme sentence for Judges – “__requiring a perfect savior to maintain this land and rest__.”  We’ll flesh out three key ideas and application points from it.
 
@@ -283,7 +281,7 @@ However, following this idea, we must see that the biggest theme in the whole bo
 
 You see, every cycle in Judges reminds us that God’s people need a perfect Savior. Previously God’s people had Joshua, but Joshua dies. After him come these judges, who are _types_ of Christ.  But they are neither lasting nor faithful. Yes, they save them briefly, but these judges are not the best ethical role models, nor do they ever bring a lasting rule. What is needed is a monarchy - a line of perfect savior kings, who lead God’s people to obey His word perfectly.
 
-What’s interesting is that in Judges, right in the centre of the book, right in the centre of this dark book, God’s people get a king. No it’s not Saul or David, but Abimelech. Look with me to Judges 9v6: “all the leaders of Shechem came together, and all Beth-millo, and they went and made Abimelech king, by the oak of the pillar at Shechem.”
+What’s interesting is that in Judges, right in the center of the book, right in the center of this dark book, God’s people get a king. No it’s not Saul or David, but Abimelech. Look with me to Judges 9v6: “all the leaders of Shechem came together, and all Beth-millo, and they went and made Abimelech king, by the oak of the pillar at Shechem.”
 
 But this is no faithful king. He does whatever he thinks is right: he has many wives, he ruthlessly kills his own brothers, and leads God’s people in total unfaithfulness.
 
