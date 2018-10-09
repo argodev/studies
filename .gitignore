@@ -1,5 +1,4 @@
 *.swp
-ot_survey/*.pdf
 #reveal.js/
 Class_*.html
 build/
