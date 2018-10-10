@@ -18,7 +18,7 @@ consider the [original materials available on their website](http://www.capitolh
 | 8 | 10/28 | Ecclesiastes, Song of Songs, Kings | 14 Ecclesiastes and the Song of Songs <br> 15 Kings |
 | 9 | 11/4 | Isaiah, Hosea, Joel | 16 Isaiah <br> 17 Hosea and Joel |
 | 10 | 11/11 | Amos, Obadiah, Jonah, Micah | 18 Amos and Obadiah <br> 19 Jonah and Micah  |
-| 11 | 11/18 | Nahum, Hababakuk, Zephaniah, Jeremiah, Lamentations |  20 Nahum, Hababakuk and Zephaniah <br> 21 Jeremiah and Lamantations  |
+| 11 | 11/18 | Nahum, Hababakuk, Zephaniah, Jeremiah, Lamentations |  20 Nahum, Hababakuk and Zephaniah <br> 21 Jeremiah and Lamentations  |
 | 12 | 11/25 | Ezekiel, Daniel| 22 Ezekiel <br> 23 Daniel |
 | 13 | 12/2 | Chronicles, Ezra, Nehemiah, Esther | 24 Chronicles <br> 25 Ezra, Nehemiah and Esther |
 | 14 | 12/9 | Haggai, Zechariah, Malachi | 26 Haggai, Zechariah and Malachi |
