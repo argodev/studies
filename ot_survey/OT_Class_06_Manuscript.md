@@ -15,15 +15,15 @@ fontfamilyoptions: sfdefault
 
 # Introduction
 
+__[SLIDE #2]__
+
 This morning we start with the books of Ruth and 1 & 2 Samuel.  Here, we’ll see a crucial turning point in the history of redemption: the rise (and sadly the fall) of the great King David.  If there is any Old Testament figure who can rival Abraham in the way God uses him to reveal His plan for redemptive history, it is King David.  These three books center on David.  Just as God’s promises to Abraham set the context for everything we’ve read so far, God’s promises to David will now set the context for the rest of the Old Testament.
 
 [PRAY]
 
-__So let’s start by remembering together the significance of David in the rest of the Bible.  Beyond the book of 1 Samuel, how do the rest of the books of the Bible refer back to David?__
-
-*[Psalms, “for the sake of my servant David” in Kings, Jesus the “Son of David,” “behold, the Lion of the tribe of Judah, the Root of David, has conquered” in Revelation, etc.]*
-
 # RUTH
+
+__[SLIDE #3]__
 
 Let’s start with the book of Ruth, which is the historical and theological prelude to King David.  In terms of context, the author of this book is unknown. It was most likely written during David’s reign.  But look at 1:1 -- the actual events of the story take place, “In the days when judges ruled.”  This is most likely in the early part of the 11th century BC. As we discussed last week, this 350-year period of the judges was a time of great turmoil and disorder.  The book of Ruth, then, *acts as hinge point* in God’s redemptive plan.  The Lord is preparing his people to transition away from the chaos of their self-centered rule.  And to the good rule of King David, *who is foreshadowing the true King—Jesus Christ*.
 
@@ -31,23 +31,25 @@ The question at the heart of this book - for the characters in the story and for
 
 *God sovereignly orchestrates all things - even trials - for the good of His people, who He will one day redeem through the perfect rule of the kinsman king.* __(repeat slowly)__
 
-The book of Ruth is about Naomi, an Israelite woman in Moab, whose husband and sons have died.  That leaves her and her daughters-in-law, Ruth and Orpah, alone in a foreign land and unable to provide for themselves.  The rest of the book of Ruth is essentially about two days in Ruth’s life: the day she’s fed and the day she’s wed.  The day she’s fed, chapter 2, is when she finds favor with a man named Boaz who provides food for her and Naomi.  And the day she’s wed, chapters 3-4, is when Boaz marries her to maintain her family line.  For our overview of Ruth, we’ll look at three main texts in the book, which provide snapshots into the story.  You’ll see an outline of the full book on the back of your handout.  First,
+The book of Ruth is about Naomi, an Israelite woman in Moab, whose husband and sons have died.  That leaves her and her daughters-in-law, Ruth and Orpah, alone in a foreign land and unable to provide for themselves.  The rest of the book of Ruth is essentially about two days in Ruth’s life.  Chapter 2, is when she finds favor with a man named Boaz who provides food for her and Naomi.  And chapters 3-4, is when Boaz marries her to maintain her family line.  For our overview of Ruth, we’ll look at three main texts in the book, which provide snapshots into the story.
+
+__[SLIDE #4]__
 
 ## 1) The Bitterness of Sin: 1:11-12, 20
 
 In verses 11-12 and 20 we hear Naomi plead with her daughters-in-law to leave her so that they might avoid what she understands to be a hopeless fate. It is in these pleas that we hear all of Israel’s despair.  Look at 1:11-12: [Read Passage]
 
-> But Naomi said, But Naomi said, “Turn back, my daughters; why will you go with me? Have I yet sons in my womb that they may become your husbands? [Skip Down to vs. 13]
+> But Naomi said, “Turn back, my daughters; why will you go with me? Have I yet sons in my womb that they may become your husbands? [Skip Down to vs. 13]
 
 > “No, my daughters, for it is exceedingly bitter to me for your sake that the hand of the Lord has gone out against me.”
 
 > And as she enters Bethlehem in verse 20: “Do not call me Naomi [which means pleasant]; call me Mara [which means bitter], for the Almighty has dealt very bitterly with me.”
 
-And with that statement, unknowingly, Naomi is picking a quarrel with God.  Is he a cruel God as she suggests?  Does he make our lives bitter?  Well, in one sense, Naomi and her people deserved the bitterness of life - and worse.  The famine she was fleeing from was God’s judgment for their sin.  And even her act of fleeing was sin.  Her husband was seeking to escape God’s judgment by disobeying the Covenant and leaving the Promised Land.
+And with that statement, Naomi is telling us alot of what she thinks about God.  Is he a cruel God as she suggests?  Does he make our lives bitter?  Well, in one sense, Naomi and her people deserved the bitterness of life - and worse.  The famine she was fleeing from was God’s judgment for their sin.  And even her act of fleeing was sin.  Her husband was seeking to escape God’s judgment by disobeying the Covenant and leaving the Promised Land.
 
-But is God all justice and no mercy?  Well, as we read through this book, we see God respond to Naomi’s challenge as he overwhelms her with his mercy.  And that begins right here in Chapter 1.  Orpah leaves as Naomi suggests, but Ruth stays with her mother-in-law.  Her promise to Naomi is beautiful and poetic.
+But is God all justice and no mercy?  Well, as we read through this book, we see God respond to Naomi’s attitude as he overwhelms her with his mercy.  And that begins right here in Chapter 1.  Orpah leaves as Naomi suggests, but Ruth stays with her mother-in-law.  Her promise to Naomi is beautiful and poetic.
 
-> “Do not urge me to leave you or to return from following you. For where you go I will go, and where you lodge I will lodge.Your people shall be my people, and your God my God. 17 Where you die I will die, and there will I be buried. May the Lord do so to me and more also if anything but death parts me from you.”
+> “Do not urge me to leave you or to return from following you. For where you go I will go, and where you lodge I will lodge. Your people shall be my people, and your God my God. 17 Where you die I will die, and there will I be buried. May the Lord do so to me and more also if anything but death parts me from you.”
 
 That leads us to Snapshot #2,
 
@@ -58,18 +60,20 @@ The key to understanding the redemption God will bring Ruth and Naomi is the not
 So the provision of Ruth is God’s first display of mercy in response to Naomi’s charge.  This marriage is the second, as a redeemer steps in to provide for these two widows.  And the result is snapshot #3:  we see
 
 ## 3) The Wisdom of God’s Good Plan: 4:13-17
-By God’s grace, this redemption was not only a blessing to Ruth and Naomi – it blessed the whole nation in a way that on their dying day they could never have imagined!  Look at verses 13 through 17 [Read]: 
+By God’s grace, this redemption was not only a blessing to Ruth and Naomi – it blessed the whole nation in a way that they could never have imagined!  Look at verses 13 through 17 [Read]:
 
 > So Boaz took Ruth, and she became his wife. And he went in to her, and the Lord gave her conception, and she bore a son.   Then the women said to Naomi, “Blessed be the Lord, who has not left you this day without a redeemer, and may his name be renowned in Israel!  He shall be to you a restorer of life and a nourisher of your old age, for your daughter-in-law who loves you, who is more to you than seven sons, has given birth to him.”  Then Naomi took the child and laid him on her lap and became his nurse.  And the women of the neighborhood gave him a name, saying, “A son has been born to Naomi.” They named him Obed. He was the father of Jesse, the father of David.
 
 Amazingly, Ruth is the great-grandmother of  David, Israel’s greatest earthly King. Even more, David would be an ancestor and a preview of the greater King to come: Jesus Christ.
 
-Through the entire book of Ruth, we not only see that God DOES care for his people, but that he does so in ways that far exceed our own knowledge. Naomi and many other characters in this story consider their dire circumstances and conclude that God is far off and unconcerned - perhaps even the source of their suffering. Nothing could be further from the truth. What is actually happening is that God is sovereignly directing human events.  He is meeting the specific needs of Naomi and Ruth.  But in addition he’s preparing the way for the coming king who will rescue Israel from the tumultuous time of the judges (David).  And even beyond that, he’s working toward the future redeemer-King who rescues God’s people from their sin.
+Through the entire book of Ruth, we not only see that God DOES care for his people, but that he does so in ways that far exceed our own knowledge. Naomi and many other characters in this story consider their dire circumstances and conclude that God is far off and unconcerned. Nothing could be further from the truth. What is actually happening is that God is sovereignly directing human events.  He is meeting the specific needs of Naomi and Ruth.  But in addition he’s preparing the way for the coming king who will rescue Israel from the tumultuous time of the judges (David).  And even beyond that, he’s working toward the future redeemer-King who rescues God’s people from their sin.
 
 We can remember this when we are tempted to despair in the midst of trials and tribulations. Take comfort in knowing that, “…for those who love God all things work together for good, for those who are called according to his purpose.” (Romans 8:28) Then you’ll be able to echo Naomi’s praise of Boaz in 2:20 with words to God: His “kindness has not forsaken the living or the dead.”
 
 [TAKE QUESTIONS]
-  
+
+__[SLIDE #5]__
+
 # 1st and 2nd SAMUEL
 
 Now for 1st and 2nd Samuel. This is the transition to a king.  The books are named for the prophet Samuel, the main hinge between the time of the judges and the monarchy.  He was both Israel’s final judge and the one who anointed the nation’s first king. Originally compiled as a single text, we don’t know who wrote these two books. 1st Chronicles 29:29-30 suggests the prophet left written records.  But the account of Samuel’s death in I Samuel 25 suggests that at least much of the book was written by someone else.
@@ -80,13 +84,15 @@ Samuel continues the answer to the question of Ruth: *Does God still care*?  The
 
 ## Historical Overview
 
-Let’s turn now to a historical overview, which you can follow on the outline on the back of your handout.  The books of Samuel fall into five historical sections. The first is the story of the prophet himself in 1 Sam. 1-7. Here we read the story of his miraculous birth and subsequent calling and service as God’s prophet. Chapters 8-15 are the transition to monarchy where Samuel anoints Saul as King over Israel. God twice rejects Saul as King due to his disobedience - in chapters 13 and 14.  Then the story shifts to the back-and-forth between the newly anointed King David and Saul, as Saul stubbornly seeks to hold on to power.  That’s chapters 16-31. Moving into 2 Samuel, the life of David - both the good and bad - takes center stage. The first 20 chapters of 2nd Samuel catalogue the death of Saul, the establishment of Jerusalem as the capital, God’s covenant with David, several battles, and the rebellions of Absalom—David’s son - and Sheba, a Benjaminite.  Finally, in chapters 21-24 we have a series of events that draw the narrative to a close.  These include the death of Saul’s sons, multiple wars with the Philistines, David’s last words, and his sin of taking a national census.
+Let’s turn now to a historical overview, which you can follow on the outline on page 3 of your handout.  The books of Samuel fall into five historical sections. The first is the story of the prophet himself in 1 Sam. 1-7. Here we read the story of his miraculous birth and subsequent calling and service as God’s prophet. Chapters 8-15 are the transition to monarchy where Samuel anoints Saul as King over Israel. God twice rejects Saul as King due to his disobedience - in chapters 13 and 14.  Then the story shifts to the back-and-forth between the newly anointed King David and Saul, as Saul stubbornly seeks to hold on to power.  That’s chapters 16-31. Moving into 2 Samuel, the life of David - both the good and bad - takes center stage. The first 20 chapters of 2nd Samuel catalog the death of Saul, the establishment of Jerusalem as the capital, God’s covenant with David, several battles, and the rebellions of Absalom—David’s son - and Sheba, a Benjaminite.  Finally, in chapters 21-24 we have a series of events that draw the narrative to a close.  These include the death of Saul’s sons, multiple wars with the Philistines, David’s last words, and his sin of taking a national census.
 
 Beyond the history of 1st and 2nd Samuel, though, are some significant theological themes that we need to grasp if we’re to understand the deepest purpose of Samuel’s books. _What this narrative teaches us about God - not Samuel, not Saul, and not even David - is the main point of this text_.
 
-That’s significant, because when we read 1st and 2nd Samuel as just a collection of inspirational historical stories, *we miss the point*. For example, consider the account of David and Goliath in 1 Sam. 17. How many times have preachers and teachers used this story as some sort of promise that God will deliver us from the “giants in your life?” What you need to do, they often argue, is take the “stone of faith,” and “the stone of prayer,” and “the stone of Bible memorization” and conquer that GIANT in your life!  Well, that’s not what the story’s about at all.  And many of those promises just aren’t true.  They’re not God’s promises.  Instead, this story is full of theological meaning.  It’s about how the king that God chooses is the king who prevails – because in the context, God’s favor has left Saul and is now resting on David.  It’s about how Israel’s God is truly great, because Goliath expresses his disrespect for Yahweh – and that’s why God defeats him.  And this story is a significant chapter in the whole Bible’s story about the Savior that is to come.  *Because unlike the judges who cared only for themselves, David is a savior who acts because of his jealousy for the fame of God’s name*!  God is telling us that the Christ, like David, will save his people out of a commitment to God’s glory.  If we ignore themes like this and try to apply these books to our lives without putting them in the context of redemption history, we’ll miss the point.  And we may read into them promises that God never made.   So, we’ll spend the rest of our class considering two broad theological themes: kingship and rest.
+That’s significant, because when we read 1st and 2nd Samuel as just a collection of inspirational historical stories, *we miss the point*. For example, consider the account of David and Goliath in 1 Sam. 17. How many times have preachers and teachers used this story as some sort of promise that God will deliver us from the “giants in your life?” What you need to do, they often argue, is take the “stone of faith,” and “the stone of prayer,” and “the stone of Bible memorization” and conquer that GIANT in your life!  Well, that’s not what the story’s about at all.  And many of those promises just aren’t true.  They’re not God’s promises.  Instead, this story is full of theological meaning.  It’s about how the king that God chooses is the king who prevails – because in the context, God’s favor has left Saul and is now resting on David.  It’s about how Israel’s God is truly great, because Goliath expresses his disrespect for Yahweh – and that’s why God defeats him.  And this story is a significant chapter in the whole Bible’s story about the Savior that is to come.  *Because unlike the judges who cared only for themselves, David is a savior who acts because of his jealousy for the fame of God’s name*!  God is telling us that the Christ, like David, will save his people out of a commitment to God’s glory.  If we ignore themes like this and try to apply these books to our lives without putting them in the context of redemption history, we’ll miss the point.  And we may read into them promises that God never made.   So, we’ll spend the rest of this section considering two broad theological themes: kingship and rest.
 
 [TAKE QUESTIONS]
+
+__[SLIDE #6]__
 
 ## I. Kingship
 
@@ -102,7 +108,7 @@ To emphasize the harsh reality that a human leader could never be the people’s
 
 > “And Samuel grew, and the Lord was with him and let none of his words fall to the ground.  And all Israel from Dan to Beersheba knew that Samuel was established as a prophet of the Lord.”
 
-But then Samuel raises sons who are corrupt.  And so Saul becomes king.  Decline and rise.  Eli transitions to Samuel, who transitions to Saul, who transitions to David.  Which begs the question, is kingship gonna work?  Well, the answer is “no.”  At least not the way the people of Israel thought it would.  The people of Israel thought the establishment of an earthly king would bring them the comfort and safety they sought, but it did not.  The kings keep declining.  Even David sins and falls short.
+But then Samuel raises sons who are corrupt.  And so Saul becomes king.  _Decline and rise._  Eli transitions to Samuel, who transitions to Saul, who transitions to David.  Which begs the question, is kingship going to work?  Well, the answer is “no.”  At least not the way the people of Israel thought it would.  The people of Israel thought the establishment of an earthly king would bring them the comfort and safety they sought, but it did not.  The kings keep declining.  Even David sins and falls short.
 
 And so, to further emphasize Israel’s need for a perfectly righteous king, God begins to deal with the people based on the faithfulness or faithlessness of their king.  The king functions as a representative of the nation, especially when it comes to the covenant blessings and curses that God promised in Deuteronomy[^1].   If the king is faithful, the people are blessed with prosperity and peace.  If he sins and breaks faith with God, the people are cursed with famine and exile, just like God foretold through Moses.  For example, listen to 2 Sam. 21:1: “Now there was a famine in the days of David for three years, year after year. And David sought the face of the Lord. And the Lord said, ‘There is bloodguilt on Saul and on his house, because he put the Gibeonites to death.’”  *One king’s disobedience affects the whole nation*.
 
@@ -134,7 +140,7 @@ Here Yahweh plays with the word “house.”  The Hebrew word can be used in two
 
 Now, verse 13 also says that this promised king will build a house for God’s name.  How should we understand what’s going on here?  Well, now may be a good time to talk about what we call “near and far fulfillment” of prophecy.  Whenever a prophet would make a prediction about the distant future, there was often a “near,” incomplete fulfillment of that prophecy.  But then a longer-term, more complete fulfillment.
 
-So, long-term, one of David’s descendants will reign forever and ever.  His “house” will never end.  But, short-term, David’s immediate son will build a house, meaning the physical temple that David wanted to build.  This “near” prophecy comes to pass in Solomon, David’s first son to reign after him.  No, his kingdom doesn’t last forever.  But this near fulfillment points forward to David’s greater son—Jesus.  Hebrews 3:6 helps us here.  “Christ is faithful over God's house as a son. And we are his house if indeed we hold fast our confidence and our boasting in our hope.”
+So, long-term, one of David’s descendants will reign forever and ever.  His “house” will never end.  But, short-term, David’s immediate son will build a house, meaning the physical temple that David wanted to build.  This “near” prophecy comes to pass in Solomon, David’s first son to reign after him.  No, his kingdom doesn’t last forever.  But this near fulfillment points forward to David’s greater son—Jesus.
 
 All of this demonstrates God’s plan to provide perfect rest for his people.  The establishment of David’s throne and of Jerusalem as the city of God finally allows Israel to end their displaced existence and to construct a settled life. The promise that one of David’s sons will build a temple for the Lord further underscores this notion of rest.  It gives a sense of permanence as the mobile tabernacle is traded for a glorious, fixed place of worship. Most importantly, Yahweh’s covenant with David secures that his “house” of peace and justice will be established forever through the Messiah to come. This rest, the rest that comes from Christ, is our hope too!
 
@@ -142,29 +148,27 @@ Think about how great our rest in Jesus is.  In Hebrews 1:3 we read, “[Jesus] 
 
 [Take Questions]
 
-## Conclusion
-
-Ruth and 1st and 2nd Samuel are an exciting chapter of the Old Testament.  But, like everything else in the Old Testament, they leave us longing for more.  All Israel must be wondering, when will this eternal kingdom come? What will this eternal King be like?  That leads to the rest of the Old Testament.  But thinking just about what we’ve seen today, we should leave here secure secure in the knowledge that God cares for his people.  He’s given us a King who will faithfully care for us so that our ultimate rest can be found in God.
-
-[PRAY]
-
 # Introduction to Job
 
 For the last portion of today's class we are going to look at the book of Job. You may find yourself wondering... Joshua, Judges, Ruth, Samuel... Job?  Yes.  Let me explain.
 
-Take a look at the second handout you received when you walked in: “The Old Testament in Redemptive-Historical Order.”  You can see a thematic grouping of the books of the Old Testament, moving from the Creation of God’s people in the Pentateuch to the establishment of God’s people in the land, and the crowning of God’s king that we saw last week with Ruth and 1 and 2 Samuel.  The next book in your bible, 1 Kings, begins the process of reversing all that with the disobedience of God’s kings.  That’s a story told in Kings and annotated by the prophets.  Then the exile, or the disestablishment of God’s people, and finally the re-creation of God’s people.
+__[SLIDE #7]__
+
+Take a look at the second handout you received when you walked in: “The Old Testament in Redemptive-Historical Order.”  You can see a thematic grouping of the books of the Old Testament, moving from the Creation of God’s people in the Pentateuch to the establishment of God’s people in the land, and the crowning of God’s king that we just saw with Ruth and 1 and 2 Samuel.  The next book in your bible, 1 Kings, begins the process of reversing all that with the disobedience of God’s kings.  That’s a story told in Kings and annotated by the prophets.  Then the exile, or the disestablishment of God’s people, and finally the re-creation of God’s people.
 
 Now, in the middle, as the kingship is established, we have the wisdom and praise of God’s king.  Because if you think about it, the often-termed “wisdom literature” in the middle of your Bible is quite related to God’s king.  Many of the Psalms were written by David.  Proverbs, Ecclesiastes, and the Song of Songs are either credited to or closely related to David’s son Solomon.  These books were wisdom for ruling well as God’s king - even more than they were intended for God’s people.
 
-And so we’re going to take a break from Israel’s history of kings to look at God’s wisdom for kings.
+And so we’re going to take a break from Israel’s _history of kings_ to look at God’s _wisdom for kings_.
 
 Of course, ironically, as we get to Job you can kind of forget everything I just said.  Because Job wasn’t written by a king at all.  So why are we studying Job now?  Well . . . basically because it’s wisdom literature and we’re squeezing it in with the rest of the wisdom literature which does fit here.  Job is timeless in its wisdom.  *It seems to be set in the time of Abraham (or even before) based on how Job lives, how he measures wealth, and so forth*.  But the use of the covenant term Yahweh for God by the narrator suggests that the story was compiled after the Exodus when God gave his people his covenant name.  So it is a book we don’t need to fit neatly into a chronology of outside events.  It’s interesting that when the characters themselves speak, they almost always use the generic term “God.”  But when the narrator speaks, he uses Yahweh, which you’ll see in your bibles as “The Lord.”  So whoever compiled this knew a lot more about God than Job did.
+
+__[SLIDE #8]__
 
 So what is Job about?  Most fundamentally, the book of Job is about asking some of life’s most difficult questions.
 
 Why do the righteous suffer in the same way as the unrighteous?  The wicked seem to go unpunished, and many upright people suffer.  How do we explain that?  And, perhaps more importantly, how should the righteous conduct themselves when they suffer?
 
-You can tell that two things are assumed here.  (1) That God is sovereign, ordaining everything that comes to pass; and (2) that God is good, loving what is right and hating what is evil.  The book of Job, much like the book of Ruth that we saw last week and the book of Habakkuk that we’ll get to in the second half of the course, address the gap between what our circumstances seem to say about God and the reality in his Word of his goodness and sovereignty.  When we look at life around us, it seems that either God isn’t in control, or he doesn’t actually care about what is good.   *Job is about understanding how we can trust a good and sovereign God in the midst of unexplained suffering*.
+You can tell that two things are assumed here.  (1) That God is sovereign, ordaining everything that comes to pass; and (2) that God is good, loving what is right and hating what is evil.  The book of Job, much like the book of Ruth that we just saw and the book of Habakkuk that we’ll get to in a few weeks, address the gap between what our circumstances seem to say about God and the reality in his Word of his goodness and sovereignty.  When we look at life around us, it seems that either God isn’t in control, or he doesn’t actually care about what is good.   *Job is about understanding how we can trust a good and sovereign God in the midst of unexplained suffering*.
 
 __Notice I didn’t say that Job explains why these things happen__.  The book is useful in part because it explains why bad things happen to Job.  But Job never finds that out.  Instead, the book is about how we can trust a good and sovereign God despite the nature of our circumstances.  Job is a book about trust.  Not about perfect explanation.  About amassing evidence so that we can take an intellectually honest leap of faith to trust God in difficult circumstances.  Even when we will never find out this side of heaven why those circumstances came to pass.
 
@@ -178,19 +182,19 @@ We’re going to break down the book this morning into three big pieces.  First,
 
 So, we often suffer.  We sometimes understand.  But we can always trust.  Let’s get started.
 
+__[SLIDE #9]__
+
 ## We Often Suffer
 
 When we first meet Job, we see that he is a righteous man.  Chapter 1, verse 1: “There was a man in the land of Uz whose name was Job, and that man was blameless and upright, one who feared God and turned away from evil.”  not only was Job righteous, he was wealthy, verses 2 and 3.  And wise, as we see in verse five.  In all, as we see in verse three, Job was “the greatest of all the people of the East.”
 
 What is most well-known about Job, though, isn’t all of this.  It’s what he loses.  Eight verses chronicle his descent into utter ruin.  First he loses his wealth, verse 13:
 
-> 13 Now there was a day when his sons and daughters were eating and drinking wine in their oldest brother's house, 14 and there came a messenger to Job and said, “The oxen were plowing and the donkeys feeding beside them, 15 and the Sabeans fell upon them and took them and struck down the servants with the edge of the sword, and I alone have escaped to tell you.” 16 While he was yet speaking, there came another and said,“ The fire of God fell from heaven and burned up the sheep and the servants and consumed them, and I alone have escaped to tell you.” 17 While he was yet speaking, there came another and said, “The Chaldeans formed three groups and made a raid on the camels and took them and struck down the servants with the edge of the sword, and I alone have escaped to tell you.” 18 While he was yet speaking, there came another and said, “Your sons and daughters were eating and drinking wine in their oldest brother's house, 19 and behold, a great wind came across the wilderness and struck the four corners of the house, and it fell upon the young people, and they are dead, and I alone have escaped to tell you.”
+> 13 Now there was a day when his sons and daughters were eating and drinking wine in their oldest brother's house, 14 and there came a messenger to Job and said, “The oxen were plowing and the donkeys feeding beside them, 15 and the Sabeans fell upon them and took them and struck down the servants with the edge of the sword, and I alone have escaped to tell you.” 16 While he was yet speaking, there came another and said, "The fire of God fell from heaven and burned up the sheep and the servants and consumed them, and I alone have escaped to tell you." 17 While he was yet speaking, there came another and said, “The Chaldeans formed three groups and made a raid on the camels and took them and struck down the servants with the edge of the sword, and I alone have escaped to tell you.” 18 While he was yet speaking, there came another and said, “Your sons and daughters were eating and drinking wine in their oldest brother's house, 19 and behold, a great wind came across the wilderness and struck the four corners of the house, and it fell upon the young people, and they are dead, and I alone have escaped to tell you.”
 
 On top of all this, Job loses his health.  Chapter 2, verses 7.  All of this, taken from Job in a moment.
 
-Turning from Job to ourselves, it’s worth noting that while Job probably suffered more *suddenly* than we will, he didn’t suffer more *comprehensively* than we will suffer.  As Sir Walter Scott said, “Come he slow or come he fast, it is but death that comes at last.”
-
-Indeed, suffering is universal.  Yet sometimes we Christians avoid admitting the doubt, fear, failing, anger, or conflict that suffering can bring.  We like our church services to be like motivational pep rallies.  But if we want to have a realistic understanding about what it means to be a follower of the Crucified One, if we want to live in the real world, we should recognize that, although we may be able to psyche ourselves up for a little while with a rose-colored version of Christianity, we won’t be able to convince many people around us.  And we won’t be dealing honestly with ourselves either.  Job is a good example of someone who suffers, and deals honestly with his sufferings.
+Suffering is universal.  Yet sometimes we Christians avoid admitting the doubt, fear, failing, anger, or conflict that suffering can bring.  We like our church services to be like motivational pep rallies.  But if we want to have a realistic understanding about what it means to be a follower of the Crucified One, if we want to live in the real world, we should recognize that, although we may be able to psyche ourselves up for a little while with a rose-colored version of Christianity, we won’t be able to convince many people around us.  And we won’t be dealing honestly with ourselves either.  Job is a good example of someone who suffers, and deals honestly with his sufferings.
 
 That’s the first thing we see in this book: we often suffer.
 
@@ -200,7 +204,7 @@ That’s the first thing we see in this book: we often suffer.
 
 The second statement that summarizes Job’s message to us: *we sometimes understand*.  This is really what most of the book is about.
 
-Let me give you a brief overview of the rest of the book.  You’ll see it outlined on the back page of your handout.
+Let me give you a brief overview of the rest of the book.  You’ll see it outlined on page 6 of your handout.
 
 At the end of chapter 2, three of Job’s friends come to comfort him, and they sit with them in silence for a whole week.  Very wise of them.  Finally, in chapter 3, Job breaks the silence.   He pours out his complaint.
 
@@ -224,23 +228,13 @@ To which Job’s response is simple: “Behold, I am of small account; what shal
 
 God replies,
 
-> 8 Will you even put me in the wrong?
-> Will you condemn me that you may be in the right?
-> 9 Have you an arm like God,
-> and can you thunder with a voice like his?
-> 10 “Adorn yourself with majesty and dignity;
-> clothe yourself with glory and splendor.
-> 11 Pour out the overflowings of your anger,
-> and look on everyone who is proud and abase him. (40:8-11)
+> 8 Will you even put me in the wrong? Will you condemn me that you may be in the right? 9 Have you an arm like God, and can you thunder with a voice like his? 10 “Adorn yourself with majesty and dignity; clothe yourself with glory and splendor. 11 Pour out the overflowings of your anger, and look on everyone who is proud and abase him. (40:8-11)
 
 In the remainder of chapters 40 and 41, God continues to instruct Job and the others about who he is: “Who then is he who can stand before me?  Who has first given to me, that I should repay him?  Whatever is under the whole heaven is mine.” (41:10b-11).
 
 In chapter 42, the last chapter, Job makes his final confession:
 
-> I had heard of you by the hearing of the ear,
-> but now my eye sees you;
-> therefore I despise myself,
-> and repent in dust and ashes.  (3:5-6)
+> I had heard of you by the hearing of the ear, but now my eye sees you; therefore I despise myself, and repent in dust and ashes.  (3:5-6)
 
 The story ends here in chapter 42 with God telling Eliphaz, Bildad, and Zophar that they have been wrong.  He says that what Job has said about God is true. (42:7)  Then he blesses Job.  There are some interesting things God does not say, which we’ll get to those in a moment.  That’s a summary of the book.
 
@@ -295,6 +289,8 @@ I mentioned earlier the story of the disciples asking Jesus, regarding a blind m
 God intends to display his glory in your life and in the lives of everyone around you.  You can be certain of this.  Now, how he specifically intends to do this would take us into other books of the Bible.  But within the context of Job, we can see very clearly that he intends to display his glory in the lives of his children as they continue to serve him amid life’s trials.  And if you are God’s child, reconciled to him through Christ, realize that your very suffering can exquisitely display the glory of God as you serve and worship him in a way that defies the world’s comprehension and abilities.  If you, Christian, are presently enduring a season of suffering, it may be that God is sitting in heaven right now and saying to the heavenly host about him, “Have you considered my servant?”  Could it be that one day you will watch as God shows to all creation the presently unrevealed glories of what he has done by making you in his image and then remaking you as his child?
 
 We often suffer.  We only sometimes understand.  And by God’s grace, we can always trust.
+
+__[SLIDE #10]__
 
 Let’s pray.
 
