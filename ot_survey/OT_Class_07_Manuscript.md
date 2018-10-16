@@ -21,71 +21,71 @@ __[SLIDE #2]__
 
 **Open with prayer.**  _The class then opens with you reading the last three Psalms, end to end without pausing in between.  This should take about 2-3 minutes.  Practice it ahead of time so you can read fairly quickly without making mistakes.  That way you can leave the class with the emotional force of these amazing words as you begin the class._
 
-1 Praise the Lord!<br>
-Praise the Lord from the heavens;<br>
-    praise him in the heights!<br>
-2 Praise him, all his angels;<br>
-    praise him, all his hosts!<br>
-3 Praise him, sun and moon,<br>
-    praise him, all you shining stars!<br>
-4 Praise him, you highest heavens,<br>
-    and you waters above the heavens!<br>
-5 Let them praise the name of the Lord!<br>
-    For he commanded and they were created.<br>
-6 And he established them forever and ever;<br>
-    he gave a decree, and it shall not pass away.[a]<br>
-7 Praise the Lord from the earth,<br>
-    you great sea creatures and all deeps,<br>
-8 fire and hail, snow and mist,<br>
-    stormy wind fulfilling his word!<br>
-9 Mountains and all hills,<br>
-    fruit trees and all cedars!<br>
-10 Beasts and all livestock,<br>
-    creeping things and flying birds!<br>
-11 Kings of the earth and all peoples,<br>
-    princes and all rulers of the earth!<br>
-12 Young men and maidens together,<br>
-    old men and children!<br>
-13 Let them praise the name of the Lord,<br>
-    for his name alone is exalted;<br>
-    his majesty is above earth and heaven.<br>
-14 He has raised up a horn for his people,<br>
-    praise for all his saints,<br>
-    for the people of Israel who are near to him.<br>
-Praise the Lord!<br>
-1 Praise the Lord!<br>
-Sing to the Lord a new song,<br>
-    his praise in the assembly of the godly!<br>
-2 Let Israel be glad in his Maker;<br>
-    let the children of Zion rejoice in their King!<br>
-3 Let them praise his name with dancing,<br>
-    making melody to him with tambourine and lyre!<br>
-4 For the Lord takes pleasure in his people;<br>
-    he adorns the humble with salvation.<br>
-5 Let the godly exult in glory;<br>
-    let them sing for joy on their beds.<br>
-6 Let the high praises of God be in their throats<br>
-    and two-edged swords in their hands,<br>
-7 to execute vengeance on the nations<br>
-    and punishments on the peoples,<br>
-8 to bind their kings with chains<br>
-    and their nobles with fetters of iron,<br>
-9 to execute on them the judgment written!<br>
-    This is honor for all his godly ones.<br>
-Praise the Lord!<br>
-1 Praise the Lord!<br>
-Praise God in his sanctuary;<br>
-    praise him in his mighty heavens![b]<br>
-2 Praise him for his mighty deeds;<br>
-    praise him according to his excellent greatness!<br>
-3 Praise him with trumpet sound;<br>
-    praise him with lute and harp!<br>
-4 Praise him with tambourine and dance;<br>
-    praise him with strings and pipe!<br>
-5 Praise him with sounding cymbals;<br>
-    praise him with loud clashing cymbals!<br>
-6 Let everything that has breath praise the Lord!<br>
-Praise the Lord!<br>
+| 1 Praise the Lord!
+| Praise the Lord from the heavens;
+|     praise him in the heights!
+| 2 Praise him, all his angels;
+|     praise him, all his hosts!
+| 3 Praise him, sun and moon,
+|     praise him, all you shining stars!
+| 4 Praise him, you highest heavens,
+|     and you waters above the heavens!
+| 5 Let them praise the name of the Lord!
+|     For he commanded and they were created.
+| 6 And he established them forever and ever;
+|     he gave a decree, and it shall not pass away.[a]
+| 7 Praise the Lord from the earth,
+|     you great sea creatures and all deeps,
+| 8 fire and hail, snow and mist,
+|     stormy wind fulfilling his word!
+| 9 Mountains and all hills,
+|     fruit trees and all cedars!
+| 10 Beasts and all livestock,
+|     creeping things and flying birds!
+| 11 Kings of the earth and all peoples,
+|     princes and all rulers of the earth!
+| 12 Young men and maidens together,
+|     old men and children!
+| 13 Let them praise the name of the Lord,
+|     for his name alone is exalted;
+|     his majesty is above earth and heaven.
+| 14 He has raised up a horn for his people,
+|     praise for all his saints,
+|     for the people of Israel who are near to him.
+| Praise the Lord!
+| 1 Praise the Lord!
+| Sing to the Lord a new song,
+|     his praise in the assembly of the godly!
+| 2 Let Israel be glad in his Maker;
+|     let the children of Zion rejoice in their King!
+| 3 Let them praise his name with dancing,
+|     making melody to him with tambourine and lyre!
+| 4 For the Lord takes pleasure in his people;
+|     he adorns the humble with salvation.
+| 5 Let the godly exult in glory;
+|     let them sing for joy on their beds.
+| 6 Let the high praises of God be in their throats
+|     and two-edged swords in their hands,
+| 7 to execute vengeance on the nations
+|     and punishments on the peoples,
+| 8 to bind their kings with chains
+|     and their nobles with fetters of iron,
+| 9 to execute on them the judgment written!
+|     This is honor for all his godly ones.
+| Praise the Lord!
+| 1 Praise the Lord!
+| Praise God in his sanctuary;
+|     praise him in his mighty heavens![b]
+| 2 Praise him for his mighty deeds;
+|     praise him according to his excellent greatness!
+| 3 Praise him with trumpet sound;
+|     praise him with lute and harp!
+| 4 Praise him with tambourine and dance;
+|     praise him with strings and pipe!
+| 5 Praise him with sounding cymbals;
+|     praise him with loud clashing cymbals!
+| 6 Let everything that has breath praise the Lord!
+| Praise the Lord!
 
 Amen.  Good morning!  Hopefully that gives you a taste of the glory of our subject matter for today: the Psalms, often described as the hymnal of the Bible. Christians through the ages have testified to the power and the solace of the psalms to speak to God in times of great sadness and times of great joy. The question for us today is, how do they speak to us?
 
@@ -119,13 +119,13 @@ The Psalms are entirely poetry, which means that the language is condensed and c
 - English poetry, as you know, tends to work through sound, rhythm and rhyme.
 - However, Hebrew poetry uses “parallelism” to either reinforce, contrast or develop and expand an idea.
 
-> Example of reinforcement: Psalm 103:10:<br>
->_He does not deal with us according to our sins,_<br>
->_nor repay us according to our iniquities._<br>
-
-> Example of contrast: Psalm 63:8<br>
->_My soul clings to you;_<br>
->_your right hand upholds me._<br>
+|  Example of reinforcement: Psalm 103:10:
+| _He does not deal with us according to our sins,_
+| _nor repay us according to our iniquities._
+|
+|  Example of contrast: Psalm 63:8
+| _My soul clings to you;_
+| _your right hand upholds me._
 
 At first, this verse expresses our desire to hold onto God. But then it turns the idea around and reminds us of the opposite - that he is holding us.
 
@@ -158,17 +158,17 @@ The first two psalms are particularly worth noting for our purposes, because the
 
 - Look at this righteous man in verses 1 to 3.
 
-> Blessed is the man
-> who walks not in the counsel of the wicked,
-> nor stands in the way of sinners,
->    nor sits in the seat of scoffers;
-> but his delight is in the law of the Lord,
->    and on his law he meditates day and night.
-> He is like a tree
->    planted by streams of water
->that yields its fruit in its season,
->    and its leaf does not wither.
-> In all that he does, he prospers.
+| Blessed is the man
+|   who walks not in the counsel of the wicked,
+| nor stands in the way of sinners,
+|   nor sits in the seat of scoffers;
+| but his delight is in the law of the Lord,
+|   and on his law he meditates day and night.
+| He is like a tree
+|   planted by streams of water
+| that yields its fruit in its season,
+|   and its leaf does not wither.
+| In all that he does, he prospers.
 
 - So who is this model of righteous living, who delights in God’s law, meditating on it day and night?  Was it any of the Israelites?  Is it any of us?
 
@@ -307,6 +307,134 @@ So being sensitive to context, we can understand the Psalms as both an amazing m
 
 So let’s do just that.  And use the Psalms as God’s perfect gift to gain access to that marvelous theater of worship.  Let’s pray.
 
+# Proverbs
+
+“A penny saved is a penny earned.” “Early to bed, early to rise makes a man health, wealthy, and wise.” “God helps those who help themselves.”
+
+We hear them all our lives: short, pithy sayings intended to help us live better.  We call them proverbs. If you heard that list of sayings and wondered what they all have in common, well, none of them are in the Bible! Today, we’re going to consider most of the proverbs that are in the Bible.  The book Proverbs.  Some of these proverbs are linked thematically, and some seem to stand on own. In today’s class we’ll consider what proverbs are and aren’t, a method for interpreting this genre of Scripture, and themes that pervade the entire book. Most important we’ll see that the Book of Proverbs, unlike the short quips I just mentioned, points us to something far greater than advice for living a better life today.  They point us to the true Wisdom that is found only in Jesus Christ.
+
+But let’s start by assembling our own knowledge of proverbs. __*What are some verses in Proverbs that have been most meaningful to you, and why?*__
+
+## Context
+
+First, some context.  Most of this book was written by King Solomon.  But that actually has relatively little bearing on how we interpret Proverbs.  What may have more effect on interpretation is that many times in the first chapters Solomon is addressing his son.  It’s as though he’s teaching this son how to be a man.  So the Proverbs are full of the wisdom of a man who has lived life and seen much of the world and wants to pass on what he’s learned.
+
+In terms of redemptive-historical context, there isn’t much in Proverbs that moves the story line of God’s plan of salvation forward.  But the proverbs do typify the wisdom a king needs to rule over God’s people.  So they point to Christ, the great king who possesses the greatest wisdom and will rule over God’s people forever.
+
+That means that once we understand how to interpret them, we can generally apply proverbs directly to our lives.  There’s not much translation work like there is, say, for the Levitical food laws.  That’s one reason why Proverbs is so beloved by Christians today.
+
+## Outline/Overview of the Book
+
+So what is the overall theme of the book?  Frankly, there are lots of themes: the fear of the Lord, the power of the tongue, what makes a godly woman, what it means to truly live life, how to get wisdom, receiving instruction, the sovereignty of God, honesty, marriage, sex, family, work, economics, generosity, friendship, and on an on.  But above all this, there is the central theme of wisdom.  Two statements can serve as a theme for the entire book.
+
+_Wisdom is fearing the Lord, being teachable, and having skill in godly living.  The source, the means, and the goal of wisdom is the Lord._
+
+Fearing the Lord: living life in relation to who he really is.
+
+Being teachable: wisdom isn’t just about what you already know; it’s also about your humility in continuing to learn.
+
+Having skill in godly living: wisdom is knowledge in action.
+
+And where does wisdom come from?  God.  He is the source of wisdom.  God is also the means by which anyone gets wisdom.  All wisdom comes from God as a gift.  And by the goal of wisdom, I mean that the ultimate value of having wisdom is to know God better.
+
+The book of Proverbs can be divided into three main sections, as you can see in the outline on the back of your handout.  The first nine chapters are by Solomon, intended as advice for a young man.  Then the middle section are other proverbs by Solomon.  Finally, the last two chapters are proverbs by two men: Agur and Lemuel.
+
+For the rest of today’s class, we’ll look at the genre of proverbs: what they are and how we can interpret them.  And then we’ll step thematically through the book as we consider various aspects of wise living that we see here.  So first:
+
+## What are the Proverbs
+
+The Proverbs are inspired by God.  But rather than teaching absolute rules that govern the universe - like we see elsewhere in Scripture - they teach what is generally true.  They are __general principles and observations, seen in the created order by those who fear the Lord__.  Take for example __Proverb 26:27__.  It says, “Whoever digs a pit will fall into it, and a stone will come back on him who starts it rolling.”  Does that mean that every one who has ever dug a pit has fallen in, or that everyone who has ever rolled a stone has been crushed by it?  No.  I myself have dug pits and rolled stones in safety.  It’s a proverb about deceit.  The pit here is intended to harm someone.  And rolling a stone is to fudge property boundaries which were marked by stones in the ancient Near East.  So the writer’s saying that your deceit will only come back to bite you in the end.  That’s a good principle to live by and always remember isn’t it?  But it’s just not true that every lie harms the liar (at least in this life).  But generally, lying doesn’t pay.  Even in this life, over the long-haul.  Generally speaking, lies do come back to bite us in the end.  __*So the application of the proverb then is what?*__  [WAIT FOR SOMEONE TO ANSWER]  Don’t try to deceive people, because, nine times out of ten, you will only harm yourself in your deceit.  
+
+Nonetheless, some proverbs are always true because they describe eternal truth about God and the hardwired workings of the universe.  You can spot them because they make sweeping claims that simply can’t apply some times and not others.  Take for example Proverb 16:33.  “The lot is cast into the lap, but its every decision is from the Lord.”  This is proverb affirming God’s sovereignty.  And if He’s not sovereign all the time, then He’s not sovereign.  Furthermore, the proverb says that every decision is from the Lord.  That word “every” is a bit of a give away.  So this proverb functions as a universal principle rather than some sort of advice.
+
+Most of the proverbs fall into the first category though, rather than the second.  In that sense, think of the book of Proverbs as a manual for fulfilling God’s creation mandate to humankind, to exercise dominion over his earth.  And for Old Testament Israel, that mandate was fulfilled especially as a nation, so this serves even
+
+more pointedly as wisdom for God’s king.  And in general, Proverbs tells us that if we do what is right things will go well.  But that’s not always the case, is it?  Not today, and not in the Old Testament either.  You might think of the book of Job as being about the exceptions to this general rule.  Sometimes the righteous suffer.  So the Proverbs are generally true, but not always - and we have a whole book of wisdom literature to grapple with that exception.
+
+I can’t tell you how important it is to keep this in mind.  Most of the Proverbs are not always true.  You often need to put the words “in general” in front of a proverb as you apply it to your life.  And it becomes dangerous when we don’t.  Because we end up thinking God has said something is true all the time when that’s never what he intended to say.  “So you’re telling me I can’t take the Bible at its literal word?  Heretic!”  No.  The Bible is completely true.  We just need to be careful to accept it as literally true to the extent it intends to be that way.  We’d never put our foot down on the historical event of the Good Samaritan, would we.  Because clearly Jesus intended that parable as a _story_.  Not an actual event.  In the same way, we need to interpret Proverbs as they were intended to be read - as statements that are generally true.  I’ll give you a New Testament example.  In Ephesians, Paul tells us to not let the sun go down while you are still angry.  How many young couples have argued themselves silly late at night because they think Paul says it’s a sin to go to bed with a dispute unresolved?  No: it’s a proverb.  Generally, we should resolve things quickly and not let them fester.  But it’s not like Paul is telling people in Nome, Alaska that they can be angry all summer long but never in the winter.  We need to interpret Scripture according to how each genre is intended to be interpreted.
+
+## How are the Proverbs interpreted
+
+So, with this basic understanding of Proverbs, let’s think further about interpretation.  Last week we talked about how Hebrew poetry uses “parallelism.”  Where one line expands on the line before.  Well, the Proverbs are a style of poetry, so everything we said last week still applies.  However, they are slightly different because in Proverbs the parallels are generally contrasts.  “The wise of heart will receive commandments, but a babbling fool will come to ruin” (10:8).
+
+Here are a few steps to guide you in interpreting proverbs:
+
+1. First determine the __parallelisms__.  What in the second line is in parallel with “the wise in heart?”  [WAIT FOR SOMEONE TO ANSWER]  “A babbling fool.”  And what’s in parallel with the verb, “accept?”  [WAIT FOR SOMEONE TO ANSWER]  “Comes.”  Finally, what’s in parallel with “commands?”  [WAIT FOR SOMEONE TO ANSWER]  “To ruin.”  This one’s an easy one because all the parallel elements are in the same order.  Of course, like all poetry, it’s not an exact science.  Slowing down and mulling over the text opens our eyes to the full meaning of a verse.  
+
+2. Next, identify any __figures of speech__.  Earlier I said that digging a pit and rolling a stone referred to deception.  Sometimes, like with rolling a stone, we might peak into a commentary or a study bible to get a sense of what a figure of speech really means.  But generally they’re as clear in English as they were in ancient Hebrew.
+
+3. Third, __summarize__ what the proverb says in your own words, based on what you’ve found so far.
+
+4. Finally, consider how to apply this to your own life.  Take Proverbs 10:8 that I just read.  It talks about receiving commandments.  Most of us have bosses. Students, you have teachers. Wives, you have husbands.  Members of Immanuel, you have elders.  Kids have parents.  And we all live under the authority of God.  In these relationships, be quick to listen and submit, and don’t argue and bicker over things.  If you obey and submit, you will prove yourself to be wise.  But again, these aren’t absolute laws.  If anyone commands you to sin, obviously you shouldn’t obey.
+
+One value of these steps is that they make you __slow down__ and consider what the Proverb says.  Slowing down like this, and really meditating over a text, will cause things to jump out like they haven’t before.
+
+Sometimes, it helps to consult a few different English translations. For example, take Proverbs 29:18  “Where there is no vision, the people perish.”  How many sermons or political speeches have referred to that King James translation to justify a new “mission statement” or “vision-casting”.  Well, most modern English translations actually translate “vision” as “revelation” and “perish” as “cast of restraint”. So, the NIV, says, “Where there is no revelation, the people cast off restraint.”  Ah.  So it’s _God’s_ vision here.  Not ours.
+
+When we’re looking at more narrative oriented pieces of Scripture, these nuances in the English language can be less significant, because there’s more context for understanding the narrative.  But when we’re looking at truths encapsulated in one or two verses, understanding the meaning of particular words is critical[^7].
+
+## Four Themes of Wisdom
+
+So that’s some guidelines for interpretation.  What do we find as we get into this book?  I’ll give you a framework for wisdom in the Proverbs by looking at four basic themes that we see about wise living.  First, we see:
+
+### Contrasts to wise living
+
+One of the great things about Proverbs is that it doesn’t simply describe wisdom.  It describes the opposite.  And it does that first by describing the Fool.  What is a fool?  Fundamentally, it is someone who despises correction and discipline (17:24).  And this shows up in what he says.  In 14:29 we read, “Whoever is slow to anger has great understanding, but he who has a hasty temper exalts folly.” A fool is quick to spout of whatever comes to his mind, without thought to the impact of his words. Do you say foolish things?  Consider Proverbs 17:28, “Even a fool who keeps silent is considered wise; when he closes his lips, he is deemed intelligent.” While silence cannot change the heart, the ability to hold ones’ tongue is the first step towards wisdom.  
+
+And Proverbs doesn’t simply describe the fool.  It explains the consequences of being foolish.  For one, the fool lacks judgment (chapter 7).  But beyond that: his rejection of correction from the outside, and of discipline on the inside, will ultimately lead to death.  5:23: “He dies for lack of discipline, and because of his great folly he is led astray.” _Essentially, fools are atheists. They have determined in their hearts to live as if there were no God[^8]._
+
+That’s our first contrast.  But Proverbs has a second for us as well: the Sluggard.  The sluggard is easy to recognize: he consistently fails to take advantage of present opportunities. He lets them slip by, making excuses for himself along the way. Commentator Derek Kidner has written that the sluggard “does not commit himself to a refusal, but deceives himself by the smallness of his surrenders. So, by inches and minutes, his opportunity slips away.”  Pretty insightful summary, don’t you think?  I think many more of us may be sluggards than realize it.
+
+We live in a fast pace and opportunistic city, but does that mean that sluggards are absent? Or does that mean that only those who are at the bottom of the “power structure” are the sluggards? Isn’t it possible that even the powerful and busy are letting opportunities slip away? Ask yourself: Are you devoting yourself to one thing in order to avoid being disciplined in another? Are you _appearing_ busy and dedicated, so you can make excuses for a lazy attitude in another area?  One mark of the sluggard is his distraction.  He starts eating but can’t bother to finish.  He begins a hundred projects and finishes none.  He disappoints those around him. He prefers laziness to labor. He wants an easy life rather than one spent in doing good. And he is always making excuses. So, what kind of person are you? Do you look for the easy way out at work? Do you finish projects you begin? When you start your week or day do you tackle and then finish the difficult projects first or do you procrastinate?   I am tempted far too often to be the sluggard, even while cloaking myself in the garments of busyness, which I hope others will perceive as diligence.  The wise man sees life as opportunity to image our creative God through meaningful work.
+
+So that’s the contrast to wise living.  But, thankfully, Proverbs also gives us the context for living wisely: relationships.
+
+### Context for wise living
+
+To begin, Proverbs has much to say about the family, from marriage to parent/child relationships. _The wise and godly life, according to Proverbs, pays particular heed to the family._
+
+The building block of family is marriage. The book speaks to romance between husbands and wives, to faithfulness, to describing a noble wife’s character. _At the root of a loving marriage is faithfulness. Nothing should undermine the importance of faithfulness. [So]Proverbs impresses upon our minds and hearts . . . the lesson that we must never underestimate the danger of adultery.  Throughout the Old Testament, the language of marriage is used to describe God’s relationship with his people. So breaking our marital covenants with our spouses, as terrible as that is, points to the even greater transgression of unfaithfulness in our relationship with God._
+
+Proverbs also speaks heavily to the relationship of parents with children.  After all, much of it is written from a father to a son. _Proverbs is preoccupied not with the parents’ provision of the children’s practical needs but their provision of the children’s spiritual needs._ The main thing parents must do for children is to teach them. One of the ways wisdom is taught to children is through correction and discipline. So Proverbs exhorts parents to provide loving correction. “Discipline your son, for there is hope; do not set your heart on putting him to death.”(19:18).
+
+Beyond familial relationships, Proverbs speaks to another set of relationships that will have as great if not greater impact on wise living: friendships. Proverbs doesn’t assume that all friends are good friends. So, the writer warns: “Be not envious of evil men, nor desire to be with them” (24:1). _Given the time we spend with friends, it isn’t surprising that they influence us. For example, we can know that a short temper and lethargy are sinful. But when you choose friends marked by these sins, you will begin to imitate them, as if by osmosis._
+
+Good friends can influence us to wise and righteous living.  And so Proverbs describes the characteristics of a good friend. _Real friends are sensible_ (6:1-5; 17:18), _Real friends are selfless_ (3:29; 14:21; 25:17), _Real friends forgive_ (10:12b), _[They] tell the truth to [each] another_ (27:6)... _It would not be to surprising if real friendship eludes people who elude God, because real friendship begins in our relationship with God. It is as if we get the emotional venture capital in our relationship with God that’s necessary for investing trust in other relationships._ Of course, the standard Proverbs gives for true friendship is high indeed - and in that we see a portrait of the best of friends, the Lord Jesus Christ.
+
+Third theme:
+
+### Communication in Wise living
+
+Proverbs encourages us to use our words carefully. “Whoever guards his mouth preserves his life; he who opens wide his lips comes to ruin” (13:3), “Whoever restrains his words has knowledge, and he who has a cool spirit is a man of understanding” (17:27). In the use of our words, Proverbs goes beyond things like gossip, slander, or lying, and spends significant time addressing hasty words. How are you doing in the category of hasty words? Are you a quick responder? This is a city full of people who are quick on their feet - to their benefit but also, unfortunately, often to their shame.  Are you quick to offer guidance, maybe even Biblical guidance and counsel?  Proverbs warns us that a wise person will not answer until he has gathered sufficient information and has gained an appropriate understanding of the situation and person.  He may even stay silent if that’s what’s best.  “A word fitly spoken is like apples of gold in a setting of silver.” (25:11).  How many new spouses get into trouble on this point?   Truth, but spoken in a way that is not fit.  If you struggle to use your words in a wise manner, study what Proverbs says about this. Ask a friend or your spouse how you are doing in relation to those verses.
+
+But according to Proverbs, even more important than the words we speak are the words we hear. _Wisdom is found through listening to the words of others. Listening should be given priority over speaking. Further, the idea of “hearing” in the Bible does not only mean listening, it means listening and following up with right action._ So, we read at the very outset of the book, “Hear, my son, your father's instruction, and forsake not your mother's teaching” (1:8). Listening to and heeding wise words is the beginning of wisdom. Do you feel like you have a lot to teach but little to learn? Well, you might want to consider whether the learning attitude of the wise is exemplified in your life. Are there individuals that you refuse to learn from? A wise man will see every relationship as an opportunity for growth in wisdom.
+
+That’s our third theme.  And fourth:
+
+### The Outcome of Wisdom
+
+Proverbs teaches us much about living wisely in this present world, but it also teaches us about what it to come. Proverbs tells us that we are not static; every day we are walking either toward life or toward death. Proverbs 19:16 says, “Whoever keeps the commandment keeps his life; he who despises his ways will die.” The matters of Proverbs are matters of Life and Death. _We will all be held accountable to God. And death will come to all of us. God will summon each of us to this final accounting._
+
+So then, how should we prepare for this accounting?  What should this outcome of wisdom lead us to do?  _Shall we work really hard in order to prove ourselves righteous and wise before God? Sometimes people think that all this practical wisdom in Proverbs means it’s a book of morality and that it teaches us to save ourselves by following its requirements. But it doesn’t._ Proverbs tells us we are accountable to God for our sin.  That God will judge us for our wrong actions.  That we must confess our sins if we are to receive mercy.  And it tells us
+
+“By steadfast love and faithfulness iniquity is atoned for, and by the fear of the Lord one turns away from evil.” (16:6). 
+
+## Where is Jesus
+
+We can’t conclude without asking where Jesus and the gospel are in the Proverbs (back of your handout).  Well, the Proverbs point us to Christ in at least two ways.
+
+First, they describe the beauty of Jesus.  In __Matthew 12:42__ He said that He is greater than Solomon in all his wisdom.  No one understood this world like Jesus did.  No one took advantage of opportunity like Jesus did.  No spoke wiser words than Jesus.  No one resisted temptation like Jesus We can read the Proverbs to study the magnificence of his wisdom.
+
+But second, we can read the Proverbs to show us our need for Jesus.  Remember what I said ago about the wisdom of Proverbs being the difference between life and death?  It’s one thing to read the Ten Commandments and say “yes, I do all these things.”  Though if we really understood them - especially as expounded by Jesus - we could never say even that.  But if we could, then move to the Proverbs.  Have we lived in perfect wisdom?  Do we deserve life?  If your self-righteousness seems especially hard-hearted, you might find the Proverbs to soften it as you see the foolishness of your own living.  None of us has lived the Proverbs perfectly, none of us can live the Proverbs perfectly, and every time we read this book we should be reminded that only One person has lived this Wisdom of God. In I Corinthians 1:20-24, Paul tells us about perceived foolishness and true wisdom that Proverbs foreshadows
+
+> 20 Where is the one who is wise? Where is the scribe? Where is the debater of this age?  Has not God made foolish the wisdom of the world? 21 For since, in the wisdom of God, the world did not know God through wisdom, it pleased God through the folly of what we preach to save those who believe. 22 For Jews demand signs and Greeks seek wisdom, 23 but we preach Christ crucified, a stumbling block to Jews and folly to Gentiles, 24 but to those who are called, both Jews and Greeks, Christ the power of God and the wisdom of God.
+
+## Conclusion
+
+The Proverbs are rich and full of wisdom.  Read them slowly, and read them contemplatively.  And by all means, strive to apply them, and so understand the fear of the Lord, and find the knowledge of God.   A great pattern for your daily devotional reading is to read the Proverb that corresponds with the date, there are 31 Proverbs, so read the chapter for today. The structure of the book allows you to jump in at whatever date it is even if you’ve missed a few days.
+
+Parents, teach your children the Proverbs.  Much of the wisdom in the first 9 chapters is prefaced with “My son, hear...,” or “My son, listen...”  The book of Proverbs is sort of like a training manual for parents.  The Proverbs are a great resource for you to use to shape your kids into godly men and women.  Then they too will understand the fear of the Lord, and find the knowledge of God.  And as you teach them the Proverbs, teach them that Jesus is the true wisdom of God! 
+
 [^1]: The traditional Hebrew title for the book comes from a word that means “songs of praise” – tehillim. The title “Psalms” comes from the first Greek translation of the Old Testament, taken from the word psallo “to pluck,” a word used in context of stringed instruments.
 
 [^2]: We should recognize that those introductory titles are part of our Bible as it has come down to us and are not just surplus. However, they are not necessarily inspired. The LXX was translated c. 200 BC. Not all are present yet. However, Jesus himself seems to give these superscriptions great weight, basing one of his arguments with the Pharisees on them. Cf. Matt. 22:41-46 & Psalm 110.
@@ -318,3 +446,14 @@ So let’s do just that.  And use the Psalms as God’s perfect gift to gain acc
 [^5]: Paraphrasing Goldsworthy, Preaching the Whole Bible as Christian Scripture, 201
 
 [^6]: This section continues to quote from Drew.
+
+[^7]: In addition to these comments about understanding and interpreting Proverbs, Mark Dever has given us seven guidelines in his overview sermon a few years ago:
+    1. Common Sense is required
+    2. They are always ultimately true
+    3. They are normally true now
+    4. They employ poetic imagery
+    5. They are partial in themselves
+    6. They are sometimes obscure
+    7. As a whole, the proverbs are religious
+
+[^8]: From here on, italicized type indicates direct quotes from Promises Made by Mark Dever.
