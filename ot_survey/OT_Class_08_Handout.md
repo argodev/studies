@@ -59,11 +59,15 @@ A book about marriage?  Or God’s love for his people?
 
 ## Theme
 
+Option #1:
+
 _The Song of Solomon sings of the son of David, who is the ideal king of Israel, who is the seed of the woman, seed of the Abraham, seed of Judah, seed of David, who enjoys uninhibited, unashamed intimacy with his beloved, in a garden that belongs to him._
 
-## The Courtship
+Option #2:
 
-“Do not arouse or awaken love until it so desires.”
+_God has created the sexual relationship between man and woman as a beautiful gift. This relation, and the entire marriage relationship is regularly used in Scripture to illustrate the closeness of the relationship between Christ and the Church. Satan's perversion of that gift does not justify the rejection/embarrassment of the gift by Christians. The Song of Songs reminds us of the beauty of this relationship and calls us to the right (i.e. biblical) view of it_
+
+## The Courtship
 
 ## The Wedding
 

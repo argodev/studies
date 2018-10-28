@@ -17,21 +17,17 @@ fontfamilyoptions: sfdefault
 
 Welcome to the second half of the Old Testament class!  So far we’ve worked our way through Israel’s history up through David and then side-stepped into the wisdom literature: Job, Psalms, and Proverbs — essentially the wisdom required by Israel’s kings to act as the rulers of God’s people on God’s behalf.  This morning, we finish up the wisdom literature with Ecclesiastes and the Song of Songs and then return to the historical books with 1 and 2 Kings.
 
-As we get into these books, let me frame how you should think of them.  In many ways, these books function as commentary on Genesis 2 and 3.  Like Proverbs, the Song of Songs is a “how to” manual for exercising dominion, as Adam and Eve were commanded to in Genesis 2.  But whereas Proverbs focuses on the command to work and care for the Garden — wisdom for our “day jobs” within God’s kingdom, so to speak, the Song of Songs focuses on the other side of the creation mandate: being fruitful and increasing in number.  In many ways, the Song of Songs is all about Genesis 2:25—“the man and his wife were both naked and were not ashamed.”  What does that union look like?  Read the Song of Songs.
-
 Now, if Proverbs and the Song of Songs in general give us wisdom for operating in the world that should be, the world of Genesis 2, Ecclesiastes is commentary on the world of Genesis 3.  The world of the fall.  What does it look like to search for meaning in a world wracked by sin?  That’s Ecclesiastes.
 
-That’s a key difference between these two books.  One thing they have in common is how easy it is in both books to get lost in the twists and turns and miss the main message.  That’s why Ecclesiastes and the Song are often mined for pithy quotes but rarely understood as whole books.  So it’s our goal today to try to understand Solomon’s intent in writing, and the one point he’s trying to make in each book.  It’s a big task, so let’s get started.  We’ll begin with Ecclesiastes.
+One thing the first two books have in common is how easy it is in both books to get lost in the twists and turns and miss the main message.  That’s why Ecclesiastes and the Song are often mined for pithy quotes but rarely understood as whole books.  So it’s our goal today to try to understand the author's intent in writing, and the one point he’s trying to make in each book.
 
 # ECCLESIASTES
 
 ## Context
 
-First, some context.  Chapter 1, verses 1 and 12 tell us that the author was a son of David[^1].  Which one?  It could have been Solomon or a much later descendant.  I’ll simply refer to him as Solomon.  But with nothing historically to place him in the book ends up having a timeless presence among us, not dissimilar to Job.  So how do we establish some context for this book within redemptive history?  
+First, some context.  Chapter 1, verses 1 and 12 tell us that the author was a son of David[^1].  Which one?  It could have been Solomon or a much later descendant.  But with nothing historically to place him in the book ends up having a timeless presence among us, not dissimilar to Job.  So how do we establish some context for this book within redemptive history?  
 
-A few thoughts for you.  First, we can think of this book, as I mentioned before, as a how-to guide to life in a fallen world.  In that sense, it sits atop the story line of redemptive history, applicable to all time.  Second, we can think of this book as it was used by the first compilers of the Old Testament.  Though not inspired, this tradition is nonetheless informative.  In that initial ordering, the ordering that Jesus would have been taught, Ecclesiastes sits near the end of the Bible with material written after the exile, between Esther and Daniel, Ezra, and Nehemiah.  In that sense, Ecclesiastes may have been positioned as an answer to the meaninglessness life in and after exile.  It gets to the existential questions raised by a people who had lost their land, their temple, their nationhood, and as a result, their identity.
-
-Well, with that as background, what is the message of this book?
+A few thoughts for you.  First, we can think of this book as a how-to guide to life in a fallen world.  In that sense, it sits atop the story line of redemptive history, applicable to all time.  Second, we can think of this book as it was used by the first compilers of the Old Testament.  Though not inspired, this tradition is nonetheless informative.  In that initial ordering, the ordering that Jesus would have been taught, Ecclesiastes sits near the end of the Bible with material written after the exile, between Esther and Daniel, Ezra, and Nehemiah.  In that sense, Ecclesiastes may have been positioned as an answer to the meaninglessness life in and after exile.  It gets to the existential questions raised by a people who had lost their land, their temple, their nationhood, and as a result, their identity.
 
 ## Theme
 
@@ -54,7 +50,7 @@ Now.  I began with the first words of the book declaring everything meaningless.
 
 ## Structure and Outline
 
-The book begins with the section I was just reading with an introduction that essential works as an antithesis.  All is vain.  Incidentally, the skeptical honesty of this book is powerful and refreshing.  This is how all of us sometimes feel.  Praise God that he’s constructed a piece of his word to draw us from cynicism back to Christ and to faith.  Flip your handout over and you can see how the book works its way out of cynicism.
+The book begins with the section I was just reading with an introduction that essentially works as an antithesis.  All is vain.  Incidentally, the skeptical honesty of this book is powerful and refreshing.  This is how all of us sometimes feel.  Praise God that he’s constructed a piece of his word to draw us from cynicism back to Christ and to faith.  Look at page 3 of your handout and you can see how the book works its way out of cynicism.
 
 Note that with this introduction completed, the book shifts from third-person — talking about the Teacher — to first person — the words of the Teacher.  We’ll flip back to third-person in the last chapter for the epilogue.
 
@@ -78,9 +74,9 @@ Now remember, the flow of thought is important.  Nothing that man can do between
 
 What a change in outlook!  We see words like “better” and “enjoyment” and “from the hand of God” and “knowledge” and “joy.”  A long way from “vanity” and “striving after the wind.”  What’s changed?  Same facts, same life.  But now a new perspective because now this is life with God.
 
-Let’s read __verse 24__ again.  “There is nothing better for a person than that he should eat and drink and find enjoyment in his toil. This also, I saw, is from the hand of God.”  Notice he says that the best thing a man can do is to eat and drink and enjoy his work.  I thought he just said that all that was vanity.  Why does he now _recommend_ work?  How can he say there can be, and ought to be, satisfaction and joy in all of life?  That’s what “eat and drink” means.  It’s a metaphor to mean “everything one does,” for eating and drinking are the base of all activities.  So you should live life, and be happy, and actually enjoy the labor of your hands.  Can that really be what he’s saying?  What’s the catch?  Well the catch is in the rest of the verse.  “This also, I saw, is from the hand of God.”  Solomon has seen many things in chapters 1 and 2.  But there is one other thing he has seen.  That “eating and drinking,”--that is to say--“the living of life” _comes from the hand of God_.  Well, this changes _everything_!
+Let’s read __verse 24__ again.  “There is nothing better for a person than that he should eat and drink and find enjoyment in his toil. This also, I saw, is from the hand of God.”  Notice he says that the best thing a man can do is to eat and drink and enjoy his work.  I thought he just said that all that was vanity.  Why does he now _recommend_ work?  How can he say there can be, and ought to be, satisfaction and joy in all of life?  That’s what “eat and drink” means.  It’s a metaphor to mean “everything one does,” for eating and drinking are the base of all activities.  So you should live life, and be happy, and actually enjoy the labor of your hands.  Can that really be what he’s saying?  What’s the catch?  Well the catch is in the rest of the verse.  “This also, I saw, is from the hand of God.”  The author has seen many things in chapters 1 and 2.  But there is one other thing he has seen.  That “eating and drinking,”--that is to say--“the living of life” _comes from the hand of God_.  Well, this changes _everything_!
 
-Before (that is, 1:1 through 2:23) Solomon looked at life through the lens of the natural man.  And we can understand this.  He was simply reporting what he’d seen.  And when that was the only information-gathering instrument used, his conclusions were sound, though pessimistic.  But, once he remembered the _Creator_, life then took on a different origin, purpose, means, and end.  How can what was vanity now have meaning?  Well, it’s because the origin of every activity one undertakes is from the very hand of an eternal and meaningful God.  The only way something temporal, like our lives, can ever have eternal significance is if an eternal God orders them.  Because He is a purposeful God who never does anything without reason or cause.  
+Before (that is, 1:1 through 2:23) the author looked at life through the lens of the natural man.  And we can understand this.  He was simply reporting what he’d seen.  And when that was the only information-gathering instrument used, his conclusions were sound, though pessimistic.  But, once he remembered the _Creator_, life then took on a different origin, purpose, means, and end.  How can what was vanity now have meaning?  Well, it’s because the origin of every activity one undertakes is from the very hand of an eternal and meaningful God.  The only way something temporal, like our lives, can ever have eternal significance is if an eternal God orders them.  Because He is a purposeful God who never does anything without reason or cause.  
 
 In __verse 25__ we’re asked a rhetorical question to back up this claim: “For apart from him who can eat or who can have enjoyment?”  Now, everyone eats, and many people find enjoyment without God.  Just read Psalm 73.  But it’s only the fleeting, vain enjoyment of the first verses of chapter 2.  It’s passing, like a vapor.  It will soon be gone.  It has no weight; no significance.  Unless…it’s from God[^3].  
 
@@ -88,9 +84,7 @@ Now verse 26 makes sense.  Those without this wisdom and knowledge and joy are l
 
 This idea becomes a common refrain in the book.  Look at __3:12-14__: “I perceived that there is nothing better for them than to be joyful and to do good as long as they live; also that everyone should eat and drink and take pleasure in all his toil — this is God's gift to man.  I perceived that whatever God does endures forever; nothing can be added to it, nor anything taken from it. God has done it, so that people fear before him.”  That is meaning in life.  We read the essentially the same thing in 5:18-20, 8:15, and 9:7-10.
 
-Now this, my friends, is __the gospel-on-ramp__ for our culture.  Have you ever thought of Ecclesiastes as material for a good investigative Bible study?  It might be fantastic!  People are up to their eyeballs in this kind of nihilism.  And in their attempts to escape the meaninglessness of life they are thrusting themselves into their jobs, and sexual exploits, and material hedonism at a breakneck pace.  But in the end they still only come up with vanity.  What’s so refreshing about the gospel is that it is an answer to such futility.  So share the message
-
-of Ecclesiastes with your coworkers, friends, family, and acquaintances.  They are _ripe_ to hear it.  We do have a message of hope in a hopeless world.  
+Now this, my friends, is __the gospel-on-ramp__ for our culture.  Have you ever thought of Ecclesiastes as material for a good investigative Bible study?  It might be fantastic!  People are up to their eyeballs in this kind of nihilism.  And in their attempts to escape the meaninglessness of life they are thrusting themselves into their jobs, and sexual exploits, and material hedonism at a breakneck pace.  But in the end they still only come up with vanity.  What’s so refreshing about the gospel is that it is an answer to such futility.  So share the message of Ecclesiastes with your coworkers, friends, family, and acquaintances.  They are _ripe_ to hear it.  We do have a message of hope in a hopeless world.  
 
 ### The rest of the book
 
@@ -102,7 +96,7 @@ So use the book of Ecclesiastes.  Use it when you’re feeling cynical, as an ho
 
 # THE SONG OF SOLOMON
 
-So that’s Ecclesiastes.  Let’s turn now to The Song of Solomon.  This time the author is clear, chapter one verse one: Solomon.  Again, there is no strict historical context that we need to be aware of.  But the book does have some important redemptive-historical context.  There is a bit of a reenactment and inversion of Genesis 2 and 3 going on in the book.  What I mean is that that beautiful relationship in the Garden of Eden between Adam and Eve was intended for God’s glory and their good.  Now, this side of the fall, men and women are still to relate to each other in marriage, sexually, according to God’s perfect plan.  If they do, it will again be to His glory and their good.  That is, _really_ to their good.  But if they don’t, they will experience more of the same consequences that Adam and Eve did in Genesis 3: God will not be glorified and men and women will harm themselves and each other.
+So that’s Ecclesiastes.  Let’s turn now to The Song of Solomon.  Once again, the authorship of the book is in question. Some would argue that the first verse states that it is Solomon, but it might just as easily be written by another and be referring to these as songs Solomon may have sung.  Again, there is no strict historical context that we need to be aware of.  But the book does have some important redemptive-historical context.  There is a bit of a reenactment and inversion of Genesis 2 and 3 going on in the book.  What I mean is that that beautiful relationship in the Garden of Eden between Adam and Eve was intended for God’s glory and their good.  Now, this side of the fall, men and women are still to relate to each other in marriage, sexually, according to God’s perfect plan.  If they do, it will again be to His glory and their good.  That is, _really_ to their good.  But if they don’t, they will experience more of the same consequences that Adam and Eve did in Genesis 3: God will not be glorified and men and women will harm themselves and each other.
 
 And beyond the immediate context of marriage, there’s something else going on.  As Stephen Dempster has written in _Dominion and Dynasty_, “Shorn of its literary context, the song could be almost pornographic.  But the context of the canon both restricts the meaning to the context of marriage and expands it to include the relationship between Yahweh and Israel.” (p. 207)  This is a book about marriage.  Pure and simple.  But what is marriage?  The Old Testament prophets used marriage as an image of God’s relationship with his covenant people Israel.  Like Ecclesiastes, the Song was placed with the post-exilic literature in the Hebrew bible.  Presumably, those editors put it there for a reason.  Even in the judgment of exile, God was providing a graphic, passionate, and profound reminder of his love and faithfulness for his people.  Think of Isaiah 62: “As a bridegroom rejoices over his bride, so will your God rejoice over you.” (v. 5b)  That’s the other side of this Song.
 
@@ -138,10 +132,7 @@ And so this book is a wonderful guide to relationship and sex in marriage.  But 
 
 # 1 &amp; 2 Kings
 
-Welcome back again! Last week we finished our study of the wisdom literature of God’s people… which detoured us from the developing story line of the Old Testament. But today we’ll return to that history, the story of what God is doing to save sinners.
-
-Today, we’re looking at 1 and 2 Kings. So what do we know about 1 and 2 Kings?
-Four quick things to note:
+So what do we know about 1 and 2 Kings? Four quick things to note:
 
 1. Originally, they were one book and so this morning we’ll look at them as one book.
 
@@ -151,7 +142,7 @@ Four quick things to note:
 
 4. The events recorded in Kings stretch from the crowning of King Solomon, in about 970 BC, all the way to the exile, 400 years later.  During this time the kingdom is divided.  The northern kingdom is scattered among the nations, and the southern kingdom is exiled.
 
-Kings is a study in how God’s promises of mercy will interact with his promises of judgment.  So I think a good place to start is with our own lives.  __*What are some of the promises of judgment that apply to us?  Or mercy?  [Wait for some answers.]  For Christians, how are they resolved in the Cross?*__
+Kings is a study in how God’s promises of mercy will interact with his promises of judgment.  So I think a good place to start is with our own lives.
 
 ## God’s people with no king (Moses and the Judges)
 
@@ -185,10 +176,6 @@ Ok. Let’s move forward, past the judges, past King Saul, and finally to Israel
 With these kings, God’s relationship with his people changes.  We read in 2 Samuel 7 that David’s house and David’s kingdom “will endure forever.”  God says that he will punish David’s descendants when they do wrong, but this promise of a forever kingdom is without conditions.  God’s just going to do it.  Doesn’t depend on his people at all.
 
 So the book of Kings starts on a real cliffhanger.  The blessings and curses of Deuteronomy are in full effect.  But so is this new promise of a kingdom that will last forever.  What’s going to happen?  Will the people have a king who obeys the law, so that they might have blessing, or rebel and cause the people suffering?  And if they rebel and are cursed according to God’s promise in Deuteronomy, what happens to his promise in 2 Samuel?
-
-Well before we embark on answering those central questions for the book... do you have any questions of your own?
-
-(TAKE QUESTIONS)
 
 ## God’s people with their fulfillment king? (King Solomon – 1 Kings 1-11)
 
@@ -231,7 +218,7 @@ But what’s shocking is that when Solomon prays in this time of seeming perfect
 
 Look at verses 46-50:
 
-> “If they sin against you — for there is no one who does not sin — and you are angry with them and give them to an enemy, so that they are carried away captive to the land of the enemy, far off or near, yet if they turn their heart in the land to which they have been carried captive, and repent and plead with you in the land of their captors, saying, ‘We have sinned and have acted perversely and wickedly,’ if they repent with all their mind and with all their heart in the land of their enemies, who carried them captive, and pray to you toward their land, which you gave to their fathers, the city that you have chosen, and the house that I have built for your name,then hear in heaven your dwelling place their prayer and their plea, and maintain their cause and forgive your people who have sinned against you
+> “If they sin against you — for there is no one who does not sin — and you are angry with them and give them to an enemy, so that they are carried away captive to the land of the enemy, far off or near, yet if they turn their heart in the land to which they have been carried captive, and repent and plead with you in the land of their captors, saying, ‘We have sinned and have acted perversely and wickedly,’ if they repent with all their mind and with all their heart in the land of their enemies, who carried them captive, and pray to you toward their land, which you gave to their fathers, the city that you have chosen, and the house that I have built for your name, then hear in heaven your dwelling place their prayer and their plea, and maintain their cause and forgive your people who have sinned against you
 
 There are two problems here if you think about it:
 
@@ -257,12 +244,6 @@ So, verse 11, the kingdom is torn from the hand of David’s son.  And yet even 
 > “However, I will not tear away all the kingdom, but I will give one tribe to your son, for the sake of David my servant and for the sake of Jerusalem that I have chosen.”
 
 So Solomon blesses the people for a time and asks God for mercy, but he is not the fulfillment King. He doesn’t live perfectly, and he doesn’t live forever.
-
-Pausing here, I think it’s worth making a few points of application. First, I think this narrative section helps us to reflect on the danger of how being a few degrees off God’s law can sends us in the wrong direction totally. Solomon was wise, but in acting very unwisely in one particular area, he sinned greatly, and this brought down the entire nation. We should especially think about this if we’re in Christian leadership.
-
-Ultimately though I think this passage helps to see God as so trustworthy. Did you notice that God never breaks his promise with his people or David? In fact he always keeps his Word. This should encourage us immensely when we struggle to see how God’s promises will work out in the midst of our failure.
-
-(TAKE QUESTIONS)
 
 Well back to the story as we move forward in Kings, we see that part of God’s judgment is that the nation will be spilt. At this point we need some new vocabulary.
 
