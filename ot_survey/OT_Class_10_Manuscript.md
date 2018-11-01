@@ -15,7 +15,7 @@ fontfamilyoptions: sfdefault
 
 # Introduction
 
-Welcome back.  Today we’ll continue with the next two Minor Prophets.  Why are they called “Minor Prophets?”  [WAIT FOR SOMEONE TO ANSWER]  It’s not because they are less significant than the “Major Prophets.”  It’s just that they’re shorter in length then other prophetic books.  Last week we looked at Hosea and Joel.  We learned through their symbolism about God’s judgment.  But also his promise to extend grace, mercy, and hope.  Today, we’ll move into Amos and Obadiah, and see if we can’t expand on what we’ve already learned.  
+Welcome back.  Today we’ll continue with the next two Minor Prophets.  Why are they called “Minor Prophets?”  [WAIT FOR SOMEONE TO ANSWER]  It’s not because they are less significant than the “Major Prophets.”  It’s just that they’re shorter in length then other prophetic books.  Last week we looked at Hosea and Joel.  We learned through their symbolism about God’s judgment.  But also his promise to extend grace, mercy, and hope.  Today, we’ll move into Amos, Obadiah, Jonah and Micah to see if we can’t expand on what we’ve already learned.  
 
 [PRAY]
 
@@ -23,15 +23,15 @@ Welcome back.  Today we’ll continue with the next two Minor Prophets.  Why are
 
 In Amos 1:1, Amos tells us he’s from the southern kingdom, but his preaching focuses on the north.  He also tells us he was preaching during the reign of Uzziah in Judah and Jeroboam II in Israel.  This puts Amos, and the writing of this book, in roughly the mid 8th century BC.  That’s just a few decades before the fall of the North and shortly before Isaiah undertook his ministry.  This was a time of great economic prosperity, expansion, and security for both kingdoms. 
 
-So Amos prophesies after the nation’s been divided, but before there’s any Assyrian threat in the picture.  Both North and South are both standing – and standing with strength and confidence.  Like Joel used a locust plague, Amos also uses an historical event to emphasize his message.  He mentions in 1:1 that he prophesied two years before “the earthquake?”  Well, apparently this was a pretty big earthquake.  So big, that a prophet even as late as Zechariah makes mention of it, in Zechariah 14:5.  More on that in just a minute. 
+So Amos prophesies after the nation’s been divided, but before there’s any Assyrian threat in the picture. North and South are both standing – and standing with strength and confidence.  Like Joel used a locust plague, Amos also uses an historical event to emphasize his message.  He mentions in 1:1 that he prophesied two years before “the earthquake”. Well, apparently this was a pretty big earthquake. So big, that a prophet even as late as Zechariah makes mention of it, in Zechariah 14:5.  More on that in just a minute.
 
-Theme
+## Theme
 
 Here is a summary sentence for Amos:
 
 _Yahweh is angry because His people are getting rich by oppressing their own kinsmen, and despising the righteous and His word._
 
-Just like in the last prophets we looked at, we’ll see these recurring themes.  Yahweh’s anger because of sins, and the call to repentance lest He break out in wrath.  In this book, Yahweh is angry about two things.  One, _His own_ people are acting corruptly, by trying to get rich off the oppression of their kinsmen.  And two, He is angry because His people despise those who are righteous, and they despise the word of Yahweh.  What Amos is saying with the earthquake is that if the people don’t repent from their sinful economic practices, Yahweh will come in judgment and shake the earth unlike _any_ earthquake they’ve ever experienced.  You can imagine how unpopular this made Amos.  And only a generation later, the North was swept away entirely by the Assyrians.  It was a swift fall from a very lofty place for Israel.  
+Just like in the last prophets we looked at, we’ll see these recurring themes: Yahweh’s anger because of sins, and the call to repentance lest He break out in wrath.  In this book, Yahweh is angry about two things.  One, _His own_ people are acting corruptly by trying to get rich off the oppression of their kinsmen.  And two, He is angry because His people despise those who are righteous, and they despise the word of Yahweh.  What Amos is saying with the earthquake is that if the people don’t repent from their sinful economic practices, Yahweh will come in judgment and shake the earth unlike _any_ earthquake they’ve ever experienced.  You can imagine how unpopular this made Amos.  And only a generation later, the North was swept away entirely by the Assyrians.  It was a swift fall from a very lofty place for Israel.  
 
 Let’s turn to Amos’ message.
 
@@ -39,7 +39,7 @@ Let’s turn to Amos’ message.
 
 The first thing we see is that God judges the nations.  Though the focus is on Israel in this book, the first chapters of Amos are prophesies against the surrounding nations.  You can see in __1:3__ attention is on Damascus, in __1:6__ Gaza, __1:9__ Tyre, __1:11__ Edom, __1:13__ Ammon, and __2:1__ Moab.  Those are some of the gentile nations of Amos’ day.
 
-Note what God judges them for.  He judged Damascus “because they have Gilead with threshing sledges of iron.” That is, because she pillaged and robbed and left Gilead barren.  God judges Gaza because “they carried into exile a whole people to deliver them up to Edom.”   God judged Edom because “he pursued his brother with the sword and cast off all pity.”  He judged Ammon because “they have ripped open pregnant women in Gilead, that they might enlarge their border.”  These are sins of cruelty, oppression, slavery, and murder.  They are big and obvious, war crimes on a grand scale.  Even though the gentile nations had not received God’s revealed law or been given tablets with the Ten Commandments, they could not plead ignorance of his moral law.  The gentile nations cannot escape the judgment of God.
+Note what God judges them for.  He judged Damascus “because they have threshed Gilead with threshing sledges of iron.” That is, because she pillaged and robbed and left Gilead barren.  God judges Gaza because “they carried into exile a whole people to deliver them up to Edom.”   God judged Edom because “he pursued his brother with the sword and cast off all pity.”  He judged Ammon because “they have ripped open pregnant women in Gilead, that they might enlarge their border.”  These are sins of cruelty, oppression, slavery, and murder.  They are big and obvious, war crimes on a grand scale.  Even though the gentile nations had not received God’s revealed law or been given tablets with the Ten Commandments, they could not plead ignorance of his moral law.  The gentile nations cannot escape the judgment of God.
 
 God’s judgment of the gentile nations demonstrates his universal kingship.  God made Israel to be his special people, but God is the rightful sovereign over all people and all nations under heaven.  We see here in his judgment of the nations that he will hold them all to account and make his universal sovereignty known.  Whether or not you have heard the gospel you are accountable for your actions and you will answer to God one day for your sins.  
 
@@ -47,7 +47,7 @@ God’s judgment of the gentile nations demonstrates his universal kingship.  Go
 
 ## II.  God Judges His People
 
-God doesn’t stop at judging the nations; he especially judges his people.  In chapter 2 there begins a prophecy against Judah.  And in 2:6 Amos begins of a long prophecy against Israel. With those first prophecies, the covenant people would have applauded Amos, because those nations have long been the enemies of Israel and Judah.  But then Amos says “Not so fast there Israel and Judah.  Your sins are not overlooked either.”  In fact, the prophets are often a lot more critical and condemning of the covenant people for just that reason.  They are in covenant with Yahweh, and they ought to know better than the gentiles.  Look at chapter 3, verse 2.
+God doesn’t stop at judging the nations; he especially judges his people.  In chapter 2 there begins a prophecy against Judah.  And in 2:6 Amos begins of a long prophecy against Israel. With those first prophecies, the covenant people would have applauded Amos, because those nations have long been the enemies of Israel and Judah.  But then Amos says “Not so fast there Israel and Judah.  Your sins are not overlooked either.”  In fact, the prophets are often much more critical and condemning of the covenant people for just that reason.  They are in covenant with Yahweh, and they ought to know better than the gentiles.  Look at chapter 3, verse 2.
 
 | “You only have I known
 |     of all the families of the earth;
@@ -64,11 +64,11 @@ I hope the same is not true for us.  God is clear that he will hold his people a
 
 And so we should ask ourselves:  How is our heart’s attitude towards money?  Do we crave it for ourselves, or welcome it as a tool God has lent us for life and ministry?  How is our attitude towards tithing?  Are we resentful, or cheerful?  How do we care for the poor?  At Immanuel, our benevolence fund helps out those in need.  Do we find ourselves inwardly thinking the benevolence fund is a waste of hard-earned tithe dollars, or desiring to see it grow during hard economic times?  Have we reached out to our unemployed brothers and sisters to learn of their needs, or do we unconsciously gravitate towards the prosperous because they don’t need as much and can help us?  Are you tempted to pride or arrogance?
 
-Second, God’s people are judged for religious sins.  And here is where they’re judged differently than their gentile neighbors.  But Judah is condemned because “they have rejected the law of the Lord, and have not kept his statutes, but their lies have led them astray,” (2:4). Israel “commanded the prophets” not to prophesy, (2:12).  They were apparently practicing cult prostitution, which Amos alludes to when he says “a man and his father go in to the same girl, so that my holy name is profaned; they lay themselves down beside every alter on garments taken in pledge, and in the house of their God they drink the wine of those who have been fined” (2:7-8).  And they belittled God and people’s vows to him, for example by making Nazirites drink wine, something a Nazirite had vowed not to do (2:12).
+Second, God’s people are judged for religious sins.  And here is where they’re judged differently than their gentile neighbors. Judah is condemned because “they have rejected the law of the Lord, and have not kept his statutes, but their lies have led them astray,” (2:4). Israel “commanded the prophets” not to prophesy (2:12).  They were apparently practicing cult prostitution, which Amos alludes to when he says “a man and his father go in to the same girl, so that my holy name is profaned; they lay themselves down beside every altar on garments taken in pledge, and in the house of their God they drink the wine of those who have been fined” (2:7-8).  And they belittled God and people’s vows to him, for example by making Nazirites drink wine, something a Nazirite had vowed not to do (2:12).
 
-What we learn here is that __God’s election__ is not a blank check to irresponsibility, loose moral standards, and presumption.  Rather, God’s election actually _heightens_ one’s responsibility to live uprightly before the Lord.  Some people reject the doctrine of election because they say it undermines the Christian’s responsibility to live a holy life.  Well, the prophets don’t think so.  They see election as something that should weigh heavily on the people’s minds, as though to continually say to them “Hey! You’ve been called out.  You’ve been separated.  You’ve been set apart for a special purpose: to live holy lives in the fear of Yahweh, demonstrating His holiness to all onlookers.  Fulfill your high and privileged calling!  Be who you are specially called to be!”  Election never leads to presumption, but great responsibility.  God’s people have been given his revealed will and so are capable of a greater sin:  neglecting God’s word.  Again, 3:2 “You only have I known of all the families of the earth; therefore I will punish you for all your iniquities.”  
+What we learn here is that __God’s election__ is not a blank check to irresponsibility, loose moral standards, and presumption.  Rather, God’s election actually _heightens_ one’s responsibility to live uprightly before the Lord.  Some people reject the doctrine of election because they say it undermines the Christian’s responsibility to live a holy life.  Well, the prophets don’t think so.  They see election as something that should weigh heavily on the people’s minds, as though to continually say to them “Hey! You’ve been called out.  You’ve been separated.  You’ve been set apart for a special purpose: to live holy lives in the fear of Yahweh, demonstrating His holiness to all onlookers.  Fulfill your high and privileged calling!  Be who you are specially called to be!”  Election never leads to presumption, but rather great responsibility.  God’s people have been given his revealed will and so are capable of a greater sin:  neglecting God’s word.  Again, 3:2 “You only have I known of all the families of the earth; therefore I will punish you for all your iniquities.”  
 
-In fact, this is the same thing we see in the New Testament.  Peter says the same thing to us in __1 Peter 1:15__, “but as he who called you is holy, you also be holy in all your conduct.’”  And in __1 Peter 2:9__ he says, “But you are a chosen race, a royal priesthood, a holy nation, a people for his own possession, that you may proclaim the excellencies of him who called you out of darkness into his marvelous light.”  Paul too tells us that the intended end of predestination is holiness in __Ephesians 1__, “he chose us in him before the foundation of the world, that we should be holy and blameless before him (vv.3f).”
+In fact, this is the same thing we see in the New Testament.  Peter says the same thing to us in __1 Peter 1:15__, "but as he who called you is holy, you also be holy in all your conduct."  And in __1 Peter 2:9__ he says, “But you are a chosen race, a royal priesthood, a holy nation, a people for his own possession, that you may proclaim the excellencies of him who called you out of darkness into his marvelous light.”  Paul too tells us that the intended end of predestination is holiness in __Ephesians 1__, “he chose us in him before the foundation of the world, that we should be holy and blameless before him (vv.3f).”
 
 [TAKE QUESTIONS]
 
@@ -76,7 +76,10 @@ In fact, this is the same thing we see in the New Testament.  Peter says the sam
 
 God will judge the nations and he will judge his people.  Amos also talks about the character and the cause of God’s judgment.  In Amos 7-9 we see that God will judge with _certainty_ and with _justice_.  God gives Amos a series of visions about his judgment.  Let’s look at one of them, from Amos 7:7-9.
 
-This is what he showed me: behold, the Lord was standing beside a wall built with a plumb line, with a plumb line in his hand. And the Lord said to me, “Amos, what do you see?” And I said, “A plumb line.” Then the Lord said,
+| This is what he showed me: behold, the Lord was standing beside a wall built with a plumb
+| line, with a plumb line in his hand. And the Lord said to me, “Amos, what do you see?”
+| And I said, “A plumb line.” Then the Lord said,
+|
 |   “Behold, I am setting a plumb line
 |     in the midst of my people Israel;
 |     I will never again pass by them;
@@ -91,6 +94,7 @@ As Jesus would say in the sermon on the mount, “You therefore must be perfect,
 ## IV.  God Judges with Mercy
 
 Because, finally, we see that God judges with mercy.  Do you remember last week how we talked about the common pattern of accusation, judgment, the call to repentance, and then mercy that the prophets often use?  Just as we saw last week, the prophets always end on grace and mercy.  No matter how long the accusations and the pronouncements of judgment are, no matter how long the list of offending nations, the prophets always end their message with the promise of salvation.
+
 Amos foreshadows his conclusion earlier in the book.  He tells the people how they can escape the coming judgment.  And that way is through repentance.  Look at 5:14-15.
 
 | Seek good, and not evil,
@@ -103,15 +107,15 @@ Amos foreshadows his conclusion earlier in the book.  He tells the people how th
 |     will be gracious to the remnant of Joseph.
 
 God even displays his mercy in action.  In chapter 7 God gives Amos two visions of judgment — fire and a plague of locusts.  Both times Amos cries out and asks God for forgiveness.  And both times, the Lord relents.
-Amos returns to the promise of mercy and salvation at the book’s conclusion.  He prophesies about the coming day of judgment, the Day of the Lord.  God says in 9:11 ““In that day I will raise up the booth of David that is fallen and repair its breaches, and raise up its ruins and rebuild it as in the days of old.”  This Day is a day of judgment, but this “Day” will also see the restoration of “David’s fallen tent,” (the division of the kingdom and the exile).  Yahweh will remember His promises of old, and the people will again taste Yahweh’s covenant love.  He continues in v14-15,
+Amos returns to the promise of mercy and salvation at the book’s conclusion.  He prophesies about the coming day of judgment, the Day of the Lord.  God says in 9:11 “In that day I will raise up the booth of David that is fallen and repair its breaches, and raise up its ruins and rebuild it as in the days of old.”  This Day is a day of judgment, but this “Day” will also see the restoration of “David’s fallen tent,” (the division of the kingdom and the exile).  Yahweh _will_ remember His promises of old, and the people will again taste Yahweh’s covenant love.  He continues in v14-15,
 
-| I will restore the fortunes of my people Israel,
+| "I will restore the fortunes of my people Israel,
 |     and they shall rebuild the ruined cities and inhabit them;
 | they shall plant vineyards and drink their wine,
 |     and they shall make gardens and eat their fruit.
 | I will plant them on their land,
 |     and they shall never again be uprooted
-|     out of the land that I have given them,”
+|     out of the land that I have given them,"
 | says the Lord your God.
 
 This is a picture of the new creation after God’s final judgment and Christ’s return, a return to the paradise God always intended for us to enjoy.
@@ -127,9 +131,7 @@ Note how these last verses are a reversal of an earlier judgment in 5:11.  There
 
 Amos is here saying that those who desire to be rich should seek justice, do righteousness, and put their hope in Christ for the reward to be had in the _coming_ world, _not this one_.  That’s a theme Jesus later picks up when he tells his followers to store up treasure in heaven and give to the poor on earth.
 
-Finally, we see that God’s mercy extends to all of God’s people, including gentiles.  In 9:12 God invites the nations to join his blessing.
-
-promises that restored Israel will “possess the remnant of Edom and all the nations who are called by name,” (an echo of Numbers 24:18, in which Balaam makes a similar prophecy).  Now, is that “possess” a good thing for the nations?  Meaning, they get to share in Israel’s blessing?  Or it is the possess of conquer?  Well, in __Acts 15__ James is speaking to the Council of Jerusalem that is trying to figure out what to make of all the gentiles turning in faith to the Lord Jesus Christ.  Remarkably, James quotes this passage from Amos.  James is saying that with the death and resurrection of Jesus Christ, David’s house is rebuilt and can be a home for Jew and gentile alike.  And now all who repent (just as Amos was preaching) and put their faith in Jesus are included this eschatological salvation.  
+Finally, we see that God’s mercy extends to all of God’s people, including gentiles.  In 9:12 God invites the nations to join his blessing. He promises that restored Israel will “possess the remnant of Edom and all the nations who are called by name,” (an echo of Numbers 24:18, in which Balaam makes a similar prophecy).  Now, is that “possess” a good thing for the nations?  Meaning, they get to share in Israel’s blessing?  Or it is the possess of conquer?  Well, in __Acts 15__ James is speaking to the Council of Jerusalem that is trying to figure out what to make of all the gentiles turning in faith to the Lord Jesus Christ.  Remarkably, James quotes this passage from Amos.  James is saying that with the death and resurrection of Jesus Christ, David’s house is rebuilt and can be a home for Jew and gentile alike.  And now all who repent (just as Amos was preaching) and put their faith in Jesus are included this eschatological salvation.  
 
 [TAKE QUESTIONS]
 
@@ -145,9 +147,7 @@ Edom had a long history of arrogantly mistreating the covenant people.  You can 
 
 God promises to judge Edom repeatedly throughout the first nine verses.  “I will make you small among the nations; you shall be utterly despised,” (v2).  “I will bring you down,” (v4).  “How Esau has been pillaged, his treasures sought out” (v6).  “Will I not on that day, declares the Lord, destroy the wise men out of Edom, and understanding out of Mount Esau?” (v8).  For their sins, God will judge the nations on the Day of the Lord.  “For the day of the Lord is near upon all the nations.  As you have done, it shall be done to you; your deeds shall return on your own head.” (v15).  Obadiah echoes the message Amos had for all the nations surrounding Israel in Amos 1.  All nations and peoples are accountable to God for their actions.
 
-This is especially relevant today.  Obadiah was announcing judgment against people that did not know God, did not acknowledge him, and had not place for him in their lives.  In other words, people very much like our non-Christian neighbors and co-workers.  While we may not want to start sharing the gospel by reading from
-
-Obadiah, this warning should ring in our ears and spur some zeal in our evangelism.  This is the judgment that awaits our friends who do not know the living God.
+This is especially relevant today.  Obadiah was announcing judgment against people that did not know God, did not acknowledge him, and had not place for him in their lives.  In other words, people very much like our non-Christian neighbors and co-workers.  While we may not want to start sharing the gospel by reading from Obadiah, this warning should ring in our ears and spur some zeal in our evangelism.  This is the judgment that awaits our friends who do not know the living God.
 
 ## Obadiah 10-14:  The Charge:  Oppressing God’s People
 
@@ -159,7 +159,7 @@ Have you ever been persecuted?  Discouraged?  Mocked for your faith?  Have you l
 
 ## Obadiah 17-21:  The Result:  The Establishment of God’s Kingdom
 
-We see this more clearly as the book ends.  It’s a day of salvation and vindication for the once persecuted people of God.  Obadiah prophesies that the land of Edom will be peopled by God’s people and the land will become part of God’s kingdom.  “Those of the Negeb shall possess Mount Esau,” (v19), “Saviors shall go up to Mount Zion   to rule Mount Esau,   and the kingdom shall be the Lord's” (v21).  In the end, God’s people are vindicated; God triumphs; and his salvation of his people is completed.
+We see this more clearly as the book ends.  It’s a day of salvation and vindication for the once persecuted people of God.  Obadiah prophesies that the land of Edom will be peopled by God’s people and the land will become part of God’s kingdom. “Those of the Negeb shall possess Mount Esau,” (v19), “Saviors shall go up to Mount Zion to rule Mount Esau, and the kingdom shall be the Lord's” (v21). In the end, God’s people are vindicated; God triumphs; and his salvation of his people is completed.
 
 I’m reminded again about the New Testament’s teachings about Christ’s return, the final Day of the Lord.  The book of Revelation, for example, is a sustained vision of Christ’s universal kingship and God’s ultimate victory over sin, death, and hell.  Or in __2 Thessalonians 1:6-9__ we read “God considers it just to repay with affliction those who afflict you, and to grant relief to you who are afflicted as well as to us, when the Lord Jesus is revealed from heaven with his mighty angels in flaming fire, inflicting vengeance on those who do not know God and on those who do not obey the gospel of our Lord Jesus. They will suffer the punishment of eternal destruction, away from the presence of the Lord and from the glory of his might.”
 
@@ -167,13 +167,7 @@ Until that day though, Jesus also gives us direction about how to handle our per
 
 [TAKE QUESTIONS]
 
-## Conclusion
-
-Once again, we’ve learned a lot from the Minor Prophets.  We’ve learned about sin, about wrath, and about redemption.  We’ve learned about the Day of the Lord, about Christ’s first and second comings.  And we’ve learned about our responsibilities here in between those two advents.  Next week, we’ll learn even more from Jonah and Micah.  
-
-[PRAY]
-
-Good morning again.  We’re continuing to move through the Minor Prophets.  Today we’ll look at Jonah and Micah.  One is a popular story – in fact so popular and so well known that the main theological point is often overlooked.  The other is a little known prophet – but one who preaches a powerful message that adds considerably to our understanding of Old Testament hope.
+Next we’ll look at Jonah and Micah.  One is a popular story – in fact so popular and so well known that the main theological point is often overlooked.  The other is a little known prophet – but one who preaches a powerful message that adds considerably to our understanding of Old Testament hope.
 
 Even though Jonah comes before Micah in your Bibles, we’re actually going to look at Micah first.  Why?  Because in so many ways Jonah is a foil to Micah.  The things the Israelites are doing that Micah rails against are exactly the things that Jonah does — and that the pagan, non-Israelites in Jonah repent of.  Looking at the themes of Micah and then applying them to Jonah should help us get beyond the familiarity of Jonah’s story into his message of judgment and mercy.  That is, judgment to Israel and mercy to her enemies.
 
@@ -193,7 +187,7 @@ Even though Israel is lost, hope is not lost.  You can hear in that theme senten
 
 ## Style
 
-One quick note about Micah before we move into the text itself.  He’s a masterful writer.  He’s got great rhetorical skills, using word play, powerful images, and a sharp wit.  But much of his style and sophistication is lost in translation.  For example, there’s a passage at the end of chapter 1 where Micah proclaims a series of woes on towns throughout Judah that appears fairly dull in English.  But Micah is doing two things there.  First, the towns Micah mentions trace the route Sennacherib would take as his army marched towards Jerusalem in 701 BC.  Second, each woe he proclaims is, in Hebrew, a word-play or a pun on the name of the town.  We might get a similar flavor if someone said “You cannot _wash_ the corruption out of _Wash_ington,” or “Sin is nothing _new_ in _New_ York.”  In other words, sin is intrinsic to these people.  To get the full sense of Micah’s writing, you might read this book with the help of a good commentary or introduction, like the one in the ESV study Bible or Dillard and Longman’s Introduction to the Old Testament.
+One quick note about Micah before we move into the text itself.  He’s a masterful writer.  He’s got great rhetorical skills, using word play, powerful images, and a sharp wit.  But much of his style and sophistication is lost in translation.  For example, there’s a passage at the end of chapter 1 where Micah proclaims a series of woes on towns throughout Judah that appears fairly dull in English.  But Micah is doing two things there.  First, the towns Micah mentions trace the route Sennacherib would take as his army marched towards Jerusalem in 701 BC.  Second, each woe he proclaims is, in Hebrew, a word-play or a pun on the name of the town.  We might get a similar flavor if someone said “You cannot _wash_ the corruption out of _Washington_,” or “Sin is nothing _new_ in _New_ York.”  In other words, sin is intrinsic to these people.  To get the full sense of Micah’s writing, you might read this book with the help of a good commentary or introduction, like the one in the ESV Study Bible or Dillard and Longman’s Introduction to the Old Testament.
 
 So what is Micah about?
 
@@ -220,7 +214,7 @@ When God comes, he doesn’t skip lightly; the earth is crushed beneath him.  Hi
 
 So if you’re one who puzzles over God’s wrath and the idea of hell, let me assure you on the testimony of passages like this: God’s wrath is real.  He has a capacity for wrath and is committed to responding to our sin in wrath.  How much does God hate sin?  Jesus’ death shows the extent to which God was willing to go in order to deal with it.
 
-As a result, we should take the warnings in the Bible _very_ seriously.  This was a _real_ judgment Israel endured, and so will ours.  No one should be complacent in their religion.  And one stern warnings in the Bible are one of God’s gracious means to preserve our faith.  Read Micah as a warning not to play fast and loose with sin.  It will enslave us.  And it is deadly.  
+As a result, we should take the warnings in the Bible _very_ seriously.  This was a _real_ judgment Israel endured, and so will ours.  No one should be complacent in their religion. The stern warnings in the Bible are one of God’s gracious means to preserve our faith.  Read Micah as a warning not to play fast and loose with sin.  It will enslave us.  And it is deadly.  
 
 [Take Questions]
 
@@ -248,7 +242,7 @@ But God promises an even more profound salvation.  Micah points forward to a mor
 
 ## III.  God wants his character to be known
 
-Finally, a third theme in Micah: God wants to be known.  He judges sin and shows mercy _in order_ to display his character and be glorified and acknowledged by all.  We see this is three ways.
+Finally, a third theme in Micah: God wants to be known.  He judges sin and shows mercy _in order_ to display his character and be glorified and acknowledged by all.  We see this in three ways.
 
 First, God wants his character to be known through the acknowledgment of his supremacy.  Micah says in 4:1-3,
 
@@ -283,7 +277,7 @@ But, of course, the danger for God’s people is always that they _presume_ thei
 
 ## Context
 
-With a reference to Jonah in 2 Kings 14:25, we’re able to place his ministry during the reign of Jeroboam II of Israel in the early to mid-8th century BC.  That timing is significant, because Jonah is called to preach to the Assyrians.  And the mid-8th century BC is just before Israel is invaded by Assyria.  So at this point in time, Assyria has been Israel’s perpetual enemy for some time.  And that’s the dynamic that sits under this book.  Assyria is Israel’s enemy.  Jonah doesn’t like the Assyrians.  But Jonah’s called to preach to them (incidentally tying Jonah, Nahum, and part of Micah together in their focus on the Assyrians).  To make matters worse, it seems Jonah may have been accustomed to a very different type of prophecy.  The reference in 2 Kings 14 has Jonah prophesying expanding its borders at the expense of its enemies.  How humiliating to now turn and preach to the benefit of those very enemies.
+With a reference to Jonah in 2 Kings 14:25, we’re able to place his ministry during the reign of Jeroboam II of Israel in the early to mid-8th century BC.  That timing is significant because Jonah is called to preach to the Assyrians.  And the mid-8th century BC is just before Israel is invaded by Assyria.  So at this point in time, Assyria has been Israel’s perpetual enemy for some time.  And that’s the dynamic that sits under this book.  Assyria is Israel’s enemy.  Jonah doesn’t like the Assyrians.  But Jonah’s called to preach to them (incidentally tying Jonah, Nahum, and part of Micah together in their focus on the Assyrians).  To make matters worse, it seems Jonah may have been accustomed to a very different type of prophecy.  The reference in 2 Kings 14 has Jonah prophesying expanding its borders at the expense of its enemies.  How humiliating to now turn and preach to the benefit of those very enemies.
 
 Redemptive-Historically, Jonah is similar to the other Minor Prophets we’ve looked at so far.  But what Jonah adds to the story is the emphasis that Yahweh is God over all the nations, not just the covenant people, and that He saves both Jew and Gentile.  Now, these things are taught in other books too.  But in Jonah it’s really emphasized.  What this helps us see is that in all this talk about God’s wrath on the Day of the LORD, Yahweh’s desire is primarily to save.  And even to save from among the Gentile nations.  He is a God of grace and mercy.  The book of Jonah shows how positively active He is in saving people, pursuing them with grace even when they don’t know it.  
 
@@ -315,7 +309,7 @@ __Chapter 4__ is the climax of the book, and drives home the book’s theologica
 
 > But it displeased Jonah exceedingly, and he was angry. And he prayed to the Lord and said, “O Lord, is not this what I said when I was yet in my country? That is why I made haste to flee to Tarshish; for I knew that you are a gracious God and merciful, slow to anger and abounding in steadfast love, and relenting from disaster. Therefore now, O Lord, please take my life from me, for it is better for me to die than to live.”
 
-Isn’t that amazing?  Jonah originally fled because _he knew_ that if he went and preached, and they repented that Yahweh would spare them!  We often think that he fled because he was scared of what the Assyrians would do to him if he approached them.  Not true.  What he was afraid of was _Yahweh’s mercy_!  He didn’t want the Assyrians to benefit from it!  He knew Exodus 34:6 which he quotes here.  “for I knew that you are a gracious God and merciful, slow to anger and abounding in steadfast love.”  In chapter 2 he rightly humbled himself and accepted God’s judgment and his mercy.  Now he’s reverting and arrogantly trying to decide God should be merciful to whom he should judge.  And God’s response is much of the point of the book.  No matter how corrupt the Ninevites are, no matter how disobedient Jonah is, no matter any situation with winds, waves, and fish, if Yahweh has set His grace upon someone _nothing_ can stop it!  He will have mercy on whom He will have mercy.  
+Isn’t that amazing?  Jonah originally fled because _he knew_ that if he went and preached, and they repented that Yahweh would spare them!  We often think that he fled because he was scared of what the Assyrians would do to him if he approached them.  Not true.  What he was afraid of was _Yahweh’s mercy_!  He didn’t want the Assyrians to benefit from it!  He knew Exodus 34:6 which he quotes here.  “for I knew that you are a gracious God and merciful, slow to anger and abounding in steadfast love.”  In chapter 2 he rightly humbled himself and accepted God’s judgment and his mercy.  Now he’s reverting and arrogantly trying to decide to whom God should be merciful to whom he should judge.  And God’s response is much of the point of the book.  No matter how corrupt the Ninevites are, no matter how disobedient Jonah is, no matter any situation with winds, waves, and fish, if Yahweh has set His grace upon someone _nothing_ can stop it!  He will have mercy on whom He will have mercy.  
 
  God’s response is in the form of a living parable: a plant grows up to give Jonah shade as he sits on the mountain side, and then God kills it.  God’s explanation? verses __9-11__.
 
@@ -330,12 +324,6 @@ Jonah reminds us that God cares about all people.  There isn’t any nation that
 And if God cares about all peoples, Christians should too.  This is the single most important application point from the book of Jonah.  As Mark Dever has said, “God has always been more committed to reaching the world than his own people have been.”  We should care about seeing God’s word spread throughout the nations, and that care and concern should translate into evangelism and missions.  Jesus commanded his disciples — and that includes you, Christian — to “go and make disciples of all nations,” (Matthew 28:19).  It should be normal for Christians to pray for the growth of the church in other nations; to give money to support missions in other nations; to go and help plant churches in other nations.  Our work spreading the gospel should be international and global to reflect the universality of God’s dominion.  And our fellowship with believers from other countries will be a powerful, visible, counter-cultural testimony of God’s work in our lives.
 
 Of course, we should not miss the humbling message of this book.  Who are we?  The humble Assyrian king?  No — we are the reluctant prophet Jonah.  We are God’s people, we are called to take a message of mercy to those who haven’t heard, we are those who are so slow to go.  And we are those who too often seem more occupied with our own comfort than God’s great plans to show his mercy to the nations.  Read Jonah with this in mind and walk his humbling road.
-
-__*So let’s think about that before we finish.  How should these two books — both Micah and Jonah — change the way we think about missions globally and evangelism here in Knoxville?*__
-
-## Conclusion
-
-Well, we’ve looked at half of the Minor Prophets.  I pray that you’ve been struck by the Lord’s holiness, our own sinfulness and need of a savior, the Lord’s great mercy in providing that savior in Jesus Christ, and our great calling now to live new and holy lives as His disciples.  Next week we’ll continue on in the Minor Prophets.
 
 [^1]: Cannonically speaking, it’s also interesting to point out that Amos ends with the salvation of the remnant of Edom, and Obadiah is a prophesy against Edom.  That may explain why Obadiah follows Amos in the Hebrew cannon.
 

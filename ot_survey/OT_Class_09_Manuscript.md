@@ -61,7 +61,7 @@ Let’s try a couple of these interpretative principles out as we open up the bo
 The first four verses of chapters 1 and 2 function like two different introductions to Isaiah, each representing a different side of the book. Let me read from chapter 1:
 
 | The vision of Isaiah the son of Amoz, which he saw concerning Judah and
-| Jerusalem in the days of Uzziah, Jotham, Ahaz,| and Hezekiah, kings of Judah.
+| Jerusalem in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah.
 |
 | Hear, O heavens, and give ear, O earth;
 |     for the Lord has spoken:
@@ -81,7 +81,7 @@ The first four verses of chapters 1 and 2 function like two different introducti
 
 In verse 2, we have the beginning of an oracle for all the earth to hear.
 
-_What’s the context?_ Verse 1 sets it up as a vision of Isaiah concerning Judah (the southern kingdom) and Jerusalem (its capital city), and Isaiah’s words are datable to the reigns of these kings. 
+_What’s the context?_ Verse 1 sets it up as a vision of Isaiah concerning Judah (the southern kingdom) and Jerusalem (its capital city), and Isaiah’s words are datable to the reigns of these kings.
 
 _What kind of oracle beings in verse 2?_ Judgment.
 
@@ -133,7 +133,7 @@ Beginning in chapter 40 and continuing through the end of Isaiah, something chan
 
 That’s the biggest division in Isaiah:  the first thirty nine chapters, broadly speaking, focus on the historical Jerusalem and its failed kings, while chapters 40 to 66, broadly speaking, focus on an eschatalogical Jerusalem and another character who, at first glance, doesn’t sound like a king, but indeed is.
 
-Across these 66 chapters a dramatic change happens to Jerusalem. In chapter 1, Isaiah says of Jerusalem, “How the faithful city has become a whore!” (1:21). By the end of the book, however, he anticipates her presentation as a “bride” in whom the Lord “will take delight” (62:4-5).  She moves from harlotry to holiness, from whore to bride.  
+Across these 66 chapters a dramatic change happens to Jerusalem. In chapter 1, Isaiah says of Jerusalem, “How the faithful city has become a whore!” (1:21). By the end of the book, however, he anticipates her presentation as a “bride” in whom the Lord “will take delight” (62:4-5).  She moves from harlotry to holiness, from whore to bride.
 
 That, in a sense, is the beginning and the end of the plot, and it shows up in the structure of the whole book. I’m sorry if I spoiled the ending for you. How does this transformation happen? That brings us to a second principle for reading the book, and one where we will find plenty of challenge for ourselves...
 
@@ -174,7 +174,7 @@ The first two themes have centered on people. But really, the book of Isaiah is 
 > “Holy, holy, holy is the Lord of hosts;
 > the whole earth is full of his glory!”
 
-Holy means to be set apart — on a whole different plane.  And what is the culmination of God’s holiness?  Look at the second half of verse 3.  It is to known and understood by everyone.  “The whole earth is full of his glory.”  God’s driving purpose is that his greatness might be known and enjoyed by his creatures.  That’s why he does everything — even saving sinners.  Chapter 48: _“For my name's sake I defer my anger, for the sake of my praise I restrain it for you ... For my own sake, for my own sake, I do it, for how should my name be profaned?  My glory I will not give to another.”_ (v. 9, 11).
+Holy means to be set apart — on a whole different plane.  And what is the culmination of God’s holiness?  Look at the second half of verse 3. It is to be known and understood by everyone.  “The whole earth is full of his glory.”  God’s driving purpose is that his greatness might be known and enjoyed by his creatures.  That’s why he does everything — even saving sinners.  Chapter 48: _“For my name's sake I defer my anger, for the sake of my praise I restrain it for you ... For my own sake, for my own sake, I do it, for how should my name be profaned?  My glory I will not give to another.”_ (v. 9, 11).
 
 So we learn that God is holy and therefore committed to his own glory.
 
@@ -271,7 +271,7 @@ I’ve said that we want the New Testament’s interpretation of Isaiah. But the
 
 # Transition
 
-Does history have meaning?  If it does, how do we learn its lessons?  Last week ago, we walked through almost 400 years of history in the books of 1-2 Kings.  Well, the prophets are God’s commentary on that history.  Both the history they’ve seen, and the history that’s yet to come.  So as we continue on with the prophets over the next several weeks, our goal will be to unravel the meaning of the history we looked at in Kings.
+Does history have meaning?  If it does, how do we learn its lessons?  Last week we walked through almost 400 years of history in the books of 1-2 Kings.  Well, the prophets are God’s commentary on that history.  Both the history they’ve seen, and the history that’s yet to come.  So as we continue on with the prophets over the next several weeks, our goal will be to unravel the meaning of the history we looked at in Kings.
 
 In fact, go ahead and turn to the table of contents in your Bible.  Do you see where Isaiah is?  From Isaiah on, are what are called The Prophets.  The Prophets, in turn are divided into two sections.  The Major Prophets consist of Isaiah through Daniel.  And the Minor Prophets, which we begin studying now, are Hosea through Malachi.  Now, the reason some are called “Major” and some are called “Minor” is simply because the Major Prophets are, generally speaking, longer and the Minor ones shorter.  So short, in fact, that the Minor Prophets were traditionally placed together on a single scroll, referred to as one book, called “The Book of the Twelve.”
 
@@ -285,7 +285,7 @@ Hosea 1:1 tells us the author: Hosea. And it gives us the time period too: Hosea
 
 In terms of an outline, the book of Hosea treats that central problem of idolatry in two main sections.  The first three chapters are an extended parable based on the life of Hosea, using his marriage to an unfaithful wife to depict Israel’s relationship with Yahweh.  And this image of a broken marriage provides a basic framework that runs through the entire Book of Twelve.  Israel has abandoned her covenant with the Lord, but, like a faithful husband, God will pursue his true people and restore them.
 
-Then, chapters 4-14 contain messages from God to his people.  With all the poetry and apocalyptic language, it’s very easy to get lost.  But if you look at your outline on the back of the handout, you’ll see that there’s a basic threefold cycle which is repeated three times.  _Accusation_ in which God recites and condemns the sin of the people; _judgment_ threatened if they do not repent; and finally _mercy_ as God redeems his covenant people.  Knowing where you are in these cycles can help you keep track of the overall direction of Hosea’s prophecy
+Then, chapters 4-14 contain messages from God to his people.  With all the poetry and apocalyptic language, it’s very easy to get lost.  But if you look at the outline in your handout, you’ll see that there’s a basic threefold cycle which is repeated three times.  _Accusation_ in which God recites and condemns the sin of the people; _judgment_ threatened if they do not repent; and finally _mercy_ as God redeems his covenant people.  Knowing where you are in these cycles can help you keep track of the overall direction of Hosea’s prophecy
 
 How can we best summarize the themes of Hosea?  Because the gripping story of Hosea’s marriage provides the analogy for the people’s broken relationship with God, it’s most helpful to see Hosea as a prophecy about love.  Love – even God’s love – is greatly misunderstood today.  So let’s take a look at Hosea and see what it teaches us about what God’s love is really like.
 
@@ -309,9 +309,9 @@ Will this punishment last forever?  God would be just if it did.  But the amazin
 
 > And I will betroth you to me forever. I will betroth you to me in righteousness and in justice, in steadfast love and in mercy.  I will betroth you to me in faithfulness. And you shall know the Lord.
 
-God’s love is not earned.  It’s not given because the subjects of his love are so lovely!  No, our role in this story is not that of Hosea, the loving, virtuous husband.  Nope: we play the part of Gomer.  And that means that for us, the fact that God’s love is free and gracious is good news indeed.  Something you could do to reflect on this story even this week would be to meditate on how the sin in your life is marital unfaithfulness to God.  And then rejoice in what he’s done to rescue you.
+God’s love is not earned.  It’s not given because the subjects of his love are so lovely!  No, our role in this story is not that of Hosea, the loving, virtuous husband.  Nope: we play the part of Gomer.  And that means that for us, the fact that God’s love is free and gracious is good news indeed.
 
-But there’s another picture here to portrays God’s love, and it’s the names that God gives to Hosea’s children.  In 1:4, Hosea’s first child is named Jezreel – the name of the site of a terrible massacre that aroused God’s anger against Israel.  In 1:6, Gomer’s daughter is named Lo-Ruhamah, which means “not loved.”  In 1:9, Gomer’s second son is named “Lo-Ammi,” which means “not my people.”  The names get progressively more ominous, and the tragic point here is that God is casting Israel off as his people!  Judgment is coming.  But what will happen after that?  Hos. 2:23 gives the answer:  “I will have mercy on No Mercy, and I will say to Not My People, ‘You are my people’; and he shall say, ‘You are my God.’”  Now, these fearful names are reversed!  God shows mercy!   Who will receive this mercy?  Hos. 3:5 says it will be those who return and seek the Lord their God and David their king.  
+But there’s another picture here to portray God’s love, and it’s the names that God gives to Hosea’s children.  In 1:4, Hosea’s first child is named Jezreel – the name of the site of a terrible massacre that aroused God’s anger against Israel.  In 1:6, Gomer’s daughter is named Lo-Ruhamah, which means “not loved.”  In 1:9, Gomer’s second son is named “Lo-Ammi,” which means “not my people.”  The names get progressively more ominous, and the tragic point here is that God is casting Israel off as his people!  Judgment is coming.  But what will happen after that?  Hos. 2:23 gives the answer:  “I will have mercy on No Mercy, and I will say to Not My People, ‘You are my people’; and he shall say, ‘You are my God.’”  Now, these fearful names are reversed!  God shows mercy!   Who will receive this mercy?  Hos. 3:5 says it will be those who return and seek the Lord their God and David their king.  
 
 This is a fascinating verse, because as we saw earlier, Hosea prophesied during the reigns of kings who lived two hundred years after David!  So when he says that the people will seek “David” their king, he’s talking about the king who would rule God’s people in the last days – the king who would be a son of David – the Messiah.  When Paul explains in Romans 9:25 that Gentiles as well as Jews would know salvation through Christ, he quotes that verse from Hosea 2:23 about the reversal of the children’s names.  He’s showing us that not only Israel, but all of us, are estranged from God because of our sins, and we all deserve to be cast away from His presence for eternity.  But Jesus Christ has endured the wrath of God and brings us back into fellowship with him.
 
@@ -372,7 +372,7 @@ And not only does Hosea tell us of the new life God grants to those he loves, he
 
 What an amazing picture!  What hope!  Who says the prophets are just about judgment!  Of course, as we said earlier, the Old Covenant kingdom of Israel was destroyed – but God’s true people were not.  When Paul quotes from Hosea’s restoration passages in Romans, he’s showing us that Hosea’s prophecy would not be fulfilled some Middle-Eastern nation-state to come, but in the church.
 
-And if you struggle to believe Hosea’s message of hope, remember it is Jesus who secures the restoration this book foretells.  As we conclude our look at this book, consider what Hosea says in 11:1.  “When Israel was a child, I loved him, and out of Egypt I called my son.”  God is talking about how he rescued Israel from slavery, even calling the nation his son because the relationship was that close.  But Israel challenged God’s love with their sin.  They would not recover God’s love through repentance like Hosea said.  Where could hope for such sinners come from?  It would come from a better Son – a perfect Israel.  That’s why, in a surprising demonstration of God’s inspiration of scripture, Matthew quotes that same verse from Hosea in 2:15.  “This was to fulfill what the Lord had spoken by the prophet, ‘Out of Egypt I called my son.’” Now, what’s the fulfillment?  Not Israel as God’s son but the infant Jesus, as he returns from hiding in Egypt.  In other words, Jesus is the son that Israel never was.  He would perfectly kept God’s covenant like Israel never did.  He was the true Israelite.  And though all of us have committed spiritual adultery against God, Jesus never did.  He was always faithful.  So it is through the death and resurrection of Jesus that we are reconciled to God.  And that is a fitting place for us to close this overview of Hosea as a book about love.
+And if you struggle to believe Hosea’s message of hope, remember it is Jesus who secures the restoration this book foretells.  As we conclude our look at this book, consider what Hosea says in 11:1.  “When Israel was a child, I loved him, and out of Egypt I called my son.”  God is talking about how he rescued Israel from slavery, even calling the nation his son because the relationship was that close.  But Israel challenged God’s love with their sin.  They would not recover God’s love through repentance like Hosea said.  Where could hope for such sinners come from?  It would come from a better Son – a perfect Israel.  That’s why, in a surprising demonstration of God’s inspiration of scripture, Matthew quotes that same verse from Hosea in 2:15.  “This was to fulfill what the Lord had spoken by the prophet, ‘Out of Egypt I called my son.’” Now, what’s the fulfillment?  Not Israel as God’s son but the infant Jesus, as he returns from hiding in Egypt.  In other words, Jesus is the son that Israel never was.  He perfectly kept God’s covenant like Israel never did.  He was the true Israelite.  And though all of us have committed spiritual adultery against God, Jesus never did.  He was always faithful.  So it is through the death and resurrection of Jesus that we are reconciled to God.  And that is a fitting place for us to close this overview of Hosea as a book about love.
 
 [TAKE QUESTIONS]
 
