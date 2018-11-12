@@ -70,6 +70,11 @@ class10:
 	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/OT_Class_10_Handout.pdf OT_Class_10_Handout.md
 	decktape -s 1024x768 webslides OT_Class_10_Slides.html build/OT_Class_10_Slides.pdf
 
+class11:
+	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/OT_Class_11_Manuscript.pdf OT_Class_11_Manuscript.md
+	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/OT_Class_11_Handout.pdf OT_Class_11_Handout.md
+	decktape -s 1024x768 webslides OT_Class_11_Slides.html build/OT_Class_11_Slides.pdf
+
 .PHONY: clean
 
 clean :
