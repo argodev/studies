@@ -1,11 +1,11 @@
 ---
-title: Class 12 - Ezekiel, Daniel
+title: Class 15 - Conclusion/Review
 subtitle: Old Testament Seminar
 institute: Immanuel Church
 header-includes:
     - \usepackage{fancyhdr}
     - \pagestyle{fancy}
-    - \fancyhead[RO,RE]{Class 12 - Ezekiel, Daniel}
+    - \fancyhead[RO,RE]{Class 15 - Conclusion/Review}
     - \fancyhead[LO,LE]{Old Testament Seminar}
     - \usepackage{tikz}
     - \usetikzlibrary{calc,shapes.multipart,chains,arrows}
