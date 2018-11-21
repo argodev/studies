@@ -17,7 +17,7 @@ fontfamilyoptions: sfdefault
 
 ## Context
 
-- The people are preoccupied with their own interests.  
+- The people are preoccupied with their own interests.
 
 - The people are neglecting the reconstruction of the temple.
 
