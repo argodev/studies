@@ -78,22 +78,22 @@ class11:
 class12:
 	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/OT_Class_12_Manuscript.pdf OT_Class_12_Manuscript.md
 	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/OT_Class_12_Handout.pdf OT_Class_12_Handout.md
-	#decktape -s 1024x768 webslides OT_Class_12_Slides.html build/OT_Class_12_Slides.pdf
+	decktape -s 1024x768 webslides OT_Class_12_Slides.html build/OT_Class_12_Slides.pdf
 
 class13:
 	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/OT_Class_13_Manuscript.pdf OT_Class_13_Manuscript.md
 	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/OT_Class_13_Handout.pdf OT_Class_13_Handout.md
-	#decktape -s 1024x768 webslides OT_Class_13_Slides.html build/OT_Class_13_Slides.pdf
+	decktape -s 1024x768 webslides OT_Class_13_Slides.html build/OT_Class_13_Slides.pdf
 
 class14:
 	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/OT_Class_14_Manuscript.pdf OT_Class_14_Manuscript.md
 	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/OT_Class_14_Handout.pdf OT_Class_14_Handout.md
-	#decktape -s 1024x768 webslides OT_Class_14_Slides.html build/OT_Class_14_Slides.pdf
+	decktape -s 1024x768 webslides OT_Class_14_Slides.html build/OT_Class_14_Slides.pdf
 
 class15:
 	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/OT_Class_15_Manuscript.pdf OT_Class_15_Manuscript.md
 	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/OT_Class_15_Handout.pdf OT_Class_15_Handout.md
-	#decktape -s 1024x768 webslides OT_Class_15_Slides.html build/OT_Class_15_Slides.pdf
+	decktape -s 1024x768 webslides OT_Class_15_Slides.html build/OT_Class_15_Slides.pdf
 
 .PHONY: clean
 

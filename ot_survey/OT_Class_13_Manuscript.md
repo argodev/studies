@@ -21,7 +21,7 @@ Think of a wedding where you watch a slideshow of pictures that tell a person’
 
 ## Context
 
-Like Samuel and Kings, first and second Chronicles were originally one book, and that’s how we’ll treat them today. The Hebrew name for the book translates to “the events of the days” -- it’s a historical record. One of the early church fathers, Jerome, called it the “chronicle” of Judah’s history when he translated the Bible into Latin, and title stuck. We don’t know who the actual chronicler was who assembled this book. Some suggest Ezra, the priest we’ll study next week.  
+Like Samuel and Kings, first and second Chronicles were originally one book, and that’s how we’ll treat them today. The Hebrew name for the book translates to “the events of the days” -- it’s a historical record. One of the early church fathers, Jerome, called it the “chronicle” of Judah’s history when he translated the Bible into Latin, and title stuck. We don’t know who the actual chronicler was who assembled this book. Some suggest Ezra, the priest we’ll study in just a few minutes week.
 
 Regardless of who the author was, the historical context of when he wrote helps us understand why he wrote. To get a sense of this context, let’s turn to 1 Chron. 9:1-2, starting in the second half of verse 1:
 
@@ -29,7 +29,7 @@ Regardless of who the author was, the historical context of when he wrote helps 
 
 __*So are we during or after the exile?*__ [After] Right! After seventy years, they’re back!
 
-And this fact is key to appreciating the message of the book of Chronicles. As you remember, the history of Israel was one of hope and tragedy. Hope God’s promise that one of David’s sons would rule forever. But tragedy as king after king failed to live up to God’s righteous. Tragedy seemed to win as the northern tribes of Israel were exiled to Assyria in 722 BC, never to return. And as the southern kingdom of Judah was defeated by Babylon in 586 BC. Jerusalem and the temple were destroyed, and the people exiled. But hope wasn’t crushed completely; a remnant was preserved in Babylon, and David’s line survived through king Jehoiachin. Ezra and Nehemiah, which we’ll study next week, complete the story by showing us what happened when the people finally returned to Jerusalem to rebuild the temple and the city walls.
+And this fact is key to appreciating the message of the book of Chronicles. As you remember, the history of Israel was one of hope and tragedy. Hope in God’s promise that one of David’s sons would rule forever. But tragedy as king after king failed to live up to God’s righteous. Tragedy seemed to win as the northern tribes of Israel were exiled to Assyria in 722 BC, never to return. And as the southern kingdom of Judah was defeated by Babylon in 586 BC. Jerusalem and the temple were destroyed, and the people exiled. But hope wasn’t crushed completely; a remnant was preserved in Babylon, and David’s line survived through king Jehoiachin. Ezra and Nehemiah, which we’ll study later this morning, complete the story by showing us what happened when the people finally returned to Jerusalem to rebuild the temple and the city walls.
 
 __*What are some similarities between these people and our situation as Christians today?*__ *[one key similarity: we both live in the middle of the “already, not yet” fulfillment of God’s promises.]*
 
