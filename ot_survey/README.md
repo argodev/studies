@@ -20,6 +20,6 @@ consider the [original materials available on their website](http://www.capitolh
 | 10 | 11/11 | Amos, Obadiah, Jonah, Micah | 18 Amos and Obadiah <br> 19 Jonah and Micah  |
 | 11 | 11/18 | Nahum, Habakkuk, Zephaniah, Jeremiah, Lamentations |  20 Nahum, Habakkuk and Zephaniah <br> 21 Jeremiah and Lamentations  |
 | 12 | 11/25 | Ezekiel, Daniel| 22 Ezekiel <br> 23 Daniel |
-| 13 | 12/2 | Chronicles, Ezra, Nehemiah, Esther | 24 Chronicles <br> 25 Ezra, Nehemiah and Esther |
-| 14 | 12/9 | Haggai, Zechariah, Malachi | 26 Haggai, Zechariah and Malachi |
+| 13 | 12/2 | Chronicles, Ezra, Nehemiah | 24 Chronicles <br> 25a Ezra, Nehemiah and Esther |
+| 14 | 12/9 | Esther, Haggai, Zechariah, Malachi | 25b Ezra, Nehemiah and Esther <br> 26 Haggai, Zechariah and Malachi |
 | 15 | 12/16 | Conclusion and Summary |  |

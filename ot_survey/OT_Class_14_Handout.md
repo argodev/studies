@@ -1,17 +1,36 @@
 ---
-title: Class 14 - Haggai, Zechariah, Malachi
+title: Class 14 - Esther, Haggai, Zechariah, Malachi
 subtitle: Old Testament Seminar
 institute: Immanuel Church
 header-includes:
     - \usepackage{fancyhdr}
     - \pagestyle{fancy}
-    - \fancyhead[RO,RE]{Class 14 - Haggai, Zechariah, Malachi}
+    - \fancyhead[RO,RE]{Class 14 - Esther, Haggai, Zechariah, Malachi}
     - \fancyhead[LO,LE]{Old Testament Seminar}
     - \usepackage{tikz}
     - \usetikzlibrary{calc,shapes.multipart,chains,arrows}
 fontfamily: libertine
 fontfamilyoptions: sfdefault
 ---
+# Esther
+
+## Historical Context
+
+- Events occur between 483 and 473 BC
+
+- A group of Jews remained in Persia, where enemies abound
+
+## Theme
+
+*God protects his people, even if we can’t see how he is working.*
+
+## God Will Judge
+
+## God Works Through Circumstances
+
+## God Will Save His People
+
+## Conclusion
 
 # Haggai
 
@@ -72,6 +91,13 @@ fontfamilyoptions: sfdefault
 ## “Elijah” Will Come First – Malachi 4:5-6
 
 # Study Outlines
+
+## A Study Outline for Esther
+
+i. Esther 1-2 – Esther’s Rise
+i. Esther 3-5 – Haman’s Plot
+i. Esther 6-7 – Mordecai’s Victory
+i. Esther 8-10 – Jews’ Celebration
 
 ## A Study Outline for Haggai
 

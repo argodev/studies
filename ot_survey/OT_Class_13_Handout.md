@@ -1,11 +1,11 @@
 ---
-title: Class 13 - Chronicles, Ezra, Nehemiah, Esther
+title: Class 13 - Chronicles, Ezra, Nehemiah
 subtitle: Old Testament Seminar
 institute: Immanuel Church
 header-includes:
     - \usepackage{fancyhdr}
     - \pagestyle{fancy}
-    - \fancyhead[RO,RE]{Class 13 - Chronicles, Ezra, Nehemiah, Esther}
+    - \fancyhead[RO,RE]{Class 13 - Chronicles, Ezra, Nehemiah}
     - \fancyhead[LO,LE]{Old Testament Seminar}
     - \usepackage{tikz}
     - \usetikzlibrary{calc,shapes.multipart,chains,arrows}
@@ -145,26 +145,6 @@ God is renewing the covenant by restoring His people, the temple, true worship, 
 
 ## The People Rejoice….and Relapse – Nehemiah 8 - 13
 
-# Esther
-
-## Historical Context
-
-- Events occur between 483 and 473 BC
-
-- A group of Jews remained in Persia, where enemies abound
-
-## Theme
-
-*God protects his people, even if we can’t see how he is working.*
-
-## God Will Judge
-
-## God Works Through Circumstances
-
-## God Will Save His People
-
-## Conclusion
-
 ## A Study Outline for Ezra-Nehemiah
 
 i. God Initiates, People Respond – Ezra 1:1-6
@@ -172,10 +152,3 @@ i. The People Return and Rebuild Ezra 1:7 – 6:22
 i. The People Sin and Repent – Ezra 7 – 10
 i. Nehemiah Returns, People Rebuild the Walls – Nehemiah  1 – 7
 i. The People Rejoice….and Relapse Nehemiah 8-13
-
-## A Study Outline for Esther
-
-i. Esther 1-2 – Esther’s Rise
-i. Esther 3-5 – Haman’s Plot
-i. Esther 6-7 – Mordecai’s Victory
-i. Esther 8-10 – Jews’ Celebration

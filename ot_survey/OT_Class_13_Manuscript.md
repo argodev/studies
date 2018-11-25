@@ -1,11 +1,11 @@
 ---
-title: Class 13 - Chronicles, Ezra, Nehemiah, Esther
+title: Class 13 - Chronicles, Ezra, Nehemiah
 subtitle: Old Testament Seminar
 institute: Immanuel Church
 header-includes:
   - \usepackage{fancyhdr}
   - \pagestyle{fancy}
-  - \fancyhead[RO,RE]{Class 13 - Chronicles, Ezra, Nehemiah, Esther}
+  - \fancyhead[RO,RE]{Class 13 - Chronicles, Ezra, Nehemiah}
   - \fancyhead[LO,LE]{Old Testament Seminar}
   - \usepackage{tikz}
   - \usetikzlibrary{calc,shapes.multipart,chains,arrows}
@@ -131,7 +131,7 @@ Because Chronicles points us to Jesus, it’s a wonderfully encouraging read. He
 
 # Transition
 
-Today we’ll look at three more historical books, Ezra, Nehemiah, and Esther. The first two tell us about the Jews’ return from exile, just as God promised through Jeremiah. Yet, they show us that something is still missing. Things just don’t seem to be as glorious as the prophets predicted. Where are the New Heavens and the New Earth Isaiah spoke of? Why don’t the people have the new hearts that Jeremiah predicted? Where is the glorious and magnificent temple Ezekiel saw? And further, why hasn’t everyone come back? That’s a key question in the book of Esther. The people we’ll meet in that book are still in a foreign land. So, after the exile some things are just as predicted and promised. But many of God’s promises have yet to be fulfilled. That’s the issue these books grapple with.
+For the rest of our time we’ll look at two more historical books, Ezra and Nehemiah. These two tell us about the Jews’ return from exile, just as God promised through Jeremiah. Yet, they show us that something is still missing. Things just don’t seem to be as glorious as the prophets predicted. Where are the New Heavens and the New Earth Isaiah spoke of? Why don’t the people have the new hearts that Jeremiah predicted? Where is the glorious and magnificent temple Ezekiel saw?
 
 And, of course, we’re in the same situation, aren’t we? God’s made good on some of his promises, but the best of them are still waiting. __*What are some of the challenges of living in this “in-between” time?*__
 
@@ -227,50 +227,6 @@ The people are in the land, the line of David lives on (and therefore so does th
 So is this what we’ve been waiting for? Sadly, no. No sooner do the people renew the covenant than they break it again. In chapter 13 we see them violating the Sabbath. And once again they intermarry with the surrounding nations. And so we again see that same problem again. The law is not yet written on their hearts. This is not the full arrival of the kingdom of God. This is not the new covenant with new hearts in the new heaven and the new earth. Sin and death still reign.
 
 We are here at the end of the Old Testament’s historical record, and the heart is still wickedly deceitful above all things, and beyond cure. Who can understand it? A greater salvation, greater than the Exodus, greater than the return from exile must yet be coming. A greater kingdom, greater than David’s, greater than Solomon’s, greater than Ezra’s and Nehemiah’s, still awaits!
-
-[TAKE QUESTIONS]
-
-# Esther
-
-On to Esther! Same time, different place. It’s now in the 480s/470s BC, half a century after the return of the first wave, but before Ezra’s return. But we’re in Susa, Persia’s capital, where some Jews still live in exile.
-
-What’s really strange about the book of Esther is that God’s never mentioned. And apart from some fasting (4:3, 16) there’s not even any religious references. That makes the book’s purpose and application less-than-obvious. So contribution does it make to God’s unfolding plan of redemption? Well, the story illustrates through narrative the truth that God cares for his people. That he will rescue his people from his enemies, and that God’s people can ultimately rest assured that God will protect them -- even when we can’t see how He’s working.
-
-## Theme
-
-In fact, that’s a good theme statement for Esther:
-
-_God protects his people, even if we can’t see how he is working._
-
-In a world where God’s invisible, the faithful can often wonder if God is really at work. But it’s important to remember that God’s acts of providence in our world are most commonly done with a hidden hand. His work can be so easily overlooked. And sometimes, it’s that subtlety of his actions that makes His deliverance all the more powerful.
-
-## Summary
-
-So... Esther. Let me summarize the story. In the first two chapters a young Jewish girl named Esther rises in King Xerxes’ favor, such that he makes her his queen. Her cousin, Mordecai overhears a plot to kill Xerxes, and so he informs Esther of this. Esther alerts the king and the plot is stopped. In chapter 3 the Jews face a crisis. A man named Haman is promoted in the king’s court, and he’s offended when Mordecai won’t pay homage to him. To exact his revenge, Haman doesn’t go after Mordecai alone, but seeks a decree to have all the Jews in Persia exterminated. Mordecai persuades Esther to help. She petitions the king to spare the Jews, and he takes action on their behalf. Meanwhile, the king unwittingly humiliates Haman by forcing him to publicly honor Mordecai. And, when Haman’s plot is thwarted, he’s executed.
-
-That’s the story; let’s touch on a few important themes.
-
-## A. God will judge
-
-First, God will bring judgment on the wicked. The villain here is Haman. He’s guilty of pride, arrogance, attempted murder, and attempted genocide. Worst of all, he’s directed his sin specifically and directly against God’s people, which is to say, against God himself. His evil is not random or merely selfish: it is willfully and intentionally directed against the people and purposes of God. Haman is an archetype of the enemies of God.
-
-But we see in the story that in God’s providence, all Haman’s plans backfire on him. Haman wants to humiliate Mordecai, but the king forces Haman to honor Mordecai publicly. Haman wants to murder Mordecai by impaling him on a pole; but the king executes Haman by hanging him on that very same pole. Haman wants to eliminate the Jews in a mass, empire-wide genocide. Instead, God uses the occasion to allow the Jews to not only defend themselves, but to triumph over their enemies. We read in 9:2, “The Jews gathered in their cities throughout all the provinces of King Ahasuerus to lay hands on those who sought their harm. And no one could stand against them, for the fear of them had fallen on all peoples.”
-
-God does judge the wicked - sometimes even in this life. And so Christians should have peace about trials in this life, confident that God will bring justice.
-
-## B. God works through circumstances
-
-Note how Mordecai persuades Esther to rescue her people from this sentence of death. “who knows whether you have not come to the kingdom for such a time as this?” Mordecai asks in 4:14. Mordecai believes that there is a purpose to Esther’s becoming queen, and that her purpose is made clear by the opportunity presented to help save God’s people. God uses earthly instruments, like people’s actions, to accomplish His plans. In fact, as you look across the Scriptures you’ll notice how rare it is that his miracles take the form of the abrupt disruption of history that you might see, say, in the Exodus. Rather, he uses people, situations, events, all quite naturally, very inconspicuously, towards the end He intends. Mordecai is telling Esther that she should understand herself and her queenship to be the instrument by which God accomplishes his purposes. Doubtless, God does not need any particular person or circumstance to achieve his purposes. But he’s ordained to use people like Esther -- and us -- to spread his word and redeem his people “It could be you!” Mordecai is saying, “*You* could be that instrument! How exciting!” And to that he says, “Who knows?” Indeed, *who knows*?
-
-There are no accidents or coincidences in life. God guides and directs all of his creation, and that means he guides the circumstances of your life as well. We should carefully examine the situations God puts us in and look for opportunities for to serve our Lord and savior. Who knows what God will do with those little acts of faithfulness?
-
-## C. God will save his people
-
-The theological point? God zealously protects His people. This is one major theme of the entire Bible, and it’s clearly the point of this little story of Esther. It’s not always clear at the time how God is working or how things will turn out in the end, but God delivers his people and carries his redemptive plan forward. And note that they way God achieved Israel’s deliverance in this situation maximized his own glory and pretty much prevented Mordecai or Esther from taking credit or boasting about anything. In fact, God’s purposes and salvation in this book are even deeper and more meaningful than events on the surface might suggest. Do you remember when Sauls’ kingship failed? It was when he refused to carry out God’s command to totally destroy the Amalekites and their king Agag. (1 Sam. 15). Well, we find out in 2:5 that Mordecai is a distant descendant of king Saul and, 9:24, Haman of king Agag. In God’s kindness, his rescue of his people results in redemption for the line of Saul, centuries after he disobeyed command. Certainly no accident that these genealogical details are brought to light in this book.
-
-## Conclusion
-
-So what do we take away from these three books on living in this “in-between” time? When God is still waiting to finish delivering on his promises? Well, we need to trust that God is at work, even when we can’t see it. Like we saw in Esther. Our job, like queen Esther’s and the people in the land, is to be faithful with the opportunities we can see. But ultimately, we’re dependent on God to secure that obedience, as we see the failure at the end of Neheimiah pointing ahead to God’s greater provision in Christ.
 
 [TAKE QUESTIONS]
 

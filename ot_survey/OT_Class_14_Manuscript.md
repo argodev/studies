@@ -1,11 +1,11 @@
 ---
-title: Class 14 - Haggai, Zechariah, Malachi
+title: Class 14 - Esther, Haggai, Zechariah, Malachi
 subtitle: Old Testament Seminar
 institute: Immanuel Church
 header-includes:
   - \usepackage{fancyhdr}
   - \pagestyle{fancy}
-  - \fancyhead[RO,RE]{Class 14 - Haggai, Zechariah, Malachi}
+  - \fancyhead[RO,RE]{Class 14 - Esther, Haggai, Zechariah, Malachi}
   - \fancyhead[LO,LE]{Old Testament Seminar}
   - \usepackage{tikz}
   - \usetikzlibrary{calc,shapes.multipart,chains,arrows}
@@ -15,7 +15,49 @@ fontfamilyoptions: sfdefault
 
 # Introduction
 
-Welcome to the final week of the Old Testament core seminar! As exciting as that is, of course, we are really only halfway to our goal. Our goal is to see the light of the knowledge of the glory of God in the face of Jesus Christ, and it’s in the New Testament where that light shines most brightly. And yet the glory of Christ shines differently in the Old Testament, doesn’t it? Perhaps less brightly, but more textured. And this background is critical to fully understanding the New Testament. So today, we’ll finish up with Haggai, Zechariah, and Malachi, (the last three Minor Prophets). And I’ll warn you, despite some amazing pictures of God’s final restoration in these books, there’s some pretty depressing themes as well. As we’ve been saying, it’s clear that while the exiles have returned to the land, nothing much seems to have changed. The spiritual exile continues. Haggai accuses the people of tragically misdirecting priorities. Zechariah describes significant social sins. And Malachi points out corrupt teaching, divorce, hypocrisy, and immorality in both priests and leity. The physical exile has finished, but the real exile continues. So what are we going to do? Let’s begin with Haggai.
+Welcome to the final week of the Old Testament core seminar! As exciting as that is, of course, we are really only halfway to our goal. Our goal is to see the light of the knowledge of the glory of God in the face of Jesus Christ, and it’s in the New Testament where that light shines most brightly. And yet the glory of Christ shines differently in the Old Testament, doesn’t it? Perhaps less brightly, but more textured. And this background is critical to fully understanding the New Testament. So today, we’ll finish up with Esther, Haggai, Zechariah, and Malachi. And I’ll warn you, despite some amazing pictures of God’s final restoration in these books, there’s some pretty depressing themes as well. As we’ve been saying, it’s clear that while the exiles have returned to the land, nothing much seems to have changed. The spiritual exile continues. Esther asks why some of these people haven't returned... and deals with some of the persecution they faced in exile. Haggai accuses the people of tragically misdirecting priorities. Zechariah describes significant social sins. And Malachi points out corrupt teaching, divorce, hypocrisy, and immorality in both priests and leity. The physical exile has finished, but the real exile continues. So what are we going to do? Let’s begin with Esther.
+
+# Esther
+
+On to Esther! Same time, different place. It’s now in the 480s/470s BC, half a century after the return of the first wave, but before Ezra’s return. But we’re in Susa, Persia’s capital, where some Jews still live in exile.
+
+What’s really strange about the book of Esther is that God’s never mentioned. And apart from some fasting (4:3, 16) there’s not even any religious references. That makes the book’s purpose and application less-than-obvious. So contribution does it make to God’s unfolding plan of redemption? Well, the story illustrates through narrative the truth that God cares for his people. That he will rescue his people from his enemies, and that God’s people can ultimately rest assured that God will protect them -- even when we can’t see how He’s working.
+
+## Theme
+
+In fact, that’s a good theme statement for Esther:
+
+_God protects his people, even if we can’t see how he is working._
+
+In a world where God’s invisible, the faithful can often wonder if God is really at work. But it’s important to remember that God’s acts of providence in our world are most commonly done with a hidden hand. His work can be so easily overlooked. And sometimes, it’s that subtlety of his actions that makes His deliverance all the more powerful.
+
+## Summary
+
+So... Esther. Let me summarize the story. In the first two chapters a young Jewish girl named Esther rises in King Xerxes’ favor, such that he makes her his queen. Her cousin, Mordecai overhears a plot to kill Xerxes, and so he informs Esther of this. Esther alerts the king and the plot is stopped. In chapter 3 the Jews face a crisis. A man named Haman is promoted in the king’s court, and he’s offended when Mordecai won’t pay homage to him. To exact his revenge, Haman doesn’t go after Mordecai alone, but seeks a decree to have all the Jews in Persia exterminated. Mordecai persuades Esther to help. She petitions the king to spare the Jews, and he takes action on their behalf. Meanwhile, the king unwittingly humiliates Haman by forcing him to publicly honor Mordecai. And, when Haman’s plot is thwarted, he’s executed.
+
+That’s the story; let’s touch on a few important themes.
+
+## A. God will judge
+
+First, God will bring judgment on the wicked. The villain here is Haman. He’s guilty of pride, arrogance, attempted murder, and attempted genocide. Worst of all, he’s directed his sin specifically and directly against God’s people, which is to say, against God himself. His evil is not random or merely selfish: it is willfully and intentionally directed against the people and purposes of God. Haman is an archetype of the enemies of God.
+
+But we see in the story that in God’s providence, all Haman’s plans backfire on him. Haman wants to humiliate Mordecai, but the king forces Haman to honor Mordecai publicly. Haman wants to murder Mordecai by impaling him on a pole; but the king executes Haman by hanging him on that very same pole. Haman wants to eliminate the Jews in a mass, empire-wide genocide. Instead, God uses the occasion to allow the Jews to not only defend themselves, but to triumph over their enemies. We read in 9:2, “The Jews gathered in their cities throughout all the provinces of King Ahasuerus to lay hands on those who sought their harm. And no one could stand against them, for the fear of them had fallen on all peoples.”
+
+God does judge the wicked - sometimes even in this life. And so Christians should have peace about trials in this life, confident that God will bring justice.
+
+## B. God works through circumstances
+
+Note how Mordecai persuades Esther to rescue her people from this sentence of death. “who knows whether you have not come to the kingdom for such a time as this?” Mordecai asks in 4:14. Mordecai believes that there is a purpose to Esther’s becoming queen, and that her purpose is made clear by the opportunity presented to help save God’s people. God uses earthly instruments, like people’s actions, to accomplish His plans. In fact, as you look across the Scriptures you’ll notice how rare it is that his miracles take the form of the abrupt disruption of history that you might see, say, in the Exodus. Rather, he uses people, situations, events, all quite naturally, very inconspicuously, towards the end He intends. Mordecai is telling Esther that she should understand herself and her queenship to be the instrument by which God accomplishes his purposes. Doubtless, God does not need any particular person or circumstance to achieve his purposes. But he’s ordained to use people like Esther -- and us -- to spread his word and redeem his people “It could be you!” Mordecai is saying, “*You* could be that instrument! How exciting!” And to that he says, “Who knows?” Indeed, *who knows*?
+
+There are no accidents or coincidences in life. God guides and directs all of his creation, and that means he guides the circumstances of your life as well. We should carefully examine the situations God puts us in and look for opportunities for to serve our Lord and savior. Who knows what God will do with those little acts of faithfulness?
+
+## C. God will save his people
+
+The theological point? God zealously protects His people. This is one major theme of the entire Bible, and it’s clearly the point of this little story of Esther. It’s not always clear at the time how God is working or how things will turn out in the end, but God delivers his people and carries his redemptive plan forward. And note that they way God achieved Israel’s deliverance in this situation maximized his own glory and pretty much prevented Mordecai or Esther from taking credit or boasting about anything. In fact, God’s purposes and salvation in this book are even deeper and more meaningful than events on the surface might suggest. Do you remember when Sauls’ kingship failed? It was when he refused to carry out God’s command to totally destroy the Amalekites and their king Agag. (1 Sam. 15). Well, we find out in 2:5 that Mordecai is a distant descendant of king Saul and, 9:24, Haman of king Agag. In God’s kindness, his rescue of his people results in redemption for the line of Saul, centuries after he disobeyed command. Certainly no accident that these genealogical details are brought to light in this book.
+
+## Conclusion
+
+So what do we take away from these three books on living in this “in-between” time? When God is still waiting to finish delivering on his promises? Well, we need to trust that God is at work, even when we can’t see it. Like we saw in Esther. Our job, like queen Esther’s and the people in the land, is to be faithful with the opportunities we can see. But ultimately, we’re dependent on God to secure that obedience, as we see the failure at the end of Neheimiah pointing ahead to God’s greater provision in Christ.
 
 # Haggai
 
