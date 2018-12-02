@@ -101,15 +101,15 @@ Well, having established the principle of immediate retribution that’s so impo
 
 First, a few positive examples:
 
-Look at 17:9-10, where King Jehoshaphat dispatches teachers of God’s Word: “And they taught in Judah, having the Book of the Law of the Lord with them. They went about through all the cities of Judah and taught among the people. And the fear of the Lord fell upon all the kingdoms of the lands that were around Judah, and they made no war against Jehoshaphat.” You see – immediate blessing. The king and people listen to God, and then they enjoy peace.
+1. Look at 17:9-10, where King Jehoshaphat dispatches teachers of God’s Word: “And they taught in Judah, having the Book of the Law of the Lord with them. They went about through all the cities of Judah and taught among the people. And the fear of the Lord fell upon all the kingdoms of the lands that were around Judah, and they made no war against Jehoshaphat.” You see – immediate blessing. The king and people listen to God, and then they enjoy peace.
 
-Or consider another good king, king Hezekiah. Near the end of us life, he sins. And look what happens in 32:25-26. “But Hezekiah did not make return according to the benefit done to him, for *his heart* was proud. Therefore wrath came upon him and Judah and Jerusalem. 26 But Hezekiah *humbled himself* for the *pride of his heart*, both he and the inhabitants of Jerusalem, so that the wrath of the Lord did not come upon them in the days of Hezekiah.”
+2. Or consider another good king, king Hezekiah. Near the end of us life, he sins. And look what happens in 32:25-26. “But Hezekiah did not make return according to the benefit done to him, for *his heart* was proud. Therefore wrath came upon him and Judah and Jerusalem. 26 But Hezekiah *humbled himself* for the *pride of his heart*, both he and the inhabitants of Jerusalem, so that the wrath of the Lord did not come upon them in the days of Hezekiah.”
 
 But unfortunately, bad outweighs good in Chronicles. Let’s look at some of those examples.
 
-First, in 12:1-2: “When the rule of Rehoboam was established and he was strong, he abandoned the law of the Lord, and all Israel with him. 2 In the fifth year of King Rehoboam, *because they had been unfaithful to the Lord*, Shishak king of Egypt came up against Jerusalem.” You see the pattern: the nation abandons Yahweh, and suffers immediate consequences.
+1. First, in 12:1-2: “When the rule of Rehoboam was established and he was strong, he abandoned the law of the Lord, and all Israel with him. 2 In the fifth year of King Rehoboam, *because they had been unfaithful to the Lord*, Shishak king of Egypt came up against Jerusalem.” You see the pattern: the nation abandons Yahweh, and suffers immediate consequences.
 
-Second example: king Amaziah, Chap. 25:27: “From the time when he turned away from the Lord they made a conspiracy against him in Jerusalem, and he fled to Lachish. But they sent after him to Lachish and put him to death there.” As soon as he leaves the ways of God, Amaziah is killed by his own people.
+2. Second example: king Amaziah, Chap. 25:27: “From the time when he turned away from the Lord they made a conspiracy against him in Jerusalem, and he fled to Lachish. But they sent after him to Lachish and put him to death there.” As soon as he leaves the ways of God, Amaziah is killed by his own people.
 
 The book is full of examples like these -- both positive and negative -- where each generation is judged for its own behavior.
 
@@ -139,7 +139,7 @@ And, of course, we’re in the same situation, aren’t we? God’s made good on
 
 # Ezra - Nehemiah
 
-We’ll start with Ezra and Nehemiah, and then take on Esther at the end of the class. Ezra and Nehemiah originally constituted one book,[^2] so we’ll treat them that way today. Many think it was Ezra the priest who assembled it.  The history recorded in Ezra-Nehemiah spans from the time the Jews began to return to Jerusalem, in 538 BC to a century after that first return. Ezra himself gives us the historical context necessary to begin our study in __Ezra 1:1-4__. The Jews had been in exile for 70 years, when we read this:
+Ezra and Nehemiah originally constituted one book,[^2] so we’ll treat them that way today. Many think it was Ezra the priest who assembled it.  The history recorded in Ezra-Nehemiah spans from the time the Jews began to return to Jerusalem, in 538 BC to a century after that first return. Ezra himself gives us the historical context necessary to begin our study in __Ezra 1:1-4__. The Jews had been in exile for 70 years, when we read this:
 
 > In the first year of Cyrus king of Persia, that the word of the Lord by the mouth of Jeremiah might be fulfilled, the Lord stirred up the spirit of Cyrus king of Persia, so that he made a proclamation throughout all his kingdom and also put it in writing:
 
@@ -164,7 +164,7 @@ Let’s summarize Ezra-Nehemiah like this:
 
 _God is renewing the covenant by restoring His people, the temple, true worship, and Jerusalem. But it’s not the end, and it doesn’t fulfill all the great prophesies. Thus His people still look to the future._
 
-The return from exile was exciting. But it wasn’t all it was expected to be. We’re back in the land, but not in the New Heavens and the New Earth. Instead, we’ve got a kind of “exile in the land” as we saw last week in Chronicles. Some people have new hearts, but not everyone. And we have a new temple, but it’s no picture of glory. It all leaves the reader longing for something more, thinking there must be something more to come. Thinking back to Daniel, the seventy years have finished–so the physical exile is done. But the seventy “sevens” until the Messiah arrives have only just begun, and so the spiritual exile continues.  
+The return from exile was exciting. But it wasn’t all it was expected to be. We’re back in the land, but not in the New Heavens and the New Earth. Instead, we’ve got a kind of “exile in the land” as we saw earlier in Chronicles. Some people have new hearts, but not everyone. And we have a new temple, but it’s no picture of glory. It all leaves the reader longing for something more, thinking there must be something more to come. Thinking back to Daniel, the seventy years have finished–so the physical exile is done. But the seventy “sevens” until the Messiah arrives have only just begun, and so the spiritual exile continues.  
 
 Let’s walk through Ezra-Nehemiah now, and I’ll point out some texts that most clearly demonstrate some key themes. And as we go I’ll also fill you in on the chronology of all that’s going on.
 
@@ -174,7 +174,7 @@ What’s important to notice about the beginning of the book is the focus on God
 
 ## B. The People Return and Rebuild: Ezra 1:7 – 6:22
 
-Then God then provide, piece by piece, all that the people need to rebuild their community. To start, we read in 1:7 “Cyrus the king also brought out the vessels of the house of the Lord that Nebuchadnezzar had carried away from Jerusalem” and gave them back to the Jews. This was no small thing. It probably included the golden alter, golden table, golden lampstands, golden basins, and massive bronze pillars, stands, and basins, so large they could not be weighed, as described in 1 Kings 7. This was enormous wealth. They were irreplaceable, and God has miraculously restored them to the people so they could re-institute proper temple worship.
+God then provided, piece by piece, all that the people need to rebuild their community. To start, we read in 1:7 “Cyrus the king also brought out the vessels of the house of the Lord that Nebuchadnezzar had carried away from Jerusalem” and gave them back to the Jews. This was no small thing. It probably included the golden alter, golden table, golden lampstands, golden basins, and massive bronze pillars, stands, and basins, so large they could not be weighed, as described in 1 Kings 7. This was enormous wealth. They were irreplaceable, and God has miraculously restored them to the people so they could re-institute proper temple worship.
 
 Next, look at 2:2, where we see a man named Zerubbabel. What’s significant about him is that he’s of the royal line of David. God had promised to David that he would have a descendant reigning over God’s people *forever*. But at the end of 2 Kings we saw the last Davidic king carted off as a prisoner to Babylon. So the fact that *this guy* is leading God’s people back to the promised land means God is still committed to His covenantal promises.
 
