@@ -8,21 +8,19 @@ consider the [original materials available on their website](http://www.capitolh
 
 | Week # | Date | Class Name | Original CHBC Class(es) |
 |-------:|------|------------|-------------------------|
-| 1      | 1/20 | Introduction: The Covenant Kingdom | 01 Introduction to the Old Testament |
-| 2      | 1/27 | Hebrews: The Kingdom Comes | 02 Genesis 1-11 <br> 03 Genesis 12-50 |
-| 3      | 2/03 | Gospels & Acts Introduction | 04 Exodus 1-19 <br> 05 Exodus 20-40 |
-| 4      | 2/10 | Matthew: The Promised King | 06 Leviticus <br> 07 Numbers |
-| 5      | 2/17 | Mark: The Servant King | 08 Deuteronomy <br> 09 Joshua and Judges |
-| 6      | 2/24 | John: The Divine King | 10 Ruth and Samuel <br> 11 Job |
-| 7      | 3/03 | Luke: The Savior King | 12 Psalms <br> 13 Proverbs |
-| 8      | 3/10 | Ecclesiastes, Song of Songs, Kings | 14 Ecclesiastes and the Song of Songs <br> 15 Kings |
-| 9      | 3/17 | Isaiah, Hosea, Joel | 16 Isaiah <br> 17 Hosea and Joel |
-| 10     | 3/24 | Amos, Obadiah, Jonah, Micah | 18 Amos and Obadiah <br> 19 Jonah and Micah  |
-| 11     | 3/31 | Nahum, Hababakuk, Zephaniah, Jeremiah, Lamentations |  20 Nahum, Hababakuk and Zephaniah <br> 21 Jeremiah and Lamentations  |
-| 12     | 4/07 | Ezekiel, Daniel| 22 Ezekiel <br> 23 Daniel |
-| 13     | 4/14 | Chronicles, Ezra, Nehemiah, Esther | 24 Chronicles <br> 25 Ezra, Nehemiah and Esther |
+| 1      | 1/20 | Introduction: The Covenant Kingdom <br> Hebrews: The Kingdom Comes | 01 Introduction to the Old Testament <br> 02 Hebrews: The Kingdom Comes |
+| 2      | 1/27 | Gospels & Acts Introduction <br> Matthew: The Promised King | 03 Gospels & Acts Introduction <br> 04 Matthew: The Promised King |
+| 3      | 2/03 | Mark: The Servant King | 05 Mark: The Servant King |
+| 4      | 2/10 | John: The Divine King | 06 John: The Divine King |
+| 5      | 2/17 | Luke: The Savior King | 07 Luke: The Savior King |
+| 6      | 2/24 | Acts: The Kingdom Expands <br> Paul: Introduction | 08 Acts: The Kingdom Expands <br> 09 Paul: Introduction |
+| 7      | 3/03 | Romans: The Subjects of the Kingdom | 10 Romans: The Subjects of the Kingdom |
+| 8      | 3/10 | 1 Corinthians: The Foolishness of the Kingdom <br> 2 Corinthains: The Weakness of the Kingdom | 11 1 Corinthians: The Foolishness of the Kingdom <br> 12 2 Corinthains: The Weakness of the Kingdom |
+| 9      | 3/17 | Philippians: The Fellowship of the Kingdom <br> 1 Timothy | 13 Philippians: The Fellowship of the Kingdom <br> 14 1 Timothy |
+| 10     | 3/24 | Titus <br> 2 Timothy | 15 Titus <br> 16 2 Timothy  |
+| 11     | 3/31 | Ephesians, Colossians, Philemon |  17 Ephesians <br> 18 Colossians &amp; Philemon  |
+| 12     | 4/07 | Galatians, James| 19 Galatians <br> 20 James |
+| 13     | 4/14 | 1 Peter, 2 Peter, Jude | 21 1 Peter <br> 22 2 Peter &amp; Jude |
 |        | 4/21 | Easter |  |
-| 14     | 4/28 | Haggai, Zechariah, Malachi | 26 Haggai, Zechariah and Malachi |
-| 15     | 5/05 | Conclusion and Summary |  |
-| 16     | 5/12 | 1 & 2 Thessalonians | 24 1 Thessalonians <br> 25 2 Thessalonians |
-| 17     | 5/19 | Revelation | 26 Revelation |
+| 14     | 4/28 | 1, 2, 3 John, 1 Thessalonians | 23 1, 2, 3 John <br> 24 1 Thessalonians |
+| 15     | 5/05 | 2 Thessalonains, Revelation | 25 2 Thessalonians <br> 26 Revelation |
