@@ -35,65 +35,70 @@ slides: $(SLIDES)
 %.html : %.md
 	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_SLIDE_OPTIONS) -o $(BDIR)/$@ $<
 
+class01:
+	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/NT_Class_01_Manuscript.pdf NT_Class_01_Manuscript.md
+	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/NT_Class_01_Handout.pdf NT_Class_01_Handout.md
+	#decktape -s 1024x768 webslides NT_Class_01_Slides.html build/NT_Class_01_Slides.pdf
+
 class04:
-	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/OT_Class_04_Manuscript.pdf OT_Class_04_Manuscript.md
-	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/OT_Class_04_Handout.pdf OT_Class_04_Handout.md
-	decktape -s 1024x768 webslides OT_Class_04_Slides.html build/OT_Class_04_Slides.pdf
+	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/NT_Class_04_Manuscript.pdf NT_Class_04_Manuscript.md
+	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/NT_Class_04_Handout.pdf NT_Class_04_Handout.md
+	decktape -s 1024x768 webslides NT_Class_04_Slides.html build/NT_Class_04_Slides.pdf
 
 class05:
-	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/OT_Class_05_Manuscript.pdf OT_Class_05_Manuscript.md
-	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/OT_Class_05_Handout.pdf OT_Class_05_Handout.md
-	decktape -s 1024x768 webslides OT_Class_05_Slides.html build/OT_Class_05_Slides.pdf
+	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/NT_Class_05_Manuscript.pdf NT_Class_05_Manuscript.md
+	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/NT_Class_05_Handout.pdf NT_Class_05_Handout.md
+	decktape -s 1024x768 webslides NT_Class_05_Slides.html build/NT_Class_05_Slides.pdf
 
 class06:
-	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/OT_Class_06_Manuscript.pdf OT_Class_06_Manuscript.md
-	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/OT_Class_06_Handout.pdf OT_Class_06_Handout.md
-	decktape -s 1024x768 webslides OT_Class_06_Slides.html build/OT_Class_06_Slides.pdf
+	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/NT_Class_06_Manuscript.pdf NT_Class_06_Manuscript.md
+	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/NT_Class_06_Handout.pdf NT_Class_06_Handout.md
+	decktape -s 1024x768 webslides NT_Class_06_Slides.html build/NT_Class_06_Slides.pdf
 
 class07:
-	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/OT_Class_07_Manuscript.pdf OT_Class_07_Manuscript.md
-	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/OT_Class_07_Handout.pdf OT_Class_07_Handout.md
-	decktape -s 1024x768 webslides OT_Class_07_Slides.html build/OT_Class_07_Slides.pdf
+	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/NT_Class_07_Manuscript.pdf NT_Class_07_Manuscript.md
+	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/NT_Class_07_Handout.pdf NT_Class_07_Handout.md
+	decktape -s 1024x768 webslides NT_Class_07_Slides.html build/NT_Class_07_Slides.pdf
 
 class08:
-	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/OT_Class_08_Manuscript.pdf OT_Class_08_Manuscript.md
-	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/OT_Class_08_Handout.pdf OT_Class_08_Handout.md
-	decktape -s 1024x768 webslides OT_Class_08_Slides.html build/OT_Class_08_Slides.pdf
+	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/NT_Class_08_Manuscript.pdf NT_Class_08_Manuscript.md
+	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/NT_Class_08_Handout.pdf NT_Class_08_Handout.md
+	decktape -s 1024x768 webslides NT_Class_08_Slides.html build/NT_Class_08_Slides.pdf
 
 class09:
-	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/OT_Class_09_Manuscript.pdf OT_Class_09_Manuscript.md
-	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/OT_Class_09_Handout.pdf OT_Class_09_Handout.md
-	decktape -s 1024x768 webslides OT_Class_09_Slides.html build/OT_Class_09_Slides.pdf
+	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/NT_Class_09_Manuscript.pdf NT_Class_09_Manuscript.md
+	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/NT_Class_09_Handout.pdf NT_Class_09_Handout.md
+	decktape -s 1024x768 webslides NT_Class_09_Slides.html build/NT_Class_09_Slides.pdf
 
 class10:
-	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/OT_Class_10_Manuscript.pdf OT_Class_10_Manuscript.md
-	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/OT_Class_10_Handout.pdf OT_Class_10_Handout.md
-	decktape -s 1024x768 webslides OT_Class_10_Slides.html build/OT_Class_10_Slides.pdf
+	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/NT_Class_10_Manuscript.pdf NT_Class_10_Manuscript.md
+	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/NT_Class_10_Handout.pdf NT_Class_10_Handout.md
+	decktape -s 1024x768 webslides NT_Class_10_Slides.html build/NT_Class_10_Slides.pdf
 
 class11:
-	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/OT_Class_11_Manuscript.pdf OT_Class_11_Manuscript.md
-	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/OT_Class_11_Handout.pdf OT_Class_11_Handout.md
-	#decktape -s 1024x768 webslides OT_Class_11_Slides.html build/OT_Class_11_Slides.pdf
+	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/NT_Class_11_Manuscript.pdf NT_Class_11_Manuscript.md
+	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/NT_Class_11_Handout.pdf NT_Class_11_Handout.md
+	#decktape -s 1024x768 webslides NT_Class_11_Slides.html build/NT_Class_11_Slides.pdf
 
 class12:
-	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/OT_Class_12_Manuscript.pdf OT_Class_12_Manuscript.md
-	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/OT_Class_12_Handout.pdf OT_Class_12_Handout.md
-	decktape -s 1024x768 webslides OT_Class_12_Slides.html build/OT_Class_12_Slides.pdf
+	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/NT_Class_12_Manuscript.pdf NT_Class_12_Manuscript.md
+	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/NT_Class_12_Handout.pdf NT_Class_12_Handout.md
+	decktape -s 1024x768 webslides NT_Class_12_Slides.html build/NT_Class_12_Slides.pdf
 
 class13:
-	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/OT_Class_13_Manuscript.pdf OT_Class_13_Manuscript.md
-	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/OT_Class_13_Handout.pdf OT_Class_13_Handout.md
-	decktape -s 1024x768 webslides OT_Class_13_Slides.html build/OT_Class_13_Slides.pdf
+	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/NT_Class_13_Manuscript.pdf NT_Class_13_Manuscript.md
+	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/NT_Class_13_Handout.pdf NT_Class_13_Handout.md
+	decktape -s 1024x768 webslides NT_Class_13_Slides.html build/NT_Class_13_Slides.pdf
 
 class14:
-	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/OT_Class_14_Manuscript.pdf OT_Class_14_Manuscript.md
-	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/OT_Class_14_Handout.pdf OT_Class_14_Handout.md
-	decktape -s 1024x768 webslides OT_Class_14_Slides.html build/OT_Class_14_Slides.pdf
+	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/NT_Class_14_Manuscript.pdf NT_Class_14_Manuscript.md
+	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/NT_Class_14_Handout.pdf NT_Class_14_Handout.md
+	decktape -s 1024x768 webslides NT_Class_14_Slides.html build/NT_Class_14_Slides.pdf
 
 class15:
-	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/OT_Class_15_Manuscript.pdf OT_Class_15_Manuscript.md
-	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/OT_Class_15_Handout.pdf OT_Class_15_Handout.md
-	decktape -s 1024x768 webslides OT_Class_15_Slides.html build/OT_Class_15_Slides.pdf
+	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/NT_Class_15_Manuscript.pdf NT_Class_15_Manuscript.md
+	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/NT_Class_15_Handout.pdf NT_Class_15_Handout.md
+	decktape -s 1024x768 webslides NT_Class_15_Slides.html build/NT_Class_15_Slides.pdf
 
 .PHONY: clean
 
