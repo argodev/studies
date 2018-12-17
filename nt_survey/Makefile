@@ -40,6 +40,11 @@ class01:
 	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/NT_Class_01_Handout.pdf NT_Class_01_Handout.md
 	#decktape -s 1024x768 webslides NT_Class_01_Slides.html build/NT_Class_01_Slides.pdf
 
+class02:
+	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/NT_Class_02_Manuscript.pdf NT_Class_02_Manuscript.md
+	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/NT_Class_02_Handout.pdf NT_Class_02_Handout.md
+	#decktape -s 1024x768 webslides NT_Class_02_Slides.html build/NT_Class_02_Slides.pdf
+
 class04:
 	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/NT_Class_04_Manuscript.pdf NT_Class_04_Manuscript.md
 	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $(BDIR)/NT_Class_04_Handout.pdf NT_Class_04_Handout.md
