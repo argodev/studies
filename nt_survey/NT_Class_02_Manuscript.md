@@ -95,7 +95,7 @@ It is here, outside Galilee, that a significant turning point appears in all thr
 
 ### 8. Later Judean Ministry
 
-Once again, Jesus’ ministry shifts geography—this time to Judea.  John presents the mixed response to Jesus as He teaches at the Feast of Tabernacles, including the attempts by the Pharisees to have Him arrested as He continues to teach that He is the light of the World. 
+Once again, Jesus’ ministry shifts geography — this time to Judea.  John presents the mixed response to Jesus as He teaches at the Feast of Tabernacles, including the attempts by the Pharisees to have Him arrested as He continues to teach that He is the light of the World. 
 
 Luke records the commissioning of the 72, much like the sending of the 12 Apostles, to go and spread the message of the Kingdom. Luke also expounds on the greatest command, by providing Jesus’ example of the good Samaritan.
 
@@ -133,7 +133,7 @@ And that’s the chronology of Jesus’ life in eleven parts out of which the fo
 
 ## Four Portraits, One Jesus
 
-It’s interesting, though—what God inspired was not that chronology I just walked through, but four different gospels: four different lenses onto who Jesus was and what he did.  In the coming weeks, we’ll get into each one individually, but let me lay out all four side-by-side so that you can see the differences, and then we’ll finish with how to use these gospels in your life as a Christian.
+It’s interesting, though — what God inspired was not that chronology I just walked through, but four different gospels: four different lenses onto who Jesus was and what he did.  In the coming weeks, we’ll get into each one individually, but let me lay out all four side-by-side so that you can see the differences, and then we’ll finish with how to use these gospels in your life as a Christian.
 
 ### 1. Matthew: Jesus the Promised King
 
@@ -149,7 +149,6 @@ Mark is the merest of the gospels, with 16 chapters focusing on two basic questi
 |------------------------------|--------------------------------------------------------------------------------|
 | Ch 1-8: “Who is Jesus?”      | Answer: Jesus is the Christ!                                                   |
 | Ch 9-16: What kind of Christ | Answer: The Son of man who came to give his life as a ransom for many. (10:45) |
-
 
 So Mark draws together the ideas from 2 different Messianic Prophecies: the divine Son of Man in Daniel 7, and the suffering servant from Isaiah 53.
 
@@ -176,3 +175,121 @@ Why do the gospels exists?  Let me offer three potential answers:
 ## Conclusion
 
 If you believe that these four gospels are faithful and inspired words of God to introduce us to his Son, what a treasure trove awaits you!  Not only in these next few weeks, but across the rest of your life!  So let me invite you into that store room where we can admire new treasures as well as old, and become reacquainted with our Lord and Savior, Jesus Christ.
+
+# Matthew
+
+Mohammad, the Buddha, Confucius, Abraham, Moses…when people think of religious founders these are some names that come to mind. Another name that comes to mind is Jesus. Do you lump Jesus into that category of religious inventors? Is that what He was?
+
+Interesting question.  So many in our world today think the answer is without question “yes.”  Whether you believe in him or not, he certainly did found one of the world’s great religions.  But one of the stunning things we see in the gospel of Matthew, our subject for this morning, is that while Jesus certainly said some things that no one had said previously, he was not the author of a new religion.  As our pastor, Mark Dever, has written, “Jesus was not an innovator, but the answer.  He was not an inventor, but the fulfillment.  In Matthew, Jesus presents himself as the key to understanding the Old Testament Scriptures... He is the authoritative interpreter of Israel’s religious writings and traditions.  He explains them.  From Genesis to Malachi, from the teaching on marriage and divorce to the Ten Commandments and love, Jesus quotes the Old Testament and tells us what it means.”
+
+That is what Matthew is about.  As we enter into the first book of the New Testament, we must understand continuity with the Old.  Israel had been waiting for her king for over 400 years.  They were under the yoke of Roman occupation and oppression.  Many false Christs and prophets were cropping up and claiming to be the Messiah who would deliver political freedom to the people.  But all failed.  Who would the king be?  How would they know Him?  When would he arrive?
+
+To examine these questions and the circumstances surrounding the arrival of the King, we turn this morning to the gospel of Matthew. Matthew presents Christ through the lens of the Old Testament. He traces the lineage of Christ from Abraham. The Messiah had come to fulfill what had been anticipated for so long.
+
+## Background
+
+There is very little dispute that the apostle Matthew (also called Levi in the accounts Mark and Luke) is the author of the gospel bearing his name.  We know that he was Jewish, a tax collector, and one of the 12 disciples/apostles of the Lord.  That makes his experience as eyewitness to the life and ministry of Jesus as a major source of information for the gospel.  After all, some 42 percent of Matthew’s gospel contains information completely unique to this gospel.  And 60 percent of the book is comprised of quotations of Jesus; something that Matthew (as a tax collector or “scribe”) would have been able to record faithfully.  
+
+Matthew wrote his Gospel in the decades immediately following Christ’s time on earth. Given his writing style, Matthew appears to be writing to a largely Jewish audience. He assumes the reader’s familiarity with many Jewish customs, customs that other gospel writers take care to explain.  Also, he makes extensive use of Old Testament material, particularly prophetic passages, and seems to make the most direct address to the errors of the Pharisees and Sadducees.  These qualities make Matthew a great book to recommend to any sincere Jewish friends willing to explore the claims of Christ.  And it’s an incredible source to understand how we understand and use the Old Testament today as Christians.
+
+## Outline of Matthew
+
+One thing that we must recognize as we get into the book of Matthew is how highly structured it is.  You’ll find this is more true for some New Testament books than others, but when it is true, understanding that structure is crucial to understanding context within the book.  So, what is the structure of Matthew?  Take a look at 7:28, at the close to the Sermon on the Mount.  “When Jesus had finished saying these things, the crowds were amazed at his teaching, because he taught as one who had authority, and not as their teachers of the law.”  Turn ahead to 11:1.  “After Jesus had finished instructing his twelve disciples, he went on from there to teach and preach in the towns of Galilee.”  And ahead again to 13:53: “When Jesus had finished these parables, he moved on from there.”  Do you see the pattern?  When he had finished... when he had finished... when he had finished.  Five times we see that formula repeat in Matthew.  Each time it is at the end of a lengthy section of teaching, which in turn follows a section of narrative.  And those distinct sections in the book — there are seven in all, including the introduction that precedes the Sermon on the Mount, construct the story Matthew is telling, so to speak.  I’ll briefly summarize these seven sections, and then we’ll drop in and follow Matthew’s account from beginning to end.
+
+The first four chapters cover introductory matters: the genealogy of Christ, His birth, baptism, and preparation for ministry. The final 3 chapters of the book, the seventh section, recount his final hours, the crucifixion, and the resurrection.
+
+In the middle are five sections of narrative and teaching that roughly parallel the five books of the law in the Old Testament.  Chapters 5-7 consist almost entirely of the Sermon on the Mount.  And then chapters 8-10 showcase Jesus’ miracles, followed by teaching about persecution as he sends out the 12 disciples.  Chapters 11-13 chronicle rising opposition to Jesus’ ministry, set alongside parables about the true nature of God’s kingdom.  The third set of these narrative-teaching pairs, chapters 14-18, serves as the turning point of the book.  The narrative shows increasing polarization between Jesus in the world, punctuated by Peter’s confession of Jesus as Christ and the transfiguration.  And then Jesus turns to teaching on the church.  The last set of five, chapters 19-25, focuses on Jesus’ week in Jerusalem leading up to the cross and his teaching on the end times.
+
+Well, with that structure in place, let’s walk through each of these pieces so I can show you how they build a crescendo to the cross.
+
+## Sections 1 and 2: Birth and Early Teaching
+
+We’ll start by taking the first two sections of Matthew together: from the genealogy in chapter one through the end of the Sermon on the Mount in chapter 7.  Because they are both aimed fundamentally at showing that Jesus is the one who brings all the strands of Old Testament prophecy and typology together — and pose the question of what that means for us.
+
+Let me show you what I mean.  Again, the question: who is Jesus?  And the answer?  He is the fulfillment of everything in the Old Testament.  He is both a Jew, and yet something new.
+
+The very beginning of this gospel focuses on Jesus’ Jewishness, and his position in the royal line of David.  “The genealogy of Jesus Christ the son of David, the son of Abraham.”  There is no mistaking that Jesus was the One the Jewish people had been waiting for, whether they saw this or not.  Matthew’s gospel was written at a significant time for the Jews.  After the destruction of the temple, only two streams of Judaism would survive: Rabbinic Judaism and Jewish Christianity.  What to do with Jewish heritage was an important consideration for those Jews who became Christians, as we will see in later books as well.  So the fact that Matthew shows that Jesus is the fulfillment of all that is Jewish is critical; it pointed to what to do with this heritage.
+
+And we see this not only in the genealogy but in the birth narrative as well.  Jesus is the fulfillment of ancient prophesy regarding the Messiah.  We see that in Isaiah’s prophesy of a virgin conceiving in chapter 1, and Micah’s prophesy of the Christ child bring from Bethlehem in chapter 2.  But Jesus doesn’t just fulfill Old Testament prophecy; he in fact fulfills God’s vision for the people themselves.  He is the new Israel.  And he obeys perfectly where the first Israel failed.
+
+Matthew takes great pains to show us that as we get to the end of the birth narrative.  Take a look at 2:15.  “This was to fulfill what the Lord had spoken by the prophet, ‘*Out of* Egypt I called my son.’”  The context here is Mary, Joseph, and Jesus being forced to flee to Egypt to escape King Herod’s murderous rage.  Interesting, though: it is as Jesus is going to Egypt that Matthew says he is fulfilling the prophecy, “*Out of*  Egypt I called my son.”  Were you to flip back to that prophecy, in Hosea 11, you would understand what is happening.  The “son” of this prophecy is the nation of Israel.  They had been saved out of the land of Egypt.  But now what is happening?  This new Israel is being saved again, but this time the land of idolatry and oppression is in fact the land of Israel.  And so out of that spiritual Egypt God is calling his new son.
+
+And what happens as this new Israel, this son begins his ministry?  Well, just as the nation of Israel wandered in the wilderness for 40 years of disobedience, Jesus fasts for 40 days in the wilderness, and yet continues his obedience amidst severe temptation.  Rather than grumbling about bread, he lives by every word that comes from the mouth of his God.  All the potential that the nation of Israel pointed to, Jesus fulfilled.
+
+I could keep going, showing how each Old Testament quotation in Matthew brings together yet another strand of the Old Testament in Jesus — but you get the point.  All of this — the prophecies, even the people themselves, find their fulfillment in Jesus Christ.
+
+And that brings us on into the Sermon on the Mount.  Near the beginning of his sermon, Jesus states, quite amazingly, “Do not think that I have come to abolish the Law or the Prophets; I have not come to abolish them but to fulfill them.” (5:17).  So he fulfills not just prophecy, not just typology, but the very law of God.
+
+Jesus didn’t come to destroy Judaism, but to bring it to its ultimate purpose. He taught why the Law, Prophets, the temple and the sacrificial system, and customs all existed. It all pointed to Him. And where Abraham, Jacob, Moses, and David all fell short, Jesus was the Obedient Son, the Perfection of the Law, and the Eternal King.
+
+So was Jesus a Jew?  Most certainly.  As consummately Jewish as there ever was.  And yet even here in the Sermon on the Mount, we see that he is also pointing ahead to something new.  This sermon is intended to illustrate what he says in 5:20, that “unless your righteousness exceeds that of the scribes and Pharisees, you will never enter the kingdom of heaven.”  And then proceeds with an absolutely withering exposition of God’s law — showing that even lustful looks are adultery, and hatred is murder.  The point?  *No one* has a righteousness sufficient to enter the kingdom of heaven.  And so even as Matthew showcases how perfectly Jesus fulfills all of the Old Testament, he points ahead to what is new.  That he would be the final sacrifice needed for sin. His work on the Cross, with the implications for the Temple and Priesthood would mean “the kingdom of God will be taken away from [ethnic Israel] and given to people who will produce its fruit.” (21:43) And so Matthew’s Gospel concludes with Jesus’ admonition to preach the Gospel to “all nations”.
+
+After the Fall, why do you think God chose to provide the entire Old Testament and allow several thousand years of history to unfold before Christ’s arrival? Your response to this question should not be…good point, why didn’t Eve just give birth to Christ? Well, it is God’s intention to reveal Himself to His people. To teach His people about themselves, their need for Him, and their need for a Savior to provide reconciliation.  He used the entire Old Testament to prepare His people for the coming Messiah, establishing their need for a Savior over thousands of years of sin.
+
+## Section 3: Miracles and Persecution
+
+At the end of the sermon on the Mount, we hit in 7:28 the first of those transitional markers that I mentioned before — and as we get into chapters 8-10, we see these stupendous claims of the first seven chapters being confirmed.
+
+Jesus performs miracle after miracle, healing a leper, raising the dead, making a lame man walk, healing the blind, even calming a storm.  And so when John the Baptist asks at the beginning of chapter 11 (v.4b-5) who Jesus is, Jesus is able to reply “Go back and report to John what you hear and see: the blind receive sight, the lame walk, those who have leprosy are cured, the deaf hear, the dead are raised, and good news is preached to the poor.”  [Pause] All those things have happened already in these short chapters.  Jesus is the fulfillment of all the Old Testament points to — and he is confirming it with his ministry.  So the teaching that ends this section centers on Jesus sending his disciples out into the world to preach the kingdom of God.  Yes, they will encounter persecution and opposition, but the power of God is behind them.
+
+Now, up until this point in the gospel, everything is going great.  Matthew has shown masterfully how Jesus is the fulfillment of all of the Old Testament, he has confirmed that in Jesus’ miracles, and has even shown how Jesus is pointing ahead to greater things — that he is one with authority to forgive sin.  All looking up.  But any hope that things will just crescendo to the consummation of the kingdom are sadly upset as we pass another transition verse and enter into our next section, chapters 11-13.
+
+## Section 4: Rising opposition
+
+Jesus begins pronouncing woe on the cities where he has been working, and gets into trouble with the religious leaders when he insists on correcting their flawed and oppressive understanding of the Sabbath.
+
+Matthew draws comparisons of Jesus to Jonah as he writes, “Then some of the Pharisees and teachers of the law said to him, ‘Teacher, we want to see a miraculous sign from you.’ He answered, ‘A wicked and adulterous generation asks for a miraculous sign! But none will be given it except the sign of the prophet Jonah. For as Jonah was three days and three nights in the heart of the earth. The men of Nineveh will stand up at the judgment with this generation and condemn it; for they repented at the preaching of Jonah, and now one greater than Jonah is here” (12:38-41). The people of Nineveh repented at the preaching of God’s prophet, and now the men of Nineveh serve as an indictment to those who are rejecting Jesus, the greatest prophet.
+
+In fact, Jesus saw Himself as greater than any of these in the Old Testament. Matthew writes, “At that time Jesus went through the grainfields on the Sabbath. His disciples were hungry and began to pick some heads of grain and eat them. When the Pharisees saw this, they said to him, ‘Look! Your disciples are doing what is unlawful on the Sabbath.’ He answered, ‘Haven’t you read what David did when he and his companions were hungry? He entered the house of God, and he and his companions ate the consecrated bread — which was not lawful for them to do, but only for the priests. Or haven’t you read in the Law that on the Sabbath the priests in the temple desecrate the day and yet are innocent? I tell you that one greater than the temple is here’” (12:1-6).
+
+Is there anyone you think is greater than Christ? Maybe you’re not comparing Jesus to Old Testament figures as Matthew’s Jewish audience would have likely done. What individuals or things or accomplishments are we tempted to elevate above Christ? No one and nothing is above Him, just as these Old Testament figures pointed to Jesus, so all the events of our world and individual lives are meant to point to Him. He must be followed because He followed the law perfectly and gave Himself so that all those who hadn’t followed the Law could be reconciled to God!
+
+Jesus is getting into trouble with his insistence on using the authority he has claimed — and our rosy picture of the Messianic kingdom coming to earth is being upended.  And so Jesus ends this section with a series of parables, in chapter 13, that show the true nature of his kingdom.  Not all will respond well — or even clearly, as the parable of the sower teaches.  And he will not judge his enemies yet — but let them grow side by side with his church, as we see in the parable of the weeds.  Indeed, rather than a kingdom inaugurated with a great battle or a world takeover, Jesus says his kingdom will begin like the tiniest of seeds.
+
+Jesus frustrates everyone.  He gets in trouble with the religious leaders for claiming divine authority — and yet disappoints his followers with his insistence on a ministry of suffering and opposition.  When all these strands of the Old Testament come together, Matthew is showing us, the result is not what we had anticipated.
+
+## Section 5: Jesus is the Son of David
+
+And that brings us to the central turning point of the book in chapters 14-18.  As Jesus’ ministry continues, opposition grows stronger — and Jesus shows that his kingdom will extend beyond the Jews, as he commends a Canaanite woman for her faith and feeds the four thousand in chapter 15.
+
+Now.  Up to this point in the book, Matthew has been showing plainly that Jesus is the Messiah.  He is the one who fulfills the promise God made to David in 2 Samuel 7 (v. 11)
+
+“The Lord declares to you that the Lord himself will establish a house for you: when your days are over and you rest with your fathers, I will raise up your offspring to succeed you, who will come from your own body, and I will establish the throne of his kingdom forever.”
+
+That’s the claim that’s been made — but so far, few have recognized it.  And so we get to Matthew 16, where Peter provides the statement that will be the turning point of Matthew. Jesus asks, “‘Who do people say the Son of Man in?’ They replied, ‘Some say John the Baptist; others say Elijah; and still others, Jeremiah or one of the prophets.’ ‘But what about you?’ he asked. ‘Who do you say I am?’ Simon Peter answered, ‘You are the Christ, the Son of the living God.’ Jesus replied, ‘Blessed are you, Simon of Jonah, for this was not revealed to you by man, but by my Father in heaven’” (16:13-17).
+
+Jesus is the Christ  How do you determine who Jesus is? Whose authority do you listen to? Do you ascribe to the way the media portrays Jesus — good teacher, religious leader, martyr, legend? Do you look to various religious traditions? Islam says He is a prophet, Mormonism say He is a god just like we can be, some in so-called Christian churches say He is primarily a social justice man.
+
+Well, if you are going to understand Jesus for who He is, you’re going to need to go to those who encountered Him personally, men like Matthew.  And it is around this verse which Matthew has structured his entire gospel.
+
+Peter confesses Jesus as the Christ, and, we read in verse 21, “From that time Jesus began to show his disciples that he must go to Jerusalem and suffer many things from the elders and chief priests and scribes, and be killed, and on the third day be raised.”  The transfiguration later in this chapter confirms what Peter said, but this new strand of teaching will dominate the rest of the book, because the Messiah who has come is not yet a triumphant king.  For this time he will be a suffering servant.
+
+So isn’t it interesting that the teaching portion of this section, which consists of chapter 18, is focused on church life.  We learn about church discipline, about forgiving each other, about divorce, and living together in love.  It is at this point in Matthew that Jesus makes clear he is not ready to begin his final reign, though his kingdom has begun.  The disciples are stuck between Jesus’ two comings — and so are we.  So in his kindness and mercy, at the very point when he signals that the kingdom will not yet be ultimately consummated, that we will be stuck between these two comings, he teaches on the church.  Teaching that at that point in time would have made almost no sense at all, but in time would become so critical.  His body manifest on earth until he comes again.  And it makes sense that he started this section, that ends with the church, showing that his kingdom would be not just for the Jews but for the nations.
+
+## Section 6: The Last Days
+
+And so following that logic, the last section before Jesus’ passion centers on teaching on the second coming.  The narrative preceding that teaching is full of activity, including the triumphal entry.  And more than anywhere else in Matthew, it definitively answers the question of Jesus’ kingship.  He is in fact the Son of David as his genealogy had claimed — he is the king.  And so he will come again as king to judge.
+
+We’ve already seen evidence of his being the Son of David already in each of the previous three sections.  The blind men say, “have mercy on us, Son of David” in chapter 9.  And in chapter 12 after he heals a blind and mute man the people ask, “could this be the Son of David?”  The Canaanite mother of a demon-possessed daughter calls on the “Son of David” in chapter 15.  And finally at the triumphal entry to Jerusalem the crowds hail him as the coming king: “Hosanna to the Son of David” (21:9)
+
+Well, in these days leading up to Christ’s crucifixion, with tensions mounting with the religious leaders in Jerusalem, the Pharisees debate with Jesus over this very title. Matthew records, “While the Pharisees were gathered together, Jesus asked them, ‘What do you think about the Christ? Whose son is he?’ ‘The Son of David,’ they replied. He said to them, ‘How is it then that David, speaking by the Spirit, calls him ‘Lord’? For he says, “ ‘The Lord said to my Lord: “Sit at my right hand until I put your enemies under your feet.” ’ If then David calls him ‘Lord,’ how can he be his son?’ No one could say a word in reply from that day on no one dared to ask him any more questions” (22:41-46).
+
+And with this exchange Jesus silences the Pharisees. They knew their Old Testament, they knew Jesus was quoting Psalm 110:1, a Psalm of David. They knew that the Christ would be called the Son of David, they knew that Jesus was being called the Son of David. What they did not want to admit was that by David’s own words the Christ was actually God, and by implication that’s who Jesus was. No matter what they said, they would have indicted themselves — and yet Jesus’ claim to be king is ever clearer.
+
+And with that kingship clear, Christ spends chapters 24 and 25 preparing us for his next coming — when he will return not as the suffering servant but as the king coming to claim what is rightfully his, with authority to judge.
+
+## Section 7: The Passion narrative
+
+And that is the end of Jesus’ teaching ministry.  Chapter 26 introduces us to the plot to kill Jesus, and by chapter 27 he is dead and buried.  Chapter 28 records the magnificence of his resurrection, and then bringing together his kingly authority and the clear call of this gospel to the nations, Matthew brings us to a close with the great commission.  “Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you.  And behold, I am with you always, to the end of the age.” (28:19-20)
+
+## How did People Respond to Jesus?
+
+Of course, not everyone has followed Jesus to the very end of the book.  From the turning point of Peter’s confession, the responses of the people have come into sharper view.  Some accept the message and the King in faith (The lame, women, the disabled, even non-Jews: the outsiders).
+
+Others accepted the message and the King, but with some confusion.  This was true of the disciples; Peter, for one, contradicts Christ immediately after calling him the Christ.  On his way to the cross the disciples actually argue about which of them was the most important. This should give us confidence in the credibility of the Gospel accounts, why would someone include these messy details if they were making this up? This should also encourage us as we disciple others and are disciples ourselves, Christian growth doesn’t necessarily happen immediately and certainly not completely in this life.
+
+Others flat out rejected the message and the King (Pharisees and Sadducees, Pilate).  For them, the arrival of the King was neither welcomed nor “good” news.  And isn’t this why men and women rejected Christ today? Not because they can’t trust the Gospel accounts, but primarily because they don’t want to submit to the One these accounts present.
+
+## How will you respond to Jesus?
+
+Men and women throughout the ages have either accepted or rejected Jesus Christ; there has never been a middle option.  The book of Matthew shows with immaculate precision that Jesus is in fact the Christ, the fulfillment of all the Old Testament — and our rightful king.  I pray that his kingship becomes increasingly evident in your own life, as you take to heart the message of this account of Jesus Christ.
