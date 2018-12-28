@@ -13,329 +13,294 @@ fontfamily: libertine
 fontfamilyoptions: sfdefault
 ---
 
-# Introduction
+# 1 Corinthians: The Foolishness of the Kingdom
 
-Welcome to the second half of the Old Testament class!  So far we’ve worked our way through Israel’s history up through David and then side-stepped into the wisdom literature: Job, Psalms, and Proverbs — essentially the wisdom required by Israel’s kings to act as the rulers of God’s people on God’s behalf.  This morning, we finish up the wisdom literature with Ecclesiastes and the Song of Songs and then return to the historical books with 1 and 2 Kings.
+There’s a lot of discussion at our church about what makes a healthy church. Expositional preaching, a right understanding of membership and discipline, correct teaching on the Gospel and conversion, a recognition of proper church leadership structures, and so forth. We talk, in our church about being an example for others, not because our church is perfect or has everything together. On the contrary, we recognize that examples in this world will be imperfect and incomplete, but we also know that in the same way Paul told believers to follow him in as much as he followed Christ, so we can strive after the same in our lives individually and corporately.
 
-Now, if Proverbs and the Song of Songs in general give us wisdom for operating in the world that should be, the world of Genesis 2, Ecclesiastes is commentary on the world of Genesis 3.  The world of the fall.  What does it look like to search for meaning in a world wracked by sin?  That’s Ecclesiastes.
+If you were going to teach on what a church should look like, what body of believers would you choose as your demonstration church? You’d probably look to a church that seemed to have the basics down, not a church to whom you have to say, “I fed you with milk, not solid food, for you were not ready for it. And even now you are not yet ready, for you are still of the flesh. For while there is jealousy and strife among you, are you not of the flesh and behaving only in a human way?” (I Cor 3:2-3) And yet this is the same group to whom Paul says, “I give thanks to my God always for you because of the grace of God that was given you in Christ Jesus, that in every way you were enriched in him in all speech and all knowledge – even as the testimony about Christ was confirmed among you – so that you are not lacking in any gift, as you wait for the revealing of our Lord Jesus Christ” (I Cor 1:4-7).
 
-One thing the first two books have in common is how easy it is in both books to get lost in the twists and turns and miss the main message.  That’s why Ecclesiastes and the Song are often mined for pithy quotes but rarely understood as whole books.  So it’s our goal today to try to understand the author's intent in writing, and the one point he’s trying to make in each book.
+When Paul wrote I Corinthians about what should characterize a Gospel-centered church, he did not address a church that had it all together.  Far from it, in fact.  But they did have the one thing that would lead them to becoming a healthy church.  For all their problems, they had Christ.
 
-# ECCLESIASTES
+## Background
 
-## Context
+One of the great things about the way the New Testament was written is that some of it is intensely personal.  We not only understand the great truths of God from beautiful books of teaching such as Romans, but we get the opportunity to peek over the apostles’ shoulders as they deal with real problems that real churches were facing during the New Testament period.  First Corinthians is such a letter.  
 
-First, some context.  Chapter 1, verses 1 and 12 tell us that the author was a son of David[^1].  Which one?  It could have been Solomon or a much later descendant.  But with nothing historically to place him in the book ends up having a timeless presence among us, not dissimilar to Job.  So how do we establish some context for this book within redemptive history?  
+Because a complex story of Paul’s interaction with this church surrounds these letters, we’re going to spend a bit more time than usual setting the context of this book.
 
-A few thoughts for you.  First, we can think of this book as a how-to guide to life in a fallen world.  In that sense, it sits atop the story line of redemptive history, applicable to all time.  Second, we can think of this book as it was used by the first compilers of the Old Testament.  Though not inspired, this tradition is nonetheless informative.  In that initial ordering, the ordering that Jesus would have been taught, Ecclesiastes sits near the end of the Bible with material written after the exile, between Esther and Daniel, Ezra, and Nehemiah.  In that sense, Ecclesiastes may have been positioned as an answer to the meaninglessness life in and after exile.  It gets to the existential questions raised by a people who had lost their land, their temple, their nationhood, and as a result, their identity.
+### Location
 
-## Theme
+Corinth was a cosmopolitan city, situated in Greece on the main route from Rome to the East. It was a center of business, travel and culture and diversity. You’ll note from the map on your handout that much traffic came through Corinth. Any overland traffic going from Athens & northern Greece to the Peloponnesian peninsula would come through Corinth. There was also a major port there, and ships would be dragged on rollers 4 miles overland to take a shortcut from the Ionian Sea in the west to the Aegean in the East. Minus the ships on rollers, Corinth was not unlike New York City, San Francisco, Dubai, London, and Hong Kong today, it was one of the major crossroads in the Mediterranean and therefore a strategic place for the gospel.  
 
-Like Job, Ecclesiastes first poses a problem then gives the solution.  The question sounds like this:
+One of the functions of it being a crossroads was that Corinth became a major center for the spreading of ideas and philosophies. The real celebrities of Corinth were the orators. They would gather wide followings of people, and they would make large sums of money by charging people to hear them speak. The worldly wisdom of Corinth was to seek fame and fortune through being an impressive speaker. This culture seems to be at the heart of many of the problems of the Corinthian church.
 
-_What is the meaning of life?  Isn’t it all fleeting, empty, pointless, and vain since we are all just racing towards death anyway?_
+### Paul’s First Trip
 
-To quote chapter 1, starting in verse 2:  “Vanity of vanities, says the Preacher, vanity of vanities! All is vanity.
-What does man gain by all the toil at which he toils under the sun?”  And skipping down to verse 11: “There is no remembrance of former things, nor will there be any remembrance of later things yet to be among those who come after.”
+Paul had first preached the gospel in Corinth during his second missionary journey recorded in Acts 18.  During this time, he supported himself as a tentmaker and lived with Aquila and Priscilla who had recently moved to Corinth from Rome.  Having arrived in the city after being left for dead by a mob in Philippi, Paul came, as he puts it, “in weakness and in fear, and with much trembling.” (I Cor 2:3) 
 
-Is everything meaningless?  Is everything vanity?  It’s a serious question.  As Robert Gordis has written, “Whoever has dreamed great dreams in his youth and seen the vision flee, or has loved and lost or has beaten barehanded at the fortress of injustice and come back bleeding and broken, has passed [the Teacher’s] door, and tarried a while beneath the shadow of his roof.”[^2]
+In his great love for this people, though, the risen Christ appeared to Paul in a dream and encouraged him to carry on his work in the city.  “Do not be afraid; keep on speaking, do not be silent.  For I am with you, and no one is going to attack you and harm you, because I have many people in this city.”  Spurred on by the knowledge of God’s elect waiting to come to life through the preaching of the gospel, Paul stayed in Corinth where many came to trust in Christ.  After firmly establishing the church there, Paul left in AD 51 for Jerusalem.
 
-So here’s a summary of this book’s answer:
+### Writing of I Corinthians
 
-_Meaningful!  Meaningful!  All is meaningful because all is ordered by an eternal, sovereign, and purposeful God.  Therefore, we should fear God and rejoice in what He has given us to do and to have._
+After his time in Jerusalem, Paul was soon back at work among the Gentiles and from AD 52 to 55 enjoyed an enormously fruitful ministry in Ephesus, in modern day Turkey.  Meanwhile, back in Corinth, others came to build on the foundation that Paul had left.  These leaders did not appear to be bad leaders, but problems began to arise in Corinth nonetheless. Paul wrote a letter that has since been lost, referred to in I Cor 5:9.  But problems continued. It appears that the Corinthians wrote Paul a letter about some of their disagreements (I Cor 5:9), and Paul heard about other problems from some members of Chloe’s household (1:11).
 
-Ecclesiastes confronts our attempt to find meaning in the creation apart from the Creator.  It comes to the sobering conclusion that without a sovereign Creator God, all _is_ vanity.  But if the universe was created, and is now governed, by an eternal, sovereign, and purposeful God, then there _is_ great meaning and value to life.  Now, notice I didn’t just say that the universe has meaning simply because God has meaning.  I said it has meaning because God has certain attributes.  Eternal, sovereign, and purposeful.  Not just any ol’ god will do.  Only if God ordains all things that come to pass, and has the power to carry out His plans, can anything temporal, like our lives, have lasting, meaningful significance.  The God of Ecclesiastes _is_ a sovereign God, and so everything is significant because God does nothing without reason.  Therefore, God is to be feared, and all things that He gives us are to be enjoyed.  After all, He has good and meaningful reasons to give them to us.  This includes our jobs and homes and families and so forth.  But it also includes our troubles and afflictions.  These too are meaningful and good.  We may not understand how.  But we are called to trust God, and believe that He’s not making any mistakes.
+In response to these problems, Paul writes around AD 55 to the Corinthians focusing on the character and order of the church of God.  How should the church reflect to the watching world the character of God? The church must be gospel-centered. The gospel is to be the organizing principle of the church. He says early in the book (1:22-24),
 
-Now.  I began with the first words of the book declaring everything meaningless.  And I told you that the message of the book is that everything is meaningful under an eternal, sovereign, and purposeful God.  How did I get from point A to point B?  Let me give you an overview of the book’s structure to explain.
+> For Jews demand sign and Greeks seek wisdom, but we preach Christ crucified, a stumbling block to the Jews and folly to Gentiles, but to those who are called, both Jews and Greeks, Christ the power of God and the wisdom of God. For the foolishness of God is wiser than men, and the weakness of God is stronger than men.
 
-## Structure and Outline
+Paul spends his time writing to the Corinthians not individually, but corporately, because he believes church is important to the witness of the Gospel. And in I Corinthians, we learn from Paul three foundational aspects.  I’m going to take these in turn, and they’ll give us a thematic overview of the entire letter.  A gospel-centered church is to be, first, united.  Second, Holy.  And finally, edifying.  United, Holy, Edifying.  In three words, Paul’s first letter to the Corinthians — and a blueprint for every Christian’s involvement in the local church today.
 
-The book begins with the section I was just reading with an introduction that essentially works as an antithesis.  All is vain.  Incidentally, the skeptical honesty of this book is powerful and refreshing.  This is how all of us sometimes feel.  Praise God that he’s constructed a piece of his word to draw us from cynicism back to Christ and to faith.  Look at page 3 of your handout and you can see how the book works its way out of cynicism.
+## A gospel-centered Church is to be United
 
-Note that with this introduction completed, the book shifts from third-person — talking about the Teacher — to first person — the words of the Teacher.  We’ll flip back to third-person in the last chapter for the epilogue.
+One of Paul’s primary motivations for writing this letter is to counter the partisan spirituality and profound division among the members of the church.  A number of ways Paul deals with this in this letter.
 
-The next chapters go back and forth in answering this basic objection.  We begin with proof in chapter 2 that all is indeed in vain: the Teacher has tried everything yet without meaning.  And then at the end of chapter 2, we see the book’s thesis.  All is meaningful if a sovereign God rules the universe.  That thesis is defended, objected to, defended, and then finally we reach a conclusion in the epilogue, chapter 12.  What is the conclusion of the matter?  Verse 13.  “The end of the matter; all has been heard. Fear God and keep his commandments, for this is the whole duty of man.  For God will bring every deed into judgment, with every secret thing, whether good or evil.”
+We see this initially as Paul addresses rival allegiances given to various teachers (__1:10-12__).  These factions seemed to boast of their superior wisdom, and so Paul writes passionately about the difference between God’s wisdom and man’s wisdom  __[Read 1:26 – 29]__.  
 
-Let me walk you through this so you can see how this book makes its argument with a single flow of thought.
+> For consider your calling, brothers: not many of you were wise according to worldly standards, not many were powerful, not many were of noble birth. But God chose what is foolish in the world to shame the wise; God chose what is weak in the world to shame the strong; God chose what is low and despised in the world, even things that are not, to bring to nothing things that are, so that no human being might boast in the presence of God.
 
-### 1:1-2:23
+So, the unity that the kingdom promotes finds its basis in the cross of Jesus Christ, in the gospel, and not in the eloquence of human words, or the influence of position, or the force of a human personality.  “If you attend your church because of the pastor, you are wrongly motivated, and time will reveal that. The pastor will disappoint you. Even if he never disappoints you, he will someday die. Your faith cannot be built upon a person…True faith is built upon God in Jesus Christ…When you are grateful for a sermon, or a prayer, or how a service is led, or the work of a deacon, or work of the nursery staff, or the greetings of others, direct your thanksgiving first to the lovingkindness of God for you.” We should only boast in Jesus Christ because He is our redemption and our wisdom. He alone is worthy of our first allegiance and boasting. Any true Gospel preacher will point men and women to Christ alone and not to himself!  That’s the first key to unity that we see in this letter.  A focus on Christ alone as the answer.
 
-As I mentioned before, the opening two chapters are an exploration of what the meaning of life might be.  With the intro behind us, the Teacher gives us a tour of his pursuit of meaning apart from God.  That’s the rest of chapter 1 and most of chapter 2.  He looks for significance in wisdom, wine, laughter, riches, delicacies, his work, his projects, sex, power, fame, and full material gluttony.  If he wanted it, he got it.  Chapter 2, verse 10: “And whatever my eyes desired I did not keep from them. I kept my heart from no pleasure, for my heart found pleasure in all my toil, and this was my reward for all my toil.  Then I considered all that my hands had done and the toil I had expended in doing it, and behold, all was vanity and a striving after wind, and there was nothing to be gained under the sun.”
+Secondly, Paul shows that disunity is a sign of worldliness (3:3), with its quarreling and arguing.  The root cause of the church’s division was and continues to be worldliness and immaturity: __[Read 3:3-4]__.
 
-His quest for meaning was no more successful than an attempt to grab the wind.
-  
-And the effect of such a bleak outlook?  Verse 17 tells us that the Teacher _hated life_.  And no wonder!  Even the worldly enjoyments he had all eventually came to an end.  Everything ends; everything dies.  It’s amazing anyone ever manages a smile!  
+> You are still of the flesh. For while there is jealousy and strife among you, are you not of the flesh and behaving only in a human way? For when one says “I follow Paul,” and another, “I follow Apollos,” are you not being merely human
 
-Which brings us to verse 24 in chapter 2.
+A third key to unity is something we find in Paul’s teaching on the Lord’s supper — the very place where unity should be most clearly expressed.
 
-### 2:24-26
+Instead, Paul exhorted the Corinthians to remember that they were the __Body of Christ__ (12:12-13), built up by the diversity of spiritual gifts within the church (14:12,17,19). While, I’m guessing that most of you are not concerned with divisions between Jews and Gentiles today, what kind of divisions are present in your attitudes and actions towards others?  “When churches divide for carnal reasons, they identify themselves with something other than Christ. They become the church of modern music, or the church of this pastor, or the church of the home-schoolers, or the church of the Democrats, or the church of the blue carpet. As soon as this happens, they are no longer the church of Jesus Christ.” Are there certain people that you hesitate to spend time with or don’t want to spend time with because of their differences with you? The Gospel is made most of when we are united to people unlike ourselves, and which unity can only expressed in relation to the Gospel.
 
-Now remember, the flow of thought is important.  Nothing that man can do between birth and death has any lasting significance.  Therefore it has no value.  But now in __verses 24 through 26__ he’s going to lay out the solution to this apparent vanity of everything under the sun.  “There is nothing better for a person than that he should eat and drink and find enjoyment in his toil. This also, I saw, is from the hand of God, for apart from him who can eat or who can have enjoyment?  For to the one who pleases him God has given wisdom and knowledge and joy, but to the sinner he has given the business of gathering and collecting, only to give to one who pleases God. This also is vanity and a striving after wind.”
+his doesn’t mean that you can’t have friends that are like you or in similar stations of life, the problem is when all the people we spend time with or minister towards are just like us. Churches and for that matter Christians, that will only orient themselves towards one type of person are dividing the body of Christ and misrepresenting what it means to be a Gospel centered church.
 
-What a change in outlook!  We see words like “better” and “enjoyment” and “from the hand of God” and “knowledge” and “joy.”  A long way from “vanity” and “striving after the wind.”  What’s changed?  Same facts, same life.  But now a new perspective because now this is life with God.
+A fourth strand of teaching on unity: If we are to promote unity in our church, we must love one another without selfishness. __Love and consideration__ for others should govern what we do. __Ch 8__ – weak and strong; __ch 9__ – Paul’s personal rights conceded for the sake of others who need the gospel; __ch 10__ – believer’s freedom not to cause other’s to stumble. This concern for others is crucial in a Christian church.
 
-Let’s read __verse 24__ again.  “There is nothing better for a person than that he should eat and drink and find enjoyment in his toil. This also, I saw, is from the hand of God.”  Notice he says that the best thing a man can do is to eat and drink and enjoy his work.  I thought he just said that all that was vanity.  Why does he now _recommend_ work?  How can he say there can be, and ought to be, satisfaction and joy in all of life?  That’s what “eat and drink” means.  It’s a metaphor to mean “everything one does,” for eating and drinking are the base of all activities.  So you should live life, and be happy, and actually enjoy the labor of your hands.  Can that really be what he’s saying?  What’s the catch?  Well the catch is in the rest of the verse.  “This also, I saw, is from the hand of God.”  The author has seen many things in chapters 1 and 2.  But there is one other thing he has seen.  That “eating and drinking,”--that is to say--“the living of life” _comes from the hand of God_.  Well, this changes _everything_!
+And that is the context for perhaps the most famous section of the book, chapter 13, were we read of the supremacy of love.  “If I speak in the tongues of men and of angels, but have not love, I am a noisy gong or a clanging cymbal.”  I’m sure it’s familiar to most of you.  Love is all about the quality of our interaction with others. Love is patient, kind, not boasting, not proud, not rude, not self-seeking.  And of the wonderful gifts we receive from God – faith, hope and love – the greatest is love (13:13).
 
-Before (that is, 1:1 through 2:23) the author looked at life through the lens of the natural man.  And we can understand this.  He was simply reporting what he’d seen.  And when that was the only information-gathering instrument used, his conclusions were sound, though pessimistic.  But, once he remembered the _Creator_, life then took on a different origin, purpose, means, and end.  How can what was vanity now have meaning?  Well, it’s because the origin of every activity one undertakes is from the very hand of an eternal and meaningful God.  The only way something temporal, like our lives, can ever have eternal significance is if an eternal God orders them.  Because He is a purposeful God who never does anything without reason or cause.  
+If we hold onto the gospel, and unite around that, we will not have lived in vain.  That’s the first theme we see running through this book: unity.
 
-In __verse 25__ we’re asked a rhetorical question to back up this claim: “For apart from him who can eat or who can have enjoyment?”  Now, everyone eats, and many people find enjoyment without God.  Just read Psalm 73.  But it’s only the fleeting, vain enjoyment of the first verses of chapter 2.  It’s passing, like a vapor.  It will soon be gone.  It has no weight; no significance.  Unless…it’s from God[^3].  
+## A Gospel-Centered Church is to be Holy
 
-Now verse 26 makes sense.  Those without this wisdom and knowledge and joy are left in the dark.  They live “without Him.”  So their days are subject to that vanity of working, gathering, and storing up wealth for someone else to inherit once they die.  _That_ is the vain life; attempting to live life apart from the Creator.  But, thank God, to some he gives wisdom and knowledge and joy.  So for them, everything has meaning since it comes from the hand of a purposeful God.
+Second, a gospel-centered church is to be holy.  At the very beginning of the letter, Paul reminded the church of its call to be holy, and that it is Christ who makes us holy (1:8).  
 
-This idea becomes a common refrain in the book.  Look at __3:12-14__: “I perceived that there is nothing better for them than to be joyful and to do good as long as they live; also that everyone should eat and drink and take pleasure in all his toil — this is God's gift to man.  I perceived that whatever God does endures forever; nothing can be added to it, nor anything taken from it. God has done it, so that people fear before him.”  That is meaning in life.  We read the essentially the same thing in 5:18-20, 8:15, and 9:7-10.
+Paul reminds us that the sexually immoral and others who are impure will not inherit the kingdom of God (6:9-10).  But the church... the church is to be pure remembering that it was saved from such impurity.
 
-Now this, my friends, is __the gospel-on-ramp__ for our culture.  Have you ever thought of Ecclesiastes as material for a good investigative Bible study?  It might be fantastic!  People are up to their eyeballs in this kind of nihilism.  And in their attempts to escape the meaninglessness of life they are thrusting themselves into their jobs, and sexual exploits, and material hedonism at a breakneck pace.  But in the end they still only come up with vanity.  What’s so refreshing about the gospel is that it is an answer to such futility.  So share the message of Ecclesiastes with your coworkers, friends, family, and acquaintances.  They are _ripe_ to hear it.  We do have a message of hope in a hopeless world.  
+One of the significant problems that Paul addressed in the Corinthian church was an act of blatant immorality to which the church was not responding. The church was associated with a widely rumored instance of incest (5:1-3), a sin shocking even among pagans.  The church, astonishingly, was proud because they thought “accepting” the offender showed their “liberty.”  
 
-### The rest of the book
+> It is actually reported that there is sexual immorality among you, and of a kind that is not tolerated even among pagans, for a man has his father’s wife. And you are arrogant! Ought you not rather to mourn? Let him who has done this be removed from among you.
 
-Sadly, we don’t have time to go through the rest of the book.  But you can use the outline on the back of your handout to see where it goes from there.  Having explained God’s perfect timing for all things, the Teacher goes on to cite humanity’s main objection to God’s goodness and sovereignty starting in verse 16 of chapter 3: the problem of evil.  And he answers it in three parts.  The first seven verses of chapter 5 give us the same answer to the problem of evil that God gave Job.  To paraphrase, “shut up.”  Who are you, created one, to challenge the creator?  “God is in heaven and you are on earth. Therefore let your words be few.” (5:2b).  The second part to this answer, through 7:14, is a clear-headed assessment of prosperity in this world.  Is lack of material things really a sign of God’s curse?  Perhaps part of the problem of evil is a misunderstanding of what really is good.  And a third answer, end of chapter 7: why do good people suffer?  Silly question; there are no good people.  7:29: “God made man upright, but they have sought out many schemes.”  Then we end with a lengthy section of application in chapters 8 and following: obey the king.  Work hard.  Enjoy your spouse.  Seek wisdom.  Remember your creator in the days of your youth.
+Notice who Paul berates for this heinous sin.  He does not address the sinner, but the church, for doing nothing about this. This case is representative not of a small disease in the Corinthian church, but a case in which the churches own “immune” system in relation to sin has been compromised.
 
-As you use this book, the aphorism “missing the forest because of the trees” comes to mind.  To understand any specific passage, you really need to keep the overall flow of thought in mind.  But once you can put the whole thing together, what a marvelous treasure.
+Underscoring this call to holiness, Paul offers in chapter 10 a warning from Israel’s history: that beginning well is no guarantee of perseverance in the faith.  Though *ALL* Israel saw the cloud by day, *ALL* passed through the Red Sea, *ALL* ate manna from heaven, and *ALL* “drank from the spiritual Rock that followed them, and the Rock was Christ.” (10:4), God was not pleased with most of them (10:5).  In view of the fact that “they were overthrown in the wilderness” in verse 6, Paul called the Corinthians and us “that we might not desire evil as they did.”  Specifically he mentions idolatry, sexual immorality, tempting Christ, and complaining and concludes with this application:
 
-So use the book of Ecclesiastes.  Use it when you’re feeling cynical, as an honest path back to faith.  Use it in evangelism, to honor the meaninglessness your non-Christian friend is grappling with and then turn them to the gospel.  And use it to highlight the treasure of the gospel in your own heart.  The book of Ecclesiastes never explains the gospel.  But it points to it.  It tells us that God is sovereign and can be trusted.  But what is the greatest evidence for his trustworthiness in seeming nihilism?  A sovereign God who used the greatest tragedy in history, his son’s death on a cross, for our eternal benefit.  Ecclesiastes says that all are wicked, and yet meaning comes to those who please God.  How can the wicked please God?  Through faith in Jesus’ sacrificial work on our behalf.  Praise God for this little gem of a book.
+> Now these things happened to them as an example, but they were written down for our instruction, on whom the end of the ages has come. Therefore let anyone who thinks that he stands take heed lest he fall. (10:11-12)
 
-# THE SONG OF SOLOMON
+He finishes with a reminder that when interacting with the world, everything may be permissible but not everything is beneficial.  We should seek to live circumspectly, watching our lives carefully, rather than living in a wanton and unholy manner.
 
-So that’s Ecclesiastes.  Let’s turn now to The Song of Solomon.  Once again, the authorship of the book is in question. Some would argue that the first verse states that it is Solomon, but it might just as easily be written by another and be referring to these as songs Solomon may have sung.  Again, there is no strict historical context that we need to be aware of.  But the book does have some important redemptive-historical context.  There is a bit of a reenactment and inversion of Genesis 2 and 3 going on in the book.  What I mean is that that beautiful relationship in the Garden of Eden between Adam and Eve was intended for God’s glory and their good.  Now, this side of the fall, men and women are still to relate to each other in marriage, sexually, according to God’s perfect plan.  If they do, it will again be to His glory and their good.  That is, _really_ to their good.  But if they don’t, they will experience more of the same consequences that Adam and Eve did in Genesis 3: God will not be glorified and men and women will harm themselves and each other.
+### Practice Church Discipline with Love
 
-And beyond the immediate context of marriage, there’s something else going on.  As Stephen Dempster has written in _Dominion and Dynasty_, “Shorn of its literary context, the song could be almost pornographic.  But the context of the canon both restricts the meaning to the context of marriage and expands it to include the relationship between Yahweh and Israel.” (p. 207)  This is a book about marriage.  Pure and simple.  But what is marriage?  The Old Testament prophets used marriage as an image of God’s relationship with his covenant people Israel.  Like Ecclesiastes, the Song was placed with the post-exilic literature in the Hebrew bible.  Presumably, those editors put it there for a reason.  Even in the judgment of exile, God was providing a graphic, passionate, and profound reminder of his love and faithfulness for his people.  Think of Isaiah 62: “As a bridegroom rejoices over his bride, so will your God rejoice over you.” (v. 5b)  That’s the other side of this Song.
+One tool or method that the Lord has given us for maintaining the organization and the holiness of the kingdom is biblical church discipline.  So, the apostle warns in 5:6, “Do you not know that a little leaven leavens the whole lump?”  When we encounter public sins of the seriousness referenced here, we are not to think ourselves kind or loving if we fail to act on behalf of that person’s soul.  Paul gives us instruction (5:4-5):
 
-So this book is at the same time commentary on what it looks like for the man and women to be “naked and not ashamed” and a celebration of God’s love for us.
+1. As an assembly, as a church, address the matter...
+1. by putting the “brother” out of the church (5:5, 11, and 13)...
+1. as a statement about the spiritual danger they are in with the hopes that they will repent and be saved (5:5b).
 
-## Theme
+Whenever we exercise church discipline we do so to make it clear to someone that they are not living like a Christian, and thus should be concerned for their salvation. We should always exercise discipline with tender love and concern for that person.  This is one of the most solemn acts we ever undertake as a local body, but it is central to the preservation of holiness and the glory of God in the church.
 
-We can summarize the Song of Solomon like this:
+We should also keep in mind that church discipline goes beyond the public cases we consider corporately. Every relationship you have within the church has the opportunity to be one that is characterized by loving discipline. As we “faithfully admonish and entreat one another as occasion may require” we are exercising discipline amongst each other that encourages holiness.
 
-_The Song of Solomon sings of the son of David, who is the ideal king of Israel, who is the seed of the woman, seed of the Abraham, seed of Judah, seed of David, who enjoys uninhibited, unashamed intimacy with his beloved, in a garden that belongs to him._
+It’s interesting, isn’t it, now — considering the two things we’ve thought about so far.  Unity and holiness.  Often in churches today we see our job as balancing between them.  We don’t address a particular sin in the congregation for fear of fracturing unity.  On the other hand, there are some whose zeal for holiness comes at the expense of unity.  But Paul sees holiness and unity going hand in hand.  If we begin to tolerate unrepentant sin in the church, problems with unity will follow.  The separation the Corinthians were to experience was a separation from the world.  Instead, they tolerated sin — thus encouraging internal division and experiencing a separation from each other.  On the other hand, Paul makes it clear that even when dealing with issues we might consider to be moral — such as eating meat sacrificed to idols — we must handle these with unity at the forefront of our attention.  If you’re intrigued at how these two fit together, I’d encourage you to take time studying this letter through that lens.  Holiness and unity.  Together.  That is our calling as a church.
 
-Being created in God’s image meant being created male and female.  They were to image God’s glory through a harmonious and pure sexual relationship.  Well, with the entrance of sin, it all fell apart.  Now, after the fall, even with sinful natures, men and women are called to monogamy and sexual purity.  This book extols the beauty and worth of living in such a relationship, and warns us not to create our own sexual agenda.
+## A Gospel-Centered Church is to be Edifying
 
-The book in many ways reads like a Shakespearian romance drama: the betrothed young woman and her beloved singing praises to each other about how fair and beautiful they each are; then they get married and live happily ever after.  Unlike Shakespeare, there’s no murder and no one commits suicide.
+And that quite naturally brings us to the third theme through this letter: a gospel-centered church is to be edifying.  It’s interesting to see how Paul deals with a host of problems in such a way that the Corinthians might act in ways that edify each other.
 
-The Song is split into three basic sections.  The courtship, through 3:5.  The wedding ceremony and consummation, through 5:1.  And the marriage, through the end of chapter 8.
+One strategy Paul uses is to encourage us to give up our rights.  It seems that throughout the letter Paul is addressing selfishness of one sort or the other in the church.  That selfishness or self-centeredness gave rise to the partisan factions we mentioned earlier, disarray in the use of gifts, and failure to consider others in a myriad of ways.  To thwart the confusing effects of disorder and to “nip disorder at its root,” Paul directed the members of the Corinthian church to use their liberty in ways that serve and care for others.
 
-First, the courtship, whose theme is patience.  Look at chapter 2, verse 7: “I adjure you, O daughters of Jerusalem, by the gazelles or the does of the field, that you not stir up or awaken love until it pleases.”  The context to these verses is that the young woman and the young man aren’t yet married, and the young woman expresses her desire to remain chaste until the right time.  And she calls other woman to the same resolve.  She is saying, don’t rush what you think love is and what loving acts are, until the time is right.  Then, in marriage, the sex will be beautiful, honoring to God, and healthy for the relationship.  Prior to that, it will only reap disaster.  These words are repeated in chapter 3, verse 5.  This verse is actually the last words before the wedding in verse 6.  So right up to the very end of singlehood, patience is extolled, and urged upon us all.
+For example, consider Paul’s instructions regarding eating food sacrificed to idols that I just mentioned in chapter 8.  Paul reasoned that because an idol literally is nothing, and that there is only one true God, and that all things are from Him and for Him (8:4-6), we are free to eat what we will because “food does not commend us (or bring us near) to God” (8:8).
 
-But then we come to the wedding itself in the rest of chapter 3, and a beautiful, graphic description of sex and sexuality in chapter 4, leading up to a final comment in chapter 5, verse 1.  “Eat, friends, drink, and be drunk with love!”  Many who have studied this think that this is the very voice of God.  God is now putting His blessing on their sexual relationship.  Sex isn’t just a dirty little necessity for the production of children, but a good and beautiful and God-honoring act between a married man and woman.  Sex, just like marriage, was created by God for His glory and for His creatures’ good and health.  And this book celebrates that fact.
+*However*, there are those who are weaker in conscience, who may be led into sin because they do not understand the freedom available in Christ. Paul says that our exercise of freedom then becomes a “stumbling block to the weak.”  In that case, our decision to eat is actually a “sin against our brother, for whom Christ died” and a “sin against Christ” (8:11).  
 
-Well, then, for the rest of the book, we see this couple’s married life.  And in __8:4__, the refrain is heard again.  “[Do not] stir up or awaken love until it pleases.”  The married woman continues to plead with the young to be wise and wait for marriage, and not make a mess of things because they couldn’t wait.  
+So, we are to forego certain things in order that those observing us, particularly the weaker in knowledge, will not be harmed and order maintained.  Paul describes his own ministry as an example of this general principle that we should forego our rights for the sake of weaker Christians (chap 9).  Throughout the letter, Paul’s focus is on resolving differences and problems with an eye toward preserving order and loving one another rather than protecting our perceived rights.
 
-I mentioned earlier that the book is meant to be understood as an inversion of part of the fall into sin.  Turn back to __Genesis 3:16__.  When Adam and Eve fell into sin there were a number of consequences.  One of them was that now their marriage relationship would be strained.  No longer would it be harmonious and agreeable.  Instead, the woman would desire to control the man and the man would abuse his authority and dominate her.  With the introduction of sin, “to have and to hold” has turned into “to use and to dominate.”  Selfishness, on both sides, will raise its head and steer both of them.
+In a culture like Corinth, or DC, where everyone is trying to safeguard their own reputation, and get whatever they can for themselves, this laying aside of my rights for the sake of others is such a powerful display of the gospel. For that is exactly what Jesus has done for us. The beauty of the cross is in the humility of the one who voluntarily forsook heaven for our good, though he had every right to leave us in our sins. Mark Dever sums it up well.  “From my perspective as a pastor it becomes clear over time which brothers and sisters in a church have an edifying effect on those around them. They do not need to chair a committee. They do not need to teach a Sunday school class. You can simply watch God gradually commit different ministries and opportunities into the hands of certain people because they love him and are willing to quietly give themselves in love for others, without particular concern that they be right or be recognized.” We should all strive to be this type of Christian, not those looking to protect reputation and our “turf” but those who are quietly and lovingly serving one another!
 
-But it doesn’t have to be so.  In that sense, sex in marriage is perhaps one of the purest visions we have of heaven, when all things will be restored to their Edenic glory, and beyond.  Look at chapter 7, verse 10.  “I am my beloved's, and his desire is for me.”  That’s the self-giving love of Genesis 2, not the self-serving relationships of Genesis 3.  Marriage as it ought to be.  The woman is not seeking to control, and in turn being exploited by, the man.  Instead the man is filling his creation role of loving leadership and desiring his wife.
+Another strategy Paul uses is to appeal to our role as a church as imaging Christ.  You see this especially in the set of problems that Paul deals with in this letter that have to do with the public meetings of the church, including: the role of men and women in the church (11:2 – 16); abuse of the Lord’s Supper (11:17-34); and the exercise of the Spirit’s gifts, especially those that seem more spectacular.  This church had become so disorderly that their public meetings were said to “do more harm than good” (11:17).
+
+So, the church is instructed to honor the order of headship established by God: God is the head of all, Christ is the head of every man, and man is the head of woman (11:3), even though neither man nor woman is independent of the other in Christ (11:11). At the Lord’s supper, divisions are to the put away and we are to wait upon one another so that we might remember the Lord’s death in unison (11:17-33).
+
+The last of these problems associated with the public meetings of the church was the use of spiritual gifts. Linked to the desire to be impressive was the Corinthian infatuation with the gift of tongues. This played itself out in two ways, both of which undermined the health and growth of the whole church. It made those who didn’t speak in tongues wonder whether there was really a place for them in the congregation at all. And it made those who had the gift of tongues feel super-spiritual and important.  How does Paul address this?
+
+Well, you remember the words that Jesus spoke to Paul on the Road to Damascus: “Paul, Paul, why do you persecute me.” Paul knew that Jesus so identified with Christians that he would call them “me”.
+
+And so Paul uses the image of the Body of Christ to show how ludicrous, and how Christ-dishonoring their infatuation with one gift over another was.
+
+> 12:27 Now you are the body of Christ, and each one of you is a part of it.
+
+So, to the person who doubts his inclusion in the body, because he doesn’t have a gift he covets, Paul says
+
+> For the body does not consist of one member but of many. If the foot should say, “Because I am not a hand, I do not belong to the body,” that would not make it any less a part of the body. And if the ear should say, “Because I am not an eye, I do not belong to the body,” that would not make it any less a part of the body.
+
+To the “more” spiritual Christian who thought that only he counted in the body because of his impressive gift, Paul goes on to say,
+
+> The eye cannot say to the hand, "I have no need of you," or again the head to the feel, “I have no need of you.” On the contrary, the parts of the body that seem to be weaker are indispensable, and on those parts of the body that we think less honorable we bestow the greater honor, and our unpresentable parts are treated with greater modesty
+
+As a result, Paul’s guiding principle for spiritual gifts is one of edification.  “since you are eager for manifestations of the Spirit, strive to excel in building up the church.” (14:12b)
+
+Do you have a tendency to look down on those who don’t have the gifts that you have? They are gifts, not self-developed abilities! They don’t originate with you. You didn’t make them! Why should you feel proud about them!? They are not given to you for your glory, but for the good of the whole church, and thus the glory of God. Whatever gifts we have we should be humbled, and we should see them as a stewardship to be spent on the good of others.
+
+The point in the use of spiritual gifts, regardless of what those may be, is edification not merely of the individual exercising the gift, but of the whole body.  “When was the last time you attended church with the edification of others the primary concern on your heart? Or do you usually anticipate what you personally will find most helpful, like whether a hymn or prayer moves you or whether you get out on time, or whether you speak to the right people afterward? When was the last time you were genuinely concerned about the edification of others around you? Not in the sense of whether they liked this or that hymn, but in the sense of whether they are being built up in the faith? Do you seek out your close friends after the service or do you look around for visitors and unfamiliar faces? Do you pray before and during the service that God would particularly use the time you have together on Sunday as a church family to work in the hearts of both you and others?”
+
+Are these new or challenging thoughts to you? Well you have found yourself in a good place to begin growing in a heart that desires to love and edify others. Let us pray that our church will continue to be a place where edification of others and not self-promotion is sought after by each of us!  Because we have been bought by the blood of Christ to become his body.
 
 ## Conclusion
 
-From The Song of Solomon, we learn that marriage and sex occupy a very high place in God’s economy.  Therefore, as His creatures, it’s imperative to keep the marriage bed pure: for unmarried persons to abstain from sex and married couples to love each other with it.  If we abuse these gifts God has given us, disaster and frustration will be the only result, just as it was with the first sin in the garden.
+The Gospel centered church is to be characterized by unity, holiness, and edification. In all of these things, we are not to think like the world. We are to have the gospel as the organizing principle in our lives.
 
-And so this book is a wonderful guide to relationship and sex in marriage.  But it’s also a beautiful description of God’s love for us, the passion of which can only be described by the passion in a marriage.  This is the perfect marriage.  And it is the love that God has for you.  So whether or not you’re married, read this book with both of those in mind.  This is a real marriage.  And real marriage is a picture of God’s love for us in Christ.  This is how much God has loved you.
+As we conclude, I think it would be helpful to ask ourselves a few questions to help us evaluate areas we need to grow in our understanding and our actions. Do we solve conflicts, or do we contribute to them? Do we resist the temptation to boast in or even to worship other human beings, or do we yield to it? Are we absolutely pure in our relationship with the other sex, or are we calculating and compromising? Are we using our spiritual gifts to build up all the members of the Christian community, or are we hoarding our gifts or using them for our own selfish advantage? Are our actions motivated by love and a desire to edify others, or by some other inferior motivation? Are we givers, or takers, do you come to church merely to consume?
 
-# 1 &amp; 2 Kings
+# 2 Corinthians: The Weakness of the Kingdom
 
-So what do we know about 1 and 2 Kings? Four quick things to note:
+It was 1960 and John F. Kennedy was in a heated battle for the presidency with Richard Nixon.  And on the fateful evening of September 26, the two candidates faced one another in a debate, much like the public debates that had been election-season standards for many years, but with one key difference - this debate was on live television, seen by 80 million people.  Those who listened on radio?  They thought Nixon was the winner.  Those who saw it on TV?  Kennedy by a long shot.  The young Senator appeared tanned, rested, and composed, in contrast to the sweaty and nervous Vice President Nixon.  America had entered the television age.
 
-1. Originally, they were one book and so this morning we’ll look at them as one book.
+Well, regardless of whether you prefer Nixon or Kennedy, this historical tidbit points us to something that humans in a fallen world have struggled with throughout all time: the tendency to be deceived by appearances. While this temptation may seem particularly potent in our media age, things weren’t significantly different in the church in the city of Corinth we have been considering last week and now this week.  We can’t escape appearances, but it’s what’s beneath the surface that matters.  And that’s the point that Paul makes in 2 Corinthians:  God’s Kingdom isn’t made visible by strength and success; rather, God’s Kingdom is the kingdom of the weak.  To get into this letter, let me start with some background.
 
-2. We don’t know exactly who the author was.  We do know that he (or they) drew upon many different historical documents to compile what we know today as First and Second Kings.
+## Background – the Story
 
-3. The compilation most likely took place during the time of the exile, when the people were taken from the Promised Land to Babylon.
+As we saw last week when we looked at 1 Corinthians, Corinth was an important city. Both land and sea traffic came through Corinth, and so it was one of the major commercial and philosophical centers of the 1st century Mediterranean.
 
-4. The events recorded in Kings stretch from the crowning of King Solomon, in about 970 BC, all the way to the exile, 400 years later.  During this time the kingdom is divided.  The northern kingdom is scattered among the nations, and the southern kingdom is exiled.
+After writing 1 Corinthians, Paul intended to eventually visit Corinth, but he was in no hurry to leave a profitable work in Ephesus (I Cor 16:9).   So, he sent Timothy to bring a report back on how the church responded to his letter.  Timothy arrived to chaos and disarray in the church.  The letter of I Corinthians seemed not to have done the good that Paul intended for it.  
 
-Kings is a study in how God’s promises of mercy will interact with his promises of judgment.  So I think a good place to start is with our own lives.
+Upon hearing of the church’s condition, Paul set out for Corinth, a visit that he had warned them in 1 Corinthians 4:21 would be painful if he had to make it.  During his stay, some self-appointed leaders of the church who may have called themselves apostles attacked him in deeply insulting ways (2 Cor 2:5-8, 10; 7:12).  Paul apparently felt this visit to be a complete fiasco, and he left, hoping that his departure would bring the Corinthians to their senses.  This decision left him open to charges of being fickle and uncaring.  But Paul wasn’t ready to let the gospel witness of this church be smothered.  He wrote yet another letter “out of much affliction and anguish of heart and with many tears” as he described in 2 Cor 2:4.  This letter, which has not survived, was delivered by Titus and it assured the Corinthians of his love for them but also had stern words of rebuke.  Despite the turmoil in the church, Paul tasked Titus with receiving a collection from the Corinthians, for the impoverished church in Jerusalem.  Meanwhile, Paul left Ephesus after a riot and went to Macedonia to wait for Titus.  He was afraid that his severe letter had hurt the Corinthians, but Titus brought back a good report and his concern turned to joy.
 
-## God’s people with no king (Moses and the Judges)
+Let’s look at 7:8-9 together:  “*For even if I made you grieve with my letter, I do not regret it – though I did regret it, for I see that that letter grieved you, though only for a while. As it is, I rejoice, not because you were grieved, but because you were grieved into repenting.*”
 
-Now, to understand exactly what promises are at stake in Kings, we need to go all the way back to Deuteronomy chapter 28.
+So, in response to this good news from Titus, Paul penned 2 Corinthians a year or so after he had written I Corinthians, probably around AD 56, and in the first nine chapters you can feel his joy at a relationship healed, and his relief that the worst for the Corinthian church seems to be over.  The church had repented, and it appears from 2:6 that an opponent of the gospel may have been disciplined by the church.  But before sending off the letter, Paul must have received some more disturbing news from Corinth.  It seems that once again the so-called “super apostles” were challenging his authority, and ultimately, the gospel.  As a result, 2 Corinthians ends with more strong rebukes and warnings for the church.  So... with that as background, let me summarize a bit about *why* Paul wrote this letter.
 
-> “And if you faithfully obey the voice of the Lord your God, being careful to do all his commandments that I command you today, the Lord your God will set you high above all the nations of the earth. And all these blessings shall come upon you and overtake you, if you obey the voice of the Lord your God. Blessed shall you be in the city, and blessed shall you be in the field. Blessed shall be the fruit of your womb and the fruit of your ground and the fruit of your cattle, the increase of your herds and the young of your flock.
+## Purpose
 
-And the blessings continue.  Then skip down to verse 58.
+Paul writes the second epistle to the Corinthians for public, personal and practical reasons.  First, Paul was still *concerned about the public conduct of some of the Corinthian church members*.  So, Paul wrote to better explain some key doctrines of the faith and to give instruction and warning to some members of the church. Second, Paul was *personally criticized* and so he wrote to defend his ministry, authority, and personal integrity.  Third, Paul had *practical concerns for the church in Jerusalem*.  So, he wrote to solicit funds for the relief project going on there.
 
-> “If you are not careful to do all the words of this law that are written in this book, that you may fear this glorious and awesome name, the Lord your God, then the Lord will bring on you and your offspring extraordinary afflictions, afflictions severe and lasting, and sicknesses grievous and lasting. And he will bring upon you again all the diseases of Egypt, of which you were afraid, and they shall cling to you.
+And Paul addresses all these concerns through his main message about the Kingdom of God.  The Kingdom, he says, is not about us exerting our own personal strength, but in weakness depending upon the Lord. As Jesus says in 12:9, “My grace is sufficient for you, for my power is made perfect in weakness.” Those who would be deceived by Paul’s opponents because of their apparent strength would miss the true nature of the Kingdom. For the rest of our time, we’ll consider what characterizes this Kingdom.  And specifically, we’ll look at three themes about the true nature of the Kingdom that run through this letter.
 
-And the curses continue.  Skip down to verse 64.
+[ANY QUESTIONS?]
 
-> “And the Lord will scatter you among all peoples, from one end of the earth to the other, and there you shall serve other gods of wood and stone, which neither you nor your fathers have known.
+## Kingdom Apostles Display God’s Power in Weakness
 
-These are God’s blessings on his people if they keep this covenant, and curses if they do not.  
+First: kingdom apostles display God’s power in weakness.  The Corinthian church needed weak apostles, like Paul - not so-called “super apostles.”  The defense of Paul’s apostleship takes up a large part of the book, including most of the first 6 chapters and chapters 10-12.  This is not at all because Paul is some kind of self-promoting egoist. Rather, it is because in being drawn away from Paul, the Corinthians are being drawn toward those who are egotistical, and what is worse, those who do not have the apostolic commission from Jesus that Paul has.
 
-At this stage, God is speaking directly to his people.  Without a king everyone pretty much represents themselves before God. (DRAW ON WHITE BOARD)
+Those who were opposed to Paul seemed to be taking advantage of three aspects of Paul’s apostleship that they suggested exposed Paul as untrustworthy.
 
-![God to People](static/images/God_People.png "God spoke directly to His people"){ width=150px }\
+1. First, Paul had planned to visit the Corinthians again, but in the end decided not to. His critics were claiming that this was because he was __fickle__. We hear echoes of their criticism in 1:17, “*Was I vacillating when I wanted to do this? Do I make my plans according to the flesh, ready to say ‘Yes, Yes’ and ‘No, no’ at the same time?*” Paul explains that once he had realized that there were real problems with the church in Corinth, a quick friendly visit wouldn’t have been appropriate, and a quick stern visit wouldn’t have been kind or encouraging; so, he thought it would be better *for the Corinthians* if he not visit until things had been cleared up. He says in 2:1, “*So I made up my mind that I would not make another painful visit to you.*”
+2. Not only was Paul supposedly fickle, but second, his critics accused him of being __harsh__.  They pointed to the severe letter that Paul had written about a matter of discipline. The church seems to have misunderstood the letter, thinking that the discipline was to be permanent. But Paul encourages them in 2:7-8 to be reconciled with the brother who had sinned and now repented.
+3. Third, the so-called “super-apostles” pointed out that Paul __lacked credentials__.  Paul had none of the letters of recommendation from other communities that itinerant preachers in this time would use to prove that they were legit, the real thing.  Paul, for his part, insisted that worldly commendation has no place in Christian ministry, in 3:1-2:  “*Do we need, as some do, letters of recommendation to you, or from you? You yourselves are our letter of recommendation, written on our hearts, to be known and read by all.*”  Far better than recommendation letters, the faith of the Corinthian people showed that Paul’s ministry was blessed of God.
 
-These promises and conditions in Deuteronomy are the undercurrent of everything that happens in Kings.
+But most significantly, Paul’s major defense of His apostleship comes not through responding to petty accusations, but simply through laying out a positive vision of the ministry of an apostle, which he had carried out faithfully--but of which the self-styled super-apostles had fallen far short.  And here we have one of the clearest, most valuable sections of teaching on church leadership in the entire Bible.  Paul shows us not just what makes a true apostle, but what sort of ministry our own church should pray and strive for.  Here are a few things that Paul teaches us about Christian ministry and how it displays God’s power in our weakness:
 
-## God’s people with their first faithful king (King David)
+### 1. The glory of the ministry is the glory of the gospel, not the glory of human appreciation
 
-Ok. Let’s move forward, past the judges, past King Saul, and finally to Israel’s first faithful king, David.  Now the focus of the Old Testament turns to the kings in the line of David. It’s not that the people and their behavior are unimportant but the king now serves as a covenant representative before Yahweh, on behalf of the people.
-(DRAW ON WHITE BOARD)
+2:14-16
 
-![God King People](static/images/God_King_People.png "unseen"){ width=150px }\
+> But thanks be to God, who in Christ always leads us in triumphal procession, and through us spreads the fragrance of the knowledge of him everywhere. For we are the aroma of Christ to God among those who are being saved and among those who are perishing, to one a fragrance from death to death, to the other a fragrance from life to life. Who is sufficient for these things?
 
-With these kings, God’s relationship with his people changes.  We read in 2 Samuel 7 that David’s house and David’s kingdom “will endure forever.”  God says that he will punish David’s descendants when they do wrong, but this promise of a forever kingdom is without conditions.  God’s just going to do it.  Doesn’t depend on his people at all.
+In other words, proclaiming the message of Jesus Christ is glorious regardless of whether people reject or embrace it.  
 
-So the book of Kings starts on a real cliffhanger.  The blessings and curses of Deuteronomy are in full effect.  But so is this new promise of a kingdom that will last forever.  What’s going to happen?  Will the people have a king who obeys the law, so that they might have blessing, or rebel and cause the people suffering?  And if they rebel and are cursed according to God’s promise in Deuteronomy, what happens to his promise in 2 Samuel?
+### 2. Power for this ministry doesn’t come from human ability, but from God’s grace
 
-## God’s people with their fulfillment king? (King Solomon – 1 Kings 1-11)
+3:4-6
 
-Well, that brings us to the book of Kings and to the next King after David, David’s son Solomon.
+> Such is the confidence that we have through Christ toward God. Not that we are sufficient in ourselves to claim anything as coming from us, but our sufficiency is from God, who has made us sufficient to be ministers of a new covenant, not of the letter but of the Spirit. For the letter kills, but the Spirit gives life.
 
-Who is Solomon? Well, open your Bibles to 1 Kings, and let’s begin simply by reading 
-2:1-4, where we find out exactly who he is. King David is here is on his deathbed, and he speaks these last words to his son and successor, Solomon.
+### 3. The focus of the ministry is not the messenger, but the subject of his message: the Lord Jesus Christ
 
-When the time drew near for David to die, he gave a charge to Solomon his son.
+4:5-6
 
-> When David's time to die drew near, he commanded Solomon his son, saying, “I am about to go the way of all the earth. Be strong, and show yourself a man, and keep the charge of the Lord your God, walking in his ways and keeping his statutes, his commandments, his rules, and his testimonies, as it is written in the Law of Moses, that you may prosper in all that you do and wherever you turn, that the Lord may establish his word that he spoke concerning me, saying, ‘If your sons pay close attention to their way, to walk before me in faithfulness with all their heart and with all their soul, you shall not lack a man on the throne of Israel.’
+> For what we proclaim is not ourselves, but Jesus Christ as Lord, with ourselves as your servants for Jesus’ sake. For God, who said, “Let light shine out of darkness,” has shone in our hearts to give the light of the knowledge of the glory of God in the face of Jesus Christ.
 
-In these words we see two key promises God made to David:
+### 4. The concern of Kingdom Ministry is the heart, not outward appearances
 
-1. That his line will never fail (v.4)
+4:16-18
 
-2. That David’s descendants, (v.3), beginning with Solomon, are charged to walk in God’s ways and keep His decrees and commands, if they are to experience God’s blessing. Again, there’s the idea of the king as the people’s representative before God.  It’s interesting that very few worldly successes of the kings are reported in these books. What really interests the author is whether or not they are obeying God.
+> So we do not lose heart. Though our outer self is wasting away, our inner self is being renewed day by day. For this light momentary affliction is preparing for us an eternal weight of glory beyond all comparison, as we look not to the things that are seen but to the things that are unseen. For the things that are seen are transient, but the things that are unseen are eternal.
 
-So what happens next? Will Solomon be this fulfillment king? Let’s see what happens.
+### 5. The agent of Kingdom Ministry is God.  We are only ambassadors; God reconciles sinners to himself, using the message of the Gospel
 
-Turn to chapter 3, where we discover in verse 12 that God grants to Solomon to be the wisest person who ever lived.
+5:20-21  
 
-And the results of this wise ruler, in chapters 4-10 are clear. Look at 4:20-21 there is “population growth, eating, drinking, happiness”; in v24-25 there is “peace and prosperity” in the land; in verse 34 there is world-renowned fame for God’s people and their king.
+> Therefore, we are ambassadors for Christ, God making his appeal through us. We implore you on behalf of Christ, be reconciled to God. For our sake he made him to be sin who knew no sin, so that in him we might become the righteousness of God.
 
-But most wonderfully, the Lord even blesses with his own special presence with the Temple in chapters 5-8.  In chapter 8, verse 10 God enters the temple, just like he did the tabernacle in Exodus 40.  And unlike the movable tabernacle, the temple is here to stay.
+### 6. The result of Kingdom ministry is changed lives
 
-Furthermore, listen to Solomon’s benediction that he gave to the people of Israel on that day. It’s shot through with just about every redemptive-historical theme that we’ve considered so far.  See how many redemptive-historical themes you can hear that Solomon says are now fulfilled with the building of the temple and God’s presence with them.  Let’s start reading in verse 56.
+6:14, 7:1
 
-> “Blessed be the Lord who has given rest to his people Israel, according to all that he promised. Not one word has failed of all his good promise, which he spoke by Moses his servant. The Lord our God be with us, as he was with our fathers. May he not leave us or forsake us, that he may incline our hearts to him, to walk in all his ways and to keep his commandments, his statutes, and his rules, which he commanded our fathers. Let these words of mine, with which I have pleaded before the Lord, be near to the Lord our God day and night, and may he maintain the cause of his servant and the cause of his people Israel, as each day requires, that all the peoples of the earth may know that the Lord is God; there is no other.
+> “Do not be un-equally yoked with unbelievers”... “Since we have these promises beloved, let us cleanse ourselves from every defilement of body and spirit, bringing holiness to completion in the fear of God.”
 
-Notice that phrase in verse 56 “not one word had failed”.
+So, that is what the ministry of a “weak” apostle looks like.  It’s not about outward appearances, but spiritual realities - the reality of God glorifying himself by showering grace upon undeserving, weak sinners like us.
 
-So here we see that the covenant mediator, the king, is bringing God’s blessings to his people through his obedience. In many ways, Solomon is the peak of covenant. God’s people need a king, not only to receive God’s blessings, but also to help them display God’s glory to a watching world.
+And Paul solidifies his case towards the end of the letter, in chapters 10-12.  Apparently, Paul’s opponents believed that if a teacher was popular, successful, and lived a life of good fortune, then his message must be true.  How can anyone driving a Beemer be wrong?  Paul, in contrast, seemed like a real loser - he was always getting beaten up, put in prison, chased out of cities.  You can almost hear the “super-apostles” make fun of him:  “What a failure!  Who would listen to someone who suffers so much?  Maybe he’s cursed!”
 
-![God King People](static/images/God_King_People2.png "unseen"){ width=150px }\
+For their part, the super-apostles would pile up lists of all the achievements and qualifications that they hoped would impress their audience.  Paul engages in the same type of argumentation in these last chapters.  He amasses a giant pool of evidence, citing example after example to make his case - except everything he lists is utterly *unimpressive*!  From pain to sickness to shipwrecks to persecution to being tormented by demons to the famous “thorn in the flesh” - Paul’s resume is a catalog of weakness. He’s “boasting,” but he’s boasting like a fool from the world’s eyes, because as he says in 11:30, he will only boast in the things that show the glory of Christ and his own weakness.
 
-So God’s plan of redemption is complete! Victory is His, and there is no need for anything else. The victory of God has arrived in its entirety!  
+And this is a good question for us to consider. Do we value the same things the world values?  Should we choose a church primarily because we like the way the pastor sounds, his pedigree, his people skills, or do we choose a church based primarily on the message being preached - even if the messenger is unimpressive?  Paul is telling us not to put any credence into appearances, but instead to look for the work of the Spirit in changed hearts.  Do you see how this informs us in how we can pray for our elders?  Let’s pray that they would not put their trust in worldly wisdom, in money or impressive achievements, but that they would consider all of that to be worthless compared with the surpassing greatness of knowing Christ Jesus as Lord.  And pray that they instead would teach with the wisdom that comes only from him.
 
-But what’s shocking is that when Solomon prays in this time of seeming perfection, he also asks for God’s mercy if the people sin, in fact, for when they sin.
+The weakness of the kingdom is demonstrated in the apparent deficiencies of Paul when compared to the super-apostles.  But that’s not all - it is also demonstrated by the true citizens of this kingdom.  And that brings us to the second theme that we see in this book: the citizens of the kingdom display God’s generosity in weakness.
 
-Look at verses 46-50:
+[ANY QUESTIONS?]
 
-> “If they sin against you — for there is no one who does not sin — and you are angry with them and give them to an enemy, so that they are carried away captive to the land of the enemy, far off or near, yet if they turn their heart in the land to which they have been carried captive, and repent and plead with you in the land of their captors, saying, ‘We have sinned and have acted perversely and wickedly,’ if they repent with all their mind and with all their heart in the land of their enemies, who carried them captive, and pray to you toward their land, which you gave to their fathers, the city that you have chosen, and the house that I have built for your name, then hear in heaven your dwelling place their prayer and their plea, and maintain their cause and forgive your people who have sinned against you
+## The Citizens of the Kingdom Display God’s Generosity in Weakness
 
-There are two problems here if you think about it:
+We see this theme in Paul’s instructions about the collection for the church in Jerusalem.  The meeting that Paul was earlier unable to make with Titus, he has now made. The account of this meeting (7:5-16) serves as a link for the Corinthians’ restored fellowship with Paul.  He’s heard the good report from Titus, and now he’s sending Titus back to collect funds for the believers in Jerusalem, who are in extreme poverty.  And this collection’s significance isn’t limited to 1st century Corinth - it tells us something of what citizens of God’s kingdom are like.
 
-Firstly, the problem is that “no-one does not sin” (v.46)
-...and secondly (perhaps counterintuitively) that God will keep his promises.
+Let’s look at 8:9 together: “*For you know the grace of our Lord Jesus Christ, that though he was rich, yet for your sake he became poor, so that you by his poverty might become rich.*”
 
-Remember back to Deuteronomy 28.  God will judge Israel when they disobey — even sending them out of the land.  (v.46)
+The exhortation to give is a test of whether the Corinthians have grasped Paul’s teaching about the Kingdom of God - a kingdom built on the sacrificial generosity of Jesus.  These believers have a responsibility, and a glorious opportunity, to serve their brothers and sisters in need. 
 
-As a result, God’s people need a king to ask for mercy when they fail.
+We’ve been saying that a central truth of Christianity is the weakness of those in God’s Kingdom, and of course one of the most common weaknesses both in the time of Corinth and today is poverty.  So in providing for the Jerusalem Christians who were poor and evidently weak, the Corinthians would be fighting against the ever-present temptation to mainly use your money in ways that will strengthen *you*.  Paul calls them to give - and in so doing, to make a *spiritual* investment.  
 
-(POINT OUT THE DIAGRAM AGAIN adding but needing mercy)
+How do you approach giving to other Christians in need?  Do we welcome opportunities to sacrifice what we have? What would it look like for us to be characterized by the heart that Paul says the Macedonians exhibited in 8:1-4? “For in a severe test of affliction, their abundance of joy and their extreme poverty have overflowed in a wealth of generosity on their part. For they gave according to their means, as I can testify, and beyond their means, of their own accord, begging us earnestly for the favor of taking part in the relief of the saints” (8:2-4). Does this type of attitude characterize us today? Are we the kind of people that give “even beyond our ability?” Or do we give only when comfortable, only to whom we really want to give to?  Generosity is a fruit of faith in Christ.  Instead of trusting our money for ultimate security - we trust God’s sovereign care for his children.
 
-![God King People](static/images/God_King_People3.png "unseen"){ width=150px }\
+Therefore, this book teaches us that the healthy church is a church that gives to the needs of others for the spread of the gospel and the building up of believers. Those who participate in this grace should do so cheerfully and liberally, because Paul says in 9:7-9, “*God loves a cheerful giver.  And God is able to make all grace abound to you, so that having all sufficiency in all things at all times, you may abound in every good work.*” (9:7b-9).
 
-Sadly, what follows is the fulfillment of that prayer. The so-called fulfillment king will fall, and take all his people down with him. To see how this kingdom fell from the towering heights that we just read about, turn to chapter 11. 
+So that’s our second theme: the weakness of the kingdom’s citizens.  But finally, one last theme we see running through this letter — is the result of such weakness in our churches:  the churches of the Kingdom display God’s grace in weakness.
 
-This chapter tells the sad story about how Solomon didn’t heed the advice in his very own Song, which we looked at last week. Instead, as we read in verse 3, Solomon had 700 wives and 300 concubines. And these wives led Solomon’s heart astray.
+## The Churches of the Kingdom Display God’s Grace in Weakness
 
-Well David wasn’t perfect, but one thing he never did was serve other gods; his heart was always fully devoted to Yahweh. So what we’re going to see from this point forward is that every king’s heart will be compared to David’s heart. And here we see that the first to succeed him failed the test.  That’s 11:6.
+Throughout this letter, Paul stresses the importance of the church.  He teaches that the church is where God dwells, and therefore Christians are called to holiness.  6:16:  “What agreement has the temple of God with idols? For we are the temple of the living God; as God said, ‘I will make my dwelling among them and walk among them, and I will be there God, and they shall be my people.’” The church is where the presence of God rests; and therefore the church displays the glory of God to the whole universe.  What does that mean for us a local church - as a congregation of God’s people here on Capitol Hill?  Paul identifies a few passions that should characterize us as a church body.
 
-So, verse 11, the kingdom is torn from the hand of David’s son.  And yet even in anger, God remembers mercy. Look at verse 13.
+### A Passion for Weakness
 
-> “However, I will not tear away all the kingdom, but I will give one tribe to your son, for the sake of David my servant and for the sake of Jerusalem that I have chosen.”
+Not surprisingly, first is that we should have a passion for weakness.  One aspect of this letter that you cannot ignore is Paul’s passion to exalt God in his ministry.  And one of the great ways that he does this is by demonstrating God’s strength in accomplishing great things through Paul’s weakness.  As we’ve already seen, Paul continually refers to his own sufferings in this letter (1:6-9; 6:3-10; 11:16-29; 12:1-10).  With a joy that seems alien to our comfort-seeking ears, he boasts about these weaknesses as they give glory to God. We, too, are described as weak: our bodies are called “jars of clay” in 4:7 because of their frailty - but it is precisely in our brokenness that God reveals his strength.   That’s why Paul exalts in God even for his limitations.  
 
-So Solomon blesses the people for a time and asks God for mercy, but he is not the fulfillment King. He doesn’t live perfectly, and he doesn’t live forever.
+Look at 12:8-10:
 
-Well back to the story as we move forward in Kings, we see that part of God’s judgment is that the nation will be spilt. At this point we need some new vocabulary.
+> Three times I pleaded with the Lord about this, that it should leave me. But he said to me, “My grace is sufficient for you, for my power is made perfect in weakness.” Therefore I will boast all the more gladly of my weaknesses, so that the power of Christ may rest upon me. For the sake of Christ, then, I am content with weaknesses, insults, hardships, persecutions, and calamities. For when I am weak, then I am strong.
 
-1. The Southern Kingdom, over which David’s sons will still rule, is called “Judah” (and sometimes “Jerusalem”). 
-2. The Northern Kingdom, which will be ruled by non-Davidic kings, is called “Israel” (and sometimes “Ephraim” or “Samaria”).
+What about us?  When suffering comes along in our lives, do we see it as an opportunity for God’s power to be displayed to the world?  Or do we indulge in self-pity?  We can learn from Paul to thank God for circumstances that humble us, that cause us to depend more on God’s grace and less on our own strength.  Have you ever thought about how a trial in your life could be used by God to make his glory known to your family, to your friends?  Listen to what pastor Paul Tripp says about this passage:  “The closer we get to the Lord, the longer we walk with him, and the more fully we understand his Word, the more we are gripped with our weakness, inability, and sin.  Paul said that he would ‘boast all the more gladly about his weakness.’  It was not because he loved being weak, but because it was in weakness that the power of Christ rested on him.  Our weakness will not get in the way of what the Lord wants to do with us - our delusions of strength will!  The power of God is for the weak!  The grace of God is for the unable!  The promises of God are for the faint!  The wisdom of God is for the foolish!”[^1]
 
-And now our narrative moves along two tracks: the history of the Northern Kingdom Israel, and the history of the Southern Kingdom, Judah. Let’s start with the flawed northern kings of Israel.
+So that’s the first passion we see that should characterize churches of the kingdom.  We embrace weakness, because weakness reveals the sufficiency of Christ.  Second, we see a passion for the gospel.
 
-## God’s people with their flawed Northern kings (Kings of Israel – 1 Kings 12- 2 Kings 21)
+### A Passion for the Gospel
 
-The very first king of Israel, Jeroboam, immediately leads the people of Israel into idolatry. Notice in verse 28 of chapter 11, Jeroboam leads the people to make golden calves. Golden calves!  Had he ever read the book of Exodus? In fact, Jeroboam’s wickedness was so great that all the subsequent kings of Israel will be compared to him to evaluate just how wicked they are.  In the same way that David’s faithfulness will be the benchmark for Judah’s godliness.  
+Paul’s ministry had been under attack and his authority questioned by the super-apostles.  In response, he highlights the true gospel - because by reminding the Corinthians of this central message of forgiveness of sins through Jesus Christ, he would expose his opponents as false teachers who had failed to grasp the reality of God’s grace.
 
-And this bad start seals the nation’s doom.  Chapter 14, verses 15-16: “the Lord will strike Israel as a reed is shaken in the water, and root up Israel out of this good land that he gave to their fathers and scatter them beyond the Euphrates, because they have made their Asherim, provoking the Lord to anger. And he will give Israel up because of the sins of Jeroboam, which he sinned and made Israel to sin.”
+As such, the priority of the gospel should be evident in our church, especially in our preaching.  The gospel is what Paul preached - and it is why he preached.  Like Paul, we preach Jesus Christ as Lord (4:5a) because we are Christ’s ambassadors.  Look at 5:14-15 and 18-21:
 
-These are surely some of the saddest words so far in all of the Bible. The northern tribes are lost.  But the fulfillment of this doesn’t come right away. It’s still about 200 years off.  But in those 200 years, not a single king of Israel will not be counted as evil.
+> For the love of Christ controls us, because we have concluded this: that one has died for all, therefore all have died; and he died for all, that those who live might no longer live for themselves but for him who for their sake died and was raised.
 
-It’s in this context that we should talk more about prophets and about two prominent prophets in Kings, Elijah and Elisha. You can read about them in 1 Kings 17 through 2 Kings 13.
+And then down to verse 18,
 
-Why are they important? They aren’t kings. But they speak the word of Yahweh to the kings and to the people. 
+> All this is from God, who through Christ reconciled us to himself and gave us the ministry of reconciliation; that is, in Christ God was reconciling the world to himself, not counting their trespasses against them, and entrusting to us the message of reconciliation. Therefore, we are ambassadors for Christ, God making his appeal through us. We implore you on behalf of Christ, be reconciled to God. For our sake he made him to be sin who knew no sin, so that in him we might become the righteousness of God.
 
-(Add a “P” to the white board)
+That last verse, verse 21, is one of the most compact summaries of the Gospel in the Bible.  Before a holy God, every human being stands guilty because of our sin.  Our sin deserves punishment.  But Jesus Christ, the eternal Son of God, was sinless.  He deserved no judgment.  But out of his love, Jesus stepped into our place and took the punishment we earned, dying on a cross.  And Jesus rose again, offering the gift of his perfect righteousness to all who would turn from their sinful lifestyle and believe in him.  
 
-![God Prophet King People](static/images/God_Prophet_King_People.png "unseen"){ width=150px }\
+This message of Christ being a substitute in our place - being sin for us, bearing the punishment of God - was central to the health of the Corinthian church, and it is central to the health of our church.  We should pray that this good news would not become old hat, but that the Holy Spirit would ignite our passion for the gospel - because remembering the Gospel will protect us from the sorts of false teaching that had enticed the Corinthians.  A church passionate for the gospel is also careful to refute false gospels that do not preach the Biblical Jesus.  So in 11:13, Paul declares his intention to “*undermine the claim of those who... are false apostle, deceitful workmen, disguising themselves as apostles of Christ*” (11:12-13).  Such is the passion of a God-driven ministry for the gospel of Jesus Christ.
 
-So they have two jobs:
+### A Passion for Repentance
 
-1. First, they remind the kings that they cannot do whatever they want. They are men under authority: the authority of the word of God and the authority of the covenant. The prophets are like covenant watchdogs, guardians of the covenant calling kings and people to faithfulness.
+Finally, we see in 2 Corinthians that there should a passion for repentance in the church.  Repentance simply means turning away from sin and turning to God.  Paul is overjoyed with the news from Titus that the Corinthians turned away from their prior sin, and he is eager that they continue on in this path of repentance.  Let’s turn to 7:8-13 and see what he says:
 
-2. The prophets’ secondary task was to proclaim the punishment that the kings and the people would endure if they didn’t repent.
+> For even if I made you grieve with my letter, I do not regret it – though I did regret it, for I see that that letter grieved you, though only for a while. As it is, I rejoice, not because you were grieved, but because you were grieved into repenting. For you felt a godly grief, so that you suffered no loss through us. For godly grief produces a repentance that leads to salvation without regret, whereas worldly grief produces death. For see what earnestness this godly grief has produced in you, but also what eagerness to clear yourselves, what indignation, what fear, what longing, what zeal, what punishment! At every point you have proved yourselves innocent in the matter. So although I wrote to you, it was not for the sake of the one who did the wrong, nor for the sake of the one who suffered the wrong, but in order that your earnestness for us might be revealed to you in the sight of God. *Therefore we are encouraged*.
 
-Sadly the kings don’t listen, and they lead the people into further and further decay. And so 2 Kings 17 recounts the destruction of Israel by Assyria.  The king of Assyria brings pagan nations to settle in the land of Israel.  A complete reversal of what we read in Joshua.  Yahweh takes covenant faithfulness very seriously.  
+The type of church Paul is encouraging is first and foremost concerned with godliness.  It’s not concerned with prominence or perceived success, it is primarily concerned with seeing the body of Christ built up and one day presented to God, “spotless and without wrinkle.”  And that is why we as those who have tasted God’s grace in saving us from our sins should pray for a passion to continue repenting of our evil ways and to continue relying on the love of Christ in faith.
 
-As we seek to apply this part of God’s salvation history, this section with the Northern Kingdom provides us with a stark reminder that sin will eventually catch up with us. We can run from sin for years, but we cannot ultimately run from God’s judgment. It will often cause failure in this life, as it did for Solomon.  Or if not then in the next.
+## Conclusion
 
-## God’s people with their flawed Southern kings (Kings of Israel – 1 Kings 12- 2 Kings 21)
+Well, in conclusion, I wonder if you can see something of yourself in the Corinthians.  They certainly weren’t the greatest role models.  But isn’t it amazing to think that this church – this ignorant and boastful, immoral, and undiscerning church – this church was God’s chosen plan to glorify himself in the city of Corinth and around the world.  These were the people who God had elected and chosen to save as he told Paul in a dream back in Acts 18.  And these were the people that Paul poured so much of his heart and soul and sweat and tears into during his short ministry here on earth.  If we don’t get anything else from these letters, then let us understand this:  The church is never promised to be perfect.  If anything, as Paul reminds us, the church is made up of those who are apparently weak and foolish and insignificant in this world.  But our weakness is the soil where God’s power makes real fruit grow to his glory – and we follow a Savior who modeled just that.  2 Cor. 13:4:  “For he was crucified in weakness, but lives by the power of God. For we also are weak in him, but in dealing with you we will live with him by the power of God.” As those who hope in the resurrection of Jesus, may we trust God as he transforms a selfish, cranky, impatient and *weak* people like us into his glorious and radiant bride.  I’ll close with the familiar words of 2 Cor. 13:14:  “The grace of the Lord Jesus Christ and the love of God and the fellowship of the Holy Spirit be with you all.” Let’s pray.
 
-Well, then, let’s turn to the Southern Kingdom. Now, the story of Judah is similar to that of her Northern sister.  But there’s one key difference: Yahweh’s promises to David.
-
-Let’s look at this difference. Turn back to 1 Kings 15 for one of many examples: a summary of the reign of Abijam. As we read, listen to how Yahweh deals differently here than He did with Jeroboam, and why.
-
-> “He walked in all the sins that his father did before him, and his heart was not wholly true to the Lord his God, as the heart of David his father. Nevertheless, for David's sake the Lord his God gave him a lamp in Jerusalem, setting up his son after him, and establishing Jerusalem.”
-
-Notice two things there:
-
-1. First, the reason God showed mercy to Abijam, allowing his son to succeed him, was “for David’s sake.” Because Yahweh had made a promise to David, and it will be fulfilled. You see in the North there are 10 changes in ruling family, but in the South there were none.  The line of David continued.
-
-2. The second thing to note is that Abijam was compared to David, as were all the kings of Judah—just as Jeroboam was the benchmark of wickedness in Israel.
-
-As we walk through 1 Kings and into 2 Kings we see that some Judean kings were good, like Hezekiah in 2 Kings 18-20 and they did what was right.  Though even these good kings fall short of the mark set by David.  But about half of them were bad. In fact when we get to Manasseh, Hezekiah’s son, his reign is the worst yet. Look at 21:11-12:
-
-> “Because Manasseh king of Judah has committed these abominations and has done things more evil than all that the Amorites did, who were before him, and has made Judah also to sin with his idols, therefore thus says the Lord, the God of Israel: Behold, I am bringing upon Jerusalem and Judah such disaster that the ears of everyone who hears of it will tingle.
-
-Just as Jeroboam sealed Israel’s fate, Manasseh’s sins sealed Judah’s. Judah will soon be taken captive just as Israel was.
-
-But just when it looks likes it’s over that every king is flawed compared to David and all hope is lost, Kings finally reaches a climax with a king who, amazingly, exceeds even David in godliness and goodness.
-
-Really?  A King better than David?  Yes.  Josiah.
-
-## God’s people with their finest king (King Josiah – 2 Kings 22-23)
-
-Don’t believe me? Well turn back with me to 1 Kings 13:2 and to a prophecy almost 300 years before the evil king Manasseh.
-
-> “O altar, altar, thus says the Lord: ‘Behold, a son shall be born to the house of David, Josiah by name, and he shall sacrifice on you the priests of the high places who make offerings on you, and human bones shall be burned on you.’”
-
-So there will be a future king Josiah who will restore true worship in Israel. Eventually, he arrives here in the closing chapters of 2 Kings. Now there’s not time to see all the amazing things he does but if you scan through chapters 22 and 23 you can see the types of things accomplished... he finds the book of the law, he renews the covenant, he purges the land of idolatry... In fact look at 23v25.
-
-> “Before him there was no king like him, who turned to the Lord with all his heart and with all his soul and with all his might, according to all the Law of Moses, nor did any like him arise after him.”
-
-Never before?  Goodness!  Here is one greater even than David!  But, tragically, Josiah meets a tragic end.  Judah will not escape final judgment.  God’s promised anger, because of Manasseh, will stand. This godly king, this finest king, will not live forever. He dies in battle. And again God’s promises, and God’s plan of redemption through David’s line are left hanging from a thread.  It has seemed all through this book like the solution was a godly king.  But here he is, and we’re still left waiting.  If even Josiah isn’t God’s forever king, who’s it going to be?
-
-Well, Josiah points to something our forever king will need to do.  He will need to defeat even death.
-
-(TAKE QUESTIONS)
-
-## God’s people with their final king (Jehoiachin – 2 Kings 24-25)
-
-Well as we turn to the final few chapters of Kings let’s get to one last king. Soon after Josiah there are three waves of attack by the Babylonians, and with each attack they take a few more captives away.  Until, as promised, they finally level Jerusalem and the temple. Josiah’s great grandson, King Jehoiachin, is taken captive to Babylon (24v.15).  In his place, his uncle is set up in Jerusalem by the Babylonians as a puppet king. However, this king, Zedekiah, rebels against the Babylonians.  His punishment?  Just before his eyes are put out, his sons — the line of David — are all killed in front of him.
-
-So as Kings concludes, is the promise over for God’s people? Is God just going to start over again in the New Testament? His plan of redemption certainly looks in complete shambles by the end of the book.  10 of the 12 tribes of Israel are scattered and lost among the nations, and the remaining tribes captive far away from the land. And what about the King in the line of David... has Yahweh reneged on those promises? Was Yahweh too weak to stop so great a force as the terrible Babylonian army? We know this all happened because of the sins of the kings, but it sure looks doubtful that anything can be salvaged from this situation. Has the seed of the serpent finally finished his job, and killed off the seed of the woman?
-
-Well, wait! There is just a little ray of hope left. There is still one final descendant of David’s still alive, the king captured right before Zedekiah took the throne: Jehoiachin, Josiah’s great grandson. He’s in exile in Babylon, which is not good.  But just as the book ends, Jehoiachin is released to dine for the rest of his days at the king’s table.
-
-Well it’s not much, but it’s a ray of hope! After all this, one descendant of David is still alive!
-
-## God’s people with their forever king (Jesus)
-
-Well as we conclude it’s clear we’re left with almost as great a cliffhanger as what we started with. Who knows what God’s people in Babylon thought… but for us who have the privilege of living after Christ, we can see that the true pinnacle of the story isn’t Solomon, or Josiah, or Jehoiachin... but Jesus, the forever king. You see, as we know, the ultimate fulfillment King is Jesus who completes our diagram. He is the one in David’s line who never breaks any of God’s law; he displays God’s glory perfectly and allows us to display God’s glory now; he brings God’s full judgment of our sin through his death; he brings every blessing to us; he now intercedes for us, pleading that God might show his certain mercy if we turn and trust in Him; it is he who will take us to heaven - the promised land forever. So reading Kings should leave us with the great excitement of knowing that God keeps his promises.  And he’s shown his trustworthiness through his provision of King Jesus.
-
-Why don’t we end by thanking God for that... (PRAY)
-
-[^1]: Many have said it was Solomon because of his fame for wisdom, and because the text says the Teacher was king over Israel in Jerusalem.  But “son of David” could refer to any descendant.  And some aspects of the book, like where the king is referred to in the third person, sound decidedly unlike Solomon.
-
-[^2]: Robert Gordis, Koheleth — The Man and His Word, vol. 19 of Text and Studies of the Jewish Theological Seminary (New York: Jewish Theological Seminary of America, 1955), 3.
-
-[^3]: It is, in fact, impossible to live in the created order “without Him.”  Nonetheless some try.  They are the ones who find no enjoyment.  They find nothing lasting under the sun.  They find only vanity for they do not know this God.  They do not acknowledge His lordship and His sovereignty.  And this is because of the explanation we find in verse 26.
+[^1]: Tripp, Paul. *War of Words*, p. 130

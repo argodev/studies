@@ -147,7 +147,7 @@ Isn’t this the way we often are? We are slow to learn, we think we believe rig
 
 Also, we should be encouraged as we minister to others that Jesus didn’t cast off the disciples because of their confusion or slowness in learning. Likewise, we should be patient and humble in the way we consider the growth and maturation of other believers. We should not be exasperated when others get confused or seem unable to comprehend a spiritual truth that seems simple…Jesus has never been exasperated with us!
 
-## 3. Some were antagonistic
+### 3. Some were antagonistic
 
 There was third type of individual though, another clear cut category, those who rejected Jesus, many of whom were antagonistic to Jesus.  Plots on Jesus’ life started early, in response to his claims.  In chapter 2, Jesus made several provocative claims, including professing to be the one who could forgive sins, [Mark 2:7, 10], the bridegroom of Israel [Mark 2:19-20], and the Lord of the Sabbath [Mark 2:28].  
 

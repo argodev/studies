@@ -13,348 +13,170 @@ fontfamily: libertine
 fontfamilyoptions: sfdefault
 ---
 
-# Class 4 - Leviticus, Numbers
+# John
 
-Good morning and welcome back! Today we’re covering the books of Leviticus and Numbers - the combined graveyard of annual Bible reading plans. Compared to the books we have covered so far, there is very little narrative and they seem to provide an excessive amount of detail about things we don't think we need to care about. If we are honest with ourselves, we could easily find ourselves thinking that the Bible would be perfectly fine without these too books. If that seems too brash for you to admit to, we often live without reading those books, so the practical result is the same.
+The Christian faith is built on a simple logical sequence.  A man named Jesus lived in ancient Palestine.  He claimed to be God.  He also claimed that he would be killed and rise from the dead.  He was killed.  He did rise from the dead.  And so his claim of divinity was verified beyond doubt, and with that, the authority of all of his teaching concerning who he was, why he came, and the significance of his death on our behalf.
 
-What we want to see today, is what these books tell us about God, his holiness, and his work on the cross. These books _are_ important, and they greatly enrich our understanding of what Christ did on the cross. I hope you will enjoy our walk through these too books this morning.
+This is the message of all of the gospels.  But none proclaim this precious string of evidence more clearly than the gospel of John.  Why was this book written?  Let’s take a look at what we might call John’s “thesis statement” in chapter 20, verses 30-31.
 
-[PRAY]
+“Jesus did many other miraculous signs in the presence of his disciples, which are not recorded in this book.  But these are written that you may believe that Jesus is the Christ, the Son of God, and that by believing you may have life in his name.”
 
-# Part 1: Leviticus
+For the rest of our time together this morning, we will search through all of John’s gospel, but this verse will be our guide.  We’ll briefly discuss the book’s authorship, date, and composition.  Then, we will look __first__ at *what* John says we should believe: “But these are written that you may believe *that Jesus is the Christ, the Son of God*”
 
-Let’s begin with some context.  Leviticus picks up right where Exodus left off. In fact, the entire book takes place less than a month after the tabernacle was finished[^1].  It is still around the mid 15th century BC.  We’re still at the foot of Mount Sinai, where God brought the Israelites after their escape from Egypt, and where Moses received the 10 commandments.  It was on Mount Sinai where Moses also received the instructions for building the tabernacle.  And after the Israelites built it, we saw that God’s glory filled it, and it became the physical manifestation of His dwelling with His people.  So what’s next?  That’s where Leviticus comes in.
+__Second__, we will look at *why* we should believe: “But *these* are written that you may believe.”  ”These” are the miraculous signs that John chronicles, giving us reason for faith.
 
-The book’s name is derived from the Greek Septuagint, meaning, “things concerning Levites.”  But beyond just dealing with the Levites, its purpose is to further codify the relationship between God and Israel after the initial Covenant terms given at Sinai. In light of the New Covenant, Leviticus lays the foundation for Christian understandings of the need for holiness, the representative and exalted role of the high priest, and some other important theological concepts.
+__Third and finally__, we will look at the *results* of believing: “*that by believing you may have life in his name*.”
 
-In the even broader context of Biblical theology, Leviticus is another step forward.  It’s a like a pit-stop on the way to the promise land.  God is having His people remain at Mount Sinai just long enough for Moses and Aaron to receive these words on holiness.  He wants to make it clear that being the people of a holy God is no light matter.  
+## Author and Date
 
-## Theme
+But initially, as I mentioned before, some basic background, starting with authorship.  Like the other gospels, the author of the book of John does not identify himself.  But  unlike the other gospels, when the author writes about the disciples, he doesn’t talk about the disciple John in the 3rd person.  He instead mentions “the disciple whom Jesus loved,” and in chapter 21 indicates that he is that beloved disciple.  Therefore, the apostle John is recorded as being the author of this gospel early in the 2nd century AD by the church father Polycarp, who himself was a disciple of John.  And the wealth of first-hand accounts in this book, especially in private settings, suggests that the author must have been part of Jesus’ very closest circle.
 
-Our theme sentence this week is an easy one:
+The gospel seems to have been written after the other three, in part because it allude to Peter’s future death in 21:18-19 as a past event.  Given the tradition that John lived a rather long life in Ephesus, a date fairly late in the first century is generally cited — perhaps around 90 A.D.  Interestingly, given its late date, it is John for which we have the oldest physical fragment of any of the gospels, dating to around 125 AD.[^1]
 
-_God is holy, and therefore His people must be holy too._
+## Composition
 
-To be holy is to be distinct, to be different, and to be wholly pure.  God is holy like this.  He’s unlike any thing or anyone.  He is perfect.  There is no flaw in Him at all.  He has no shortcomings in ethics, wisdom, justice, or any other virtue.  And because God is holy, His people, must also be holy.  Why?  Because as His people, they say something about Him to rest of the World.  
+But back to the composition of the book itself.  When you read through it, you notice immediately some significant differences from the first three gospels in your Bible.  Eusebius, an early church father, writes that “John, aware that the external details had been recorded in the gospels, was urged by his disciples and divinely moved by the Spirit to compose a spiritual Gospel,” in other words, a Gospel more uniquely focused on the identity and purpose of Jesus as the son of God.
 
-__*Let's start with a question before we get into Leviticus.  Why is it important for God's people to be holy?*__
+What that entailed is a book in five sections.  These are noted on the outline in your handout.
 
-The outline printed in your handout allows you to quickly see how Leviticus emphasizes these themes and it’s this outline that we’ll be using in our review this morning.
+The first half of chapter 1 contains the famous words of the prologue: “In the beginning was the Word, and the Word was with God, and the Word was God” — and the amazing description of the divine Jesus that follows.  The rest of chapter one on through chapter 12 is the public ministry of Jesus, containing most of the miraculous signs that John uses to prompt the faith of his audience.  Chapter 12 then marks a turning point in the gospel.  Prior to this point, Jesus has frequently commented, “My time has not yet come.” (2:4, 7:6, 7:8, 7:30, 8:20)  But immediately following the Triumphal Entry into Jerusalem in 12:23, we hear Jesus saying, “The hour has come for the Son of man to be glorified”.[^2]
 
-Notice that the flow of the book follows a real gospel train of thought:  First there are laws to tell the Israelites how they might approach God (part I).  But when they fail in their obedience, provision is made for them in the form of a substitutionary sacrifice (part II).  Then, from that position of forgiveness and grace, the people are called to live holy lives (part III)[^2].  
+And from this point, Jesus teaches privately, a ministry that covers chapters 13 through 17.  Chapters 18-20 describe his passion, his death and resurrection.  And chapter 21, functioning as an epilogue, concludes the book with an exhortation to follow this risen Messiah.
 
-For the first half of the class, I’m simply going to walk you through this outline to show how Leviticus puts all these pieces together.  We’ll start with the offerings.  Then the priesthood.  Then the holiness code - which is both 11-15 _and_ 18-27.  And we’ll finish with the section in between, 16-17, the Day of Atonement.
+So.  With that background in place, let’s get back to John’s purpose statement in 20:31 “But these [signs] are written that you may believe that Jesus is the Christ, the Son of God, and that by believing you may have life in his name.”
 
-## Chapters 1-7: The Offerings
+## What We Should Believe
 
-Chapters 1 though 7 explain how ordinary Israelites are to bring offerings to God. There are five main offerings: the burnt offering, the grain offering, the peace offering, the sin offering, and the guilt offering.
+First, what should we believe?  We are to believe that Jesus is the Christ, the Son of God.  Two basic things that we see here: that Jesus is God, and that when Jesus came as the Messiah, he came to do some very specific things.  We’ll take them each in turn.
 
-We’ll start with the __burnt offering__; it’s meant as atonement for sin.  Look at __chapter 1, verses 3-5__.
+### Jesus is God
 
-> 3 “If his offering is a burnt offering from the herd, he shall offer a male without blemish. He shall bring it to the entrance of the tent of meeting, that he may be accepted before the Lord. 4 He shall lay his hand on the head of the burnt offering, and it shall be accepted for him to make atonement for him. 5 Then he shall kill the bull before the Lord, and Aaron's sons the priests shall bring the blood and throw the blood against the sides of the altar that is at the entrance of the tent of meeting.
+First, we are to believe that Jesus is God.  Many folks today like to talk about Jesus as a wandering sage, a radical prophet, a gifted teacher, a model businessman, or a mere reflection of God’s character.  But many of those who actually knew Jesus, who walked with him and heard him teach, did not perceive him to be any of that.  They hated him.
 
-The placing of the hands on the head is a symbolic act of the transfer of the sinner’s guilt onto the bull.  Then the bull is killed for that person’s sins.  So when an Israelite is aware of his sin, this is what he needed to do.  How many bulls, sheep, goats, birds, etc. do you think a single Israelite might offer in his entire adult life?  You think the Lord takes sin seriously?  Well, the Israelites had that graphically imprinted on them through these offerings.
+We see this all throughout John.  They take offense at him in chap 2. (2:12-25).  They call him a liar in chap. 7 (7:12).  They repeatedly attempt to seize him (7:30-32) and even to stone him in chaps. 7-8 (8:59).  They even seek to kill Lazarus after Jesus raised him from the dead in chap. 12(12:10-11)!  And then, of course, Jesus was betrayed, arrested, bound, interrogated, beaten, flogged, mocked, crowned with thorns, and crucified.
 
-Then we have the __grain offerings__ (2:1), offered as acts of devotion and remembrance.   And there were __peace offerings__ (3:1), which emphasized the fact that all that belonged to the Israelites was really the Lord’s (3:16-17).  Another offering was the __sin offering__ (4:3), which was meant to cover sins that were unintentional, or done in ignorance (4:2).  Even if one doesn’t know some action is a sin, it still is.  God’s standards are measured by His own holiness, not by our own awareness. Did you ever think that if you didn’t mean to sin, it wasn’t sin?  Intentions aren’t everything.
+Clearly, whatever Jesus taught that aroused such violent reaction, it wasn’t just wise teaching about being kind to each other.  No: these reactions appear to result from how Jesus described himself as God.
 
-Finally, there is the __guilt or trespass offering__ (5:6), which is meant to highlight the wickedness of sin and atone for it at the same time.  This particular one is to be offered when one becomes ritually unclean or sins against his neighbor.
+Now—I’m guessing that most of you will agree with that statement.  After all, we’re in a Bible-believing church this morning.  But please don’t disengage here.  If we are going to be faithful in evangelism, we’ll need to insist that Jesus claimed to be God.  So, as you study this claim in the book of John keep your non-Christian friends in mind.  And, even more importantly, as Christians, the truth of this fact, that Jesus claimed to be God, is vital to our faith.  There is no better place to go to remember and meditate upon this truth than the gospel of John.  Let me briefly run through some of this evidence.
 
-Then, chapters six and seven layout how these sacrifices are to be made. Every detail is laid out: how much of what offering is to be sacrificed, how animals are to be slaughtered, what utensils are and are not to be used, etc. _God intends his people, both then and now, to feel the sheer burden caused by our sin._  What’s most noteworthy here is the uncompromising exactness of our Holy God - all as a foreshadowing of how Christ was the perfect lamb who was slain on our behalf.
+Jesus told Nicodemus in the famed John 3:16 that he is God’s “one and only Son.”
 
-[TAKE QUESTIONS]
+Explaining what that means in 5:26, Jesus said, “As the Father has life in himself, so he has granted the Son to have life in himself.” (5:26).  The Father has “life in himself;” he is self-sufficient.  And yet the Father grants the Son “life in himself!”  What that means in the context is that the Son of God is also self-sufficient – he does not depend on the Father for his life; rather, as God, the Son can give life to those who are spiritually dead.  This reciprocal arrangement of equality between the Father and Son, equally glorifying one another (Jn. 17), is at the very heart of Jesus’ teaching about himself.  
 
-## Chapters 8-10: Establishment of the Priesthood
+And his claims of deity were understood.  In 5:18, his opponents are furious because “he was even calling God his own Father, making himself equal with God.”  The Jews later insist, in 19:7, “We have a law, and according to that law he must die, because he claimed to be the Son of God.”  Not just one of many sons of God; the Son of God.
 
-Having established how _individuals_ are to offer sacrifices, Leviticus now turns to how the nation as a whole is to worship the Lord. Looking at chapters 8-10, we see Aaron’s appointment as Israel’s first high priest with all of his decedents “set apart” as priests (cf. Exodus 28.1). Within these chapters are more regulations and guidance on how priests are to conduct themselves in the execution of their duties. Again, the main lesson for us is that the sins of God’s people require great effort to be “covered” by a seemingly unending flow of sacrificial blood. And once again, Christians are reminded of how Christ perfectly fulfilled his role as our “great high priest.”  After _his_ sacrifice was complete, the great curtain in the holy of holies that separated God from man was torn in two.  Now, God’s people are now able to boldly approach the throne of grace in the name of Jesus without any human priest as mediator.
+And we shouldn’t misunderstand this “sonship” as meaning secondary to, or created by, the Father.  Jesus used it in the opposite way, to demonstrate that he was of the same essence as God.  We see this particularly in the famous “I am” sayings of John’s gospel: “I am the true vine” (15:1), “I am the good shepherd” (10:11), “I am the resurrection and the life” (11:25), “I am the way” (14:6) and so forth.  All of these would have prompted the Hebrew mind to recall Yahweh’s words to Moses by the burning bush: “I AM WHO I AM” (Ex. 3:14).  And so when Jesus says, “I tell you the truth” “before Abraham was born, I am!” in John 8:58, the people tried to stone him.  Jesus is claiming to be eternal, pre-existing... God himself.
 
-### 9:22-10:3
+As he says so bluntly in John 10:30, “I and the Father are one.”
 
-With that, let’s dive into the text.  Turn to __chapter 9__.  We’re going to start in __verse 22__.  What’s going on here is that God has just given all these directions I mentioned, and Aaron has followed all the directions.
+Even if your college professor or our Muslim friends, or Time Magazine deny it, we can hear what those pious, monotheistic Jews heard at the time: Jesus was claiming to *be* God.
 
-> And Moses and Aaron went into the tent of meeting, and when they came out they blessed the people, and the glory of the Lord appeared to all the people.  And fire came out from before the Lord and consumed the burnt offering and the pieces of fat on the altar, and when all the people saw it, they shouted and fell on their faces.
+But that is only half of what we are told we are to believe.  “But these things are written that you may believe that Jesus is the Christ, the Son of God...”  What does John say about Jesus being the Christ (the Greek word for Messiah)?  What did Jesus come to do?
 
-This is a real climax to the book so far.  We’ve had 9 long chapters of what to do with dead animals, oil, fat, kidneys, flanks, livers, blood, fire, clean things, unclean things, priestly clothes, and the proper days to do it all on.  There is exactness in all that God commanded.  Then, in this amazing display, God shows that he has accepted the Israelites’ worship.  Of course the people fell on their faces.  
+### What Jesus Came to Do
 
-But the story doesn’t end there.  Let’s keep reading.  __Chapter 10, verses 1-3__.
+The gospel of John tells us that as the Christ, he came to do a number of things.
 
-> 1 Now Nadab and Abihu, the sons of Aaron, each took his censer and put fire in it and laid incense on it and offered unauthorized fire before the Lord, which he had not commanded them. 2 And fire came out from before the Lord and consumed them, and they died before the Lord. 3 Then Moses said to Aaron, “This is what the Lord has said: ‘Among those who are near me I will be sanctified, and before all the people I will be glorified.’” And Aaron held his peace.
+First, __*he came to expose misunderstanding and disobedience*__.  He was showing a deeply religious but hypocritical society that they needed a savior.  This is the point of so much of the controversy around Jesus healing on the Sabbath.  As Jesus says after one such healing, in 5:17, “My Father is always at work to this very day, and I, too, am working.”  The point?  Look at the logic:  God doesn’t stop working for the good of all people on the Sabbath day.  Jesus heals a man on the Sabbath and says he’s acting just like his Father.  Therefore, Jesus is God.  For the Pharisees, the Sabbath was a way to notch up their self-righteousness scorecard.  For Jesus, it was a way to showcase his identity as the Savior.  The Pharisees missed the point.  And thus Jesus exposed their hard hearts of unbelief. 
 
-What does Moses mean that they offered “unauthorized” fire?  [WAIT FOR SOMEONE TO ANSWER]  Other translations call it “strange” fire, or “profane” fire.  In short, it is fire, and worship, that God has not commanded.  Aaron’s sons have here decided to worship God their _own_ way.  They’re _seeking_ to worship God.  They’re not worshipping some false God.  But they are worshipping God according to the dictates of their own hearts, not according to the way God has instructed.  Their worship may have been well-intentioned.  But good intentions are not what matters. Nadab and Abihu did not regard God as holy.  They did not treat Him as distinct.  Rather, they disobeyed and risked leading all of Israel into disobedience and were, therefore, punished. God will defend His name by guarding His holiness.  
+But for those who would listen to him, the second thing he came to do was __*to provide a sacrifice for the salvation of sinners*__.  As he said to the Jews in chapter 12, “I did not come to judge the world, but to save it.”  That’s why John the Baptist in chapter 1 calls Jesus “the Lamb of God, who takes away the sin of the world!” (1:29).  Jesus is the Passover sacrifice, who was killed in the place of sinful human beings.  And so in chapter 6, after he has fed the 5000, Jesus says, “I tell you the truth, unless you eat the flesh of the Son of Man and drink his blood, you have no life in you.  Whoever eats my flesh and drinks my blood has eternal life, and I will raise him up at the last day” (6:53-54).  He intended for his blood to be shed and his body to be broken when he was lifted up on the cross.  What he means in this teaching is that sinners must put their confidence, their faith, in his substitutionary sacrifice.
 
-[Briefly Take Questions]
+But beyond our salvation, there was a third and greater purpose for all of this: __*that Jesus might be glorified by the Father*__.  As he enters Jerusalem, Jesus announces that “the hour has come for the Son of Man to be glorified” (12:23).  And as he prays in John 17 just before he is crucified, “Father, the time has come.  Glorify your Son, that your Son may glorify you” (17:1).  The passion that is at the climax of this book is not ultimately a story with you and I at the center, though we are the eternal beneficiaries of this sacrifice.  No, it is a story with the Father and the son at its center, rightfully receiving the glory of our Salvation as God’s promises of mercy and claims of justice are finally reconciled.
 
-## Chapters 11-15, 18-27: The Holiness Code—Then and Now
+So that is what we should believe according to the book of John.  That Jesus is the Son of God, and that as the Christ, he came to reveal our sin, to save us from it, and to glorify himself.  Before we move on to the second point, *Why we should believe all that*, __any questions__ on what we’ve covered so far?
 
-Let’s move along to chapters 11-15 and 18-27 that’s sometimes called the “Holiness Code.” We’ll deal with these two sections together.  They are the chapters, maybe you’ve read them before, about which kinds of foods the Israelites can or can’t eat, or even touch.  There are laws concerning ritual cleanliness in childbirth and when someone has leprosy.  There are directions about what to do if someone has a bodily discharge.  There are even instructions about what to do if a bodily discharge touches a particular piece of pottery or wood.  Now what in the world could be the significance of all that?  
+## Why We Should Believe
 
-The answer is in __chapter 11, verses 44 and 45__, the first of an oft-reoccurring statement in Leviticus.  Turn there with me.
+### The Signs
 
-> “Consecrate yourselves therefore, and be holy, for I am holy. You shall not defile yourselves with any swarming thing that crawls on the ground.  For I am the Lord who brought you up out of the land of Egypt to be your God. You shall therefore be holy, for I am holy.”
+Why should we believe?  That question brings us to the telltale “signs” that punctuate the book of John.  John structures his gospel around seven miracles (eight, if you include the resurrection) that provide evidence for Jesus’ claim to be the Christ, the Son of God.  And, thankfully for us who are slow to understand, most of them are accompanied by extended teaching that help us understand what these signs signified.
 
-The Israelites are to be holy because God is holy.  The reason for all these commands is so that the Israelites can be holy, distinct, different - an accurate reflection of the God they represent.
+Let’s flip through the pages of the book together so I can show you what I’m talking about.
 
-This teaching is __all over Leviticus__, and we would do well to take it seriously.  Look at __20:26__.  
+__Sign #1:__ John 2 begins with Jesus turning the water into wine at the wedding — something John calls “the first of his miraculous signs . . . he thus revealed his glory, and his disciples put their faith in him.” (2:11).  What does the sign mean?  Later, in chapter 3, Jesus explains to Nicodemus that one can only enter the kingdom of God if he is “born again.”  And this must be a miracle of the Spirit of God: “Flesh gives birth to flesh, but the Spirit gives birth to spirit.” (3:6)
 
-> “You shall be holy to me, for I the Lord am holy and have separated you from the peoples, that you should be mine.”
+So, the sign shows Jesus’ power to transform.  He’s not primarily interested in the transformation of one liquid to another.  He is here to inaugurate a new covenant, in which his own body is the new temple of God’s people.  And that new covenant will, as the prophets foretold, require a transformation of the human heart more miraculous than any sign — transformation so complete that it is called the new birth.  
 
-There you hear the explicit setting apart from the other nations.  __22:31-32__:
+__Sign #2:__ We get to Chapter 4. Jesus is speaking with the Samaritan woman at the well, and he says that if she knew who he really was, she would have asked him for “living water.” (4:10).  Is this new life, the new birth, just available for the asking?  Later in the chapter, an official asks Jesus to heal his son.  Even though they are far away from the boy, the official later finds out that the seventh hour, right when Jesus had said “Your son will live,” is precisely when his son was healed.  This is the second sign – and it shows that we may ask Jesus for life, and it will be granted.
 
-> “So you shall keep my commandments and do them: I am the Lord.  And you shall not profane my holy name, that I may be sanctified among the people of Israel.
+__The 3rd sign__ is in chapter 5, and it’s the Sabbath healing at the pool called Bethesda that I mentioned earlier.  The miracle is what causes the crowds to recognize that Jesus is claiming the same authority as God the Father.   So, you can see the portrait filling in.  The man who was healed heard the voice of Jesus in a certain sense; but 5:25 says “A time is coming and has now come when the dead will hear the voice of the Son of God and those who hear will live.”  He’s pointing forward to a far greater miracle.
 
-Does anyone know what it means to “profane” God’s name?  [WAIT FOR SOMEONE TO ANSWER]  It means to treat as common or ordinary or mundane that which is really special and distinct.  So God’s “name,” that is to say, His image and reputation, is tagged onto Israel.  So they can’t be a people who take this identification with God lightly or irreverently.
+__The next two signs (#4 and #5)__, the feeding of the 5,000 and Jesus walking on water, are explained in the “Bread of Life” discourse in chapter 6.  And here we have a new wrinkle to the story.  How is this new life to be given?  I mentioned Jesus’ analogy before.  “Whoever eats my flesh and drinks my blood has eternal life...” (6:54).  Yes, Jesus is the bread of heaven who himself feeds and saves his people.  But such a salvation will only be imparted as his very body is given for his followers.
 
-God is giving them these commands so that in their everyday lives, they’ll be reminded that they are a holy nation, a people set apart for the Lord.  God has written it into their very culture that wherever they turn, they will be reminded of their distinct status, and their call to be holy.
+__Sign #6:__ Now the signs and explanations reverse order.  In 8:12, Jesus claims to be the light of the world, giving spiritual sight.  This assertion is validated in chapter 9 as Jesus heals the man born blind.  The sixth sign.  Jesus explains in 9:4-5, ”As long as it is day, we must do the work of him who sent me.  Night is coming, when no one can work.  While I am in the world, I am the light of the world” (9:4-5).  Jesus miracle is a picture of the need for all of us to be set free from spiritual blindness, and a warning that he is the only one who can do it.  
 
-Now do we need to obey these laws?  Do we need to pay attention to what we eat and touch and so forth in order to be holy, or in order to draw near to God?  We’ll talk about this more in a few weeks, so no need to answer this question fully today.  But in short, No.  We are not the nation-state of Israel under the old covenant.  We are not called to be a political-geographic-nation distinct from the other nations.  All of the law was fulfilled in Christ.  And these particular laws were fulfilled in Christ in such a way as to no longer govern us.  That said, we are also to be a special people, set apart by and for the Lord.  The Church is called to be holy for the same reason that Israel was. Israel bore the name of the One who delivered them from Egypt and bondage.  And just like them, we proclaim with our lives the glories of the One who has delivered us out of the bondage of sin and death![^3]
+__Sign #7:__ And this brings us to the explanation for the 7th sign, which is about to come.  Paradoxically, John juxtaposes Jesus’ Good Shepherd discourse in chapter 10, where he says that he will voluntarily lay his life down for his sheep (10:14, 17-18) and the raising of Lazarus in chapter 11 — where he shows that he possesses power over even death.  Now.  If Jesus can raise the dead, why would he sacrifice his own life?  The answer is in 10:18.  “No one takes it from me, but I lay it down of my own accord.  I have authority to lay it down *and authority to take it up again.*”  If Jesus raises Lazarus from the dead, then lays his own life down, we can be sure that his death is no accident, no conspiracy of fate.  He has laid his life down of his own accord, for the sake of us, his sheep.
 
-> 1 Peter 1:14-16  14 As obedient children, do not be conformed to the passions of your former ignorance, 15 but as he who called you is holy, you also be holy in all your conduct, 16 since it is written, “You shall be holy, for I am holy.”
+That seventh sign, then, the raising of Lazarus in Chap. 11, is what finally leads us into Christ’s passion and the greatest of the signs in the book of John, Jesus’ own resurrection from the dead.
 
-[TAKE QUESTIONS]
+So... why should we believe?  Not really because of these seven signs.  There were plenty who saw Jesus’ miracles and didn’t believe in him.  It’s *what the miracles mean*, as Jesus explains them, that should cause us to cling to Christ in faith.  As I mentioned at the beginning of the class, Jesus claimed to be God, predicted his resurrection, and in fact rose from the dead.  That’s all the evidence we need.  But we believe *because* these signs show us that we are spiritually blind, condemned by God, and in desperate need of new life.  
 
-## 16:1-34: The Day of Atonement
+Now that we’ve seen why we should believe, what does it mean *to believe*?  John’s gospel helps us with this question as well.
 
-So that was the holiness code.  But you’ll notice that we’ve skipped over the section sandwiched in the middle - the “grace” section of our outline as I laid it out at the beginning of class.  That’s where we’ll focus now.  In chapter 16, we find an annual ceremony for the Israelites.  It’s called the Day of Atonement.  One day out of the year where God would provide a way by which everyone’s sins would be covered - atoned for - and the nation made holy again.
+### What Believing Means
 
-We’ve already seen that the priests make sacrifices every day for all kinds of sins.  But what about reconciliation?  Is there any provision made for the people to be reunited with God after they’ve sinned?  No.  And that’s where the Day of Atonement comes in.  Reconciliation will require the sacrifice of a substitute and prayer on behalf of the people.  Then the high priest will return to the people with the joyful declaration that their sins have been atoned for and that the people are now reconciled to God!  Let’s look at the Day of Atonement.  
+At one point in Chap. 6, the people directly ask Jesus what they must do to please God.  Jesus answers, “believe in the one he has sent’” (6:28-29).  
 
-Look at verse __16:2__.  “And the Lord said to Moses, “Tell Aaron your brother not to come at any time into the Holy Place inside the veil, before the mercy seat that is on the ark, so that he may not die. For I will appear in the cloud over the mercy seat.”
+Perhaps you’re here this morning and you recognize that God is holy and just.  He created all of us and expects us to obey and please him in every area of life.  But all of us have fallen short of that charge.  Worse, we’ve abandoned God in our sin and lived to please ourselves, instead of the one who made us.  Because of that, God is just to condemn us all to eternal punishment in hell.  Yet, as we’ve already seen in the book of John, there is great hope for us, because God loved the world in this way:  “he gave his one and only Son, that whoever believes in him shall not perish but have eternal life” (3:16).  Jesus died and rose from the grave that all who repent of their sin and believe in him might be forgiven and inherit this new life, by his grace pleasing him forever.
 
-The Most Holy Place was the most inner part of the tabernacle.  It was where God’s very glory dwelt.  Why would Aaron die if he went in?  [WAIT FOR SOMEONE TO ANSWER]  The glory of the Lord would crush him because of his sin.  So the high priest can’t just go in there whenever he wants to.  Look at __verses 3-6__.
+If that’s how we’re made right with God, then belief is crucial to grasp.  So, how do we believe?  What does it mean?
 
-> 3 But in this way Aaron shall come into the Holy Place: with a bull from the herd for a sin offering and a ram for a burnt offering. 4 He shall put on the holy linen coat and shall have the linen undergarment on his body, and he shall tie the linen sash around his waist, and wear the linen turban; these are the holy garments. He shall bathe his body in water and then put them on. 5 And he shall take from the congregation of the people of Israel two male goats for a sin offering, and one ram for a burnt offering.
-> 6 “Aaron shall offer the bull as a sin offering for himself and shall make atonement for himself and for his house.
+In John 1, we learn that it means to “receive” Jesus.  Verses 12-13: “Yet to all who received him, to those who believed in his name, he gave the right to become children of God — children born not of natural descent or of human decision or a husband’s will, but born *of God*” (1:12-13).  So believing is a kind of receiving, and apparently this receiving is worked out in our hearts by God.
 
-First, Aaron must atone for his own sins.  That’s verse 11.  Only with a sacrifice of atonement can he enter into the Most Holy Place.  But he still has to do so very carefully.  Look at __verses 13-14__.
+Incidentally, the idea that belief is ultimately God’s work is written throughout the book.  We are told in 5:21 that the Son *gives* life to whom he wishes.  We see in 6:37 that the Father gives us to the Son so that we might believe.  And we learn in 10:16 And that when sheep who are not of God’s sheep pen come in, they are “brought” by him.
 
-> And he shall take a censer full of coals of fire from the altar before the Lord, and two handfuls of sweet incense beaten small, and he shall bring it inside the veil and put the incense on the fire before the Lord, that the cloud of the incense may cover the mercy seat that is over the testimony, so that he does not die.
+So, belief is a kind of receiving, and it is the work of God.  But what exactly do we receive?
 
-The smoke was meant to cover the glory of the Lord so that it wouldn’t lash out and consume him!  
+Well, for one, we receive, and believe, *his words*.  Jesus described unbelief as the failure to have God’s “word dwell in you” (5:38).  Positively, he described belief as trusting what the scriptures say about him (5:39).
 
-Now that his own sins are covered he can commence his role as representing the people and interceding for the people.  First he’ll take two goats to the entrance.  One goat is used for a sin offering for the entire nation, and the other will serves as a scapegoat.  Then, after Aaron has atoned for his own sins, he can make atonement for the people.  That’s verse 15.  Then verses 16-19 show that the blood of the sin offering is for cleansing the Most Holy Place, the tabernacle, and the altar that are defiled because of the people’s sins.
+But furthermore, true belief does not simply mean *believing Jesus*, that is, believing that he’s speaking the truth.  Rather, the phrase we see over and over again is to believe *in Jesus*.  “He who *believes in* me will live, even though he dies; and whoever lives and *believes in* me will never die” (11:25-26).  To believe, then, is to rely completely on his person and to trust totally what he teaches about himself.
 
-Next, Aaron will deal with the scapegoat.  Look at __verses 21-22__. “And Aaron shall lay both his hands on the head of the live goat, and confess over it all the iniquities of the people of Israel, and all their transgressions, all their sins. And he shall put them on the head of the goat and send it away into the wilderness by the hand of a man who is in readiness.  The goat shall bear all their iniquities on itself to a remote area, and he shall let the goat go free in the wilderness.”
+Belief, then, to summarize, is receiving Christ as an act of God.  What does it mean to receive?  To rely on the words and work of Jesus.  And with this idea of reliance in place, it makes sense that Jesus describes the life of a believer as one of love for God.  Jesus said to his disciples, “The Father himself loves you because you have loved me and have believed that I came from God” (16:27).  This love isn’t mere sentiment; 14:21 reminds us that loving belief results in obedience:  “Whoever has my commands and obeys them, he is the one who loves me”
 
-This was a powerful visual parable.  The people would all see their sins being transferred to the head of this goat, and watch as their sins were, metaphorically, taken away – never to be seen again!  
+We are to believe these facts about Jesus — that he came from God, lived, died, and rose again.  And we are to believe in the person and work of Jesus — that we can rely on his love and sacrifice for us on the cross.  But when we receive these things through God’s work in our hearts and lives, we will believe in him with persevering love and obedience.
 
-This ritual was to be performed once a year.  Every year.  As verse 30 says, it is a “statute forever.”
+## The Results of Believing
 
-It was a serious and solemn day.  And at the same time, it was a joyous occasion because on this day all the sins of the nation were forgiven and they were reconciled to God.  It is still a very important day on the Jewish calendar.  It’s called Yom Kipper.  
+And that brings us to the third part of John’s purpose statement for the book: “But these are written that you may believe that Jesus is the Christ, the Son of God, *and that by believing you may have life in his name*” (20:31).  What are the results of believing?  As John states in this verse, by believing we will be given life in Jesus’ name.  Several states are involved in this process.
 
-Now, why did I take you through all that detail?  Well, think about it.  All that to do.  All that blood.  Such a tedious process year after year.  Great that sins were forgiven, but it would have to be done again the next year.  Blood is all over the place, and everyone has to come watch.  How serious God must take sin!  All this emphasizes God’s holiness.  It emphasizes the people’s sinfulness.  It this emphasizes God’s grace.  And all this emphasizes that it doesn’t really work.  Jump ahead to Hebrews, chapter 10.
+It’s important to know where we start: in death.  Jesus tells us in chapter 5, verse 24 reads “I tell you the truth, whoever hears my word and believes him who sent me has eternal life and will not be condemned; he has crossed over from death to life.”  In that sense, we are born dead.  Without belief, we stand condemned for our sin.
 
-> 1 For since the law has but a shadow of the good things to come instead of the true form of these realities, it can never, by the same sacrifices that are continually offered every year, make perfect those who draw near. 2 Otherwise, would they not have ceased to be offered, since the worshipers, having once been cleansed, would no longer have any consciousness of sins? 3 But in these sacrifices there is a reminder of sins every year.
+### Belief results in salvation
 
-The author of Hebrews continues, explaining that the priests performed their duties endlessly - because the problem of sin was never solved.  But Jesus?  “When Christ had offered for all time a single sacrifice for sins, he sat down at the right hand of God, waiting from that time until his enemies should be made a footstool for his feet.  For by a single offering he has perfected for all time those who are being sanctified.”
+But, as Jesus says to Nicodemus, “God did not send his Son into the world to condemn the world, but to save the world through him” (3:17).  Praise God!  Jesus came to save.  The first result of belief is our salvation.
 
-His work, as he said on the cross, was FINISHED.  We are justified in His sight!  
+But there is more.
 
-So why is the Day of Atonement the centerpiece of the book of Leviticus?  Because the law was never intended to be something that would be kept perfectly by anyone except Jesus.  It was there to show our need for a Savior.  And the Day of Atonement was the clearest expression of that.
+### Belief results in life
 
-[TAKE QUESTIONS]  
+Secondly, belief results in life.  The theme resonates loudly through the entire gospel.  Jesus gave life to the official’s son in chapter 5.  He called himself the “bread of God” who gives life to the world (6:33).  
 
-## Part 1 Conclusion and Application
+In this, Jesus differentiates himself from the religious leaders of the day.  Jesus sums up the disparity between them and him in John 10:10—“The thief comes only to steal and kill and destroy; I have come that they may have life, and have it to the full.”  So . . . life to the full!  He can give us full life because he gives us his life, a life full of grace and truth and joy!  As he prayed to the Father in chapter 17, “I am coming to you now, but I say these things while I am still in the world, so that they may have the full measure of my joy within them” (17:13).  Is this joyful life without hardship?  No.  To quote Jesus in John 16, “In this world you will have trouble. But take heart! I have overcome the world.” (16:33)
 
-The call to be holy is a serious one, and we hear it with great sobriety.  But we hear it as people who are aware of our sin and in need of atonement outside of ourselves.  We look to Jesus to establish our standing before the Lord.  We will never reach God’s perfect standard of holiness this side of heaven, and so we need the Lord Jesus Christ; we need the gospel.  Then with the grace God gives, we can live distinct lives – lives of faith and obedience.
+If you are a Christian but you find that joy to be distant, to be absent, spend time in the book of John learning of the fullness of Jesus’ life, of Jesus’ joy.  Because this joy is in him, and not in yourself and your circumstances, this means that for Christians real joy can be found in the midst of struggle.
 
-Let’s make two points of application before we close. First, feel the weight of sin. If there is one thing made perfectly clear in the book of Leviticus, it is that our sin has massive consequences and can only be properly dealt with through the shedding of blood. And keep in mind, as we read in Hebrews, that even all of this never fully dealt with sin.  All the sacrifices, all the regulations, all the warnings, all the prohibitions, and all the commands found in this book have a single purpose.  To drive us to God’s provision for our sins.  Ultimately, what’s this provision?  It’s the sacrifice of Jesus on the cross! Be encouraged once again by the author of the book of Hebrews:
+### Belief results in eternal life
 
-> Hebrews 10:19-23  19 Therefore, brothers, since we have confidence to enter the holy places by the blood of Jesus, 20 by the new and living way that he opened for us through the curtain, that is, through his flesh, 21 and since we have a great priest over the house of God, 22 let us draw near with a true heart in full assurance of faith, with our hearts sprinkled clean from an evil conscience and our bodies washed with pure water. 23 Let us hold fast the confession of our hope without wavering, for he who promised is faithful.
+But the life that comes from belief is not just full, it is eternal.  “I tell you the truth,” Jesus says, “he who believes has everlasting life” (6:47).  Eternal life is given as a gift of Christ:  “I give them eternal life, and they shall never perish; no one can snatch them out of my hand” (10:28).  Eternal life is otherworldly: “The man who loves his life will lose it, while the man who hates his life in this world will keep it for eternal life” (12:25).  And eternal life, ultimately, is communion with God.  Jesus defines it beautifully in his final prayer: “Now this is eternal life: that they may know you, the only true God, and Jesus Christ, whom you have sent” (17:3).
 
+### Belief results in love
 
-[TAKE QUESTIONS]
+But, lastly, belief not only results in Salvation, not only results in eternal life — it also results in love.  “A new command I give you: Love one another.  As I have loved you, so you must love one another.  By this all men will know that you are my disciples, if you love one another” (13:34-35).   For us at Immanuel, loving one another can sound like a cliché.  But Jesus is saying it’s a telltale sign of Christian belief.  Perhaps we could use this verse to diagnose the state of our faith this week.  Mentally walk through your relationships at the church and ask yourself “am I thinking, speaking, acting in a loving way toward that person?”  Then ponder the love of Christ we see displayed in John.  Don Whitney writes, “God is the source of the love that flames in the Christian heart.  We must bask in His love before we can expect it to consistently blaze forth from us to others.”[^3]
 
-[PRAY]
-
-# Part 2: Numbers
-
-As we move into the second half of our study today, we are about a quarter of the way through our study of the Old Testament, looking at every book from a 50,000 foot perspective to understand its message and main themes. With each book we are looking forward into the New Testament to see how the Old Testament teaches us about the Gospel – the good news about Jesus Christ, His Church, and Heaven to come.  In fact, as we get into this morning’s study of this fourth book of the Bible, Numbers, we’ll be looking at each of those themes.
-
-[PRAY]
-
-## Context for Numbers
-
-Let’s start with context. Numbers comes after the Exodus, when God’s people, the Israelites, leave Egypt. And they’ve just received the Ten Commandments at Sinai. But we haven’t quite reached the Promised Land, and so we’re still before the books of Deuteronomy and Joshua.
-
-In Numbers we’ll see the people of Israel pack up camp from the foot of Mount Sinai and move toward the land of Canaan, the fertile land just east of the Mediterranean Sea. If you look at your handout you’ll see a map of the Israelite journey. The route is only 200 miles, but the narrative will span 40 years, because, as we’ll see, the people don’t go straight into the land.  Instead, they around in the wilderness.  By breaking the chapters up geographically, we see chapters 1-10 are about packing up at Sinai, chapters 11-12 about the journey to Kadesh where the people rebel, chapters 13-19 explain the wanderings in the wilderness, and chapters 20-21 describe the journey to the plains of Moab. Finally, in chapters 22-36, we’ll see that Israel is camped on the eastern bank of the Jordan River, looking across the river at the Promised Land [map in handout].
-
-But this book isn’t just about God’s people finding a place to live.   If we widen the aperture a bit, we’ll remember that this story fits into the far bigger question of how God’s promises to Abraham will be fulfilled. In Genesis 12 (and in 15 and 17) God makes many promises to Abraham. Let me highlight the four key ones which we’ll track through Numbers:
-
-1. He promises that His people will have a __place__. “All the land that you see I will give to you” (13v15).
-2. He promises that the Israelites, His __people__, the offspring of Abraham, will be numerous “a great nation” (12v2), “as the dust of the earth” (13v16) “as stars in the sky” (15v5).
-3. He also promises his __presence__. Genesis 15v1.
-4. Finally, God promises that through the Israelites, all nations will be __blessed__. “I will bless those who bless you, and him who dishonors you I will curse, and in you all the families of the earth shall be blessed.” (12v3).
-
-The book of Numbers is crucial in understanding redemptive history because it is the first time (since Adam and Eve were in the Garden of Eden) that we’ve seen the possibility of all four of these promises coming true. The __people__ of God are attempting to occupy a __place__ where they can enjoy God’s __presence__ and so be a __blessing__ to the nations.  
-
-But of course, these four don’t finally come together until Revelation 21.  So we know right up front that Numbers, in that sense, is a false start.  But what’s significant is why these four don’t come together.  __*Can anyone answer that question in a single word?*__  [Unbelief.]
-
-Right.  In short, two thematic ideas are juxtaposed against one another in the book of Numbers.  
-
-- One is the present problems - the unbelief, rebellion, and disobedience of the people.  
-- Then, over against that are Yahweh’s faithfulness to his past promises – his patience and grace.
-
-And the big question that we face here is, “What’s gonna win?” “Will God’s promises prevail in the midst of disobedience, distrust and unbelief?”
-
-The answer, and a good theme sentence for the book, would be...
-
-__*Past promises will prevail in spite of present problems*__
-
-OK - that’s what we’re going to see in this book.  But to make sure we’re viewing this time as application and not just academic, let’s talk about this a bit.  __*Why would we need to be reminded that God’s past promises will prevail in spite of present problems?*__
-
-[TAKE QUESTIONS]
-
-So - back to Numbers.  We’re going to break the book into three pieces based on three major themes that support the summary statement I just gave you.
-
-- In chapter 1 to chapter 10 we see __God preparing__ his people for the fulfillment of his promises.
-- In chapter 11 to chapter 16 we see __God punishing__ his people for their great unbelief and lack of trust in his promises being fulfilled.
-- And in chapters 17 to 36 we see __God’s patience__ with his people. Perhaps most importantly, we learn that his promises will be fulfilled in spite of everything that has taken place.
-
-So first, let’s look at these initial chapters and see how
-
-## God’s preparation preserves his promises (1-10)
-
-At the start of these first ten chapters God’s people are still at the foot of Mount Sinai, ready to break camp.  The mood is very optimistic. This was it! They’d received the laws, they’re in covenant with Yahweh, He dwells among them, and now they’re going up to take the land of Canaan. These chapters are full of anticipation. Let’s dive in and see how the first three promises to Abraham are being fulfilled[^4].
-
-First with regard to God’s __people__ we see God’s promise of a great nation taking form.  Chapter 1, we read about a census to count how many men are able to fight in the army. As you can see from Numbers 1 verse 46 (or 2v32) God’s people are becoming a huge nation with “603,550 men able to go to war”[^5].
-
-Second, we see God’s promise of a __place__ taking shape. Once the preparations have been made we see God’s people on the move.
-
-Between those two periods of census (chapters 1-4) and setting out (chapter 10), we also see God’s people being primed for the fullness of his __presence__. As we saw in Exodus, the people cannot draw near to God unless they are clean.  So in chapters 5 and 6 we see the camp being cleansed; in chapter 7, the tabernacle is consecrated; and in chapter 8v5, we see the priests being inducted into their roles.
-
-However, chapters 9 and 10, also, center on God’s presence with his people when they move. In chapter 9 we see God’s presence in the form of a fire and a cloud over the tabernacle. Look with me at Numbers 9v15-17:
-
-> 15 On the day that the tabernacle was set up, the cloud covered the tabernacle, the tent of the testimony. And at evening it was over the tabernacle like the appearance of fire until morning. 16 So it was always: the cloud covered it by day and the appearance of fire by night. 17 And whenever the cloud lifted from over the tent, after that the people of Israel set out, and in the place where the cloud settled down, there the people of Israel camped.
-
-And as we see in chapter 2, the camp is designed so that the tabernacle, and its accompanying cloud or pillar of fire, is always right in the middle.  So the people are always reminded that Yahweh is dwelling with them in the very center of their camp.  
-
-I guess it’s easy for many of us to feel somewhat envious of how close these people lived to God’s visible presence.  “If only I could live with that fiery cloud always in view!”  But of course, we need to remember that as Christians we don’t live in a camp that’s indwelt by God; we ourselves are indwelt by his Spirit.  We have his very Word in our hands.  We are far more blessed than they were.
-
-[TAKE QUESTIONS]
-
-So in summary, this is all exhilarating stuff! Everything looks good. The numerous people are obedient, and they have Yahweh visibly guiding them to His land.
-
-But then suddenly, starting in chapter 11, things change.
-
-## God’s punishment preserves his promises (11-16)
-
-“Complain” is the word that appears in nearly every one of the next six chapters.  In spite of reason for great optimism, God’s people are grumbling. In chapter 11v1 they complain about their ”hardships”. In chapter 11v13 they complain about their food. In chapter 12 Miriam and Aaron, Moses’ own brother and sister “talk against him” (v.1). Finally, in chapter 13, we come to the worst transgression, for it’s here that God’s people show that they do not trust that God will give them the land.
-
-In this famous chapter, Yahweh has instructed Moses to send spies into the land. Twelve spies went in. On their return, here was their report (verses 27-28):
-
-> “We came to the land to which you sent us. It flows with milk and honey, and this is its fruit.  However, the people who dwell in the land are strong, and the cities are fortified and very large. And besides, we saw the descendants of Anak there.”
-
-That wasn’t exactly the report that Moses was hoping they’d bring back. Caleb’s report in verse 30 is more like it:
-
-> But Caleb quieted the people before Moses and said, “Let us go up at once and occupy it, for we are well able to overcome it.”
-
-Those are the words of faith, and trust in God’s promises!  
-
-But of the 12 spies, only Caleb and Joshua responded in faith.  The ten other spies complained that victory was impossible.  And, sadly, it wasn’t only the spies who lacked faith. Listen to the response of the people in chapter 14:
-
-> 1 Then all the congregation raised a loud cry, and the people wept that night. 2 And all the people of Israel grumbled against Moses and Aaron. The whole congregation said to them, “Would that we had died in the land of Egypt! Or would that we had died in this wilderness! 3 Why is the Lord bringing us into this land, to fall by the sword? Our wives and our little ones will become a prey. Would it not be better for us to go back to Egypt?” 4 And they said to one another, “Let us choose a leader and go back to Egypt.”
-
-OK so it’s mutiny! And worse, they want to return to slavery! As Moses and Aaron are quick to point out their rebellion is against the Lord (14v7). They don’t want to be a separate people, they don’t want a separate land, they don’t want to bless the nations, they don’t want God’s presence!
-
-Now, it’s worth pausing here to reflect on the roots of their sin and often our own sin. Notice the constant connection between their dissatisfaction and their sin. Complaining reveals an underlying spiritual state. The people are given supernatural food they don’t have to work for. They’ve been miraculously rescued from Egypt without having to fight a single battle. They have a faithful leader. They have God’s law. It’s easy to see how they’ve been blessed and how inappropriate their complaining is.  But how often do we have a similar attitude? Sinful dissatisfaction tells us more about our souls than our circumstances. Beware of discontentment.
-
-So, back to Numbers, what are results of all this discontentment?  Well, when it’s complaints at hardships God sends fire to burn the camp (11v1); when it’s complaints at food God sends a plague (11v33); when it’s Miriam complaining, God sends leprosy (12v10); but when it’s a total lack of trust in all God’s promises, well, Yahweh is having none of it! His wrath is kindled. Look at how He protects Moses and pronounces His sentence against the people, chapter 14v10-12. Listen for God’s anger with their lack of faith:
-
-> 10 Then all the congregation said to stone them [that is, Moses, Aaron, Joshua, and Caleb] with stones. But the glory of the Lord appeared at the tent of meeting to all the people of Israel. 11 And the Lord said to Moses, “How long will this people despise me? And how long will they not believe in me, in spite of all the signs that I have done among them? 12 I will strike them with the pestilence and disinherit them, and I will make of you a nation greater and mightier than they.”
-
-And so, just like with the golden calf in Exodus, Yahweh is ready to blot them out.
-
-A long way from the first ten chapters, don’t you think? What a tragedy! And it’s because of their lack of faith in God’s promises.
-
-But it’s here that we have another opportunity to see the ministry of the Lord Jesus Christ, as Moses again prefigures and foreshadows Christ by what he does next. Moses pleads for the people (verses 13-19), basing his appeal in God’s desire for his own glory and fame.  As a result, God forgives them, verse 20, and doesn’t destroy them.
-
-But the people’s unbelief is serious. As a result there are real punishments for God’s people. Look at the next few verses in 21-23:
-
-> “I have pardoned, according to your word. 21 But truly, as I live, and as all the earth shall be filled with the glory of the Lord, 22 none of the men who have seen my glory and my signs that I did in Egypt and in the wilderness, and yet have put me to the test these ten times and have not obeyed my voice, 23 shall see the land that I swore to give to their fathers. And none of those who despised me shall see it.
-
-OK, so what connection is there between this punishment and God’s promises?  On the surface it seems as though God’s punishment is breaking his promises. But we need to remember that God, back in Exodus, declared to these very people that they would only be blessed if they kept his covenant and obeyed.  If they didn’t, they would be cursed. So God is in fact keeping his promise.  God had promised to punish their lack of faith.
-
-But what about the Abrahamic promises. Where are we in relation to these?
-
-Well, in relation to the promise of God’s people - it seems that God’s people are no more. Not one of them “shall see the land I promised to their forefathers” verse 23 said. Nevertheless, if we jump to down to verse 31 of chapter 14 we can see that God is still going to achieve the promises to his people. Verse 31 says – “But your little ones, who you said would become a prey, I will bring in, and they shall know the land that you have rejected.”  What irony!  And with this there is still hope.
-
-With this in mind, the promised __place__ is still just about in sight. But the land would not be not be inherited by the faithless. In fact in verse 25, of chapter 14, we get perhaps the most depressing verse in the whole of Numbers. “turn tomorrow and set out for the wilderness by the way to the Red Sea”. In other words “Go back to where you came from!”  So the promise of a place would wait for another generation because of their lack of faith.
-
-Hebrews 3 applies this tragedy directly to us.  I’ll read it to you:
-
-> 16 For who were those who heard and yet rebelled? Was it not all those who left Egypt led by Moses? 17 And with whom was he provoked for forty years? Was it not with those who sinned, whose bodies fell in the wilderness? 18 And to whom did he swear that they would not enter his rest, but to those who were disobedient? 19 So we see that they were unable to enter because of unbelief.
-
-Hebrews tells us to take the experience of Israel as a very stern warning to us.  Just like them, we’ve heard the gospel - but we’ve heard it so much more clearly.  You can be exposed to much grace, much Biblical teaching - and still miss God’s place.  And of course, missing God’s place may have cost the Israelites the promised land; it would cost us heaven.  You must have faith, and you must persevere in faith until the end. Don’t let sin and unbelief deceive you and lead you to make shipwreck of the faith. Don’t play with fire; you’re not in heaven yet; persevere in faith!
-
-So that’s all about place.  But thirdly, it’s worth noting that God’s __presence__ is still with them. God hasn’t left them. He continues to speak to Moses in chapter 15, and in chapter 16 verses 41-42, in spite of continued grumbling, God reveals himself in glory to them in a cloud.
-
-In this section, we see little interaction with other people, although it is noteworthy that the because of the Israelites’ sin their ability to be a __blessing__ to the nations is quite diminished.
-
-[TAKE QUESTIONS]
-
-OK, on to our final section. So far we’ve seen how God __prepares__ the people for the fulfilment of his promises in chapters 1-10. Then, in chapters 11-16, we saw how the people fail to trust and therefore how that they are __punished__ in keeping with God’s promises. However, in the final chapters we see God’s __patience__ with his people in order that his promises might prevail.
-
-## God’s patience preserves his promises (17-36)
-
-We may have thought that God’s punishment and justice would have been enough to quell the rebellion and dissatisfaction in the Israelite camp. However, as we start this new section it’s quickly apparent that God’s people continue in their sin and disbelief. In chapter 17, the people misrepresent what God says. In verse 13, the people cry, “Everyone who comes near, who comes near to the tabernacle of the Lord, shall die!” which is clearly not true.
-
-Then in chapter 20, we discover that not even Moses is immune to the sinful dishonoring of Lord, since he, in a fit of anger, strikes a rock rather than speaking to it as God had told him to do (verse 8-12).  And so Moses receives the same punishment as this generation of Israelites.
-
-In Numbers 21, we are back to the heart of their discontentment. Let’s start reading at verse 4.
-
-> From Mount Hor they set out by the way to the Red Sea, to go around the land of Edom. And the people became impatient on the way.  And the people spoke against God and against Moses, “Why have you brought us up out of Egypt to die in the wilderness? For there is no food and no water, and we loathe this worthless food.”
-
-There they are again grumbling against Yahweh and His appointed leader, Moses. And as always, this sin cannot go unpunished. So in verse 6, God sends venomous snakes into the camp.
-
-What happens next?  The people repent, and seek an intercessor - Moses - to go to the Lord to plead for mercy.
-
-Are you noticing the pattern here that is throughout the book of Numbers? The people sin; God displays his right anger; there is a need for a mediator, there is need for God’s patience.
-
-Well how will this example show God’s patience? Let’s look on at verses 8-9 The LORD said to Moses,
-
-> And the Lord said to Moses, “Make a fiery serpent and set it on a pole, and everyone who is bitten, when he sees it, shall live.”  So Moses made a bronze serpent and set it on a pole. And if a serpent bit anyone, he would look at the bronze serpent and live.
-
-Now, clearly what’s going on here in Numbers 21 is a miracle. Yahweh in his great patience is supernaturally healing these people. But look at the grounds upon which He does it. “Looking” at the snake is the act of obedience that comes from faith in what God has provided. That is to say, if God has given this bronze snake as the means to the cure, then just merely looking at it, as they are told, is an act of trusting in God’s provision for the healing and forgiveness of sins.
-
-In the same way, we are called again to trust in God’s provision for salvation.  The cross of Jesus Christ was God’s idea. It was God’s design. It was given to us as the one and only way to be saved from our sins – the disbelieving and distrusting and disobeying that we are guilty of all the time. If you seek some other means of salvation, it won’t work. Only belief in what God has provided, His Son dying for your sins, will suffice to rescue you from hell.  And in that way Christ is a greater Savior, the way of salvation that God has provided for all who would believe.  
-
-Just listen to what Jesus says in John 3:14-15, the verses before one of the most famous verses in the whole Bible... “As Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up, that whoever believes in him may have eternal life.”
-
-So, the Lord’s promises continue to prevail in the midst of present problems. Indeed from this point onwards we see God’s incredible patience with his people, which enable his past promises to Abraham to be fulfilled. Let’s look again at those four key promises and track them through the remaining 15 chapters.
-
-With regard to __people__ we see that God’s patience enables God’s people to prosper and grow in size. Through the strange account of Balaam in chapters 22-24. God’s people are promised future blessing, even against a backdrop of shocking idolatry and immorality at Moab, in chapter 25. In fact by the time we reach chapter 26 we see that God’s people, in spite of plagues, fires, and war, are still a considerable nation. This second census reveals (verse 51) that there are “601, 730” men which is almost exactly the same number that we had in Numbers 1.
-
-Secondly, we see that patience with his people results in God’s __place__ being reached. In chapter 27, we discover that Joshua will lead God’s people into the land. Indeed in chapter 32, the first tribes settle just east of the Promised Land. Then, in chapter 34, God gives the people instructions for assigning the land to the Israelite clans. In the final chapter, chapter 36, we see how special provisions are made for how the land will remain with each tribe.  God’s past promises are coming through.
-
-In relation to __presence__, God is still with them! In chapter 29 – we discover that there is to be a feast of trumpets – where (verse 1) the Israelites are to remember God’s presence with a whole day of trumpet blowing.
-
-But what of God’s promise of __blessing__ to the nations? If anything don’t we see God people being a curse to the nations? After all in chapter 21 the Canaanites and Amorites are destroyed by God’s people, in chapters 22-24 the Moabites lose their possessions to God’s people, and in chapter 31 vengeances are taken on the Midianites.  
-
-Nevertheless, we must again turn to the Abrahamic covenant Genesis 12v3 says this: “I will bless those who bless you, and him who dishonors you I will curse, and in you all the families of the earth shall be blessed.”
-
-Balaam, in Numbers 24:9, uses almost the exact phrasing when he says to Israelites, “Blessed are those who bless you, and cursed are those who curse you.”
-
-The implication is that nations who treat Israel generously, who do not reject his people and his Word, will be blessed.
+Why is it so important for us to obey Christ’s commands?  Because he says, “If you love me, you will obey what I command” (14:15).  And this is how we can know that we do in fact believe not just about, but in, this Savior, Jesus Christ.  If we love him and his people.
 
 ## Conclusion
 
-Well then, we’ve reached the end of the book and it’s time to conclude.  The message of Numbers is this: God prepares his people for the fulfilment of his promises, but the people are punished since they do not believe his promises. Nevertheless God’s patience sees that his promises will prevail and will come to pass.
- 
-As God’s people today we face similar problems. We are sometimes tempted to question whether God’s promises will come true. We perhaps wonder if God will use us in the building up of his people, the church. We question the reality of heaven given all the hardship earth has to offer. We forget that God is with us. So just like Hebrews tells us, we need to keep these people in mind as an example - an example of what not to do - so that we can trust in our God.  Because just like we see in Numbers, his promises will always prevail.
+So that is the message of the book of John.  The goal: belief in Jesus as the Son of God.  The reason: the signs he has given us.  The result: eternal life, demonstrated in our love for each other.
 
-[TAKE QUESTIONS]
+One way to sum up the book is to look at the story of the Pharisee, Nicodemus.  He appears in  this gospel almost as a miniature version of what John longs to see in all of us.  In chapter 3, a curious but skeptical Nicodemus approaches Jesus — at night, privately — to ask him questions.  And he leaves confused.  By chapter 7, Nicodemus is publicly suggesting that maybe Jesus deserves a more fair trial.  And in chapter 19 he is present at Jesus’ burial and helps prepare the body.  John shows us that a transformation has occurred:  Nicodemus went from skeptical, to sympathetic, to saved.  
 
-[PRAY]
+Have you experienced such a transformation?  A rebirth?  Do you see Christ’s love for you in your love for others?  Read the gospel of John, and use it as it was intended — to birth belief in your heart that you also might have eternal life.
 
-[^1]: Between the first month of the year (Ex. 40.1, 34-35; Lev. 1.1) and the second month of the year (Num. 1.1) following the exodus from Egypt
+Let’s pray.
 
-[^2]: As a practical help, I encourage you to note the following key passages for further study:
-- Lev. 17.11: “For the life of the flesh is in the blood, and I have given it for you on the altar to make atonement for your souls, for it is the blood that makes atonement by the life.”
-- Lev. 20.7-8: “Consecrate yourselves, therefore, and be holy, for I am the Lord your God. Keep my statutes and do them; I am the Lord who sanctifies you.”
-- Lev. 16: Yom Kippur - the Day of Atonement - is the most significant day in the Hebrew calendar because this is when the high priest entered into the holy of holies within the tabernacle to, “make atonement for you, to cleanse you, that you may be clean from all your sins before the Lord.” (Lev. 16.30)
+[^1]: Rylands Library Papyrus P52
 
-[^3]: So the call to be holy remains, it just manifests itself in a different way in light of what Jesus has done, as He Himself says, “18 "Are you so dull?" he asked. "Don't you see that nothing that enters a man from the outside can make him 'unclean'?  19 For it doesn't go into his heart but into his stomach, and then out of his body." (In saying this, Jesus declared all foods "clean.")  20 He went on: "What comes out of a man is what makes him 'unclean.'  21 For from within, out of men's hearts, come evil thoughts, sexual immorality, theft, murder, adultery,  22 greed, malice, deceit, lewdness, envy, slander, arrogance and folly.  23 All these evils come from inside and make a man 'unclean.'" (Mark 7.18-23)
-You see, the intent was never to make some legalistic standard that anyone could live up to by sheer force of will, but to remind the Israelites of how they are different.  Now that the promised Messiah has come, the principle is the same, but the manifestation is different.  We have things like baptism and the Lord’s supper to remind us of our uniqueness and special obligation to be ethically upright.  So we focus on our hearts, and we guard our hearts, so that we can be different in areas such as evil thoughts, sexual immorality, theft, murder, adultery, greed, malice, deceit, lewdness, envy, slander, arrogance and folly.
+[^2]: See also 13:1, 16:21, 16:32, 17:1
 
-[^4]: You could make a point that when Moses’ father-in-law (a Midianite) joins them, they are beginning to be a blessing to the nations, promise #4
-
-[^5]: Not only that but in the census of the priests in chapters 3-4 we see that there are “8580 priests” (4v48).
+[^3]: Whitney, *Ten Questions to Diagnose Your Spiritual Health*, 52

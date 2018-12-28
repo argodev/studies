@@ -13,463 +13,174 @@ fontfamily: libertine
 fontfamilyoptions: sfdefault
 ---
 
-# Psalms
-
-__[SLIDE #1]__
-
-__[SLIDE #2]__
-
-## Summary: The Book of Psalms is the prayer and praise book of God’s Son and God’s people
-
-**Open with prayer.**  _The class then opens with you reading the last three Psalms, end to end without pausing in between.  This should take about 2-3 minutes.  Practice it ahead of time so you can read fairly quickly without making mistakes.  That way you can leave the class with the emotional force of these amazing words as you begin the class._
-
-| 1 Praise the Lord!
-| Praise the Lord from the heavens;
-|     praise him in the heights!
-| 2 Praise him, all his angels;
-|     praise him, all his hosts!
-| 3 Praise him, sun and moon,
-|     praise him, all you shining stars!
-| 4 Praise him, you highest heavens,
-|     and you waters above the heavens!
-| 5 Let them praise the name of the Lord!
-|     For he commanded and they were created.
-| 6 And he established them forever and ever;
-|     he gave a decree, and it shall not pass away.[a]
-| 7 Praise the Lord from the earth,
-|     you great sea creatures and all deeps,
-| 8 fire and hail, snow and mist,
-|     stormy wind fulfilling his word!
-| 9 Mountains and all hills,
-|     fruit trees and all cedars!
-| 10 Beasts and all livestock,
-|     creeping things and flying birds!
-| 11 Kings of the earth and all peoples,
-|     princes and all rulers of the earth!
-| 12 Young men and maidens together,
-|     old men and children!
-| 13 Let them praise the name of the Lord,
-|     for his name alone is exalted;
-|     his majesty is above earth and heaven.
-| 14 He has raised up a horn for his people,
-|     praise for all his saints,
-|     for the people of Israel who are near to him.
-| Praise the Lord!
-| 1 Praise the Lord!
-| Sing to the Lord a new song,
-|     his praise in the assembly of the godly!
-| 2 Let Israel be glad in his Maker;
-|     let the children of Zion rejoice in their King!
-| 3 Let them praise his name with dancing,
-|     making melody to him with tambourine and lyre!
-| 4 For the Lord takes pleasure in his people;
-|     he adorns the humble with salvation.
-| 5 Let the godly exult in glory;
-|     let them sing for joy on their beds.
-| 6 Let the high praises of God be in their throats
-|     and two-edged swords in their hands,
-| 7 to execute vengeance on the nations
-|     and punishments on the peoples,
-| 8 to bind their kings with chains
-|     and their nobles with fetters of iron,
-| 9 to execute on them the judgment written!
-|     This is honor for all his godly ones.
-| Praise the Lord!
-| 1 Praise the Lord!
-| Praise God in his sanctuary;
-|     praise him in his mighty heavens![b]
-| 2 Praise him for his mighty deeds;
-|     praise him according to his excellent greatness!
-| 3 Praise him with trumpet sound;
-|     praise him with lute and harp!
-| 4 Praise him with tambourine and dance;
-|     praise him with strings and pipe!
-| 5 Praise him with sounding cymbals;
-|     praise him with loud clashing cymbals!
-| 6 Let everything that has breath praise the Lord!
-| Praise the Lord!
-
-Amen. Hopefully that gives you a taste of the glory of our subject matter for our first section today: the Psalms, often described as the hymnal of the Bible. Christians through the ages have testified to the power and the solace of the psalms to speak to God in times of great sadness and times of great joy. The question for us today is, how do they speak to us?
-
-Calvin called this book
-
-> “‘An Anatomy of all the Parts of the Soul’; for there is not an emotion of which any one can be conscious that is not here represented as in a mirror. Or rather, the Holy Spirit has here drawn to the life all the griefs, sorrows, fears, doubts, hopes, cares, perplexities, in short, all the distracting emotions with which the minds of men are wont to be agitated.” (Comm. p. xxxvii)
-
-In good times, nothing better expresses praise to God than the words of the Psalms. In bad times, nothing can better remind us that God knows our sorrows and our troubles, and there is no better way in the midst of those trials to express our faith.
-
-Today we want to study the psalms by posing the following questions:
-
-1. What are the Psalms?
-2. Who wrote the Psalms, and when?
-3. How are the Psalms structured?
-4. What are the different kinds of Psalms?
-5. How do the Psalms point to Jesus?
-6. How do we read the Psalms as Christians?
-
-__[SLIDE #3]__
-
-## I. What are the Psalms[^1]
-
-The Book of Psalms is a collection of 150 musical poems and prayers with different human authors and characterized by different literary forms
-
-- All were written in Hebrew
-- Some unfamiliar words that appear in the psalms - such as _Selah_ - are probably notes for musical or worship direction.
-- Many of them have introductory notes, which we can treat as reliable.[^2]
-- Many of the psalms were composed for and sung on special occasions. For example, at least five psalms (2, 21, 72, 101, and 110) were created for the coronation of the king.
-- Some of the Psalms appear linked to historical events. For example, fourteen psalms are linked to historical episodes in the life of David (Psalms 3, 7, 18, 30, 34, 51, 52, 54, 56, 57, 59, 60, 63, and 142)
+# Romans
 
-The Psalms are entirely poetry, which means that the language is condensed and conveys its meaning through image and structure.
+"At last meditating day and night, by the mercy of God, I began to understand that the righteousness of God is that through which the righteous live by a gift of God, namely by faith. Here I felt as if I were entirely born again and had entered paradise itself through the gates that had been flung open."
 
-- English poetry, as you know, tends to work through sound, rhythm and rhyme.
-- However, Hebrew poetry uses “parallelism” to either reinforce, contrast or develop and expand an idea.
+This is what Martin Luther said in response to his study in the book of Romans, a study which focused this anguished monk on the words of Romans 1:17, “For in the Gospel a righteousness from God is revealed, a righteousness that is by faith from first to last, just as it is written: ‘The righteous will live by faith.’”
 
-|  Example of reinforcement: Psalm 103:10:
-| _He does not deal with us according to our sins,_
-| _nor repay us according to our iniquities._
-|
-|  Example of contrast: Psalm 63:8
-| _My soul clings to you;_
-| _your right hand upholds me._
+Later Luther would write a full commentary on the book of Romans, and in the preface to that edition he writes, “This letter is truly the most important piece in the New Testament. It is purest Gospel. It is well worth a Christian's while not only to memorize it word for word but also to occupy himself with it daily, as though it were the daily bread of the soul.”
 
-At first, this verse expresses our desire to hold onto God. But then it turns the idea around and reminds us of the opposite - that he is holding us.
+And that is our goal this morning, perhaps not to memorize it all this morning, but to delve into this book of “purest Gospel.”
 
-English poetry often doesn’t survive translation well.  But, as Derek Kidner has written in his commentary on the Psalms,
+## Background
 
->"...the poetry of the Psalms has a broad simplicity of rhythm and imagery which survives transplanting into almost any soil. Above all, the fact that its parallelisms are those of sense rather than of sound allows it to reproduce its chief effects with very little loss of either force or beauty. It is well fitted by God's providence to invite ‘all the earth’ to ‘sing the glory of his name’” (Derek Kidner, Psalms 1-72, 4)
+Written around 57 A.D. by the Apostle Paul, the Book of Romans was written to a Christian church in the capital of the world’s most powerful empire.  Apparently, the church was established by a group of believers not known to us.  Some scholars suggest that Jew and Gentile Christians, who converted to faith in Christ in Jerusalem at the time of Pentecost (Acts 2:10), might have founded the church.  Despite the lack of well-known leadership, the church seemed to be growing at the writing of this letter.  In 1:8, we are told that the church’s faith was reported all over the world and in 16:19 that their obedience was known to all.
 
-__[SLIDE #4]__
+Paul seems to have several goals in writing the letter. He wants to commend them for their faith (1:8), let them know of his hopes to visit them personally (1:9-13), gain their support in a planned visit to Spain (15:23-4), and ensure that they were firmly grounded in the Gospel. It is this last purpose that flavors the book and why Romans is a classic statement of the Christian faith and perhaps the best place to spend serious study if you want to get your understanding of the gospel straight. The book is a sustained logical treatise on the gospel, its implications, and answers to objections to that gospel.
 
-## II. Who Wrote the Psalms, and When
+The organizing/central theme to Romans is justification by faith alone. So, before we go through the book, we need to ask the question, “what does Paul mean by ‘justification’?” This is a crucial question for understanding the book.
 
-The psalms were written by many different people over a long period.
+Justification is a legal term, meaning ‘declared righteous’. When you stand before God on the last day, what will be His verdict on your life? Will he declare you guilty, or will he declare you righteous? Our great need is to be declared righteous on that last day. Our great need is to be justified.  So what we’ll do for the rest of our class today is to simply walk through the argument that Paul builds in the book of Romans, from beginning to end, about justification.  If you’re familiar with this book, as many of you I would assume are, my prayer is that by reviewing it as one grand narrative of logic, you will be able to understand more fully how all these pieces fit together.  You can follow that overall flow on your handout.
 
-- Moses wrote Psalm 90 in the 14th century B.C.
-- Ezra, may have written Psalm 119 and a few other psalms after the exile - about 1,000 years after Moses.
-- In addition to Moses and (maybe) Ezra, authors include: the Sons of Korah and Asaph (worship leaders), Solomon, who wrote Psalm 72, and David, who wrote 73 of them.  “The Psalter opens with a flurry of Davidic psalms and closes with a similar grouping (3-9; 11-32; 34-41; 138-145).[^3]”
+## Justification by Faith Alone is Necessary (1:1-3:20)
 
-We don’t know, but perhaps Ezra compiled and organized them in their present form for use in the rebuilt Temple.  Of course, though the book has many different human authors, Jesus teaches us that behind all of this is a single author: God.
+*We all deserve God’s wrath...*
 
-__[SLIDE #5]__
+The letter begins with Paul’s usual greeting, and prayer of praise to God for the Roman’s faith. But the theme of the gospel that Paul will expand through the book is prevalent right from the beginning:
 
-## III.  How Are the Psalms Structured
+> “Paul, a servant of Christ Jesus, called to be an apostle, set apart for the gospel of God, which he promised beforehand through his prophets in the holy Scriptures, concerning his Son...“
 
-The psalms are divided into five books
+And, v16-17
 
-- Each book concludes with a doxology - a special song of praise to God.
-- Book 5 ends with five doxologies (145-150). They likely are a climax to the whole book, not just book 5. I read to you the last three of the Psalms at the beginning of the class.
+> “For I am not ashamed of the gospel, for it is the power of God for salvation to everyone who believes, to the Jew first and also to the Greek. For in it the righteousness of God is revealed from faith for faith, as it is written, “The righteous shall live by faith.’”
 
-### Book 1 includes Psalms 1-41
+Paul summarizes this gospel as being a righteousness or justification that is by faith. Every religion, every person, is geared towards addressing what they believe to be the biggest problem facing man.  
 
-This section probably was assembled around David’s lifetime.
+Islam says, “We face the problem of ignorance. We are ignorant of Allah’s will. If only people would read and follow the Koran, this ignorance would be removed.”
 
-The first two psalms are particularly worth noting for our purposes, because they show the meaning we can derive from how the psalms are ordered.  __Psalm 1__ presents us with two types of people: a righteous man, and a wicked man.
+Buddhism would posit that, “The big problem is attachment to this world. If only we can achieve detachment, then our sorrow will be removed and bliss achieved.”
 
-- Look at this righteous man in verses 1 to 3.
+Even the secular humanism would attempt to address man’s problem, for example the secularist might say, “Intolerance is the problem. If only we could affirm each other, then the problem would be removed.”
 
-| Blessed is the man
-|   who walks not in the counsel of the wicked,
-| nor stands in the way of sinners,
-|   nor sits in the seat of scoffers;
-| but his delight is in the law of the Lord,
-|   and on his law he meditates day and night.
-| He is like a tree
-|   planted by streams of water
-| that yields its fruit in its season,
-|   and its leaf does not wither.
-| In all that he does, he prospers.
+Much of Judaism in the first century argued that the problem was disobedience. What was needed was a radical commitment to the law of God, and that would make God favorable towards us.
 
-- So who is this model of righteous living, who delights in God’s law, meditating on it day and night?  Was it any of the Israelites?  Is it any of us?
+The first three chapters of Romans are crucial for understanding our greatest problem and greatest need. The problem is not ignorance. Everyone knows enough about God to know that they should honor him. Paul says, 
 
-Now look at Psalm 2.
+“For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men, who by their unrighteousness suppress the truth. For what can be known about God is plain to them, because God has shown it to them. For his invisible attributes, namely, his eternal power and divine nature, have been clearly perceived, ever since the creation of the world, in the things that have been made. So they are without excuse.” (1:18-20).
 
-- Verse 2, the kings of the earth take their stand against the Lord and his Anointed One (_Messsiah_).
-- Verse 5: he rebukes them.
-- Verse 6: He’s installed his King.
-- Verses 7-9: “The Lord said to me, ‘You are my Son; today I have begotten you.  Ask of me, and I will make the nations your heritage, and the ends of the earth your possession.’”
+We are not merely *ignorant* of the truth. We *hate* the truth that God is God, and so we suppress it.  And so the problem that we have is God himself. Our problem is that the loving, perfect, holy, all powerful God is in fact our enemy.
 
-So we have the promise of this grand messianic figure, who will be King, and Messiah and Son and who will rule over the earth. At the beginning of the Psalter, then, there is an eschatological (end-time) expectation of the Messiah’s rule over the whole earth.  Is it any accident that this Messianic figure comes just after the statement of love for God’s Word that no human could ever honestly make?  That is, no human but Jesus?
+As Paul says in verse 18, the Wrath of God is being revealed. Against whom? Against the ungodly. But not only is the wrath of God being revealed today. Paul goes on to say in 2:5, “But because of your hard and impenitent heart you are storing up wrath for yourself on the day of wrath when God’s righteous judgment will be revealed.”
 
-And then immediately after this, we have 30 Psalms by David.
+So, who are the ungodly who are under God’s wrath? Well, Paul tells us there are two kinds of people. Those who do evil and those who, as 2:7 says, “by patience in well-doing seek for glory and honor and immortality,” yet by chapter 3 Paul has shown that none of us are persistent “enough” in doing good. "None is righteous, no, not one; no one understands; no one seeks for God. All have turned aside; together they have become worthless; no one does good, not even one.” (3:10-12).
 
-### Book 2 includes Psalms 42-72
+Justification by faith alone is necessary because no one can be justified by their works! Our works will only serve to condemn us. But the great news of Romans, and of the Gospel is that Justification by Faith alone is not only necessary it is Sufficient! There is a way that we can be declared right with God that is not dependent upon our actions.
 
-- These psalms often address distress and difficulty experienced by individual people.
-- Speaking generally, these are psalms of great comfort.
+## Justification by Faith Alone is Sufficient (3:21-28)
 
-### Book 3 includes Psalms 73-89
+*...but by God’s grace may be justified through faith because of Christ’s sacrifice for us...*
 
-- Many of these psalms were probably written after the exile to Babylon, and may have been written to comfort the people in this time.
-- These psalms help us understand the apparent triumph of evil men, and how fleeting it is in light of God’s greater purposes.
+Illustrating our need for Christ over the law for justification, our pastor Mark Dever in Promises Kept uses an example from Bunyan’s Pilgrims Progress, “Early in the story, the main character, named Christian, feels the weight of his sin before God and knows he needs to be justified; he needs to be saved. Christian sees Mt. Sinai, which represents Moses’ law, and he runs over to it, hoping to climb it and remove the weight of his sin from his back. From a distance the mountain looks easy enough to climb. But as he starts to ascend, he finds it steeper than he expected. He continues, yet it gets steeper and steeper until finally the hill curves over on top of him. Christian discovers that justification cannot be found on Mt. Sinai. He cannot get to salvation by the law. So he descends from the mountain, and only then — despairing of the law — does Christian turn and find the gate that leads to salvation. And the gate is Christ.”
 
-### Book 4 includes Psalms  90-106
+This analogy from Pilgrim’s Progress represents exactly what Paul is spelling out for us in 3:21-24, he says, “__But now__ the righteousness of God,  has been manifested apart from the law, although the Law and the Prophets bear witness to it- the righteousness of God through faith in Jesus Christ for all who believe. For there is no distinction: for all have sinned and fall short of the glory of God, and are justified by his grace as a gift, through the redemption that is in Christ Jesus"
 
-- This book shows the importance of worship in the wake of the exile.
-- In general, this section stresses divine kingship and contrasts it with human kingdoms[^4].
+Paul tells us that Jesus was presented as a sacrifice of atonement (3:25-26), or, if you have an ESV, a propitiation, a sacrifice that takes away God’s wrath. As we have seen, God’s wrath is the great problem we all face. We need to be justified in order not to face God’s wrath. We all deserve to face God’s wrath eternally, yet God sent his Son, who willingly went to the cross, so that he might bear the righteous anger and punishment that people like us deserve.
 
-### The last book, Book 5, also stresses divine kingship
+There are two places where God’s righteous anger can be satisfied: in Hell, where God pays us back for what we have done; or, on the cross where Jesus willingly takes the punishment for what we have done. Because our sins are against an infinitely holy God, only Christ’s sacrifice will be sufficient, apart from Christ, our payback to God will be infinite.
 
-- This section - which includes Psalms 107 through Psalm 150 - is the longest section in the Psalms
-- Its main theme is praise to God, and it includes the well-known “songs of ascents,” Psalms 120-134 that pilgrims used as they approached the temple.
-- It includes the emotional low point of the Psalms - 137 - where the horrors of the Babylonian pillage of Jerusalem are captured in a handful of searing images.  And then builds back up, beginning with another set of the psalms of David, to finish with the burst of praise that I read a few minutes ago.  The theme of this section is summed up well by Psalm 150:6: Let everything that has breath praise the LORD.
+## Justification by faith alone did not begin in the New Testament (4)
 
-__[SLIDE #6]__
+*...and this is how God has always done things...*
 
-## IV. What Are the Different Kinds of Psalms
+After summarizing the Good News of the sufficiency of Christ to take away God’s wrath towards our sins, Paul turns next to an obvious objection of justification by faith alone. Is it really biblical? Does this tie in with the dealings of God with his people in the Old Testament? The short answer is yes it does!  This is chapter 4.
 
-There are many different views on this, but generally speaking, we can sort the psalms into ten different kinds:
+Paul says, “What then shall we say was gained by Abraham, our forefather according to the flesh? For if Abraham was justified by works, he has something to boast about, but not before God. For what does the Scripture say? ‘Abraham believed God, and it was counted to him as righteousness.’” (4:1-3).
 
-1. Psalms of lament.  Psalm 3 is an example.  These psalms are pleas for deliverance from a variety of foes.  But they’re not simply pity parties.  They are also incredible expressions of trust - often with an assurance of God’s mercy and provision.  These psalms are so useful for us because of their honesty of struggle, on the one hand - and insistence on trusting in God on the other.  Great for forming our prayers to God in times if difficulty.
-2. Psalms of thanksgiving.  Psalm 30 is a good example.  “I will give thanks to you forever!”
-3. Psalms of praise (like what I read at the beginning of class). These often begin with a Summons to praise, followed by a Reason for praise, concluding with a Recapitulation of praise.
-4. Enthronement psalms
-5. Royal psalms
-6. Psalms of Zion
-7. Psalms of wisdom: _like we looked at in Psalm 1_.
-8. Psalms of Trust
-9. Liturgies
-10. Torah Psalms – Psalm 119 (focused on the Law)
+Abraham wasn’t justified when he was circumcised or at the end of his life after he had overcome and been willing to sacrifice his son. He was justified the moment that he believed the promise of God, the moment he had faith. Thus his righteousness must have come not from himself, but in fact, from God.  Paul seizes on the chronological order of these two events as crucial for understanding the Old Testament and salvation.
 
-__[SLIDE #7]__
+This example of Abraham, and the idea that God credited him with righteousness, answers the big question of how an individual’s faith in Christ can result in justification.  The theological term for the crediting of righteousness to one who has faith is called “imputation.” It is an accounting term indicating the transfer of an amount from one account to another.  And it is through faith in the sacrifice of Christ that this transfer of Christ’s righteousness takes place.  This is not a new idea, but has been laced through the fabric of redemptive history.
 
-## V. How Do the Psalms Point Us to Jesus
+## The benefits of Justification by faith alone in Christ (5)
 
-Well, then, that’s a basic primer on the psalms.  But how do they point us to Jesus?  And once we see how the Psalms relate to Jesus, we can hopefully answer another question: how we are to read the Psalms as Christians? That’s not as simple as one might think. For instance, Psalm 18 reads, “The Lord dealt with me according to my righteousness; according to the cleanness of my hands he rewarded me.” (v. 20)  Can you read and pray this in your quite time?
+*...resulting in eternal life for all who believe...*
 
-Well, we can only find answers to these questions by looking at the best commentary available on the Old Testament, the New Testament. What did Jesus and the New Testament authors say about the Psalms?  Quite simply, they all said the Psalms were fulfilled in Jesus. Remember Jesus’ words in Luke 24:44? “These are my words that I spoke to you while I was still with you, that everything written about me in the Law of Moses and the Prophets and the Psalms must be fulfilled.” How did Jesus “fulfill” what was written about him in the Psalms?  
+So, what happens as a result of our obtaining this imputed righteousness? That brings us to chapter 5, where Paul gives consideration to the benefits we have in Christ: We are Justified  (5:1), we have peace with God (5:1), we have access to His grace which preserves us (5:2), we have hope of glory (5:2), we are able to have an attitude of rejoicing even in suffering (5:3), we experience the love of God poured out into our hearts (5:5), we are saved from God’s wrath (5:9), and we are reconciled to God (5:10).
 
-In his book _The Ancient Love Song: Finding Christ in the Old Testament_, Charles Drew titles his chapter on the Psalms “Songs of the Messiah.” And he divides the songs of the Messiah into two types:  songs about the Messiah and songs by the Messiah. And I think this division helps us know how Jesus “fulfills” the Psalms, as well as how to read them as Christians.
+Christian — these benefits of having received Christ’s imputed righteousness should fuel our praise and worship of the Lord. Have you spent time praising Him for the many benefits which have accrued to you as a result of His work on your behalf?
 
-### Psalms about the Messiah
+The availability of these benefits in Christ is not merely accessible to certain ethnic or religious groups. Paul says, “For as by the one man’s disobedience the many were made sinners, so by the one man’s obedience the many will be made righteous.” (5:19). Paul explains that in the same way that the entire human race was plunged into sin by the one trespass of one man—Adam; likewise, the second Adam (Christ) serves as the representative before God for the sins of all those who repent and trust in His work.
 
-The Psalms about the Messiah are not hard to recognize. Psalm after psalm focuses our attention this great and glorious king of Israel, so great and glorious, in fact, they must be prophetic.
+Some will contest at the point of all being made sinners because of Adam’s sin. The objection goes along these lines, “I should be responsible for my own standing before God. If I had been there, I might have chosen otherwise, it’s not fair that Adam’s mistake has impacted everyone.” Be careful if you are tempted by this logic, it both contradicts Scripture’s teaching about original sin and arrogantly assumes a level of potential personal piety that none of us would have achieved had we been in Adam’s place. But beyond the connection to Adam’s sin, consider the weight of what Paul is saying. He says, “And the gift is not like the result of that one man’s sin. For the judgment following one trespass brought condemnation, but the free gift following many trespasses brought justification.” (5:16). When you or someone you are sharing the Gospel with is tempted to believe that it is unfair that all mankind is sinful because of Adam’s sin, that condemnation and death are the lot of everyone because of that sin; show them the logic of Paul. You think it is unfair that one sin brought condemnation, how gracious is God to allow many trespasses to be covered through the act of one man, Jesus Christ!
 
-We already saw an example of one of these Psalms in Psalm 2, that tells about this coming Messiah who will be installed as king, and who will dash his enemies like pieces of pottery.  What do we do with psalms like this? Again, we want to ask what the New Testament says about them.  Speaking to the Jews in Acts 4, Peter and John say this passage is about Jesus (Acts 4:26). So does the author of Hebrews (1:5).
+The other implication of what Paul is saying in this comparison of Christ to Adam is that just like all were plunged into sin by Adam, so through Christ, the opportunity to be reconciled to God has been made available to all men. The benefits of justification are not for a privileged few, but for any who have faith alone in the Risen Christ!
 
-__Psalm 110__ proclaims this Messiah as well: “The Lord says to my Lord: ‘Sit at my right hand,
-until I make your enemies your footstool.’  The Lord sends forth from Zion your mighty scepter.  Rule in the midst of your enemies!” Jesus quotes this Psalm several times (Matt. 22:41-45, Mark 12:35-37). Peter explicitly says it points to Jesus in his Pentecost sermon (Acts 2:32-36). And the author of Hebrews does the same (Heb. 1:13; 4:14 through 5:10, 7:11-28).
+## Justification by faith alone but justifying faith is never alone (6-8)
 
-Obviously the language here goes far beyond praising the current monarch: these psalms are about the divine, forever king that was promised to David.  The Messiah.
+*... but don’t be mistaken: justification is by faith alone but never by faith that is alone.*
 
-### Psalms by the Messiah
+And that brings us to the next three chapters: 6, 7, and 8, where we see that justification is by faith alone by not by faith that is alone, to quote a common phrase.  We have been justified by faith alone.  No good works, no religious duties or rituals can accomplish this reconciliation to God. No human effort can produce salvation. In the advent of this rich teaching Paul knows what Believers may be tempted to think next. We are no longer constrained by the law in the way Israel seemed to be, so why not take our new place in Christ by faith, and then “continue in sin that grace may abound?” (6:1)
 
-But the New Testament authors also use the Psalms in another intriguing way:  they put words and experiences of the psalmists into the mouth and life of Jesus (Drew, 88). There’s a sense in which we read the Psalms as if they were by the Messiah, and here especially we find ourselves drawn into a broad range of human experience and emotion.
+Does the fact that we are declared righteous not by our own actions, but by those of Jesus give an incentive to sin? Paul answers: “By no means! How can we who died to sin still live in it? Do you not know that all of us who have been baptized into Christ Jesus were baptized into his death? We were buried therefore with him by baptism into death, in order that, just as Christ was raised from the dead by the glory of the Father, we too might walk in newness of life.” (6:2-4). Why do we want to be justified? Simply because we want God’s wrath removed from us or so we can be reconciled with Him?
 
-- Jesus clears the temple (John 2:14-17) because, quoting from Psalm 69:9, “Zeal for your house consumes me.”
-- Jesus goes to his death (John 15:25) because, quoting from Psalms 35:19 and 69:4, “They hated me without reason.
-- And describing his own heart’s turmoil (John 12:27), Jesus quotes David in Psalm 6:3-4.
-- A number of Jesus’ last words are taken from the Psalms: “My God, my God, why have you forsaken me?” (Matt 27:46; Psalm 22:1); “I thirst” (John 19:28; Psalm 69:21); “Into your hands I commit my Spirit” (Luke 23:46; Psalm 31:5).
-- But not just Jesus’ suffering, also his vindication: Peter points to Psalm 16 to explain the resurrection: "You will not abandon me to the grave, nor will you let your Holy One see decay" (Acts 2:22-36; Psalm 16:10).
-- Even Psalm 22, which Jesus quotes on the cross, is used to describe his ministry today in the church by the author of Hebrews: “Both the one who makes men holy and those who are made holy are of the same family. So Jesus is not ashamed to call them brothers.  12 He says, ‘I will declare your name to my brothers; in the presence of the congregation I will sing your praises’” (2:11-12; Psalm 22:22).
+When a husband has sinned against his wife, why does he want her wrath removed from him? Is it merely to remove the pain of someone being angry? No! It is because he loves his wife and longs to be restored to a loving relationship with her.
 
-Again and again, the psalmist’s experiences and words are being put into Jesus’ mouth and life. We could look at many more examples. Remember Calvin’s quote? The psalms are “An Anatomy of all the Parts of the Soul”? All the emotions that we feel throughout life, we can find in the Psalms - and many of them were written to be vocalized not just by us, but more directly, by Jesus.
+Thus justification by faith leads to a more righteous life – by having Jesus as our representative, we have died to sin so that we might live a new and wonderful life with Jesus Christ as Lord.
 
-__[SLIDE #8]__
+Yet the reality is, that we go on sinning. Chapter 7 & 8 face the reality of ongoing sin, but also the certain hope of final victory for all who believe. For lack of time, I’ll skip right to the good news at the end of this section, in Romans 8:29-30:
 
-## VI. How Do We Read the Psalms as Christians
+> For those whom he *foreknew* he also predestined to be conformed to the image of his Son, in order that he might be the firstborn among many brothers. And those whom he *predestined* he also *called*, and those whom he *called* he also *justified*, and those whom he *justified* he also *glorified*.
 
-There are three broad lessons I think we can take from this about how we are to read the Psalms as Christians.
+The work of God in the salvation of people is outlined in five key verbs: foreknew, predestined, called, justified, and glorified.  God *foreknows* in the sense that he knows our personalities, etc. but also in the sense that he “foreloves” his people. We are told that whom He foreknew he also *predestined*. In eternity past, God decided that some would “be conformed to the likeness of his Son” and that some would be adopted as sons “according to the purpose of his will” (Eph. 1:5).  
 
-### 1. We read them with sensitivity to the Psalm type, original Old Testament meaning, and its location in the canon
+Hence, those he predestines are also those He *calls*.  This is not the general call of the gospel that demands all to repent and believe, but the effectual call that produces faith in the believer.  And the resultant *justification* and ultimate *glorification* follow naturally.  In this chain of redemption, we see that God works without fail to redeem for himself a people.
 
-An explicitly messianic Psalm, like Psalm 2, will be read differently than a song of lament, like Psalm 3, or a confession, like Psalm 51.  We need to read each Psalm understanding its unique characteristics and its place in the larger context of Scripture[^5].
+This is great grounds for assurance of salvation. If we have come to receive forgiveness of sins – it is because Jesus has already borne our sin. Nothing can take that away, not even our sins as a Christian.
 
-### 2. We read them (selectively) as the songs of the perfect God-fearing man - the Messiah
+Chapter 7 & 8 holds out to us the most marvelous assurance of salvation. Even though we continue to fight against sin in this life. If we have come to believe in Christ, our salvation doesn’t depend upon any future unforeseen circumstances, it depends upon the promises of God.
 
-The book of Psalms is one way God’s given us to talk to him in a way that honors him while never minimizing the trials we know.  When God the Son became man and put on flesh, he entered into the realm of our temptations, trials, and miseries. Christ was “tempted in every way, just as we are, yet was without sin” (Heb. 4:15). He “offered up prayers and petitions with loud cries and tears to the one who could save him from death” (5:7). And, “he learned obedience from what he suffered” (v. 8). In the Psalms, we must listen for the voice of the Messiah, which will open up new depths of understanding of him.  Often, we can work so hard at protecting his divinity, we distance ourselves from his humanity. (Charles) Drew writes (continuing from 'Songs of the Messiah'),
+## Justification of God to man (9-11)
 
-> “When we turn to the words of the Psalter and read them as Christ’s very words, his humanity suddenly comes to life for us. We understand more fully what it means that our Lord submitted himself to the yoke of our flesh in order to redeem us. Read the words of Psalm 84:1-2—“How lovely is your dwelling place, O Lord Almighty! My soul yearns, even faints, for the courts of the Lord” - and then picture Jesus at age twelve sitting with the rabbis in his Father’s house... Hear the boy’s quiet words of rebuke to his frantic parents, ‘Why were you searching for me? Didn’t you know I had to be in my Father’s house?’ And then wonder with fresh insight at the words of Psalm 27:4, “One thing I ask of the LORD, this is what I seek: that I may dwell in the house of the LORD all the days of my life, to gaze upon the beauty of the LORD.”
+*Does this mean God’s promises failed?  By no means!  God’s promises were always intended for those to whom he gave faith.*
 
-> Jesus understands human suffering[^6]:
+And that this point, we see a shift in Paul’s argument.  Having explicated the theology of justification by faith alone in the first eight chapters, Paul now moves his focus to an objection that would surely be in the mind of Jewish Christians, if not others. The objection is this: does God really keep his promises about salvation? Didn’t he make other promises that appear not to have been kept? Didn’t he promise salvation to Israel, and yet, at the time that Paul is writing, the majority of Jews had rejected Jesus as their Messiah, and therefore had not received salvation. Has God broken his promises?
 
-> “Jesus knew the wounds of betrayal and desertion...
+Paul begins to address this objection in 9:6-7, “It is not as though the word of God has failed. For not all who are descended from Israel belong to Israel, and not all are children of Abraham because they are his offspring, but ‘Through Isaac shall your offspring be named.’”
 
-> ‘Even my close friend, whom I trusted, he who shared my bread, has lifted up his heel against me” (Ps. 38:11).
+Just because someone is a physical descendant of Abraham doesn’t mean that God has promised them salvation, says Paul. We see this right from the call of Abraham.
 
-> ‘You have taken from me my closest friends and have made me repulsive to them’ (Ps. 41:9).
+From Abraham’s sons, Isaac was chosen, Ishmael wasn’t. Isaac’s son Jacob was chosen, but not Esau.
 
-> “Jesus knew the fear and loneliness that drives us in desperation to God for help...
+Have you ever wondered why there is a two generation gap between Abraham, to whom the promises are given, and Jacob/Israel, after whom the nation is named? Paul says here that it shows categorically that being a direct physical descendant of Abraham doesn’t make someone a recipient of the promises to Abraham.
 
-> ‘See how my enemies have increase and how fiercely they hate me! Guard my life and rescue me; let me not be put to shame, for I take refuge in you’ (Ps. 25:1-2).
+The same is the case throughout Israel’s history. At the time of Elijah, the vast majority of Israel did not trust the promises. Yet, within Israel there was always a faithful remnant – a people within a people, who were the true spiritual children of Israel.
 
-> “Jesus knew, in the face of great suffering, the temptation to doubt God’s love:
+So, God’s promises are kept – he keeps them to all whom he made them to – to all who depend upon him in faith. Within this section, we see that this salvation by God’s grace brings great glory to God. Salvation isn’t a birthright, but something that God works as he chooses for His Name’s Sake!
 
-> ‘Why are you so far from saving me, so far from the words of my groaning? O my God I cry out by day, but you do not answer, by night, and am not silent’ (Ps. 22:1-2).
+A few guidelines as we consider this difficult topic:
 
-> “Jesus knew physical suffering and death...
+*First, God has the right to save some, and not save others* (9:19-21).  And in thinking about such immense issues as election, it would be wise of us to humble ourselves and remember that God’s ways are well past our finding out (11:33-36).
 
-> “I am poured out like water, and all my bones are out of joint. My heart has turned to wax; it has melted away within me.  15 My strength is dried up like a potsherd, and my tongue sticks to the roof of my mouth; you lay me in the dust of death…they have pierced my hands and my feet” (Ps. 22:14-16).
+*Second, in both condemnation and salvation God reveals both His justice and His mercy in the hardening and the pardoning of sinners.*  As Paul writes, “What if God, desiring to show his wrath and to make known his power, has endured with much patience vessels of wrath prepared for destruction, in order to make known the riches of his glory for vessels of mercy, which he has prepared beforehand for glory – even us whom he has called...” (9:22-24a) In no case is anyone given worse than they deserve.
 
-Jesus, in his birth, life, ministry, death, and resurrection, redoes redemption history. He does it all over again. Who is that righteous man in Psalm 1?  It can only be Christ, or at least, Christ fulfills it, just like he fulfilled the law by keeping the law in its entirety.  He is the ideal of righteousness in every way throughout the Psalms and throughout the Bible. And so in the Psalms he is both the Davidic, messianic figure taking dominion over the earth. But he is also the perfect people of God; he is God’s son Israel.  In the psalms, we get him as both king and servant.
+*Third, God has not changed his way of dealing with people and he continues to maintain a remnant who will believe.*  All must confess and believe – from Abraham to you and me (10:9-10) and “everyone who calls on the name of the Lord will be saved” (10:13).
 
-And this should be a tremendous source of comfort! He was tempted in every way just as we are, yet was without sin.  So we can put our trust in him.  Listen to Drew again:
+In all this, Paul’s effort to justify God is not merely an attempt to win his readers to his way of understanding God. Ultimately, Paul’s justification of God in the eyes of sinners comes down to a simple declaration of the power, the purposes, and the prerogatives of God as God. Paul does not try to persuade so much as he tries to instruct. He is not interested in placating us with a rationalization, such as, ‘Will this be okay? Do we have a compromise measure that will pass?’ No, Paul tells us what is true. This is God, and there is no other. He alone is God.
 
-> “We can derive immense comfort from reading the Psalms as the word of our Mediator. Read this way, they remind us that there exists a man who lived for us the life that we should live, but fail to do so. There lives a man who loved to be continually in the courts of the Lord - unlike me. There lives a man who knows the full range of human sufferings - better than I do. There lives a man whose sufferings were entirely undeserved - unlike mine. There lives a man who could say, “I wash my hands in innocence, and go about thy altar, O Lord, singing a song of thanksgiving,” a man with “clean hands and a pure heart,” a man who could truly protest his full righteousness and innocence. That man was not David (Psalms 32 and 51 make this plain), and it certainly is not I. It is my great Redeemer, the man Jesus, who not only died in my place, but also lived in my place.
+## Justification by faith alone produces renewed lives and relationships (12-16)
 
-> “The next time you read, ‘I was glad when they said to me, “Let us go to the house of the Lord!”’ (Psalm 122:1) and are tempted to feel horribly guilty because you would rather be playing golf than worshiping God, remember that these are first and foremost the words of the one true Worshiper who fulfilled all righteousness on your behalf. More likely than not, when you perceive the matter this way, you will want to put your bags aside and go with thanks to praise the One who has so fully saved you” (94-95).
+*Our justification will produce fruit as individuals, as citizens, and most obviously, as members of Christ’s body.*
 
-## 3. We read them for ourselves THROUGH the Mediator
+Though the major portion of this book is dedicated to theological issues, Paul finishes the book with a practical outworking of Gospel truth: individually, civically, and corporately within the church, for those justified by faith alone.
 
-As Christians, we know to only approach the throne of our holy God through Christ our mediator, and in him we can approach with confidence! In other words, as you read the Psalms, keep Christ - mentally - continually at your side, like a trailblazer who is now leading you down the trail that he blazed.
+Individually, we are to live lives in the Spirit, characterized by freedom and victory over sin.  We are no longer to submit our lives to unrighteousness, but to righteousness.  We are to be governed by the Spirit of God.  Accordingly, we are to renew our minds (12:1) and present our entire selves as sacrifices to God.  Moreover, we are to use our spiritual gifts in service to the body (12:4-8).
 
-> Goldsworthy: “We should not be seduced into thinking that the Psalms can speak from and of themselves to us. If they speak to us of God, they must speak to us of the God who has finally revealed himself in Jesus Christ. If they speak to us of sinners, they speak to us of those who are outside of Christ. If they speak of the judgment of God, they speak to us of the curse of the law that Christ suffered for his people on the cross. If they speak to us of the faithful, the godly, or the righteous, they speak to us first of Christ, and only then of those who are redeemed in Christ” (Whole Bible, 200).
+Love, joy, patience, generosity, good will toward others, and humility are to mark our lives because of the truth we have embraced in Christ Jesus (12:8-21).
+
+Our civil and social responsibility is to live in submission to the authorities established by God.  In doing so, we demonstrate our submission to God in so far as the government does not coerce us to sin against God (13:1-7).
+
+And the love of God poured so abundantly into our hearts should also flow from us to those around us.  All of the commandments, Paul says, are summed up in one rule: Love your neighbor as yourself.  “Love does no wrong to a neighbor; therefore love is the fulfilling of the law” (13:10).  
+
+In the church, we are to think of others more highly than we think of ourselves and we are to accept one another.  Apparently, the Roman church was struggling with some disputes inside the church where more mature members were “wounding” less mature members through disputes over dietary laws and special religious observances.  Paul admonishes them to receive one another without “doubtful disputations” and to use their liberty to foster peace and mutual edification (chap. 14).  
+
+Finally, Paul urges the church there to contribute to his missionary efforts (15:23-29), to pray for him (15:30-32), and to avoid false doctrines and those who cause divisions (16:17-20).
+
+Those who have been justified by faith alone demonstrate this kind of love, a respect for civil authority, love and concern for one another in the church, and individual marks of holiness and righteousness all because God in Christ has reconciled sinners to himself through the cross and through faith in His blood.
 
 ## Conclusion
 
-So being sensitive to context, we can understand the Psalms as both an amazing model of prayer for us and as a giant arrow pointing to Christ.  They draw us to true worship.  I love how Drew puts it in his book:
+So that’s the book of Romans, end to end.  What to do with this?  Well, for starters, use the book of Romans to dwell on the glory of justification by faith alone.  This isn’t just part of our faith, it is our faith.  And it deserves all the importance that Paul gives it, not only in this letter but in all of his letters.
 
-> “At the most profound theological level, worship is a spectator sport. We gather to watch the Father vindicate his Son in the preaching of the gospel and to watch the Son give praise to his Father in the praises of our lips. For the Spirit Christ indwells us, and that Spirit lives to extol the Father and the Son” (100).
+And secondly, make sure that you see how this entire book pieces together.  Are you an “uber-reformed” type who is well-versed in Paul’s doctrines of election and repropation in the middle chapters of the book but have need to rediscover in chapters 1-3 how infinitely implausible your salvation is?  Have you become intimately familiar with the impeccable chain of logic that constructs the gospel in chapters 1-8 but have rarely spent time in the tragically overlooked chapters on our corporate life together that complete this book?  If the beginning is so amazing, don’t you think the ending might be equally worthy of intense study?
 
-So let’s do just that.  And use the Psalms as God’s perfect gift to gain access to that marvelous theater of worship.
-
-__[SLIDE #9]__
-
-# Proverbs
-
-“A penny saved is a penny earned.” “Early to bed, early to rise makes a man health, wealthy, and wise.” “God helps those who help themselves.”
-
-We hear them all our lives: short, pithy sayings intended to help us live better.  We call them proverbs. If you heard that list of sayings and wondered what they all have in common, well, none of them are in the Bible! We’re going to consider most of the proverbs that are in the Bible.  The book Proverbs.  Some of these proverbs are linked thematically, and some seem to stand on own. In today’s class we’ll consider what proverbs are and aren’t, a method for interpreting this genre of Scripture, and themes that pervade the entire book. Most important we’ll see that the Book of Proverbs, unlike the short quips I just mentioned, points us to something far greater than advice for living a better life today.  They point us to the true Wisdom that is found only in Jesus Christ.
-
-## Context
-
-First, some context.  Most of this book was written by King Solomon.  But that actually has relatively little bearing on how we interpret Proverbs.  What may have more effect on interpretation is that many times in the first chapters Solomon is addressing his son.  It’s as though he’s teaching this son how to be a man.  So the Proverbs are full of the wisdom of a man who has lived life and seen much of the world and wants to pass on what he’s learned.
-
-In terms of redemptive-historical context, there isn’t much in Proverbs that moves the story line of God’s plan of salvation forward.  But the proverbs do typify the wisdom a king needs to rule over God’s people.  So they point to Christ, the great king who possesses the greatest wisdom and will rule over God’s people forever.
-
-That means that once we understand how to interpret them, we can generally apply proverbs directly to our lives.  There’s not much translation work like there is, say, for the Levitical food laws.  That’s one reason why Proverbs is so beloved by Christians today.
-
-## Outline/Overview of the Book
-
-So what is the overall theme of the book?  Frankly, there are lots of themes: the fear of the Lord, the power of the tongue, what makes a godly woman, what it means to truly live life, how to get wisdom, receiving instruction, the sovereignty of God, honesty, marriage, sex, family, work, economics, generosity, friendship, and on an on.  But above all this, there is the central theme of wisdom.  Two statements can serve as a theme for the entire book.
-
-_Wisdom is fearing the Lord, being teachable, and having skill in godly living.  The source, the means, and the goal of wisdom is the Lord._
-
-Fearing the Lord: living life in relation to who he really is.
-
-Being teachable: wisdom isn’t just about what you already know; it’s also about your humility in continuing to learn.
-
-Having skill in godly living: wisdom is knowledge in action.
-
-And where does wisdom come from?  God.  He is the source of wisdom.  God is also the means by which anyone gets wisdom.  All wisdom comes from God as a gift.  And by the goal of wisdom, I mean that the ultimate value of having wisdom is to know God better.
-
-The book of Proverbs can be divided into three main sections, as you can see in the outline on the back of your handout.  The first nine chapters are by Solomon, intended as advice for a young man.  Then the middle section are other proverbs by Solomon.  Finally, the last two chapters are proverbs by two men: Agur and Lemuel.
-
-For the rest of today’s class, we’ll look at the genre of proverbs: what they are and how we can interpret them.  And then we’ll step thematically through the book as we consider various aspects of wise living that we see here.  So first:
-
-## What are the Proverbs
-
-The Proverbs are inspired by God.  But rather than teaching absolute rules that govern the universe - like we see elsewhere in Scripture - they teach what is generally true.  They are __general principles and observations, seen in the created order by those who fear the Lord__.  Take for example __Proverb 26:27__.  It says, “Whoever digs a pit will fall into it, and a stone will come back on him who starts it rolling.”  Does that mean that every one who has ever dug a pit has fallen in, or that everyone who has ever rolled a stone has been crushed by it?  No.  I myself have dug pits and rolled stones in safety.  It’s a proverb about deceit.  The pit here is intended to harm someone.  And rolling a stone is to fudge property boundaries which were marked by stones in the ancient Near East.  So the writer’s saying that your deceit will only come back to bite you in the end.  That’s a good principle to live by and always remember isn’t it?  But it’s just not true that every lie harms the liar (at least in this life).  But generally, lying doesn’t pay.  Even in this life, over the long-haul.  Generally speaking, lies do come back to bite us in the end.  __*So the application of the proverb then is what?*__  [WAIT FOR SOMEONE TO ANSWER]  Don’t try to deceive people, because, nine times out of ten, you will only harm yourself in your deceit.  
-
-Nonetheless, some proverbs are always true because they describe eternal truth about God and the hardwired workings of the universe.  You can spot them because they make sweeping claims that simply can’t apply some times and not others.  Take for example Proverb 16:33.  “The lot is cast into the lap, but its every decision is from the Lord.”  This is proverb affirming God’s sovereignty.  And if He’s not sovereign all the time, then He’s not sovereign.  Furthermore, the proverb says that every decision is from the Lord.  That word “every” is a bit of a give away.  So this proverb functions as a universal principle rather than some sort of advice.
-
-Most of the proverbs fall into the first category though, rather than the second.  In that sense, think of the book of Proverbs as a manual for fulfilling God’s creation mandate to humankind, to exercise dominion over his earth.  And for Old Testament Israel, that mandate was fulfilled especially as a nation, so this serves even more pointedly as wisdom for God’s king.  And in general, Proverbs tells us that if we do what is right things will go well.  But that’s not always the case, is it?  Not today, and not in the Old Testament either.  You might think of the book of Job as being about the exceptions to this general rule.  Sometimes the righteous suffer.  So the Proverbs are generally true, but not always - and we have a whole book of wisdom literature to grapple with that exception.
-
-I can’t tell you how important it is to keep this in mind.  Most of the Proverbs are not always true.  You often need to put the words “in general” in front of a proverb as you apply it to your life.  And it becomes dangerous when we don’t.  Because we end up thinking God has said something is true all the time when that’s never what he intended to say.  “So you’re telling me I can’t take the Bible at its literal word?  Heretic!”  No.  The Bible is completely true.  We just need to be careful to accept it as literally true to the extent it intends to be that way.  We’d never put our foot down on the historical event of the Good Samaritan, would we.  Because clearly Jesus intended that parable as a _story_.  Not an actual event.  In the same way, we need to interpret Proverbs as they were intended to be read - as statements that are generally true.  I’ll give you a New Testament example.  In Ephesians, Paul tells us to not let the sun go down while you are still angry.  How many young couples have argued themselves silly late at night because they think Paul says it’s a sin to go to bed with a dispute unresolved?  No: it’s a proverb.  Generally, we should resolve things quickly and not let them fester.  But it’s not like Paul is telling people in Nome, Alaska that they can be angry all summer long but never in the winter.  We need to interpret Scripture according to how each genre is intended to be interpreted.
-
-__[SLIDE #10]__
-
-## How are the Proverbs interpreted
-
-So, with this basic understanding of Proverbs, let’s think further about interpretation.  When looking at Psalms we talked about how Hebrew poetry uses “parallelism.”  Where one line expands on the line before.  Well, the Proverbs are a style of poetry, so everything we said last earlier still applies.  However, they are slightly different because in Proverbs the parallels are generally contrasts.  “_The wise of heart will receive commandments, but a babbling fool will come to ruin_” (10:8).
-
-Here are a few steps to guide you in interpreting proverbs:
-
-1. First determine the __parallelisms__.  What in the second line is in parallel with “_the wise in heart_?”  [WAIT FOR SOMEONE TO ANSWER]  “_A babbling fool_.”  And what’s in parallel with the verb, “_will receive?_”  [WAIT FOR SOMEONE TO ANSWER]  “_will come._”  Finally, what’s in parallel with “_commandments_?”  [WAIT FOR SOMEONE TO ANSWER]  “_To ruin._”  This one’s an easy one because all the parallel elements are in the same order.  Of course, like all poetry, it’s not an exact science.  Slowing down and mulling over the text opens our eyes to the full meaning of a verse.  
-
-2. Next, identify any __figures of speech__.  Earlier I said that digging a pit and rolling a stone referred to deception.  Sometimes, like with rolling a stone, we might peak into a commentary or a study bible to get a sense of what a figure of speech really means.  But generally they’re as clear in English as they were in ancient Hebrew.
-
-3. Third, __summarize__ what the proverb says in your own words, based on what you’ve found so far.
-
-4. Finally, consider how to apply this to your own life.  Take Proverbs 10:8 that I just read.  It talks about receiving commandments.  Most of us have bosses. Students, you have teachers. Wives, you have husbands.  Members of Immanuel, you have elders.  Kids have parents.  And we all live under the authority of God.  In these relationships, be quick to listen and submit, and don’t argue and bicker over things.  If you obey and submit, you will prove yourself to be wise.  But again, these aren’t absolute laws.  If anyone commands you to sin, obviously you shouldn’t obey.
-
-One value of these steps is that they make you __slow down__ and consider what the Proverb says.  Slowing down like this, and really meditating over a text, will cause things to jump out like they haven’t before.
-
-Sometimes, it helps to consult a few different English translations. For example, take Proverbs 29:18  “Where there is no vision, the people perish.”  How many sermons or political speeches have referred to that King James translation to justify a new “mission statement” or “vision-casting”.  Well, most modern English translations actually translate “vision” as “revelation” and “perish” as “cast off restraint”. So, the NIV, says, “Where there is no revelation, the people cast off restraint.”  The ESV says "Where there is no prophetic vision the people cast off restraint, but blessed is he who keeps the law" Ah.  So it’s _God’s_ vision here.  Not ours.
-
-When we’re looking at more narrative oriented pieces of Scripture, these nuances in the English language can be less significant, because there’s more context for understanding the narrative.  But when we’re looking at truths encapsulated in one or two verses, understanding the meaning of particular words is critical[^7].
-
-__[SLIDE #11]__
-
-## Four Themes of Wisdom
-
-So that’s some guidelines for interpretation.  What do we find as we get into this book?  I’ll give you a framework for wisdom in the Proverbs by looking at four basic themes that we see about wise living.  First, we see:
-
-### Contrasts to wise living
-
-One of the great things about Proverbs is that it doesn’t simply describe wisdom.  It describes the opposite.  And it does that first by describing __the Fool__.  What is a fool?  Fundamentally, it is someone who despises correction and discipline (17:24).  And this shows up in what he says.  In 14:29 we read, “Whoever is slow to anger has great understanding, but he who has a hasty temper exalts folly.” A fool is quick to spout of whatever comes to his mind, without thought to the impact of his words. Consider Proverbs 17:28, “Even a fool who keeps silent is considered wise; when he closes his lips, he is deemed intelligent.” While silence cannot change the heart, the ability to hold ones’ tongue is the first step towards wisdom.  
-
-And Proverbs doesn’t simply describe the fool.  It explains the consequences of being foolish.  For one, the fool lacks judgment (chapter 7).  But beyond that: his rejection of correction from the outside, and of discipline on the inside, will ultimately lead to death.  5:23: “He dies for lack of discipline, and because of his great folly he is led astray.” _Essentially, fools are atheists. They have determined in their hearts to live as if there were no God_[^8].
-
-That’s our first contrast.  But Proverbs has a second for us as well: __the Sluggard__.  The sluggard is easy to recognize: he consistently fails to take advantage of present opportunities. He lets them slip by, making excuses for himself along the way. Commentator Derek Kidner has written that the sluggard “does not commit himself to a refusal, but deceives himself by the smallness of his surrenders. So, by inches and minutes, his opportunity slips away.”  Pretty insightful summary, don’t you think?
-
-So we have seen examples of the contrast to wise living. Thankfully, Proverbs also gives us context for living wisely: relationships.
-
-### Context for wise living
-
-To begin, Proverbs has much to say about the family, from marriage to parent/child relationships. _The wise and godly life, according to Proverbs, pays particular heed to the family._
-
-The building block of family is marriage. The book speaks to romance between husbands and wives, to faithfulness, to describing a noble wife’s character. _At the root of a loving marriage is faithfulness. Nothing should undermine the importance of faithfulness. [So]Proverbs impresses upon our minds and hearts . . . the lesson that we must never underestimate the danger of adultery.  Throughout the Old Testament, the language of marriage is used to describe God’s relationship with his people. So breaking our marital covenants with our spouses, as terrible as that is, points to the even greater transgression of unfaithfulness in our relationship with God._
-
-Proverbs also speaks heavily to the relationship of parents with children.  After all, much of it is written from a father to a son. _Proverbs is preoccupied not with the parents’ provision of the children’s practical needs but their provision of the children’s spiritual needs._ The main thing parents must do for children is to teach them. One of the ways wisdom is taught to children is through correction and discipline. So Proverbs exhorts parents to provide loving correction. “Discipline your son, for there is hope; do not set your heart on putting him to death.”(19:18).
-
-Beyond familial relationships, Proverbs speaks to another set of relationships that will have as great if not greater impact on wise living: friendships. Proverbs doesn’t assume that all friends are good friends. So, the writer warns: “Be not envious of evil men, nor desire to be with them” (24:1). _Given the time we spend with friends, it isn’t surprising that they influence us. For example, we can know that a short temper and lethargy are sinful. But when you choose friends marked by these sins, you will begin to imitate them, as if by osmosis._
-
-Good friends can influence us to wise and righteous living.  And so Proverbs describes the characteristics of a good friend. _Real friends are sensible_ (6:1-5; 17:18), _Real friends are selfless_ (3:29; 14:21; 25:17), _Real friends forgive_ (10:12b), _[They] tell the truth to [each] another_ (27:6)... _It would not be to surprising if real friendship eludes people who elude God, because real friendship begins in our relationship with God. It is as if we get the emotional venture capital in our relationship with God that’s necessary for investing trust in other relationships._ Of course, the standard Proverbs gives for true friendship is high indeed - and in that we see a portrait of the best of friends, the Lord Jesus Christ.
-
-Third theme:
-
-### Communication in Wise living
-
-Proverbs encourages us to use our words carefully. “Whoever guards his mouth preserves his life; he who opens wide his lips comes to ruin” (13:3), “Whoever restrains his words has knowledge, and he who has a cool spirit is a man of understanding” (17:27). In the use of our words, Proverbs goes beyond things like gossip, slander, or lying, and spends significant time addressing hasty words. How are you doing in the category of hasty words? Are you a quick responder? Are you quick to offer guidance, maybe even Biblical guidance and counsel? Proverbs warns us that a wise person will not answer until he has gathered sufficient information and has gained an appropriate understanding of the situation and person.  He may even stay silent if that’s what’s best. “A word fitly spoken is like apples of gold in a setting of silver.” (25:11). How many new spouses get into trouble on this point? Truth, but spoken in a way that is not fit. If you struggle to use your words in a wise manner, study what Proverbs says about this.
-
-But according to Proverbs, even more important than the words we speak are the words we hear. _Wisdom is found through listening to the words of others. Listening should be given priority over speaking. Further, the idea of “hearing” in the Bible does not only mean listening, it means listening and following up with right action._ So, we read at the very outset of the book, “Hear, my son, your father's instruction, and forsake not your mother's teaching” (1:8). Listening to and heeding wise words is the beginning of wisdom. Do you feel like you have a lot to teach but little to learn? Well, you might want to consider whether the learning attitude of the wise is exemplified in your life. Are there individuals that you refuse to learn from? A wise man will see every relationship as an opportunity for growth in wisdom.
-
-That’s our third theme.  And fourth:
-
-### The Outcome of Wisdom
-
-Proverbs teaches us much about living wisely in this present world, but it also teaches us about what it to come. Proverbs tells us that we are not static; every day we are walking either toward life or toward death. Proverbs 19:16 says, “Whoever keeps the commandment keeps his life; he who despises his ways will die.” The matters of Proverbs are matters of Life and Death. _We will all be held accountable to God. And death will come to all of us. God will summon each of us to this final accounting._
-
-So then, how should we prepare for this accounting?  What should this outcome of wisdom lead us to do?  _Shall we work really hard in order to prove ourselves righteous and wise before God? Sometimes people think that all this practical wisdom in Proverbs means it’s a book of morality and that it teaches us to save ourselves by following its requirements. But it doesn’t._ Proverbs tells us we are accountable to God for our sin.  That God will judge us for our wrong actions.  That we must confess our sins if we are to receive mercy.  And it tells us
-
-“By steadfast love and faithfulness iniquity is atoned for, and by the fear of the Lord one turns away from evil.” (16:6).
-
-__[SLIDE #12]__
-
-## Where is Jesus
-
-We can’t conclude without asking where Jesus and the gospel are in the Proverbs (back of your handout).  Well, the Proverbs point us to Christ in at least two ways.
-
-First, they __describe the beauty of Jesus__.  In __Matthew 12:42__ He said that He is greater than Solomon in all his wisdom.  No one understood this world like Jesus did.  No one took advantage of opportunity like Jesus did.  No spoke wiser words than Jesus.  No one resisted temptation like Jesus We can read the Proverbs to study the magnificence of his wisdom.
-
-But second, we can read the Proverbs to __show us our need for Jesus__.  Remember what I said a while ago about the wisdom of Proverbs being the difference between life and death?  It’s one thing to read the Ten Commandments and say “yes, I do all these things.”  Though if we really understood them - especially as expounded by Jesus - we could never say even that.  But if we could, then move to the Proverbs.  Have we lived in perfect wisdom?  Do we deserve life?  If your self-righteousness seems especially hard-hearted, you might find the Proverbs to soften it as you see the foolishness of your own living.  None of us has lived the Proverbs perfectly, none of us can live the Proverbs perfectly, and every time we read this book we should be reminded that only One person has lived this Wisdom of God. In I Corinthians 1:20-24, Paul tells us about perceived foolishness and true wisdom that Proverbs foreshadows
-
-> Where is the one who is wise? Where is the scribe? Where is the debater of this age? Has not God made foolish the wisdom of the world? For since, in the wisdom of God, the world did not know God through wisdom, it pleased God through the folly of what we preach to save those who believe. For Jews demand signs and Greeks seek wisdom, but we preach Christ crucified, a stumbling block to Jews and folly to Gentiles, but to those who are called, both Jews and Greeks, Christ the power of God and the wisdom of God.
-
-## Conclusion
-
-The Proverbs are rich and full of wisdom.  Read them slowly, and read them contemplatively.  And by all means, strive to apply them, and so understand the fear of the Lord, and find the knowledge of God.   A great pattern for your daily devotional reading is to read the Proverb that corresponds with the date, there are 31 Proverbs, so read the chapter for today. The structure of the book allows you to jump in at whatever date it is even if you’ve missed a few days.
-
-Parents, teach your children the Proverbs.  Much of the wisdom in the first 9 chapters is prefaced with “My son, hear...,” or “My son, listen...”  The book of Proverbs is sort of like a training manual for parents.  The Proverbs are a great resource for you to use to shape your kids into godly men and women.  Then they too will understand the fear of the Lord, and find the knowledge of God.  And as you teach them the Proverbs, teach them that Jesus is the true wisdom of God! 
-
-[^1]: The traditional Hebrew title for the book comes from a word that means “songs of praise” – tehillim. The title “Psalms” comes from the first Greek translation of the Old Testament, taken from the word psallo “to pluck,” a word used in context of stringed instruments.
-
-[^2]: We should recognize that those introductory titles are part of our Bible as it has come down to us and are not just surplus. However, they are not necessarily inspired. The LXX was translated c. 200 BC. Not all are present yet. However, Jesus himself seems to give these superscriptions great weight, basing one of his arguments with the Pharisees on them. Cf. Matt. 22:41-46 & Psalm 110.
-
-[^3]: Dempster, 194
-
-[^4]: Psalm 110 is a good example of this
-
-[^5]: Paraphrasing Goldsworthy, Preaching the Whole Bible as Christian Scripture, 201
-
-[^6]: This section continues to quote from Drew.
-
-[^7]: In addition to these comments about understanding and interpreting Proverbs, Mark Dever has given us seven guidelines in his overview sermon a few years ago:
-    1. Common Sense is required
-    2. They are always ultimately true
-    3. They are normally true now
-    4. They employ poetic imagery
-    5. They are partial in themselves
-    6. They are sometimes obscure
-    7. As a whole, the proverbs are religious
-
-[^8]: From here on, italicized type indicates direct quotes from Promises Made by Mark Dever.
+All these things: our sin, God’s grace, God’s choice, our life together, hang together as one divinely inspired letter to Christ’s church.  Let us work hard to piece together all of what Paul has written for us so that we might know, and do, in a way that is cognizant with such beautiful truth.  That we have been justified through the death of Jesus.
