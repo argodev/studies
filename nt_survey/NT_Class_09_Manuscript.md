@@ -13,485 +13,335 @@ fontfamily: libertine
 fontfamilyoptions: sfdefault
 ---
 
-# Isaiah
+# Philippians: The Fellowship of the Kingdom
 
-Think of a couple who’s been married for years, but whose relationship is now on the brink. Things are complicated, confusing, and difficult; there’s been years of hurt, insults, and broken promises.
+By now, we’ve explored enough of Paul’s letters that we’ve seen a general pattern.  The first section is the gospel doctrine; the second is gospel application.  And the application only makes sense — and is only possible in light of the gospel.
 
-- What once seemed to be the problem turns out as just a symptom of a deeper problem.
-- That deeper problem turns out to be one of many problems.
-- There’s been lots of sin; lots of pride; lots of damage.
-- Apologies are not believed because trust has been broken. It’s all pretty rough.
+But this morning, as we get to the book of Philippians, we’ll see a wonderful twist on this. Because the letter isn’t just centered around the gospel; it is centered around gospel humility.  And it is gospel humility that is the key to unlocking the many famous imperatives in this book.  We’ve seen so far how the gospel upends the applicative commands in Paul’s letters so far.  How does humility do the same thing?  And what would be missing if we attempted to live in the way Paul describes with an understanding of the gospel, but not an attitude of humility?  Those are the questions we’ll address as we get into Paul’s letter to the Philippians.
 
-And the path forward is to look in two directions simultaneously: backwards and forwards. The couple must look back to their marriage vows, and what they originally promised to one another. And they must look forward with hope to what reconciliation might be like.
+## Background
 
-## Introducing Old Testament Prophecy
+The early church was unanimous in its testimony that Philippians was written by the apostle Paul.  It says so right at the beginning of the letter, and the many personal references of the author fit what we know of Paul from other NT books.
 
-The analogy isn’t perfect, but reading the Old Testament prophets is a bit like jumping into such a counseling scenario mid-stream.
+We don’t know when this letter was written in large part because we don’t know from where it was written.  It is clear that Paul is in prison [Phil 1:13-14], but whether this is his Roman imprisonment, as many have thought, or another imprisonment, in Ephesus or elsewhere, is not clear.  So the best we can nail down the date of this letter is to say that it was written sometime in the mid 50s to early 60s AD.
 
-- Like a counseling situation, there are many overlapping stories which seem to get tangled together
-- Like a counseling situation, you can jump from one situation to the next quickly, as one idea calls another idea to mind
-- Like a counseling situation, moods change quickly, from hot to cold, tenderness to scorn, and back again
+Though we don’t know when he wrote his letter, we do know quite a bit about the people Paul wrote his letter to.  He wrote it to the church in the city of Philippi.  Philippi was a Roman colony at the north end of the Aegean Sea (today is Northern Greece).  It was a strategic city in Macedonia. It was a major stop on an important road called the Egnation Way, which led from Byzantium (Istanbul), all the way across modern Greece to the Adriatic Sea. [route that Paul would follow from Neapolis to Philippi to Thessalonica on his second missionary journey as you can see from map]. It was also a popular place of retirement for former Roman soldiers and officials.
 
-In fact, God uses this analogy of a broken marriage throughout the prophets to describe his relationship with Israel (Jer 2:32, Is 50:1)
+Paul founded the church in Philippi around 50 AD during his second missionary journey with Silas.  You may remember from Acts 16 that Paul had a vision of a man in Macedonia begging him to come over and help.  So Paul went to Macedonia, and stopped in Philippi. As an indication of just how Roman this city was, Paul didn’t find a synagogue there. Rather he found a place, just outside the city, where a few Jewish women gathered to pray. God used Paul to lead at least one woman to Christ, Lydia, who, as it turns out, wasn’t from Philippi.  [Acts 16:12-15]. Paul also healed a demon-possessed slave girl, which caused a riot and led to his and imprisonment. Miraculously, God freed Paul and Silas, and this led to the conversion of the Philippian jailer and his household to Christ.  Paul didn’t spend a long time in Philippi.  So, the church in Philippi was largely Gentile, born in the midst of suffering and persecution, and quickly bereft of its founder.  This was the beginning of the Philippian church.
 
-So far in this class, we’ve studied the Pentateuch, the pre-exilic histories, and the wisdom literature.  Today we enter the prophets. The prophetic books began in the middle of the eight century BC and end some 300 years later. As I mentioned earlier, the prophets begin by looking backward. They compare God’s covenant as it’s given in the Pentateuch — especially Deuteronomy — with Israel’s real history. And they say, “You’ve broken the covenant! You’ve been unfaithful — to God!”
+So, as we go through this letter, keep in mind these circumstances:  Paul is writing from prison, suffering for the sake of the Gospel, and in fact speaking of the very real possibility of imminent death.  And yet, despite this uncertain future, his letter to the church is filled with joy. Paul makes reference to joy or rejoicing many times through the letter.
 
-People often think of “prophecy” as concerned with foretelling the future. Actually, prophesy begins with _forthtelling_ — being forthright about the present in light of what was promised or warned in the past.
+Also, keep in mind that he’s writing to a group of Christians who are probably fairly new Christians; who are scared and discouraged because of Paul’s imprisonment and their own suffering and danger of persecution.
 
-But then the prophets do turn to _foretelling_. They look forward, and promise one of two things: salvation or judgment. Keep in mind, even the promises of judgment are implicit calls to repentance, which would in fact turn away God’s judgment.
+So why did Paul write this letter? Given the circumstances, we might expect that the Philippian Christians were falling prey to some sort of heresy. But in fact, that doesn’t seem to be the case. Rather, it would seem that Paul had a number of practical reasons to write this letter.
 
-One thing that can make them difficult to read is a complexity of time horizons. When they make predictions about the future, those predictions can have multiple fulfillments, such as Isaiah’s promise in Isaiah 7 that the virgin or unmarried woman would be with child. That seemed to have a short term fulfillment, with Isaiah’s then-virgin fiancé eventually giving birth (not as a virgin, of course) as well as a long-term fulfillment in Mary. The prophets have a telescopic view of history: everything looks like it’s up close.
+First, he had apparently received a gift from the Philippian church and he wanted to thank them for it. (__4:10-19; read v. 18__).  So the book of Philippians is a thank-you letter!
 
-So let me give you a few tips for interpreting Old Testament prophecy, _in your handout_:
+Second, Paul is writing to update them on his circumstances, and to encourage them for fear that they might be discouraged because of his chains and imprisonment. (__1:12-30__)  So this book is a good book to turn to for encouragement if you are struggling with anxiety, fear, or discouragement.
 
-i. Discern the immediate context – the structure and flow of the book.
-i. Discern the kind of oracle employed (judgment, salvation, or something else).
-i. Study the balance between the historical (forth-telling) and the predictive (foretelling).
-i. Determine what kind of language is being used (Poetic? Disputation? Narrative?)
-i. Place these texts in their overall place in redemptive-history. _Be careful not to make wrong associations between Israel and your nation or church._
-i. Be alert for certain recurring and sweeping themes, especially those which bear on the relationships between the testaments.
-i. Consider how the New Testament authors employ your passage, or at least your book.
+Third, not only does he want to encourage them about his condition, he also wants to reassure them about Epaphroditis, who the Philippians had sent to Paul with their gift, but who had become ill and almost died. The Philippians had heard of this and were concerned, so Paul writes to reassure them and to send Epaphroditis himself with the letter. (2:25-30).  In this context Paul talks a lot about service for the gospel, so this is a good book to turn to if you need to remind yourself why we should be more involved in service and ministry at church.
 
-[Questions]
+But the main theme of the letter is above these circumstantial elements.   Above all else, Paul writes to deliver a powerful description of the humility of Christ in going to the cross, and urges his readers to grow in Christ-like humility.  And so this is a good book to turn to for all Christians to be reminded of our basic purpose: to model Christ to others in all ways, including in how he humbled himself to serve his people. You can see the outline of the book under point IV on your handout, but the main thing we’ll be talking about is our main theme — humility, which is under point V.
 
-## Introducing Isaiah
+We’ll be criss-crossing the letter thematically, looking at what gospel humility is, and then four different ways that this letter applies it to our lives.  So first: __Gospel Humility__
 
-Let’s try a couple of these interpretative principles out as we open up the book of Isaiah.
+When Paul tries to put his finger on the heart of what it means to imitate Christ’s love, he chooses to talk about humility.  And the place where he does this most powerfully is in the well-known passage at the beginning of chapter two (2:1-11).  
 
-The first four verses of chapters 1 and 2 function like two different introductions to Isaiah, each representing a different side of the book. Let me read from chapter 1:
+> “So if there is any encouragement in Christ, any comfort from love, any participation in the Spirit, any affection and sympathy, complete my joy by being of the same mind, having the same love, being in full accord and of one mind. Do nothing from selfish ambition or conceit, but in humility count others more significant than yourselves. Let each of you look not only to his own interest, but also to the interests of others. Have this mind among yourselves, which is yours in Christ Jesus, who, though he was in the form of God, did not count equality with God a thing to be grasped, but emptied himself, by taking the form of a servant, being born in the likeness of men. And being found in human form, he humbled himself by becoming obedient to the point of death, even death on a cross. Therefore God has highly exalted him and bestowed on him the name that is above every name, so that at the name of Jesus every knee should bow, in heaven and on earth and under the earth, and every tongue confess that Jesus Christ is Lord, to the glory of God the Father.”
 
-| The vision of Isaiah the son of Amoz, which he saw concerning Judah and
-| Jerusalem in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah.
-|
-| Hear, O heavens, and give ear, O earth;
-|     for the Lord has spoken:
-| “Children have I reared and brought up,
-|     but they have rebelled against me.
-| The ox knows its owner,
-|     and the donkey its master's crib,
-| but Israel does not know,
-|     my people do not understand.”
-| Ah, sinful nation,
-|     a people laden with iniquity,
-| offspring of evildoers,
-|     children who deal corruptly!
-| They have forsaken the Lord,
-|     they have despised the Holy One of Israel,
-|     they are utterly estranged.
+To understand Christ’s humility more fully, we should remind ourselves of Jesus’ rightful majesty, and what he gave up or laid aside to become a servant.  He is “Mighty God, Everlasting Father, Prince of Peace” (Isaiah 9).  He is the one “like a son of man, coming with the clouds of heaven” who “was given authority, glory and sovereign power” so that “men of every language worshiped him.”  Whose “dominion is an everlasting dominion that will not pass away” (Daniel 7).  “He is the image of the invisible God, the firstborn over all creation.”  “For God was pleased to have all his fullness dwell in him.” (Colossians 1)  
 
-In verse 2, we have the beginning of an oracle for all the earth to hear.
+Jesus is King, heir of David, rightful ruler of Israel and all creation.  He is more than an earthly King; he dwells with the Ancient of Days and receives worship and everlasting dominion.  He is nothing less than God Himself.  And he has a mission.  He is the head of his people, the church, the Conqueror of Death, the Alpha and Omega, the firstborn and judge of creation.  Yet this same Jesus “did not count equality with God a thing to be grasped, but emptied himself, by taking the form of a servant, being born in the likeness of men. And being found in human form, he humbled himself by becoming obedient to the point of death, even death on a cross.”  He became a mortal man, a squalling infant, the son of a carpenter in an unimportant backwater province.  He went unrecognized by almost everyone, had few followers, left no writings and established no school, was unjustly accused, wrongfully arrested, and executed as a criminal.  That is the extent of Jesus’ humility.  And he humbled himself to *save us*.
 
-_What’s the context?_ Verse 1 sets it up as a vision of Isaiah concerning Judah (the southern kingdom) and Jerusalem (its capital city), and Isaiah’s words are datable to the reigns of these kings.
+How much less are we called to?  Jesus, who was and is God, became a man.  We, who are not divine, must only acknowledge our actual human failings.  Jesus was and is perfect, yet became sin for us, as Paul says in 2 Corinthians 5:21.  We, who are sinful, must only acknowledge and turn from our own sinfulness.  Our humility is ultimately a reflection of Christ’s perfect attitude.  We are called to __sacrifice our own interests__ for the sake of others, just as Christ did for us.  
 
-_What kind of oracle beings in verse 2?_ Judgment.
+This humility isn’t theoretical or merely an internal feeling.  Paul talks about obedience.  He exhorts us to do everything without complaining or arguing.  It seems that grumbling and complaining is one of the most common ways that we give away our lack of humility.  As the saying goes, everyone wants to be thought of as a servant, but no one wants to be treated like one. How do you respond when you are, or feel like you are being treated like a servant? Does your response reveal humility?
 
-_What literary form is being used?_ Poetry.
+Our humility is not only a reflection of the love that Christ has shown us, it is also a demonstration that we have understood and grasped the good news of the Gospel. Paul warns the Philippians and us from taking pride in anything other than Christ and his work on our behalf.  He call all things “rubbish,” in comparison with “the surpassing greatness of knowing Christ Jesus.”  Humility, then, is not just a moral virtue we pursue, but rather the evidence that we have met, and been loved by Christ!  So, how does this humility display itself?  First, by our patience in suffering.
 
-_Is Isaiah looking backward or forward?_ Backward. Recalling the Pentateuch, he refers to the Lord rearing Israel as children, but says they’ve forsaken him.  As in marriage counseling, God’s pain is profound.
+## A. Humility as Patient Suffering
 
-I wonder if you ever view your own rejection and rebellion against God as something that would cause God pain — that God would say of you, “He has forsaken me! She has turned her back on me.” It’s worth meditating on the profound grief your sin causes God.
+Paul tells the Philippians that one of the ways Christians show humility is by enduring suffering for the sake of Christ with patience.  
 
-Interestingly, chapter 2 feels like a different introduction:
+Paul models patient suffering in chapter 1 when he reflects on his circumstances.  He is able to see that his imprisonment “has really served to advance the gospel” because “it has become known throughout the whole imperial guard and to all the rest that my imprisonment is for Christ” and “most of the brothers, having become confident in the Lord by my imprisonment, are much more bold to speak the word without fear.” (1:12-14).  It didn’t matter that he had been wrongfully accused and unjustly imprisoned because God glorified himself and spread his gospel even through Paul’s hard circumstances. Paul is even able to rejoice at rival preachers!  “What then? Only that in every way, whether in pretense or in truth, Christ is proclaimed, and in that I rejoice.”  
 
-| The word that Isaiah the son of Amoz saw concerning Judah and Jerusalem.
-| It shall come to pass in the latter days
-|     that the mountain of the house of the Lord
-| shall be established as the highest of the mountains,
-|     and shall be lifted up above the hills;
-| and all the nations shall flow to it,
-|     and many peoples shall come, and say:
-| “Come, let us go up to the mountain of the Lord,
-|     to the house of the God of Jacob,
-| that he may teach us his ways
-|     and that we may walk in his paths.”
-| For out of Zion shall go the law,
-|     and the word of the Lord from Jerusalem.
-| He shall judge between the nations,
-|     and shall decide disputes for many peoples;
-| and they shall beat their swords into plowshares,
-|     and their spears into pruning hooks;
-| nation shall not lift up sword against nation,
-|     neither shall they learn war anymore.
+Paul goes so far as to say that he is equally happy with life or with death because with life he can continue working for the gospel and in death he is united with Christ.  “For to me, to live is Christ and to die is gain,” he says in 1:21, a key verse in Philippians and perhaps the whole Bible, which might be the most succinct summary of the meaning of life and the Christian attitude towards death in the Bible.  He goes on to say “If I am to live in the flesh, that means fruitful labor for me. Yet which I shall choose I cannot tell. I am hard pressed between the two. My desire is to depart and be with Christ, for that is far better. But to remain in the flesh is more necessary on your account.” (22-24)
 
-And let me ask the same questions:
+Think about this for a moment.  Isn’t it quite amazing?  Even amid thoughts of his own death, Paul is concerned for the Philippians.  We tend to think our suffering justifies at least a little bit of selfishness.  No sign of that here.  Paul’s chief concern, even when his own life is threatened, is the furtherance of the gospel.  In this he shows to the Philippians a model of laboring for the Gospel in difficult circumstances.  How is that?  Humility.  Paul saw himself as he ought.  As deserving of nothing, and yet gifted with the blessing of proclaiming the gospel to the Gentiles.  That is how he can rejoice in God’s purposes even as his circumstances turn bleak.
 
-_What’s the context?_ A vision about Judah and Jerusalem.
+Paul returns to his theme of patience in all circumstances at the end of the letter.  The Philippians had given him aid during his travels, and he wants to thank them but also to teach them that God cares for his people regardless of their circumstances.  “I have learned in whatever situation I am to be content. I know how to be brought low, and I know how to abound. In any and every circumstance, I have learned the secret of facing plenty and hunger, abundance and need. I can do all things through him who strengthens me.” (4:11-13).  
 
-_What kind of oracle beings in verse 2?_ Salvation and promise.
+In 1:27-30, Paul turns the attention to his readers and exhorts the Philippians to follow this model of patience in the midst of suffering and adverse circumstances.  As he says:
 
-_What literary form is being used?_ Poetry.
+> “Only let your manner of life be worthy of the gospel of Christ, so that whether I come and see you or am absent, I may hear of you that you are standing firm in one spirit, with one mind striving side by side for the faith of the gospel, and not frightened in anything by your opponents. This is a clear sign to them of their destruction, but of your salvation, and that from God. For it has been granted to you that for the sake of Christ you should not only believe in him but also suffer for his sake, engaged in the same conflict that you saw I had and now hear that I still have.”
 
-_Is Isaiah looking backward or forward?_ Forward, to a time of hope. And notice the difference. The Jerusalem mentioned in chapter one felt gritty and historical. The Jerusalem mentioned here feels almost otherworldly: “they shall beat their swords into plowshares, and their spears into pruning hooks.” The biblical scholar’s term for this is “eschatological.”  “Pertaining to the end times:” when God brings history to a close.
+Paul wants the Philippians — and, by extension, us — to be prepared to be in want, to be hungry, and to be suffering by knowing how to rely on God’s provision of strength.  How will we do that?  By “not considering ourselves to be better than we ought.”  Humility.  We deserve nothing but have received all things.  And so we rejoice.  These are helpful passages to turn to if you or a fellow believer are going through hard times.  Whether you are unemployed or lonely, struggling against temptation, or mocked for your faith, Paul’s reminders to the Philippians to rest in God’s strength and glorify God in your sufferings is a message for you.
 
-We need to ask these questions when we turn to prophesy. In fact, I’m going to structure the remainder of our time around three of the interpretive principles listed above for reading prophesy.
+## B.  Humility as Unity and Support for One Another
 
-## Principle 1: Know the Structure
+So — the humility exemplified in Christ displays itself in patience amidst suffering.  But there is another way it shows up in this letter — the third theme that we’ll look at: humility drives a church to be united and to support one another when in need.  The two virtues — unity and generosity — are flip sides of the same coin.  When Christians are united, they are moved to care for one another — and caring for one another builds and reinforces gospel unity.
 
-These two passages are a good springboard into the structure of Isaiah. The structure of a book is like a road map. It helps you know where you are at any time, which is especially helpful in the prophets. In a sense, these two passages represent the two halves of Isaiah. Throughout the book, and particularly prominent in chapters 1 to 39, are oracles of woe and judgment concerning the historical Jerusalem. Chapters 1 through 39 are spoken by an eighth century prophet and are directly aimed at his eighth century audience. He points to their particular sins. And he points to the immanent invasion of Assyria. Chapters 1 to 39 sound like the first verses of chapter 1.
+Recall again how Paul begins his famous passage on Christ’s humility (2:2):  “Complete my joy by being of the same mind, having the same love, being in full accord and of one mind.” Christians imitate Christ’s humility by putting disagreements aside and being like-minded, by having the same love, by cooperating together for the gospel and being one in spirit and purpose.  He says earlier (1:27) that he wants them to “stand firm in one spirit, with one mind striving side by side for the faith of the gospel.” Again, Paul’s presumption is that acting in a manner worthy of Christ involves unity with other believers, both in our hearts and minds (spirit) and in action (contending as one man).
 
-Beginning in chapter 40 and continuing through the end of Isaiah, something changes. Isaiah doesn’t address the present, historical Jerusalem. He’s addressing some future version of it. It sounds more like the first verses of chapter 2. At face value, he’s addressing the Jerusalem which, in a century’s time, would be in exile in Babylon. But remember what we said about multiple horizons of fulfillment? Really, Isaiah seems to describe an eschatalogical Jerusalem. The language he uses in these chapters, especially in the final ten, is much too dramatic and grandiose to be referring simply to the small band of Israelites who would return from exile in the fifth and sixth century BC — swords-into-plowshares sort of language. There’s talk of God’s glory being revealed, and God creating a new heavens and earth. It envisions life on a whole different plane. This eschatalogical Jerusalem, furthermore, is comprised of a _remnant_ of the original, but doesn’t appear to be tied to ethnic Jews but to everyone who is united to God. Though there are oracles of salvation in the first half of the book, they abound in the second half.
+Paul applies the call to unity to the Philippians’ specific circumstances.  In 2:14 he tells them to “Do all things without grumbling or disputing,” and in 4:2-3 Paul urges two women in the church who had been destructively arguing to agree with each other, and for the church to help them resolve the dispute.  To all of them he says, “Let your reasonableness be known to everyone.” (4:5).  Paul’s exhortations suggest that complaining, arguing, disagreements, unkindness and sharp words are the clearest indications of a lack of unity in the body.  
 
-That’s the biggest division in Isaiah:  the first thirty nine chapters, broadly speaking, focus on the historical Jerusalem and its failed kings, while chapters 40 to 66, broadly speaking, focus on an eschatalogical Jerusalem and another character who, at first glance, doesn’t sound like a king, but indeed is.
+Have you ever heard someone griping about church or someone in the church?  Complaining about the music, the pews, the preaching, or some relationship?  Or simply showing a lack of gentleness and using sharp words?  Paul models the right response:  he prays to God for unity and exhorts the church to intervene and work for unity.  Unity is not automatic:  it must be worked for and deliberately sought.  And the church has a definite role to play in fostering unity among its members.
 
-Across these 66 chapters a dramatic change happens to Jerusalem. In chapter 1, Isaiah says of Jerusalem, “How the faithful city has become a whore!” (1:21). By the end of the book, however, he anticipates her presentation as a “bride” in whom the Lord “will take delight” (62:4-5).  She moves from harlotry to holiness, from whore to bride.
+Paul sums this up well as he begins the passage on Christ’s humility in chapter 2 (2:3-4): “Do nothing from selfish ambition or conceit, but in humility count others more significant than yourselves. Let each of you look not only to his own interests, but also to the interests of others.” Which is exactly what the Philippians had done by looking to Paul’s interests before their own.
 
-That, in a sense, is the beginning and the end of the plot, and it shows up in the structure of the whole book. I’m sorry if I spoiled the ending for you. How does this transformation happen? That brings us to a second principle for reading the book, and one where we will find plenty of challenge for ourselves...
+And Paul concludes the letter by reemphasizing his thanks to the Philippians for their partnership in the Gospel and the way they had looked out for his interests.  He thanks them for their concern for him and for their generosity in providing financial support.  The Philippians’ recent gift was evidently only the most recent in a long-standing habit of generosity, and Paul praises them for their habit of provision, and in fact in verse 15 commends them as the only church that shared in earlier days and for sending aid “again and again when I was in need.”[^1]  Paul says that in sending gifts the Philippians “share my trouble” (4:14), suggesting that giving support and experiencing suffering are related — indeed, they are different ways of living out gospel humility.
 
-[Questions]
+## C. Humility as Dependence on God
 
-## Principle 2: Be Alert for Recurring and Sweeping Themes
+So — humility displays itself in unity and generosity.  But ultimately, we cannot imitate Christ’s humility on our own.  None of us are able to suffer patiently, work for unity, or partner for the gospel solely by the strength of our will or our character. Paul reminds the Philippians that we can make no progress without relying on God and his gracious aid for our salvation and spiritual maturity.  This is another aspect of gospel humility: 
 
-Reading through the prophets can be difficult, as we’ve said, because they jump around. But you’ll be amazed that, as you read over broad sections of a book like Isaiah, certain themes appear again and again. It’s worth noting them in the margins of your Bible. Jerusalem is one, as we’ve already seen. And there are several more that are prominent in Isaiah, and that help us understand how intense this marriage counseling is as we move from harlotry to holiness.
+recognizing our sinfulness and limitations and learning to depend on God in faith for his righteousness and his provision and support.
 
-### 1) Pride
+Paul holds himself out as an example of dependence on God.  It was not as if he was humble because he had no reason to think himself great in the world’s eyes. He had the perfect religious resume.  “If anyone else thinks he has reason for confidence in the flesh, I have more: circumcised on the eighth day, of the people of Israel of Israel, of the tribe of Benjamin, a Hebrew of Hebrews; as to the law, a Pharisee; as to zeal, a persecutor of the church; as to righteousness under the law, blameless.” (3:4-6) But Paul insists that Christians “put no confidence in the flesh,” (3:3) that is, that they do not depend on themselves for salvation or spiritual growth.  Paul recognizes that he does “not hav[e] a righteousness of my own that comes from the law.” Rather, he is pursuing a righteousness “which comes through faith in Christ — the righteousness from God that depends on faith.” (3:9)
 
-The theme of Israel’s pride — and humanity’s pride — comes up again and again in Isaiah. The Lord continually addresses it:
+This is the crux of the gospel.  The Philippians had surely already heard this — they were, after all, Christians — but Paul does not shrink from repeating it to them, because it is so important.  Christians believe that we are lost and dead in our sins, totally unable to approach God of our own accord or achieve spiritual good on our own.   We cannot find peace with God on the basis of our own spiritual resumes.  Attending church, giving a tithe, helping the poor, and reading the Bible will not fundamentally alter my spiritual state, make me righteous, or appease God’s just wrath against me.  The one single thing that can do that is Christ’s death on the cross.  That is a difficult thought because of our natural (sinful) pride.  We want to earn God’s favor by our own effort and merit.  It takes gospel humility to recognize our complete inability to effect God’s mercy towards us.  Christ’s death on the cross opens up the way for God’s mercy.  Only if we repent of our sins and trust in Christ, God will forgive our sins and grant “the righteousness that comes from God and is by faith.”
 
-- __Isaiah 2:11__  The eyes of the arrogant man will be humbled and the pride of men brought low
-- __Isaiah 5:21__  Woe to those who are wise in their own eyes and clever in their own sight
+But our humble dependence on God does not stop with our salvation.  It continues in our sanctification — that is, our growth in spiritual maturity and holiness.  And while that work most certainly involves our own effort, even that is a gift from God and requires continued humility.  
 
-And there are many more. Behind the rebellion of Israel, of the nations, of all of us sitting here this morning is our pride.
+Paul tells the Philippians in 2:12-13 “Work out your own salvation with fear and trembling, for it is God who works in you, both to will and to work for his good pleasure.” What a magnificent statement.  All in one sentence Paul captures the Philippians’ responsibility right alongside of God’s sovereignty.  He commands them to “work out your salvation with fear and trembling,” by which he means that they must work and toil for their sanctification and growth in holiness, but that ultimately “it is God who works in you,” and so they can rest in his promises and humbly give him the glory.  There is no room for pride or boasting in our spiritual growth.
 
-The nation of Israel, in many ways, is nothing more than an example of humanity. So as we read through Isaiah, and read of their despicable pride and the injustice it yields, remember that, apart from Christ, that is us.
+Finally, Paul shows that we are dependent on God not only for our salvation and sanctification, but for daily provision in all things.  He says in 4:6-7, “Do not be anxious about anything, but in everything by prayer and supplication with thanksgiving let your requests be made known to God.” In everything we should turn to God in prayer.  And God is faithful to provide for his people.  If he does not give us exactly what we think we need, he still provides what he knows we need:  “And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus.” (4:7) Once again, do you see how humility changes all of this?  We depend on God not because it’s the right thing to do, but because, having honestly taken stock of ourselves, we desperately have no other option.  We cannot help but depend on God, to his eternal glory.
 
-### 2) Trust
+## D. Humility as Modeling Christ’s Example for One Another
 
-Another massive theme in Isaiah is trust — especially chapters 7-39.
+Our last them, then: counter-intuitively, humility drives us to be an example of Christ for one another.  Paul points to himself as an example of the Christian life and exhorts the Philippians to be an example for each other.  
 
-- In chapter 7, the northern kingdom of Israel, together with the Aram, make war on the Southern kingdom of Judah. Isaiah tells King Ahaz of Judah not to make any foreign  alliances, and even promises Ahaz a sign. But Ahaz, in a show of false piety, refuses to ask for a sign (Isaiah 7:12).  And he proceeds to move toward foreign alliances, which angers God.
-- This theme is further developed through chapter 31: “Woe to those who go down to Egypt for help, who rely on horses, who trust in the multitude of their chariots and in the great strength of their horsemen, but do not look to the Holy One of Israel, or seek help from the Lord.” (v.1)
-- The question of trust reaches its climax when the city of Jerusalem, under king Hezekiah, is surrounded by the armies of Assyria, and the Assyrian field commander taunts the inhabitants of Jerusalem about their trust in Hezekiah and Israel’s God. Isaiah 36:14-20: The Assyrian army commander shouts, _"Do not let Hezekiah deceive you. He cannot deliver you!  Do not let Hezekiah persuade you to trust in the Lord when he says, 'The Lord will surely deliver us; this city will not be given into the hand of the king of Assyria.' ...Where are the gods of Hamath and Arpad? Where are the gods of Sepharvaim? Have they rescued Samaria from my hand?  Who of all the gods of these countries has been able to save his land from me? How then can the Lord deliver Jerusalem from my hand?"_
+This might sound prideful.  Normally, if someone walks around saying “I’m an example.  Everyone should be like me!” it would sound arrogant, not humble.  But that is not what Paul is saying.  He is saying “Christ is an example.  Follow him!  If you see Christ in me, follow him!”  Paul is not pointing to himself, but to Christ’s work in his life.  It takes gospel humility to hold up anything exemplary in your life that others admire and want to emulate — and credit it to someone else.  But that is what Christians do.
 
-The people have a choice: trust God, or trust someone else? Gratefully, Hezekiah and the people of Jerusalem in this episode, unlike Ahaz, do trust God, and God delivers them miraculously from the Assyrian army.
+And that is what Paul does.  He tells the Philippians to “join in imitating me, wand keep your eyes on those who walk according to the example you have in us.” (3:17) Note that the example he is talking about is not his religious resume, all his worldly accomplishments that earned him praise from me.  No, he specifically holds out his dependence on God (2:4-10), his perseverance (2:12-14), and his teaching (2:15) as models for the Philippians.  
 
-So read these chapters of Isaiah, and reflect on where you place your trust.
+Paul does not only point to himself as an example for the Philippians to follow; he urges the Philippians to be an example for others.  He tells them “Only let your manner of life be worthy of the gospel of Christ,” (1:27) as they anticipate future suffering.  He exhorts them to be “blameless and innocent,” so that they will “shine as lights in the world,” amidst a “crooked and twisted generation,” (2:15).  And he instructs them to “Let your reasonableness be known to everyone.” (4:5)  
 
-### 3) God as the Holy One
+Paul’s exhortation is similar to Jesus’ instruction to his followers that “You are the light of the world.  A city set on a hill cannot be hidden.”  The point, as Jesus says, is to “let your light shine before others, so that they may see your good works and give glory to your Father who is in heaven.” (Matthew 5:13-16).  The goal is glory to God, not to ourselves.  Being an example of Christ is part of or witness to the gospel to unbelievers and part of how we encourage one another in the church.  
 
-The first two themes have centered on people. But really, the book of Isaiah is about God. First he is the Holy One. Isaiah calls God the Holy One thirty times in this book, while he’s called this only six times in the rest of the Bible. Why does Isaiah have such a strong sense of God’s holiness? Probably because of how Isaiah’s was called to be a prophet in chapter 6:
-
-> In the year that King Uzziah died I saw the Lord sitting upon a throne, high and lifted up; and the train of his robe filled the temple.  Above him stood the seraphim. Each had six wings: with two he covered his face, and with two he covered his feet, and with two he flew.  And one called to another and said:
-> “Holy, holy, holy is the Lord of hosts;
-> the whole earth is full of his glory!”
-
-Holy means to be set apart — on a whole different plane.  And what is the culmination of God’s holiness?  Look at the second half of verse 3. It is to be known and understood by everyone.  “The whole earth is full of his glory.”  God’s driving purpose is that his greatness might be known and enjoyed by his creatures.  That’s why he does everything — even saving sinners.  Chapter 48: _“For my name's sake I defer my anger, for the sake of my praise I restrain it for you ... For my own sake, for my own sake, I do it, for how should my name be profaned?  My glory I will not give to another.”_ (v. 9, 11).
-
-So we learn that God is holy and therefore committed to his own glory.
-
-### 4) God as the Sole and Incomparable Ruler of Creation and History
-
-We also learn that he’s the sole and incomparable ruler of creation and history. This theme becomes particularly prominent beginning in chapter 40 and is highlighted in the following eight chapters.
-
-- __Isaiah 40:25__  To whom then will you compare me,  that I should be like him? says the Holy One
-- __Isaiah 45:5-6a__  I am the Lord, and there is no other, besides me there is no God; I equip you, though you do not know me, that people may know, from the rising of the sun and from the west, that there is none besides me;
-- __Isaiah 45:21b-22__ Who told this long ago? Who declared it of old? Was it not I, the Lord? And there is no other god besides me, a righteous God and a Savior; there is none besides me. “Turn to me and be saved, all the ends of the earth! For I am God, and there is no other.
-
-### 5) God as the Sole Redeemer
-
-Notice in this last passage how God being the only ruler of creation means that he alone can save.  That’s another prominent theme in Isaiah.
-
-- __Isaiah 54:5__  For your Maker is your husband, the Lord of hosts is his name; and the Holy One of Israel is your Redeemer, the God of the whole earth he is called.
-- __Isaiah 54:8__  In overflowing anger for a moment I hid my face from you, but with everlasting love I will have compassion on you,” says the Lord, your Redeemer.
-
-God refers to himself repeatedly as the Holy One _and_ the Redeemer of his people.
-
-### 6) The Remnant
-
-But who does God save? He doesn’t save everyone. Through the course of Isaiah, it becomes clear he means to save a remnant.
-
-- __Isaiah 10:20-21__  In that day the remnant of Israel and the survivors of the house of Jacob will no more lean on him who struck them, but will lean on the Lord, the Holy One of Israel, in truth.  A remnant will return, the remnant of Jacob, to the mighty God.
-- See also __Isaiah 28:5__
-
-What’s interesting, however, is that it becomes clear in chapters 56 to 59 that even the remnant still sin. They are not entirely holy before God. In fact, the true remnant appears to be a remnant of one:
-
-- In Isaiah’s call, Isaiah is told that God will bring destruction until everything is laid waste, everything, that is, except a “holy seed” (6:13). Who is that holy seed? Chapter 11 has the answer.
-- __Isaiah 11:1-2__  There shall come forth a shoot from the stump of Jesse, and a branch from his roots shall bear fruit. And the Spirit of the Lord shall rest upon him.
-
-Who is it upon whom the Spirit will rest? We know from the first half of Isaiah, particularly chapters 9 and 11, that it’s a messianic and kingly figure. Then in the second half of Isaiah, we discover a little more...
-
-### 7) The Servant
-
-God’s Spirit will specially rest on one who is a servant. We learn about him in four songs:
-
-- __Song 1: Isaiah 42:1__  Behold my servant, whom I uphold, my chosen, in whom my soul delights;  I have put my Spirit upon him; he will bring forth justice to the nations.
-- __Song 2: See Isaiah 49:1-6__
-- __Song 3: See Isaiah 50:4-9__
-- __Song 4: See Isaiah 52:13-53:12:__ Behold, my servant shall act wisely; he shall be high and lifted up, and shall be exalted. As many were astonished at you — his appearance was so marred, beyond human semblance, and his form beyond that of the children of mankind — so shall he sprinkle many nations; kings shall shut their mouths because of him...
-
-### 8) The Conqueror
-
-Remarkably, a few short chapters after Isaiah 53, we learn that God’s Spirit is going to rest not just on one who is this suffering servant, but on one who is a conqueror. Could this be the same individual? There are four conqueror songs:
-
-- First Conqueror Song:  Isaiah 59:15-21:  “The Lord saw it, and it displeased him that there was no justice. He saw that there was no man, and wondered that there was no one to intercede; then his own arm brought him salvation, and his righteousness upheld him.  He put on righteousness as a breastplate, and a helmet of salvation on his head; he put on garments of vengeance for clothing, and wrapped himself in zeal as a cloak....
-- Second Conqueror Song:  61:1-4.  “The Spirit of the Lord God is upon me, because the Lord has anointed me to bring good news to the poor” (v. 1).
-- Third Conqueror Song:  61:10 - 62:7.  The conqueror comes as a bridegroom to take his bride away, to rescue her.
-- Fourth Conqueror Song:  63:1-6.  There is a horrible image of judgment. When the Conqueror comes, he is coming to judge.
-
-### 9) New Jerusalem — the Bride
-
-With this servant/conqueror in place, the final chapters of Isaiah focus especially on the new Jerusalem as the new bride, which is also representative of the new heavens and earth.
-
-> __Isaiah 62:3-5__  You shall be a crown of beauty in the hand of the Lord, and a royal diadem in the hand of your God.   You shall no more be termed Forsaken, and your land shall no more be termed Desolate... for the Lord delights in you... as the bridegroom rejoices over the bride, so shall your God rejoice over you.
-
-What a glorious vision! Think back to the fact that we’re talking about the Holy One. We’re talking about the sole and incomparable ruler of creation and redemption. And it’s this one who says to his people, “I take delight in you. I rejoice over you.” Christian, he says this to you! Isaiah says that all true Christians are a crown of splendor in his hand! Is this because we of anything we’ve done? Or anything we intrinsically are — good looks, intelligence, career success, keeping our nose clean? No, you have to go back to the servant song of chapter 53 to understand how God could say these things.  It’s through Jesus.
-
-## Principle 3: Consider the NT's Authoritative Interpretation
-
-But finally, we need to read all of Isaiah in light of the New Testament. That’s the third principle for reading Isaiah. Read it all in light of the New Testament’s authoritative interpretation. I’ve mentioned the fact that Old Testament prophesy often yields several horizons of fulfillment. Sure enough, the New Testament literally reverberates with the sounds of Isaiah, and says all that its great and glorious promises are fulfilled in the person and work of Jesus Christ. 
-
-### 1) Jesus is the Promised Messiah
-
-Looking back to the Messiah promised in Isaiah 9 and 11, Paul says,  “And again Isaiah says,  “The root of Jesse will come, even he who arises to rule the Gentiles; in him will the Gentiles hope.” (Rom. 15:12) and he applies this to Jesus.
-
-### 2) Jesus is the Holy One
-
-Referring to chapter 6 of Isaiah, the apostle John says, “Isaiah said this because he saw Jesus' glory and spoke about him.” Did you catch that? Who is the Holy God that Isaiah saw on a throne, high and lifted up, the train of his robe filling the temple? According to John, it was Jesus!
-
-### 3) Jesus is the Promised Redeemer
-
-All four Gospels quote from the opening words of Isaiah 40 to say that Jesus is God who has come to give salvific comfort to his people.  So in Luke 3, John the Baptist — who has come to prepare the people for Jesus — explains his role in the words of Isaiah.  “A voice of one calling in the desert, ‘Prepare the way for the Lord, make straight paths for him... And all mankind will see God’s salvation.’”
-
-### 4) Jesus as Suffering Servant
-
-The New Testament authors knew that Jesus was the suffering servant. To explain Jesus’ ministry, Matthew writes, “This was to fulfill what was spoken through the prophet Isaiah: ‘Here is my servant whom I have chosen, the one I love, in whom I delight’” (Matthew 12:17-18)[^1].
-
-### 5) Jesus as Conqueror
-
-And the New Testament also shows that Jesus is the Conqueror: so in the first conqueror song, we read that this promised one will repay each “according to what they have done” (59:18).  And so who is it who says in
-
-Revelation 22:12, “Behold, I am coming soon!  My reward is with me, and I will give to everyone according to what he has done”?  It’s Jesus!
-
-And I could go on.  The New Testament is full of examples showing that Isaiah is pointing to Jesus.
-
-[Questions]
+Note also how Jesus and Paul describe the Christian life.  Stars and cities don’t have to be special to be shiny:  it is in their nature to be so.  It doesn’t take a special kind of Christian to be an example of Christ.  Every Christian is one.  Christians’ holy lives should stand out and be a noticeable contrast to the world.  If you — or, better, your friends and family — examine your life and do not find examples of Christ’s attitude of love and humility, then you may want to carefully examine your heart and your faith.
 
 ## Conclusion
 
-I’ve said that we want the New Testament’s interpretation of Isaiah. But the same thing is true in the opposite direction. To understand the New Testament, and who Jesus is, you need to read the Old Testament, and the prophecies of Isaiah in particular. What does it mean that Jesus is holy, and a redeemer, and a conqueror? What is sin? Who is God? What’s he like? Is he really in control? Isaiah gives us pre-interpretation, you might say. It gives meaning to the words used by the New Testament. Do you want to understand and know and love Jesus? Then read, study, and learn Isaiah.  I hope I’ve given you a taste of that this morning.
+That is a good place for us to end.  Philippians is a beautiful and uplifting depiction of Christ’s humility.  And it is an exhortation for followers of Christ to emulate his humility.  We are called to follow Christ in suffering, in service and unity with one another, in practicing dependence on God, and in modeling Christ to the world.  Let’s pray.
 
-# Transition
+# I Timothy: Servant Leaders of the Kingdom
 
-Does history have meaning?  If it does, how do we learn its lessons?  Last week we walked through almost 400 years of history in the books of 1-2 Kings.  Well, the prophets are God’s commentary on that history.  Both the history they’ve seen, and the history that’s yet to come.  So as we continue on with the prophets over the next several weeks, our goal will be to unravel the meaning of the history we looked at in Kings.
+How often do we really remember the losers?  So you’ve heard of Lincoln (not John Breckenridge) and FDR but not Alf Landon, Wendell Willkie, or Thomas Dewey.  So what makes a memorable, successful leader?
 
-In fact, go ahead and turn to the table of contents in your Bible.  Do you see where Isaiah is?  From Isaiah on, are what are called The Prophets.  The Prophets, in turn are divided into two sections.  The Major Prophets consist of Isaiah through Daniel.  And the Minor Prophets, which we begin studying now, are Hosea through Malachi.  Now, the reason some are called “Major” and some are called “Minor” is simply because the Major Prophets are, generally speaking, longer and the Minor ones shorter.  So short, in fact, that the Minor Prophets were traditionally placed together on a single scroll, referred to as one book, called “The Book of the Twelve.”
+But short of winning an election, or more importantly, going platinum, or a Superbowl ring, what is the measure of such success in our day-to-day lives, our careers, our relationships and networks? In America today, the metric is pretty standard:  How productive are you compared to others, how much attention have you received in comparison to others, how do you stand out from the next person, from each other?
 
-And this Book of Twelve is striking in its unity of message, despite the diversity of its human authors.  You might say that its general thrust is sin, judgment, mercy, and hope. These prophets decry the sin and hypocrisy that we saw in both the Northern and Southern kingdoms. They pronounce present-day and future judgment. They declare mercy to God’s people through the promises of a coming King like David. And they proclaim hope for a future restoration where the redeemed will dwell forever in God’s presence.
+Well if that is how our culture measures the world, how does the Bible stack up against that?  More so, how does the Bible view a successful leader - what does he look like, how does he win? Well, let's take a look this morning at a book, in the Bible, that talks about leadership in the church.  
 
-# Hosea
+## Background:  Pastoral Epistles
 
-Hosea 1:1 tells us the author: Hosea. And it gives us the time period too: Hosea preached from the reign of Uzziah up to the time of Hezekiah, kings in the South.  This makes Hosea a contemporary of Isaiah.  But unlike Isaiah, who ministered in the southern kingdom of Judah, Hosea prophesied to the northern kingdom of Israel.  It was a time of great economic prosperity, and in their comfort the people were worshiping foreign gods instead of Yahweh.
+The Apostle Paul wrote three letters to men named *Timothy and Titus*, two of his most *trusted disciples* who later became leaders in churches themselves.  These letters [ 1 and 2 Timothy & Titus] became known as the “pastoral epistles” because they clearly frame many of the important aspects of good pastoring, as well as good, -- we could say, pasturing -- that is, how we as members of a church ought to live and thrive under church leaders.[^2]
+
+Paul probably wrote I Timothy while under house arrest in Rome; Titus during the short period of freedom between his two imprisonments in Rome, maybe on his fourth missionary journey – to Spain; and II Timothy from a Roman dungeon very shortly before Paul was put to death. So if Paul died around 67 AD, I Timothy was probably written around five years before he died - *about, the early sixties AD*.
+
+## Background: The Church
+
+The longest of the three pastoral letters, 1 Timothy, is the most thorough treatment of Paul's instruction. Paul had left Timothy to minister to the growing church in Ephesus.  And there was good reason: As Paul writes in chapter 1 vs. 3:
+
+> As I urged you when I was going to Macedonia, remain at Ephesus so that you may charge certain persons not to teach any different doctrine”
+
+A major problem in the Ephesian church was a heresy that combined a kind-of decadent Judaism (I Timothy 1:3-7) and false asceticism (I Timothy 4:1-5).
+
+This wasn't really a surprise: Elsewhere in the New Testament, Paul warned the Ephesians to be or guard -- he called these false teachers "savage wolves" who will "come in among you and will not spare the flock."  (Acts 20:29)
+
+So, Timothy would have been an interesting person to leave behind to shepherd this situation.  At first glance, he doesn't seem to have the manliness to stand up to these "savage wolves." We know that he was relatively young (about 40 at the time of this letter). It seems he may have been known for being timid. Paul had to remind him that:
+
+> God gave us a spirit not of fear but of power and love and self-control.  (II Timothy 1:7)
+
+He was from Lystra and not from Ephesus.  He was probably converted during Paul’s first missionary journey and joined Paul in his second journey. (See Acts 16:1-5)  His mother was Jewish and his father Greek — so he would have had difficulty fitting well into either group.
+
+But we also know that Timothy had a Godly heritage and had been mentored by Paul:  Both his mother and grandmother were Christians, and had apparently been saved prior to Timothy’s conversion (2 Timothy 1:5).  He enjoyed a close relationship with the Apostle Paul, who referred to him as his “son” in the faith  (see 1 Tim 1:2; 2:1; Phil 2:19-22).  And the feeling seems to have been mutual (2 Tim 1:4).  He traveled extensively with Paul and is mentioned in the introductions of many Pauline letters. (See I and II Thessalonians)
+
+With that is Background, we now turn to the main theme of the Book:
+
+Paul is preparing guidelines for how people should act as members of God’s household.  
+
+1 Timothy 3:14-15 seems to capture pretty well the purpose of the book.  “*I hope to come to you soon, but I am writing these things to you so that, if I delay, you may know how one ought to behave in the household of God, which is the church of the living God”*
+
+The goal: leading God’s people to conduct themselves as a church in a way that brings honor to God.  It’s interesting: a book that on one hand seems to be a manual of church structure and authority is filled with teaching about the gospel and about how Christians should live their lives.  It seems that teaching about church offices (pastors and deacons) actually is there as part of a larger theme of how the gospel should evidence itself in our lives — especially in contrast to the false teaching Timothy was confronting.  So a good thematic statement for this book would be something like this:
+
+> “The true gospel, in contrast to false teaching, will always lead to godliness in its hearers, and that godliness is especially visible in our relationships within the local church.”
+
+So, with that in mind, how does Paul communicate that message?
 
 ## Outline
 
-In terms of an outline, the book of Hosea treats that central problem of idolatry in two main sections.  The first three chapters are an extended parable based on the life of Hosea, using his marriage to an unfaithful wife to depict Israel’s relationship with Yahweh.  And this image of a broken marriage provides a basic framework that runs through the entire Book of Twelve.  Israel has abandoned her covenant with the Lord, but, like a faithful husband, God will pursue his true people and restore them.
+You can see an outline of the book on the back of your handout.  Paul begins the book commanding Timothy to confront false teachers with the truth of the gospel.  But he does this in the most personal of terms. We see Paul declaring the gospel through the lens of his own life:   Read with me in 1:13, 15:
 
-Then, chapters 4-14 contain messages from God to his people.  With all the poetry and apocalyptic language, it’s very easy to get lost.  But if you look at the outline in your handout, you’ll see that there’s a basic threefold cycle which is repeated three times.  _Accusation_ in which God recites and condemns the sin of the people; _judgment_ threatened if they do not repent; and finally _mercy_ as God redeems his covenant people.  Knowing where you are in these cycles can help you keep track of the overall direction of Hosea’s prophecy
+> “Though formerly I was a blasphemer, persecutor, and insolent opponent. But I received mercy because I had acted ignorantly in unbelief” Jumping to verse 15: “The saying is trustworthy and deserving of full acceptance, that Christ Jesus came into the world to save sinners, of whom I am the foremost.”
 
-How can we best summarize the themes of Hosea?  Because the gripping story of Hosea’s marriage provides the analogy for the people’s broken relationship with God, it’s most helpful to see Hosea as a prophecy about love.  Love – even God’s love – is greatly misunderstood today.  So let’s take a look at Hosea and see what it teaches us about what God’s love is really like.
+The gospel.  Pure and simple.  In contrast to false teaching.
 
-## Hosea 1-3: Love’s Strange Story
+Chapter 2, then, begins a new section that moves us all the way to that summary statement I quoted earlier on HOW to CONDUCT ourselves in God’s household.  Confronting false teaching isn’t merely about saying true things, but about ordering our life together as a church as God commands.  So chapters 2 and 3 focus on gospel-shaped living within the church.  It talks about everything from who should teach to who should lead to how we should pray.
 
-First, Love’s Strange Story.  Hosea’s book begins with two pictures that capture the message of all the minor prophets.  
+And then in chapter 4, we return again to the topic of false teaching.  And we repeat the pattern we saw in chapters 1 - 3.
 
-First picture: Hosea’s marriage to an unfaithful woman named Gomer.  Let’s read Hos. 1:2-3.
+A short message on false teaching (now it's a kind of Holy Asceticism), followed by an example of the gospel in the life of a believer.  This time the model is Timothy, and how he was trained up. With that comes another "trustworthy saying that deserves full acceptance"  Look there in Chapter 4:9:  
 
-> When the Lord first spoke through Hosea, the Lord said to Hosea, “Go, take to yourself a wife of whoredom and have children of whoredom, for the land commits great whoredom by forsaking the Lord.” So he went and took Gomer, the daughter of Diblaim, and she conceived and bore him a son.
+> "The saying is trustworthy and deserving of full acceptance. For to this end we toil and strive, because we have our hope set on the living God, who is the Savior of all people, especially of those who believe.”[^3]
 
-The rebellion of God’s people is so awful, and so personal, that Hosea describes it with the gut-wrenching image of adultery.  And not just any kind of adultery; Hosea uses the image of prostitution.  Take a look at 3:1-3.
+And the pattern we saw in the first half the book continues.    Having seen the gospel through the lens of Timothy’s life, we now come across another very practical section about how we ought to love and treat the different kinds of people in the church - all the way to the beginning of chapter 6: Sections on young and old members, widows and families, more on elders and elders in training, and slaves and masters. And finally we finish the book, through the end of chapter 6, returning once again to the false teachers and how Timothy and other church leaders should behave in contrast.
 
-> And the Lord said to me, “Go again, love a woman who is loved by another man and is an adulteress, even as the Lord loves the children of Israel, though they turn to other gods and love cakes of raisins.” So I bought her for fifteen shekels of silver and a homer and a lethech of barley. And I said to her, “You must dwell as mine for many days. You shall not play the whore, or belong to another man; so will I also be to you.”
+So overall, a pattern repeated twice.  False teachers.  The gospel.  How we should order our lives in light of that gospel.  And then a conclusion contrasting false teachers with their gospel-focused counterparts.  In all, a celebration of the gospel and how Timothy can lead these people to live it out.
 
-Even though Gomer committed adultery, Hosea took her back.  And that symbolizes what’s been going on for generations on a much greater scale.  Israel has been playing the whore by worshiping other gods, but Yahweh has always been a faithful and forgiving husband.
+Now, then, with that outline, let's go a little deeper into the teaching.  But first, any questions so far on the background, the authorship, Timothy, Paul, the "heretics" the Ephesian church?
 
-But things are about to change: it’s time for Israel to endure the curses promised in the end of Deuteronomy for covenant-breakers.  The fact that God is loving does not mean he turns a blind eye to evil (2:13).  
+First Point.  What should a leader teach?  The gospel.
 
-Will this punishment last forever?  God would be just if it did.  But the amazing message of Hosea is that God will show mercy to his people.  Take a look at 2:19-20:
+## What Should a Leader Teach?
 
-> And I will betroth you to me forever. I will betroth you to me in righteousness and in justice, in steadfast love and in mercy.  I will betroth you to me in faithfulness. And you shall know the Lord.
+Paul urges Timothy to "fight the good fight" by opposing false teachers and by devoting himself to being an example and faithful teacher of the Gospel.  Now, to understand this we need to see a little of what its opposition looked like.  
 
-God’s love is not earned.  It’s not given because the subjects of his love are so lovely!  No, our role in this story is not that of Hosea, the loving, virtuous husband.  Nope: we play the part of Gomer.  And that means that for us, the fact that God’s love is free and gracious is good news indeed.
+(1) Take a look at 1:3-7:
 
-But there’s another picture here to portray God’s love, and it’s the names that God gives to Hosea’s children.  In 1:4, Hosea’s first child is named Jezreel – the name of the site of a terrible massacre that aroused God’s anger against Israel.  In 1:6, Gomer’s daughter is named Lo-Ruhamah, which means “not loved.”  In 1:9, Gomer’s second son is named “Lo-Ammi,” which means “not my people.”  The names get progressively more ominous, and the tragic point here is that God is casting Israel off as his people!  Judgment is coming.  But what will happen after that?  Hos. 2:23 gives the answer:  “I will have mercy on No Mercy, and I will say to Not My People, ‘You are my people’; and he shall say, ‘You are my God.’”  Now, these fearful names are reversed!  God shows mercy!   Who will receive this mercy?  Hos. 3:5 says it will be those who return and seek the Lord their God and David their king.  
+> "As I urged you when I was going to Macedonia, remain at Ephesus so that you may charge certain persons not to teach any different doctrine, nor to devote themselves to myths and endless genealogies, which promote speculations rather than the stewardship from God that is by faith. The aim of our charge is love that issues from a pure heart and a good conscience and a sincere faith. Certain persons, by swerving from these, have wandered away into vain discussion, desiring to be teachers of the law, without understanding either what they are saying or the things that which they make confident assertions.”
 
-This is a fascinating verse, because as we saw earlier, Hosea prophesied during the reigns of kings who lived two hundred years after David!  So when he says that the people will seek “David” their king, he’s talking about the king who would rule God’s people in the last days – the king who would be a son of David – the Messiah.  When Paul explains in Romans 9:25 that Gentiles as well as Jews would know salvation through Christ, he quotes that verse from Hosea 2:23 about the reversal of the children’s names.  He’s showing us that not only Israel, but all of us, are estranged from God because of our sins, and we all deserve to be cast away from His presence for eternity.  But Jesus Christ has endured the wrath of God and brings us back into fellowship with him.
+So, We can see something of what these false teachers were teaching:  “myths and endless genealogies.” Paul says that these teachers promoted controversies, not the true loving work of God.  These self-appointed teachers might be confident talkers, says Paul, but they do not know what they are talking about.  They want to be teachers of the law: they want to teach people how to earn righteousness.  Here is the real problem:  You see, the news we have to declare as Christians is not fundamentally about our law-keeping or our obedience. The glad tidings we bear are not for ‘good people.’  See what Paul says in verses 8-10:
 
-And that’s love’s strange story – a story about a faithful God who calls his people back to him in spite of their unfaithfulness.  And as we survey the rest of Hosea, we’ll see how God’s love would be displayed to such a wayward bride.  And there are three specific themes that run through these chapters.
+> "Now we know that the law is good, if one uses It lawfully, understanding this, that the law is not laid down for the just but for the lawless and disobedient, for the ungodly and sinners, for the unholy and profane, for those who strike their fathers and mothers, for murderers, the sexually immoral, men who practice homosexuality, enslavers, liars, perjurers, and whatever else is contrary to sound doctrine”
 
-## Hosea 4-14
+Paul's Point is that the gospel is for these kinds of people, and the law is what shows us that we really are like this (I Tim 1:9b-10a)…[this] is a message that brings joy to people like father-killers and slave-traders! Apparently, some teachers in Ephesus did not know that. They thought church was for good, respectable, law-abiding people!
 
-### Love’s Challenge: Sin
+Now, what is the simple and clear antidote to false teaching? The Gospel. Remember that passage I read earlier.  ” Turn to 1:15-16. After urging Timothy to resist the false teachers in Ephesus, he gives that example from his own life. *“The saying is trustworthy and deserving of full acceptance, that Christ Jesus came into the world to save sinners, of whom I am the foremost. But I received mercy for this reason, that in me, as the foremost, Jesus Christ might display his perfect patience as an example to those who were to believe in him for eternal life.”*
 
-First in this section, we see love’s challenge–the sin of God’s people that challenged his love.  Look at Hos. 4:1-2:
+If the Gospel could penetrate Paul’s dark heart and make him an apostle of Jesus Christ, then we have the same hope ourselves.  If I am a sinner, what hope do I have if someone teaches me the law? But if I am a sinner, and someone teaches me grace, I have real hope.  ...This message is worthy of being believed and proclaimed over and above the message of the false teachers.
 
-| Hear the word of the Lord, O children of Israel,
-|     for the Lord has a controversy with the inhabitants of the land.
-| There is no faithfulness or steadfast love,
-|     and no knowledge of God in the land;
-| there is swearing, lying, murder, stealing, and committing adultery;
-|     they break all bounds, and bloodshed follows bloodshed.
+(2) The theme of false teaching versus the Gospel appears again, as I mentioned before, in chapter 4 as Paul instructs Timothy on the character and motivations of the false teachers he is to face.  Motivated by deceiving spirits, they seek to control others by forbidding people to marry and commanding them to abstain from certain foods (4:1-5).
 
-Why such evil?  Hosea’s diagnosis: false worship.  Idolatry.  That’s the reason for the image of adultery in the early chapters of the book, because idolatry is in fact spiritual adultery.
+Important lesson here for us in the church: Do not fail to notice how attractive false teaching is.  In chapter 1, we learn the false teaching is about the law, and the law is about right and wrong.  In chapter 4, we find that the false teaching included asceticism and self-denial for spiritual reasons…What was so bad about this teaching?
 
-Hosea doesn’t use tame terms to talk about sin.  We shouldn’t either.  Disobeying the Lord is not the minor, inconsequential thing we often pretend it is.  It’s adultery!  And because of the people’s sin, God says that he will judge them.  And much of these chapters are filled with that judgment.
+Well, whenever we do things in order to earn God’s favor, we have accepted false teaching. We have fundamentally misunderstood Christianity to be about us and our character when it is fundamentally about God and his character. You see how the gospel is woven into even this book of practical living and instruction. The Gospel exposes God’s gracious love and mercy to us in Christ, NOT our upstanding characters.”
 
-### Love’s Recovery: Repentance
+SO: Timothy's job, according to Paul, is to point out these teachers and their teachings to the faithful and avoid their foolishness, combating falsehood by teaching the true gospel of grace.
 
-So if sin is the problem and it brings judgment, what’s the way back to God?  Hosea says that love’s recovery is found through repentance.  Where we find mercy amid judgment.  Listen to this appeal the prophet gives in 6:1-2:
+Yet, all this will be moot if Timothy does not follow Paul’s admonition at the close of chapter 4:16:  this is key for a leader in the church.
 
-| “Come, let us return to the Lord;
-|     for he has torn us, that he may heal us;
-|     he has struck us down, and he will bind us up.
-| After two days he will revive us;
-|     on the third day he will raise us up,
-|     that we may live before him.
+> “Keep a close watch on yourself and on the teaching. Persist in this, for by so doing you will save both yourself and your hearers.”
 
-Sin looks good in the dark; repentance brings sin into the light.  We should expose our sin, through reflection, prayer, confession, and meditating on God’s Word.
+How often have you heard, let's not worry about doctrine? Aren't personal relationships and love more important than beliefs?  
 
-Well, as it turns out, Israel ignored this call to repentance.  So as Hosea prophesied, the Assyrian Empire did come and destroy the kingdom of Israel a few years after his ministry.  But the promises and hope offered in this book still stood.  So much of these promises of mercy described unfolded in the time of Christ, and some will yet unfold.  That’s our ultimate hope: restoration.
+Paul is telling Timothy that for the man who would lead and teach God’s people, he must be marked by right living and right doctrine. And Timothy and every other teacher of God’s Gospel must first be those who have been transformed by that Gospel, lest they shift into teaching the Gospel as something others need, but which they have somehow mastered and overcome. While this message is aimed at Timothy as a pastor, these qualities are to be pursued by every Christian.
 
-### Love’s Hope: Restoration
+- So, how closely are you guarding your life and doctrine?
+- Are you regularly reading God’s word?
+- Seeking accountability with other Christians?
+- Are you tempted to think people are too concerned about theology? Or are you tempted to be more concerned with right belief but apart from a changed life?
 
-Sin challenges love. Repentance offers recovery. And then the hope of those God loves is restoration – restoration of perfect fellowship with God.  As we saw earlier, Hosea redeemed his wife.  He literally bought her back from her prostitution in Chapter 3.  God would do the same thing.  Though he would judge all of Israel’s sin, he would purchase life for his true people and bring them back into his presence.  That’s what’s described in Hos. 13:14:  “Shall I ransom them from the power of Sheol?  Shall I redeem them from Death? O Death, where are your plagues?  O Sheol, where is your sting?  Compassion is hidden from my eyes.”  Do those words sound familiar?  Paul quotes this exact verse in 1 Corinthians 15 where he explains the resurrection of Jesus!  Because Jesus rose from the grave, death has no power over those who believe.  God pays the ransom that his own justice requires by sacrificing his Son – and we who believe go free.
+That pretty much summarizes the false teaching/gospel sections of chapters 1 and 4.  But with that foundation in place, how ought the life of the church reflect this gospel?  It all comes down to a question of authority.  And that’s chapters 2 and 3.
 
-And not only does Hosea tell us of the new life God grants to those he loves, he tells how those believers are restored to God’s loving presence.  God did banish sinful Israel from the land.  But through Hosea, God proclaimed hope for all who would listen.  11:8-11:
+## Who should have authority?
 
-| My heart recoils within me;
-|     my compassion grows warm and tender.
-| I will not execute my burning anger;
-|     I will not again destroy Ephraim;
-| for I am God and not a man,
-|     the Holy One in your midst,
-|     and I will not come in wrath.
-| They shall go after the Lord;
-|     he will roar like a lion;
-| when he roars,
-|     his children shall come trembling from the west;
-| they shall come trembling like birds from Egypt,
-|     and like doves from the land of Assyria,
-|     and I will return them to their homes, declares the Lord.
+### Government
 
-What an amazing picture!  What hope!  Who says the prophets are just about judgment!  Of course, as we said earlier, the Old Covenant kingdom of Israel was destroyed – but God’s true people were not.  When Paul quotes from Hosea’s restoration passages in Romans, he’s showing us that Hosea’s prophecy would not be fulfilled some Middle-Eastern nation-state to come, but in the church.
+At the beginning of chapter 2, Paul tells Timothy, *“I urge that supplications, prayer, intercessions, and thanksgivings be made for all people, for kings and all who are in high positions, that we may lead a peaceful and quiet life, godly and dignified in every way.”* (2:1-2). Government authority over Christians is a small part of this book, but it's good to see that Paul is not setting up some rogue religious system that rejects established authority.  Paul and the writers of the New Testament see authorities established and designed by God as a good thing, even while they recognize that those authorities may from time to time abuse their power.  Paul tells Timothy that authority is important and that good authority is a blessing — between Christians and the state, between men and women in the church, and between church leaders and church members. Biblical authority is a blessing for those who are beneath it.
 
-And if you struggle to believe Hosea’s message of hope, remember it is Jesus who secures the restoration this book foretells.  As we conclude our look at this book, consider what Hosea says in 11:1.  “When Israel was a child, I loved him, and out of Egypt I called my son.”  God is talking about how he rescued Israel from slavery, even calling the nation his son because the relationship was that close.  But Israel challenged God’s love with their sin.  They would not recover God’s love through repentance like Hosea said.  Where could hope for such sinners come from?  It would come from a better Son – a perfect Israel.  That’s why, in a surprising demonstration of God’s inspiration of scripture, Matthew quotes that same verse from Hosea in 2:15.  “This was to fulfill what the Lord had spoken by the prophet, ‘Out of Egypt I called my son.’” Now, what’s the fulfillment?  Not Israel as God’s son but the infant Jesus, as he returns from hiding in Egypt.  In other words, Jesus is the son that Israel never was.  He perfectly kept God’s covenant like Israel never did.  He was the true Israelite.  And though all of us have committed spiritual adultery against God, Jesus never did.  He was always faithful.  So it is through the death and resurrection of Jesus that we are reconciled to God.  And that is a fitting place for us to close this overview of Hosea as a book about love.
+### Women
 
-[TAKE QUESTIONS]
+Paul then moves on to defines the role of women in the church in 2:9-15.  And at the center of this teaching we read in verses 11-12: *“Let a woman learn quietly with all submissiveness. I do not permit a woman to teach or to exercise authority over a man; rather she is to remain quiet.”* (2:11-12). Of course, with regard to the role of women in the church, our modern sensibilities often cause us to miss the positive force of Paul's message regarding the role of women.  Many strongly react against Paul because they see his teaching as essentially oppressive of women, chauvinistic.  However, Paul is stating in these verses that women *should* be instructed in the faith.  In Roman, Greek and Jewish culture, which would have shaped the Ephesian church, women had few rights and were rarely, if ever, included in religious instruction Paul's inclusion of them as fellow students is a socially radical command.  
 
-# Joel
+But having said that, Paul also gives us the proper bounds of that inclusion. Women are not to exercise authority over men or publicly teach men in the gathering of the church.  And he grounds this prohibition not in cultural norms of the day, but in the very structure of relationships established at the beginning with Adam and Eve. Paul says, Chapter 2:13-14: *“For Adam was formed first, then Eve; and Adam was not deceived, but the woman was deceived and became a transgressor.”*[^4]
 
-Well the theme of restoration, where we concluded Hosea, is an appropriate segue to the next section of the Book of Twelve: the book of Joel.  Flip the page from Hosea and you should be there.  The author is the prophet Joel.  Hosea introduced the notion of restoration at the last days – and now Joel spells out more of what the end of history will look like.  He describes, to use his term, the coming “Day of the Lord.”  Unlike Hosea, Joel prophesies to the Southern Kingdom, Judah.  We don’t know exactly when Joel prophesied.[^2]  But we do know that Joel’s prophecy was motivated by a historical occurrence – a plague of locusts.  Like Hosea used marriage as a symbol of something greater, Joel points to this locust invasion as a foretaste of the God’s judgment if God’s people don’t repent.  If the people do not surrender to God, the “Day of the Lord” will be a day of horror; if they return to the Lord, it will be a day of celebration and blessing.
+The intent of gender roles in creation was supposed to be that Adam would lovingly lead Eve to obey the Lord. Instead Adam sinfully follows Eve to disobey the Lord. Eve herself had listened to the serpent -- the creature over which she was designed to exercise dominion together with her husband. 
 
-As you can see, the book of Joel contains just three chapters, and it falls into a fairly neat outline, which you can see on your handout.  Let’s dive in and walk through the book.
+In the created order, the serpent submits to woman, who submits to man, who submits to God. Instead the order has been turned on its head. Man submits to woman, who submits to the serpent, and God is out of the picture.  Paul’s point is that within the New Creation, within the church, the creation order is to be restored. The picture which has been flipped, is to be righted again.
 
-## Joel 1:1-2:11 – The Call to Lament
+Once: again there is to be self-sacrificial leadership, obeying the ordinances of God that were abandoned at the Fall.  Culturally, we often make an assumption that if people are to be considered equal in value, they must be equal in authority, or, at the very least, have equal opportunity to reach positions of authority.  This is not a biblical idea. Value and Authority are not equated.
 
-Let’s look at Joel 1:2-4.
+[EXAMPLE: The perfectly divine Father eternally exercises loving authority over the perfectly divine Son. The Son, being in very nature God doesn’t see equality with God as something to be exploited, but makes himself nothing, taking the very nature of a servant, and becomes obedient to his Father to the point of death. He came, not to do his own will, but the will of the Father who sent him.]
 
-| Hear this, you elders;
-|     give ear, all inhabitants of the land!
-| Has such a thing happened in your days,
-|     or in the days of your fathers?
-| Tell your children of it,
-|     and let your children tell their children,
-|     and their children to another generation.
-| What the cutting locust left,
-|     the swarming locust has eaten.
-| What the swarming locust left,
-|     the hopping locust has eaten,
-| and what the hopping locust left,
-|     the destroying locust has eaten.
+So, within the church, men and women are of equal significance but are different in role.   Contrary to some claims, the apostle's arguments appear to be normative for all time and not culturally conditioned or bound.  If you want  to take a closer look at these issues, track down Mark’s recent sermon on “Gender Roles in the Church,” or pick up *Recovering Biblical Manhood and Womanhood* on the bookstall.
 
-Can you imagine a plague of this magnitude?  Utter destruction.  How should the people respond to such ominous news?  Look at 1:14-15.
+A few additional notes on this point, on how to apply it:
 
-| Consecrate a fast;
-|     call a solemn assembly.
-| Gather the elders
-|     and all the inhabitants of the land
-| to the house of the Lord your God,
-|     and cry out to the Lord.
-| Alas for the day!
-| For the day of the Lord is near,
-|     and as destruction from the Almighty it comes.
+Women, don’t assume that these verses mean you cannot give spiritual encouragement to men. It is right for brothers and sisters to encourage and admonish one another, and that ministry of mutual edification should not be undervalued.
 
-There is purpose to this plague!  It’s a divinely-ordained foretaste of a coming day – a day that will be far worse.  This verse is the first of many references to the Day of the Lord in the Minor Prophets.  These prophets are concerned that the people will experience disasters like this but still won’t turn in repentance.  And so they need to be warned that if they continue to ignore God, they will experience his even fuller wrath.  We too need to hear this warning, a reminder that one day God will bring an end to history and as it says in Romans 14:12, “So then each of us will give an account of himself to God.”  If the plague of locusts is like a mighty army, as Joel describes it early in chapter 2, then God’s army is far more powerful – as it says in 2:11.
+As a congregational church, the members of the church have the final say, and in a church that is made up of ever so slightly more women than men, the congregational guard against this church altering the Gospel is very much the responsibility of women.  Single women: invite an elder or two to visit to your small group.
 
-| “The Lord utters his voice
-|     before his army,
-| for his camp is exceedingly great;
-|     he who executes his word is powerful.
-| For the day of the Lord is great and very awesome;
-|     who can endure it?”
+Men who would be pastors, ask questions of women in your church about how you can teach them better; don’t assume that you know the answers.  These are just a few ways we can apply Paul’s teaching about men and women in the church.
 
-## Joel 2:12-17 – The Call to Repent
+## Elder and Deacon
 
-That verse should make us ask: is there any hope to escape this end-of-time-judgment, this cataclysmic catastrophe?  Yes.  Look ahead to our next section, Joel 2:12-13.
+Chapter 3:1
 
-| “Yet even now,” declares the Lord,
-|     “return to me with all your heart,
-| with fasting, with weeping, and with mourning;
-|      and rend your hearts and not your garments.”
-| Return to the Lord your God,
-|     for he is gracious and merciful,
-| slow to anger, and abounding in steadfast love;
-|     and he relents over disaster.
+> The saying is trustworthy: if anyone aspires to the office of overseer, he desires a noble task. Therefore an overseer must be above reproach, the husband of one wife, sober-minded, self-controlled, respectable, hospitable, able to teach, not a drunkard, not violent but gentle, not quarrelsome, not a lover of money. He must manage his own household well, with all dignity keeping his children submissive, for if someone does not know how to manage his own household, how will he care for God’s church? He must not be a recent convert, or he may become puffed up with conceit and fall into the condemnation of the devil. Moreover, he must be well thought of by outsiders, so that he may not fall into disgrace, into a snare of the devil.
 
-Like in Hosea, the way of escape is repentance.  The people must _turn back_ to Yahweh.  Isn’t that interesting - Yahweh is the One bringing the destruction, yet He is also their only hope for safety!  Who else can protect from God’s wrath but God?
+> Deacons likewise must be dignified, not double-tongued, not addicted to much wine, not greedy for dishonest gain. They must hold the mystery of the faith with a clear conscience. And let them also be tested first; then let them serve as deacons if they prove themselves blameless. Their wives likewise must be dignified, not slanderers, but sober-minded, faithful in all things. Let deacons each be the husband of one wife, managing their children and their own households well. For those who serve well as deacons gain a good standing for themselves and also great confidence in the faith that is in Christ Jesus.
 
-Once again, we’re reminded of the gospel.  Only Jesus Christ, who is fully man _and_ fully God, can possibly save sinners from God’s own wrath.  As 2:11 asked, “Who can endure” the day of the Lord?  The answer to that question is Jesus!  Only Jesus, God incarnate, could possibly endure the wrath of God and emerge a Savior.
+Two things to notice about these lists.  
 
-## Joel 2:18-32 – The Promise of Salvation
+__First__ is just how unremarkable they are!  With the clear exception of “able to teach,” all of these qualifications ought to typify every Christian.  They make a great spiritual checklist for discerning whether you’re living as a Christian should live in this world.  Our leaders are not held to anything more than the rest of us!
 
-This call to repentance is now followed in our next section by a promise of salvation for God’s people.  And it’s interesting to see the Lord’s motive for why He saves them.  Look at verse 17, the last verse in the previous section:   “Why should they say among the peoples, ‘Where is their God?’”
+__Second__, Paul’s emphasis is on the character of the leader and not the tasks of the leader.  We’re told little about the duties of the elder in the early church – most of what we find comes from the three interchangeable titles that they are given:
 
-Joel’s concern is that the nations will mock the Lord if His people are destroyed.  Therefore, to vindicate His own glory, look at the very __next verse__.  “Then the Lord became jealous for his land and had pity on his people.”  Out of concern for His name, fame, and global reputation, Yahweh saves His people.  Then the whole universe will know beyond a shadow of a doubt that he is their God, as it says in verse 27.  “You shall know that I am in the midst of Israel, and that I am the Lord your God and there is no none else,  Andy my people shall never again be put to shame.”
+- __Elders__, showing that they are to exercise leadership;
+- __pastors__, showing that they are to feed and protect the flock; and
+- __overseers__, showing that they are those who must give an account for the lives of those under their care.
 
-So what we’re seeing is that for those who rebel against Yahweh, the Day of the Lord is a time of reckoning and justice.  But for those who repent and gladly submit to Him, it is a day of mercy and joy.  
+But here in  chapter three we’re given a list of things pertaining to the character, rather than their job.  Authority should not be given to people who are self-focused but to people who reflect the good and kind authority of God, thereby blessing those they serve by leading.
 
-But is the Day of the Lord merely about the end of the world?  Let’s look at another passage together: Joel 2:28-31.
+So, What are some ways that you love and care for others? 
+Are you building God-glorifying relationships with those in the congregation who are different from you? 
+Do you love ideas more than people? 
+Do you cultivate a mastery of theology or a relationship with God? 
+Do you pursue being right more than being godly?
 
-| “And it shall come to pass afterward,
-|     that I will pour out my Spirit on all flesh;
-| your sons and your daughters shall prophesy,
-|     your old men shall dream dreams,
-|     and your young men shall see visions.
-| Even on the male and female servants
-|     in those days I will pour out my Spirit.
-|
-| “And I will show wonders in the heavens and on the earth, blood and fire and columns of smoke. The sun shall be turned to darkness, and the moon to blood, before the great and awesome day of the Lord comes.
+Well, with that study of authority in place, let’s skip ahead to the next section of the letter where Paul applies the gospel to our relationships as a church.  Chapter 5.
 
-The Day of the Lord.  But way more complex than just the end of time.  In fact, this passage is a good example of how many prophecies in the Old Testament are fulfilled in multiple stages.  Two things are described together, and no mention is made of the time interval between them.  As one author writes, “It’s like looking at a mountain range from a great distance, where all the mountains appear to stand next to one another. But drive into the mountains and you find that great distances separate them.”[^3]
+Any Questions: Government, women in the church, elders and deacons in the church?
 
-The first “mountain” here is the outpouring of God’s Holy Spirit.  That would be the day of Pentecost, when Peter quoted these verses to explain what was happening around him.  But the second mountain is one that we haven’t reached yet – it won’t be fulfilled until Jesus returns.  That’s the description of the un-creation of the cosmos depicted here in the wonders in the heavens, the darkening of the sun, the turning of the moon to blood.  The Day of the Lord is both _already_ and _not yet_. It already dawned in Jesus’ first visit to earth, but it awaits completion when He comes again.  
+## How Should we shape our lives in the church?
 
-## Joel 3:1-16 – The Promise of Justice
+We've seen how the gospel shapes the way authority looks.  Now, how does the Gospel shape the rest of our lives?  We, whether we are pastors or congregants, men or women, rich or poor, can be taught from this - we'll go through these groups in brief.
 
-And that’s what we see as Joel concludes in chapter 3, with the prophet looking ahead to that final fulfillment of the Day of the Lord.  First, God promises to show justice to the nations that had sinfully tormented his people.  Look at 3:1-2.  
+Paul begins with Timothy himself.  Paul tells Timothy how he ought to relate to and serve the various groups in the church.  
 
-> “For behold, in those days and at that time, when I restore the fortunes of Judah and Jerusalem, I will gather all the nations and bring them down to the Valley of Jehoshaphat. And I will enter into judgment with them there, on behalf of my people and my heritage Israel...”
+### 1. Timothy’s relationships across different age groups and gender (5:1-2)
 
-## Joel 3:17-21 – The Promise of Restoration
+Timothy is instructed to treat older men and women as parents and younger men and women as siblings; and he is to especially keep himself pure with regard to relationships with younger women.
 
-Then, the closing verses of the book promise how Judah will be restored in its relationship with Yahweh, never again to taste the bitter fruits of sin again.  We see in 3:18 an amazing picture of the new heavens and the new earth where God will dwell with his people.
+The second thing we see is a section about the church’s care for widows.  Even here we should witness implications of sound gospel teaching.
 
-| “in that day
-| the mountains shall drip sweet wine,
-|     and the hills shall flow with milk,
-| and all the streambeds of Judah
-|     shall flow with water;
-| and a fountain shall come forth from the house of the Lord
-|     and water the Valley of Shittim.”
+### 2. Widows, Proper and Improper (5:3-16)
 
-This language shows us that the whole universe will be renewed.  This should remind us that the Bible doesn’t merely describe salvation negatively, as deliverance from God’s punishment.  It primarily describes it _positively_, as God restoring his people to himself and his own presence.
+Apparently the early church kept a list of widows it was to care for.  However, some in this church were being added to the list even though they had family on which they should have been able to depend.  So in verse 8, Paul instructs: “If anyone does not provide for his relatives, and especially for members of his household, he has denied the faith and is worse than an unbeliever.”  
 
-[TAKE QUESTIONS]
+### 3. Elders (5:17-20)
+
+Elders are to be respected and accorded honor, especially those who invest the most time and effort in teaching the word.  Here, we also get a NT basis for paying ministers in the word.  They are not to be lightly accused, but they are to be disciplined when wrong and to submit to such disciplined before the congregation as an example to others.  
+
+### 4. Slaves (6:1-2)
+
+We’ll return to this in our discussion of Titus. While we don’t want to think of New World Slavery when we think of slavery in the New Testament, the New Testament encourages a love that releases slaves – wait for the class on Colossians & Philemon to hear more about that.
+
+And then, as I said earlier, Paul concludes his letter with another contrast between false teachers and the true gospel through the rest of chapter six.  Here, he looks at treatment and love of money as a primary indicator of where a teacher’s motivation is, and thus, whether what he is teaching is good or bad.   It seems there was a connection between those who saw godliness as a means to financial gain (6:6) and those who had an *“constant friction among people who are depraved in mind and deprived of the truth”* (there in 6:5)
+
+So let us be careful with how we and our leaders treat money, and how we structure the finances in our church here on Capitol Hill to promote good teaching. (6:4).  
 
 ## Conclusion
 
-Well, we’ve completed the first two books of the Minor Prophets today.  I hope you’ve seen that whether the illustration is a broken marriage or an invasion of locusts, the burden of this Book of Twelve does two things.  It reveals the Lord’s indignation against sin.  And it proclaims mercy and restoration to those who, as Joel says “rend their hearts” in repentance (2:13) and put their faith in the perfect Son of God foretold in Hosea 11:1.  By trusting in Jesus, we come to know God as a gracious husband and we look forward with hope and faith to the Day of the Lord when we will be with him forever.
+So what do we take away from all this?  A few final observations.
 
-[PRAY]
+Paul gives us a nice little summary of his own letter right at the end:  chapter 6:20-21 – *"O Timothy, guard the deposit entrusted to you. Avoid the irreverent babble and contradictions of what is falsely called ‘Knowledge,’ for by professing it some have swerved from the faith.”*
+ 
+__First__, the need to always be on our guard against those who preach a false gospel.  Even here at CHBC, this is something we must watch out for.
 
-[^1]: See also Acts 8:35
+__But second__, the essential connection between teaching the true gospel and structuring our lives — as a church and as individuals — in a Godly way.  The broader evangelical culture suggests that there is little connection between our view of authority (say, of men in the church) and our ability to guard the truth of the gospel.  I think that the whole of 1 Timothy would take great issue with that.  Gospel truth promotes right living, but right living also is important in preserving the gospel, and as far as Paul is concerned, a right view of authority and leadership should be foremost in mind as we consider right living.  Guard your life and your doctrine.
 
-[^2]: Scholars disagree on the dating of Joel – see Intro to OT (Longman & Dillard) pp. 411-414.  Its inclusion right before Amos is probably a thematic, rather than chronological link.  No need to mention this during the class unless someone has a very specific question on it.
+__And lastly__, the connection between false teaching and false living.  READ Chapter 5:24-25:  *"The sins of some people are conspicuous, going before them to judgment, but the sins of others appear later.”*
 
-[^3]: Dever, _Message of the Old Testament_, 710.
+All sin, even secret sins, and disguised sins of false doctrine and unbelief, do have a way of eventually worming their way into the open.  In God’s providence, these things prove almost impossible to hide.  That should give us great confidence as we recognize leaders in this church.
+
+We should thank the Lord for His kindness in leaving us with good leaders, never taking for granted good leaders who hold fast to the Gospel, who seek the good of Christ’s bride and not their own personal enrichment. But the main thing we should take away from I Timothy is not how great it is to have good leadership, but how great is the Gospel which shapes those leaders and those they would lead.  Praise God for the wonders of his gospel!
+
+[^1]: 2 Cor. 8 – Paul commends the “Macedonian churches” who gave out of their extreme poverty.
+
+[^2]: The title “pastoral epistles” was coined, we think, by D.N. Berdot in 1703.  Carson, Moo, Morris, An Introduction to the New Testament. Zondervan Publishing House, Grand Rapids, Michigan: 1992.
+
+[^3]: Note “especially” here and in 5:17 is best read as “that is.”
+
+[^4]: Be prepared to explain why women do not wear head-coverings in our church even though that command also references the creation as justification.  In short: the commands both apply in all time since they are grounded in creation.  But we must apply them in culturally-appropriate ways.  Head coverings mean nothing to us, while other signs of marital commitment (such as the wearing of wedding rings) do.
