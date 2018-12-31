@@ -13,486 +13,280 @@ fontfamily: libertine
 fontfamilyoptions: sfdefault
 ---
 
-# Introduction
+# Ephesians
 
-Good morning, and welcome to the Old Testament overview class! This morning, we’ll look at three books that address the problem of evil in this world: Nahum, Habakkuk, and Zephaniah. Hmm. You say. The problem of evil. In the minor prophets? I always thought about the minor prophets as basically being about judgment. Well... you’re right. And in addition I think you’ll be surprised at some of the treasures we uncover this morning. The problem of evil — why bad things happen to good people — is at the heart of the human condition. If God is good and God is sovereign over everything, why do bad things happen? What purposes could God possibly have in all of this? The book of Job is probably the Bible’s best-known discourse on this topic; the middle chapters of Romans also come to mind. But here at the end of the Old Testament we see this theme again.
+“Grace to you and peace from God our Father and the Lord Jesus Christ.”  That’s how Paul opens this letter.  Grace, *charis*[^1], the traditional Greek greeting.  And Peace, *shalom*, the Jewish greeting.
 
-So let’s stop here for a moment and get some biblical context. __*What is the Bible’s answer to the problem of evil?*__ I know that’s not the typical question you’re greeted with at 9:30 in the morning. But that’s no reason not to begin this class by thinking hard. __*What is the Bible’s answer to the problem of evil?*__
+And in 6:23-24, he ends the letter in the same way: Shalom *and* Charis.  Peace and  Grace. Jewish and Greek.  In so many ways, that is the message of Ephesians.  It is a letter about the grace of God that brings peace between man and God and between brothers in Christ.  If you’ll turn with me to Eph. 2:14, we’ll see this central message:  Paul writes, “For he himself is our peace, who has made us both one and has broken down in his flesh the dividing wall of hostility by abolishing the law of commandments expressed in ordinances, that he might create in himself one new man in place of the two, so making peace” God’s grace reconciles those who believe to God – on the vertical axis, we were God’s enemies, but now we’re his friends, adopted as sons;  and God’s grace unites Jew and Gentile, so that all who trust him are no longer strangers, but, on the horizontal axis – we’re fellow citizens in God’s kingdom, brothers in Christ.
 
-To summarize how these prophets answer that question:
+The message of Ephesians can be summed up in one simple sentence: “You have received supernatural grace for the glory of God, therefore, live in supernatural *unity* to the glory of God.”  Grace and peace.
 
-- Nahum assures us that God will judge. Personally, powerfully, devastatingly. Now, of course, that provides the textbook answer that we’re looking for. The problem of evil is ultimately resolved in God’s judgment. But personally, if you’re a sinner like me, it is monstrously unsettling.
-- And so we move to Habakkuk. A dialog between the prophet and God about why God seems unwilling to judge evildoers. And when Habakkuk finds out the answer (that God will soon judge through an even more wicked people than his own), Habakkuk’s horror in what seems to be even greater evil. The answer of Habakkuk? Trust. “The righteous shall live by his faith[^1].” As we saw in the book of Job, God doesn’t explain his actions to our satisfaction. But he’s revealed enough about his character and his purposes that we can trust him. So if Nahum proclaims that God is judge, Habakkuk is a call to trust. There’s no explanation of the problem of evil in the Bible, but a strong call to faith.
-- And yet in God’s mercy this is not the end of the story. Because then we come to Zephaniah. Which begins severely with a prophetic destruction of the entire world. And yet ends with a glorious description of God’s final answer to the problem of evil. Because, after all, the real problem of evil isn’t why bad things happen to good people — but why good things happen to bad people. Because we are all evil. So with Habakkuk calling to present-day trust, Zephaniah points ahead to future change and redemption. God himself makes his evil people good and brings them home to dwell with him forever.
+## Purpose and Background
 
-So that’s a quick overview of what we’ll see. Nahum: God will judge. Habakkuk: we have the evidence we need to trust his mysterious purposes. Zephaniah: and we have the hope that one day the problem of evil itself will be undone as God turns his people to himself.
+So, let’s turn to purpose and background.  Why was this letter written?  Unlike most of Paul’s letters, it wasn’t written in response to specific problems in the church.  Instead, it is a very general book.  So general, in fact, that it’s not even clear that it was written specifically to the Ephesians at all.  In most of your Bibles, you’ll see a footnote next to the word “Ephesus” in 1:1 saying that in many early manuscripts, the letter just says, “To the saints (blank), the faithful in Christ Jesus.”  It appears that this may have been intended for broad distribution, written to all the churches Paul had seen planted in the region of Ephesus during his nearly three-year stay there.  
 
-So with that as context, let’s dive into our first book, Nahum.
+Paul likely wrote this around 60AD, roughly 6 years after he left Ephesus, while he is in prison in Rome (3:1, 4:1).  And it is a glorious work of the Holy Spirit.  Let’s dive in.
 
-# Nahum
+## Overview
 
-Nahum prophesied in the in the late 7th century BC, after the Northern Kingdom was conquered by Assyria but before the Southern Kingdom was taken into exile 100 years later. So it’s a time of real fear, as the Assyrians continue to threaten the South. Judah’s problems with Assyria go a long way back. Assyria has long repressed them, and had a reputation for brutality.[^2] It’s been at least 125 years since they repented in response to Jonah’s preaching. But since then they’ve returned to violence, and are knocking on Judah’s door. All the while, there are rumors of another great foreign power growing further off to the east, Babylon. Based on events described in chapter 3, we can date this book after the fall of Thebes in Egypt but before the fall of Assyria. That likely puts it at the height of Assyria’s power.
+Though we won’t step through it, you’ll see an outline of the book on the back of your handout.  The main thing to notice there is how the book cleanly divides into two major sections -- Chapters 1-3, where unity is described as an accomplished fact, and then chapter 4-6 where unity is seen as a goal.  In other words, the book first describes unity as having been already accomplished by God, and then calls Christians to work toward the unity that’s not yet complete.  
 
-The burning theological question in the people’s minds, of course, is what I laid out a few minute ago. Where is God in all this? Didn’t he promise to take care of his people? Yet their cousins up North have been completely destroyed and their fate looks no better. Who’s really in charge?
+By way of an overview, I’ll summarize the book using the little paragraphs that you see under each point throughout your handout.  
 
-## Theme
+Praise be to God who predestined us to be redeemed through Christ, to the praise of his glorious grace.  I thank God and pray for you, that you may know Christ better as well as his power for you.  (1:1-23)  As for us, we were all dead in our sins, but God graciously made us alive to show his grace and end our boasting.  (2:1-10)  As a result, God has destroyed the barrier between Jew and Gentile, building them into a single building in which God lives by his Spirit. (2:11-22)  This is the mystery of which I am a herald and for which I am now suffering.  (3:1-13)  So I pray for the supernatural power of God to work this kind of unity in you.  (3:14-21)
 
-We can summarize Nahum’s prophecy like this:
+Stopping there, let’s take a deeper look at the first half of the book, chapters 1-3.  (Turn back to the first page of your handout, where you’ll see our first point,)
 
-_Yahweh is still jealous for His people, and ferociously protective of them, therefore they need not fear, for Yahweh is stronger than their enemies, and will strip them of their strength._
+## Chapter 1: God Elects
 
-Nahum is as close to a book about hell on earth as you can imagine. As you read through it, you’ll see what I mean. This is about God righteously, enthusiastically, demonstrably destroying his enemies, who have abused his cherished people.
+> Praise be to God who predestined us to be redeemed through Christ, to the praise of his glorious grace.  I thank God and pray for you, that you may know Christ better as well as his power for you.[^2]
 
-We’ll take this book in three parts. God’s intent to protect his people, 1:2-11. God’s threatening judgment against their enemies, 1:12-2:12. And that judgment enacted. 2:13 through the end of the book. It’ll be helpful for you to follow along in your Bible as I guide us through these passages.
+In the first part of chapter 1, Paul praises God for electing sinners to redemption in Christ.  Let’s look at 1:3-4:  “Blessed be the God and Father of our Lord Jesus Christ, who has blessed us in Christ with every spiritual blessing in the heavenly places, even as he chose us in him before the foundation of the world, that we should be holy and blameless before him.” And then Paul goes on to describe these spiritual blessings:  God predestined us, he adopted us as sons, he redeemed us through the blood of Christ, he forgave our sins, he revealed his will to us.  As Paul understands it, our salvation is no “right” that we possess by virtue of birth, goodness, or anything else.  Election is a privilege we are given because of God’s great overflowing love for us in Christ.  The language here is stunning.  The riches of God’s grace that he “lavished” on us with all wisdom and understanding.  Salvation is nothing that we deserved, but entirely God’s choosing.  Some people think that the idea of God electing or choosing people to know him – even before the creation of the world, as it says in verse 3 – is inherently impersonal, transacational.  But this letter says that couldn’t be further from the truth:  verses 4 and 5, “in love he predestined us for adoption as sons through Jesus Christ!”  It’s because of God’s great love that sinners like us could become part of his family.  
 
-## Yahweh will protect his people
+If that is how much God has loved us, we should long to know God more.  The creator of the universe has loved his people from all eternity – why would we not want to seek him?!   And that’s exactly what Paul prays for these Christians in 1:15-23.  1:16:  “I do not cease to give thanks for you, remembering you in my prayers, that the God of our Lord Jesus Christ, the Father of glory, may give you the Spirit of wisdom and of revelation in the knowledge of him” May that be the longing and prayer of our hearts too.  Moving on to our next section,
 
-Look at chapter 1, verses 1 through 5. As I read these verses listen for the way Nahum reinforces his message by drawing on imagery from the Exodus. At that time, the greatest display of God’s protection for his people ever.[^3]
+## 2:1-10: Election Based Purely on Grace
 
-| An oracle concerning Nineveh. The book of the vision of Nahum of Elkosh.
-| The Lord is a jealous and avenging God;
-|     the Lord is avenging and wrathful;
-| the Lord takes vengeance on his adversaries
-|     and keeps wrath for his enemies.
-| The Lord is slow to anger and great in power,
-|     and the Lord will by no means clear the guilty.
-| His way is in whirlwind and storm,
-|  and the clouds are the dust of his feet.
-| He rebukes the sea and makes it dry;
-|     he dries up all the rivers;
-| Bashan and Carmel wither;
-|     the bloom of Lebanon withers.
-| The mountains quake before him;
-|     the hills melt;
-| the earth heaves before him,
-|     the world and all who dwell in it.
+> As for us, we were all dead in our sins, but God graciously made us alive to show his grace and end our boasting.
 
-Nineveh is the capital of Assyria. So this prophecy is about Judah’s dreaded enemy. Did you hear the language from the Exodus? Verse 2: God is jealous for His people. Verse 3: He is slow to anger, yet full of justice. That’s how Moses described Him on Mount Sinai (Exodus 20:5; 34:14). Verses 4 and 5 Yahweh rides on the clouds, dries up seas and rivers, and causes mountains to quake. Exactly what he did when He rescued His people from Egypt, brought them to Sinai, and then gave them the conquest of the Land (Exodus 19:16-18; Psalm 106:9; Joshua 3:13-15). Yahweh will again save, just like He did back then!
+In chapter one, we considered the gospel from the perspective of God’s electing grace.  And now we come to chapter two, where Paul shifts the perspective upside down;  we’ve seen it from God’s eyes, now, in 2:1, he says “And you were dead...”
 
-But Nahum’s doing more than just recalling Exodus. He’s also taking a jab at __the Assyrian gods__. You see, the Assyrians believed in the gods of nature. Here Yahweh is sovereign over all of nature. The point here is that Assyria only *appears* to be mighty and strong. But it is actually Yahweh who is, in the language of verse 3, “great in power.”
+What about us?  We were “*dead* in [our] trespasses and sins.”  At root we are co-conspirators against God and his sovereignty over his own creation.  And so, under his good judgment against us as sinners we are dead.  “But”, you see in verse four, “God, being rich in mercy, because of the great love with which he loved us... made us alive together with Christ –by grace you have been saved.”
 
-The point of all this is in __verse 7__.
+These verses constitute one of the most glorious portrayals of our salvation in all of Scripture.  They make it clear that we can never make ourselves right with God through enough good works.  In fact, the question isn’t whether our good works will outweigh our bad:  it’s are we spiritually alive, or spiritually dead?  God must make us spiritually alive, so that we can repent of our sin and put our faith in Christ.  Then, as Paul says in verse 10 -- having been saved totally by grace, responding to God in faith – then we can do the good works God prepared in advance for us to do – not in order to be saved, but because we’ve already been saved.
 
-|    The Lord is good,
-|    a stronghold in the day of trouble;
-|    he knows those who take refuge in him.
+What kind of good works does Paul have in mind?  Move ahead to our next section, where we see that:
 
-So, verse 8, he will destroy Nineveh.
+## 2:11-3:13: The Primary Application of the Gospel is Unity
 
-## God’s threatened judgment
+> As a result, God has destroyed the barrier between Jew and Gentile, building them into a single building in which God lives by his Spirit.  This is the mystery of which I am a herald and for which I am now suffering.
 
-Moving on, God threatens judgment on Assyria in verses 9-15 of chapter one[^4]. And rather than beginning with judgment and ending with grace like most other prophets, God’s promises of grace — like in 1:15 — pop up periodically in a larger matrix of judgment for God’s enemies.
+Paul begins with background: the Gentiles were at one time “separated from Christ, alienated from the commonwealth of Israel and strangers to the covenants of promise, having no hope and without God in the world.” (2:12).  But what happened?  Verse 14: Jesus “For he himself is our peace, who has made us both one and has broken down in his flesh the dividing wall of hostility by abolishing the law of commandments expressed in ordinances” What’s that dividing wall?  Most literally, the wall that divided the court of the Jews from the court of the Gentiles in the temple.  The gospel has made peace between Jew and Gentile, and between them and God.
 
-Well then, what can we take away here? God is __jealous and protective__ of His people, whether it’s Judah then, or the Church now. He seethes with rage against those who harm his people. Whatever trouble, persecution, or distress the people of God may undergo in this world, we know that the Lord never leaves nor forsakes us. And one day he will vindicate us completely.
+Paul then continues this thought into chapter 3, calling this a “mystery.”  Not a mystery as in something hard to understand, but something impossible to understand until Jesus revealed it to us.  What is this mystery?  Paul states in plainly in verse 6.  “This mystery is that the Gentiles are fellow heirs, members of the same body, and partakers of the promise in Christ Jesus through the gospel.”
 
-Jesus Himself gave us these words of consolation in __Matthew 10:28-31__, “do not fear those who kill the body but cannot kill the soul. Rather fear him who can destroy both soul and body in hell. Are not two sparrows sold for a penny? And not one of them will fall to the ground apart from your Father. But even the hairs of your head are all numbered. Fear not, therefore; you are of more value than many sparrows.” The Church may seem to be burdened by immorality, false teachers, and all kinds of strange doctrines. But she will not be lost. The Lord, great in power, will preserve her until she is ready to meet her returning King.
+What’s going on here?  From the time of Abraham on, God’s people were defined ethnically.  That’s why Abraham’s descendants were prohibited from marrying with the nations around them.  But suddenly, that wall has been destroyed.  We are not saved, as we saw at the beginning of Chapter 2, based on our good works or our family tree — but based on the grace of God alone.  So the kingdom of God has now been extended to all peoples.
 
-## A vision of Nineveh’s demise
+This idea of peace and unity between Jews and Gentiles is *the* central application of Ephesians.  Paul goes so far in verse 8 to state that preaching this unity was his mission.  “To me, though I am the very least of all the saints, this grace was given, to preach to the Gentiles the unsearchable riches of Christ, and to bring to light for everyone what is the plan of the mystery hidden for ages in God who created all things.” Again, what is the mystery?  Verse 6: Jews and Gentiles together in the church.  Unity is the primary application of the gospel.  The central calling of Paul’s ministry.  And, verse 10 says that this unity is central to God’s plan to bring glory to himself.  It reads, “so that through the church the manifold wisdom of God might now be made known to the rulers and authorities in the heavenly places.”
 
-And that takes us to the last two chapters of the book. What will this judgment look like? Horrific to watch. Chapter 2 opens with a picture of judgment. Then it turns in verse 11 to mock Nineveh as the so-called lion. See those chilling words in verse 13 that are repeated again in chapter 3: “Behold, I am against you, declares the Lord of hosts.” That is hell.
+So if you’ve ever thought of unity in the church as being icing on the cake, something nice but not that important, we should think again.  Paul makes unity as fundamental to the application of the gospel as he could possibly express.  But, the necessity of the gospel message to we heard in chapters 1 and 2 to create real unity is striking.  Sometimes, especially in theologically liberal traditions, when individuals increasingly set aside the belief that Scripture is inspired by God and begin thinking instead that truth is discovered through one’s own subjective conclusions, they often begin emphasizing unity.  Unity becomes an end in and of itself: the idea of folks from all races and backgrounds together in a loving community.  But at the end of the day, unity doesn’t work unless something substantial actually unites you -- not just the idea of unity, but something so powerful that it really could join together all sorts of different people.  
 
-Chapter 3 begins with a vision of Nineveh being sacked, then turns in verse 4 to another taunt, of Nineveh as sorceress-whore. Verse 8 taunts Nineveh again, saying that just as Thebes fell suddenly from the height of power so will Assyria. And the book ends with a funeral dirge in verses 18-19.
+Ironically, it’s the true gospel that brings this kind of real unity.  When we affirm that we are all depraved, that we are all dead spiritually, that we are in debt to God, that Christ is our only hope, a strange, helpless unity comes over us.  A group of admittedly sinful people has nothing to brag about.  So it is not surprising when the world’s most familiar barriers to unity are brought down in churches that are not focused on bringing them down but are focused instead on teaching the gospel faithfully and clearly.  That’s real unity – that kind of bond that as 2:19 says comes from being “saints and members of the household of God.”  And having established that that is the unity that God has created in the church, Paul moves in 3:14-21 to prayer...
 
-This judgment is final. And why the taunting, mocking language? Because God delights to judge his enemies. Judgment is not some unfortunate logical necessity of his being a just God. One he only pursues with regret. He hates sin, and he hates those who do sin.
+## 3:14-21: Prayer for the Supernatural
 
-So interesting to think of what this must have felt like at the time. A no-name prophet, coming from the hill-billy tribes of Judah, delivering a book of judgment to the most powerful nation on earth. Did Nahum deliver this in-person? It’s interesting that of all the prophets, this is described as a “book” in 1:1 — a document to be delivered. Did he deliver this to the nation of Assyria? Did he pay with his very life for these words of God? This side of heaven we’ll never know.
+> So I pray for the supernatural power of God to work this kind of unity in you.  
 
-But the city did fall. In 612 BC the Medes, Babylonians, and Scythians, laid siege to the city amidst a fantastic storm. The protective river and moat around the city flooded up against the walls until great chunks of them fell away, just as Nahum had predicted in 2:6. The invaders walked in and stripped the city so bare that is even its location was forgotten for more than 2,000 years. Just as Nahum said would happen in 2:10.
+Does Paul realize that the unity he’s described is humanly impossible? I think he does.  That’s why he prays as he does in verses 14 through 21.
 
-A fair warning for us. Do you feel secure? Do you have life wrapped around your finger? Things change quickly. So take warning from this lost city of Nineveh. Use this book as a fearful reminder to put no trust in the world around you, but only in the God who reigns eternally.
+There are two things Paul prays for here.  First, v. 16, “according to the riches of his glory he may grand you to be strengthened with power through his Spirit in your inner being, so that Christ may dwell in your hearts through faith.” In other words, that through his Spirit God would give you the supernatural faith you need to accomplish this supernatural unity.  And second, “that you, being rooted and grounded in love, may have strength to comprehend with all the saints what is the breadth and length and height and depth, to know the love of Christ that surpasses knowledge.”  Why pray that we would know the full extent of Christ’s love for us?  Because that is what powers our love.  “We love because he first loved us.” (1 John 4:19)  
+How are Jews to love Gentiles?  And how are we to love those in our own church with whom we have nothing in common but Christ?  Pray that we would comprehend the supernatural love He has shown us.  That will empower supernatural love for him and for each other.
 
-Before we leave, look at the last sentence of the book. A question. Can you remember which other prophet ends in a question? Jonah. The prophet of God’s mercy to Nineveh. Certainly that connection is no accident. Nineveh, once the object of God’s mercy, became the object of God’s wrath. And so we see our first answer to the problem of evil. God will judge evil. Personally, powerfully, completely.
+And so it makes sense that Paul ends with his doxology, his praise, to the God who can do immeasurably more than all we ask or imagine, according to his power that is at work within us.  How do we pray for the supernatural to happen?  We can use these verses as a blueprint, praying that his Spirit would give us supernatural faith, and that we would understand the supernatural love Christ has shown us in the gospel, so that we in turn might love with supernatural power.
 
-And with that, let’s turn to Habakkuk.
+## Why God Has Done This
 
-# Habakkuk
+Before we exit this first half of the book, though, I want to point out something I’ve skipped over.  Perhaps nowhere else in Scripture do we see such a concise description not just of what God has done but why.  Why did God create the world?  Why did he reconcile us to himself in grace and grant us peace with one another in the church?  Let me retrace our steps so far, and introduce you to three reasons behind God’s purposes.
 
-Habakkuk prophecies shortly after Nahum, in the late 7th century BC: still between the fall of the two kingdoms. The difference is that by now Assyria is no longer a threat. Rather his focus is on Judah’s internal problems. The people are violent and lawless, and Habakkuk is calling out for justice.
+### First, God has done all this For the Praise of His Grace
 
-## Theme
+Look back at chapter 1, verse 5.  “he predestined us for adoption as sons through Jesus Christ, according to the purpose of his will.” Why?  Because we’re so wonderful?  No.  Verse 6: “to the praise of his glorious grace.”  And similarly in verse 11, “In him we have obtained an inheritance, having been predestined according to the purpose of him who works all things according to the counsel of his will, so that we who were the first to hope in Christ might be to the praise of his glory.”  God did these things to showcase the immensity of his grace.  
 
-The ensuing dialog between Habakkuk and the Lord brings us our theme for the book:
+That’s what we see again in 2:7.  Why did God raise us from being spiritually dead?  “so that in the coming ages he might show the immeasurable riches of his grace in kindness toward us in Christ Jesus.”
 
-*Yahweh is sovereign over even the actions of the wicked. For even in their wickedness they serve Yahweh’s purpose. However, Yahweh is not indicted for evil Himself, for they will be judged for their own wickedness in due time. Thus, the people of Yahweh should patiently wait and trust in their God, and worship Him.*
+### For the Praise of His Wisdom
 
-I know, it’s a long theme for such a short book, but Habakkuk really is packed with that much! Even when wickedness abounds, things are not outside of Yahweh’s control, and everything is happening for his purposes. So when Yahweh’s people are surrounded by calamity and injustice, they should trust in God and worship Him. Because they know that He sees all things and in holiness controls all of space and time.
+But there is a second answer to the question “why.”  It’s for the praise of his wisdom.  Look at 3:10.  Paul is explaining his calling to preach the gospel so that Jews and Gentiles might be united in Christ.  He says, God’s “who created all things, so that through the church the manifold wisdom of God might now be made known to the rulers and authorities in the heavenly places.”  Why is church such an uncomfortable place to be sometimes?  Because these are people with whom you have nothing in common but Jesus.  But that’s exactly God’s plan.  When we are able to love each other supernaturally, it makes such a statement about God’s wisdom in creating the church that even beings outside our physical world sit up and take notice.  The church is the crown jewel that displays God’s infinite wisdom to the whole cosmos!
 
-To understand this book, we’ll basically just walk through the conversation Habakkuk has with God. You’ll see it captured in the outline on the back of your handout.
+### For the Glory of God
 
-## How long?
+And there is a third answer — it somewhat encompasses the other two.  God did all this for his own glory.  Look at 3:20-21.  “Now to him who is able to do far more abundantly than all that we ask or think, according to the power at work within us, to him be the glory in the church and in Christ Jesus throughout all generations, forever and ever. Amen.”
 
-Look at __chapter 1, verses 2-3__.
+God will be glorified forever in the way we his people are redeemed, in the way we live it out, and in the way we will forever be his.  God has decided to bring glory to himself through our redemption — we who are sinners!  Isn’t this amazing!  The all-powerful God of the universe chooses to glorify himself through us, his church.  We display the character of God to his creation, and so we bring him glory.  That’s God’s purpose for all that he does, and that is the driving force behind this first half of Ephesians.  ANY QUESTIONS SO FAR?
 
-| O Lord, how long shall I cry for help,
-|     and you will not hear?
-| Or cry to you “Violence!”
-|     and you will not save?
-| Why do you make me see iniquity,
-|     and why do you idly look at wrong?
-| Destruction and violence are before me;
-|     strife and contention arise.
+## Intro to Second Half
 
-This is the prophet’s opening charge. A call for justice. And so God answers in verse 5. And here is what he says:
+And that takes us to chapter 4.  Thus far, the letter has been entirely descriptive.  God has chosen us.  He has rescued us from death.  He has destroyed the wall between Jew and Gentile.  But starting in chapter 4, Paul’s language turns from the indicative to the imperative.  Verse 1: “I therefore, a prisoner for the Lord, urge you to walk in a manner worthy of the calling to which you have been called.” Just like we did with the first three chapters, let me summarize what we see here in the last three; again, you’ll see this summary across your handout.
 
-## Until God judges through a wicked nation
+Keep the unity of the Spirit required by your new lives in Christ; (4:1-6) to accomplish this, God has given us gifts to build unity.  (4:7-16)  So you must no longer live as godless Gentiles.  Instead, speak the truth, building each other up and forgiving just as Christ forgave you. (4:17-5:2)  Don’t misunderstand me, however, I am not telling you to have unity with those who lie and say that immorality is okay. (5:3-14)  Instead, make the most of every opportunity (5:15-20), submitting to each other in the following ways: (5:21) Wives, submit to your husbands; husbands love your wives as Christ did the church. (5:22-32).  Children, obey your parents; fathers, bring your children up in the training of the Lord. (6:1-4)  Slaves, obey your earthly masters; masters, treat your slaves with respect and fear since you serve the same master. (6:5-9)  Finally, put on the full armor of God so that you can continue to stand, praying even for me, that I might continue to stand. (6:10-20).  So first,
 
-| “Look among the nations, and see;
-|     wonder and be astounded.
-| For I am doing a work in your days
-|     that you would not believe if told.
-| For behold, I am raising up the Chaldeans,
-|     that bitter and hasty nation,
-| who march through the breadth of the earth,
-|     to seize dwellings not their own.
+## 4:1-5:2: Build One Another Up
 
-In Nahum, God comforts his people with his strength to protect them. This time, that same strength is against God’s people, and he is still in control.
+> Keep the unity of the Spirit required by your new lives in Christ; to accomplish this, God has given us gifts to build unity.  So you must no longer live as godless Gentiles.  Instead, speak the truth, building each other up and forgiving just as Christ forgave you.
 
-## Doesn’t Yahweh Love Righteousness?
+Now that we’re firmly in the application section of this epistle, it becomes critical to tie these commands back to the first three chapters of the book.  Chapter 4, verses 1-3 is, in a sense, a summary of how we should live based on all we’ve discussed in chapters 1-3, and thus it’s also a summary of the challenge that chapters 4-6 set out to address.  “I therefore, a prisoner for the Lord, urge you to walk in a manner worthy of the calling to which you have been called, with all humility and gentleness, with patience, bearing with one another in love, eager to maintain the unity of the Spirit in the bond of peace.”
 
-Not exactly the answer Habakkuk was expecting! So we read Habakkuk’s response through the rest of chapter 1. To summarize: end of verse 13: “why do you idly look at traitors and remain silent when the wicked swallows up the man more righteous than he?” Sure, God’s people have their issues. But they’re nothing like the Babylonians! How can Yahweh be both good and sovereign over a universe where evil clearly exists? And how on earth can he use the wicked like this!?
+All of the admonitions in Ephesians 4-6 are answering the question “how can we keep the unity of the Spirit through the bond of peace?” in a congregation so diverse that it even encompasses Jews and Gentiles.
 
-## Be Patient and Trust!
+Chapter 4 answers this challenge very practically.
 
-God’s answer comes in __chapter 2__. A few highlights:
+### Gifts
 
-1. God will judge these Babylonians. He will judge for their destruction of creation, their destruction of human life, their cruelty, and their idolatry. That’s the thrust of these verses. Notice the words “wine is a traitor” in verse 5. Perhaps a reference to Belshazzar’s drunken feast that last, fateful night of the Babylonian empire?
-1. A second thing to notice, that interesting phrase in verse 4. God recognizes the Babylonians as “puffed up” yet says that the righteous... they will live by faith. Paul references this verse in Romans 1 and Galatians 3 — as does the author of Hebrews (10:38) to argue that justification has always been by faith alone.
-1. Third, verse 14. “For the earth will be filled with the knowledge of the glory of the Lord, as the waters cover the sea.”
-1. And finally, fourth, verse 20. “But the Lord is in his holy temple; let all the earth keep silence before him.”
+For starters, we use the gifts that Christ has given us — apostles, prophets, evangelists, pastors, and teachers. (4:11)  As with every other examination of Spiritual gifts in his letters, Paul makes it clear that the goal of gifts is the unity of the church, not our own personal fulfillment.  We so often think that we have received gifts, and must use gifts, in order to be fulfilled as individuals.  Paul writes that gifts are given the church “for building up the body of Christ, until we all attain to the unity of the faith and of the knowledge of the Son of God . . . “ (4:12b-13)  And notice what the result is when those gifts are put to use to guard the unity of the church.  Orthodoxy, sound doctrine.  Verse 14: then we will no longer be “tossed to a fro by the waves and carried about by every wind of doctrine, by human cunning, by craftiness in deceitful schemes.” As Bible-believing evangelicals, we often think of unity as a goal that, if pursued, might compromise what we believe.  But in fact, when we pursue unity founded on the gospel as God intends, that unity is what protects us from compromising our doctrine.
 
-Now, how do we piece this all together? If we had time, I could take you through the whole passage and I think it would be fairly self evident. But lacking that, let me summarize.
+### Wisdom
 
-Lest we think God is no longer just given his treatment of his people, we can be assured: he will in fact judge the Babylonians. He knows what they are like. But beyond that, he has greater purposes in mind: that the knowledge of his glory might fill the earth as the waters cover the sea. While the people’s labor is only fuel for the fire (verse 13), God is about something much, much bigger. His ways are indeed higher than our own.
+Next, Paul says that unity in the church depends on us living in wisdom.  When we were spiritually dead, he says in verse 18, we were “darkened” in our understanding and separated from God because of the ignorance in our hardened hearts.  Now, though, we are called to put off the old self with its evil desires, and, verse 23, to “be renewed in the spirit of your minds.”  Paul is telling us that fleeing sin and living in godliness starts with our minds.  If we pay attention to God’s wisdom rather than the fleeting desires of the flesh, we will grow in righteousness and the church will grow in unity.
 
-So... bad things are happening. Yet we know that ultimate justice is coming and that God is using all of this for good purposes. What do we do in the meantime? We trust. “The righteous shall live by his faith.” And we recognize that while he is God, we are not. Our place is not to accuse him of wrongdoing but in trust to be silent before him. “The Lord is in his holy temple; let all the earth keep silence before him.” That is the end of the matter.
+### Speech
 
-In times of calamity, God’s people are called to trust. Now, the people of Habakkuk’s day had reason to trust. After all, they’d seen how God used slavery in Egypt and the Exodus to proclaim his might for the good of his people. And we have so much more reason to trust! God has used the greatest evil in history, the murder of his perfect son, for our redemption. His ways may by mysterious. But for those whose faith has been credited as righteousness, we know that in all things he works both for his glory and our good.
+The next thing we see in this passage is that we can use our speech to build each other up.  We are not to lie (v. 25), speak in sinful anger (v. 26), or use unwholesome talk (v. 29) but speak in ways that build others up.  And we are to forgive each other as Christ forgave us. (v. 32)
 
-## Habakkuk 3
+### Money
 
-Then the final chapter is Habakkuk’s faith-filled response of praise to Yahweh for His wisdom and salvation, and trust in His sovereignty. Let’s read his conclusion in __3:16-19__.
+And we can build each other up with our finances as well.  Verse 28 is a great, and humbling, purpose statement for your work: “Let the thief no longer steal, but rather let him labor, doing honest work with his own hands, so that he may have something to share with anyone in need.”  If you’ve ever thought that being motivated by earning money when you work is necessarily vulgar and ungodly, I’d encourage you to spend some time with this verse.  Money can be a good and Godly motivation for work.  But Paul moves on from these encouragements to a section of caution:
 
-| I hear, and my body trembles;
-|     my lips quiver at the sound;
-| rottenness enters into my bones;
-|     my legs tremble beneath me.
-| Yet I will quietly wait for the day of trouble
-|     to come upon people who invade us.
-| Though the fig tree should not blossom,
-|     nor fruit be on the vines,
-| the produce of the olive fail
-|     and the fields yield no food,
-| the flock be cut off from the fold
-|     and there be no herd in the stalls,
-| yet I will rejoice in the Lord;
-|     I will take joy in the God of my salvation.
-| God, the Lord, is my strength;
-|     he makes my feet like the deer's;
-|     he makes me tread on my high places.
-| To the choirmaster: with stringed instruments.
+## 5:3-14: Do Not Partner with Darkness
 
-What a powerful confession of trust in God despite worldly circumstances!
+> Don’t misunderstand me, however, I am not telling you to have unity with those who lie and say that immorality is okay.
 
-Habakkuk understands God’s message. He will wait patiently for justice, in the midst of great suffering. Beyond that, though his circumstances be bleak, he can rejoice in God. Joy amid suffering! How is this possible? Because God is his strength. Because he has come to find God so trustworthy that when God says his good purposes are worth suffering invasion and decimation... Habakkuk can be content. He can wait, and in that trust, find joy.
+Now we get to chapter 5, when Paul’s tone turns from encouragement to warning.  Verses 5-7:  “For you may be sure of this, that everyone who is sexually immoral or impure, or who is covetous (that is, an idolater), has no inheritance in the kingdom of Christ and God. Let no one deceived you with empty words, for because of these things the wrath of God comes upon the sons of disobedience. Therefore do not become partners with them.” (5:5-7)
 
-But that waiting, even in joy, is always looking ahead, to God’s final answer. And that’s what brings us to Zephaniah.
+Wow!  Quite a shift from love and forgiveness.  What’s going on here?  In a letter about gospel unity, Paul takes time to warn us about a wrong kind of unity.  A congregation should never seek unity in diversity if it means tolerance for greed, impurity, impropriety, or immorality.  God’s people are to separate themselves from such things.
 
-[Questions]
+Christians are to run to each other with open arms, regardless of background or nationality.  But the severity of Paul’s language is indicative of how strongly we must also oppose any attempt to force unity where the gospel is not the ground of our friendship.  Instead, we should as the next section says,
 
-# Zephaniah
+## 5:15-6:9: Make the Most of Every Opportunity
 
-Zephaniah prophecies only a few years before Habakkuk. Though they’re both prophesying the same thing (the fall of Judah to Babylon) they approach it in different ways. Habakkuk is vexed about how God can use a wicked nation for His purposes. Zephaniah is a lot less complex, simply saying that God’s patience has run out with Judah, that their judgment is coming. But then pointing much more fully to God’s final mercy.
+> Instead, make the most of every opportunity, submitting to each other in the following ways: Wives, submit to your husbands; husbands love your wives as Christ did the church.  Children, obey your parents; fathers, bring your children up in the training of the Lord.  Slaves, obey your earthly masters; masters, treat your slaves with respect and fear since you serve the same master.
 
-Let me say one more thing about the historical context before we get into Zephaniah. It was a common phrase in ancient near-eastern documents to speak of “the day” of some great king. That “day” (the “day” of Sennacherib, or the “day” of Nebuchadnezzar) was the day that some truly great king, with great power, could destroy an entire enemy army, from start to finish, in a *single day*! Usually wars lasted for years. But to glorify themselves in their writings they would describe how they made waste of their enemies on the “*day*” of so and so. It’s a metaphor for a king’s great power and his totality of conquest.
+With that caveat behind us, Paul returns to answering the challenge he laid out in 4:3 — how can we keep the unity of the Spirit through the bond of peace?  What he writes in the next few paragraphs might surprise you.
 
-## Theme
+We should seek unity by living wisely, “making the best use of the time” as he says in 5:16.  That means being filled with the Spirit in verse 18, encouraging each other through song in verse 19.  And, most significantly, we are to make the most of every opportunity in our homes and workplaces as well, which is where Paul turns in the next verses by exhorting the Ephesians to “Submit to one another out of reverence for Christ.” (5:21)  The remainder of chapter 5 and beginning of chapter 6 are specific ways in which we must submit to each other.
 
-So with that we can understand a bit more about “the Day of Yahweh,” which I’ve been calling so far in this class, “the Day of the Lord.” And we can understand Zephaniah as well. Here’s how I’ll summarize this book:
+These passages are likely familiar to most of you.  5:22-33 contains profound teaching on marriage, viewing marriage as designed to image Christ’s love for his church.  In chapter 6 is teaching on relationships between children and parents, and between slaves and their masters.  We certainly should note that when Paul tells wives to submit to their husbands and for husbands to sacrificially love their wives, he’s speaking about how the distinct, complementary roles that God has ordained for men and women in marriage provide a picture of Christ’s relationship to the church.  All throughout Paul’s writings and the whole Bible, it’s clear that men and women have equal dignity, value, and worth but complementary roles in the home and in the church.  We could spend all day on this or on any number of other issues that this section raises, but where I want to focus is what we learn when we put these passages into their overall context.
 
-*The Day of the Lord will be the most terrible “day” ever, and it is executed against all false gods. But even in that calamity, God will create a remnant for himself.*
+The first thing to notice is that this idea of headship and submission is under the larger point of “making the best use of the time” from 5:16.  Have you ever thought of submission in that category?  Not as an inconvenient or difficult to understand burden — but God’s design for how we might make the most of this life for his glory.  And then moving to the larger context — these commands sit within a book on how the gospel drives unity in the church between those who have nothing in common but Christ.  What this means is that your marriage matters for more than just its own sake.  It images Christ’s love for his church, his body.  And when roles of husband and wife are attended to, your marriage contributes to unity within God’s new society of the church.  So, marriage is far more profound than merely a bond between two people – it’s one of the ways that God pictures his love for us, and therefore it’s one of the ways that God builds unity in his church.
 
-Like in the book of Joel, the Day of the Lord is a major theme. Like we see elsewhere in the prophets, it comes first on the people of God and then the rest of the nations. It’s a day both of wrath and salvation. The first chapter focuses on the Day of the LORD on Judah; the next section through 3:7 is the Day of the Lord on the nations. And then 3:8-20 focuses on the salvation of the remnant. We’ll skip quickly through the first two sections to camp out more on the third.
+## 6:10-23: Stand to the End
 
-The book starts out abruptly, with the destruction of all life. Verse 2:
+> Finally, put on the full armor of God so that you can continue to stand, praying even for me, that I might continue to stand.
 
-| “I will utterly sweep away everything
-|     from the face of the earth,” declares the Lord.
-| “I will sweep away man and beast;
-|     I will sweep away the birds of the heavens
-|     and the fish of the sea,
-| and the rubble with the wicked.
-|     I will cut off mankind
-|     from the face of the earth,” declares the Lord.
+And that brings us to the famous section on spiritual warfare in 6:10.  Remember, that’s where we began this section.  The end of chapter 3 is a prayer for the supernatural to happen; chapter 6 ends with a description of the supernatural at work.  But now the call is a broader one — the call to stand.  Paul repeats that word four times.  So if you read through chapter 6, expect Paul to stare you in the eye and tell you to “Stand!  Stand!  Stand!.”  Not an easy thing to do.  If you reach the end of your days on earth and can say that you have stood fast, what an accomplishment to the glory of God!  And so Paul tells the Ephesians to put on the whole armor of God.  To be strong in the Lord.
 
-Sounds like the flood of Genesis, doesn’t it? Judgment on the whole earth once again.
+And so how appropriate are his last words of instruction:  “take the helmet of salvation, and the sword of the Spirit, which is the word of God, praying at all times in the Spirit with all prayer and supplication. To that end keep alert with all perseverance, making supplication for all the saints, and also for me, that words may be given to me in opening my mouth boldly to proclaim the mystery of the gospel.” (6:18-19)
 
-So he turns first to Judah. In the words of 1:12, these people are lost in complacency. “The Lord will not do good, nor will he do ill.” they say. Well — as it turns out, he is about to do a lot. And from their perspective, it’s all bad news.
+Now doesn’t that get your heart?  There is Paul in prison, an old man, praying and asking others to pray that God would make him fearless.  Paul knew courage was needed to continue, and so he asked for it.  And that is where this book on the unity that comes from the gospel concludes: with Paul desiring to continue to preach this gospel, so that the unity of the church might continue to grow.  
 
-But, chapter two verse three, some hope. “Seek righteousness; seek humility;  perhaps you may be hidden   on the day of the anger of the Lord.”
+ANY QUESTIONS?
 
-Chapter 2 then turns its attention to the rest of the nations. For God’s enemies, there is no call to repentance or offer of mercy.
+# Colossians: New Life In Christ
 
-## Zephaniah 3:8-20
+Unlike the letter to the Ephesians, Paul wrote his letter to the Colossian Christians to counter a very specific heresy. It seems that some were teaching these young Christians that life and wisdom were found through the powers of our own human faculties. In chapter 2:8 we read, “See to it that no one takes you captive by philosophy and empty deceit, according to human tradition, according to the elemental spirits of the world, and not according to Christ.”  
 
-But it’s not only a day of wrath. It’s also a day of salvation for the remnant. Having come through such horrific judgment, how should the remnant view God’s care for them? Look at 3:8:
+At the heart of much of this false teaching was the idea that the gospel of Jesus Christ is a great start, but there is so much more on offer. That is, Jesus is the beginning, but there are other ways to receive “fullness” in the Christian life. This was to be received by specially-revealed wisdom, perhaps with particular understanding of the Jewish law, and perhaps through angelic encounters.
 
-| “Therefore wait for me,” declares the Lord,
-|     “for the day when I rise up to seize the prey.
-| For my decision is to gather nations,
-|     to assemble kingdoms,
-| to pour out upon them my indignation,
-|     all my burning anger;
-| for in the fire of my jealousy
-|     all the earth shall be consumed.
+This is a three-pronged attack on the sufficiency of Jesus Christ.
 
-Just like in Habakkuk. Be patient; God will judge your enemies. But Zephaniah goes further. Look ahead to verse 9:
+- Judaizing and Gnostic tendencies deny the finality of Christ’s work.
+- Their preoccupation with angelic experiences denies the preeminence of Christ.
+- And asceticism denies our need for Christ.
 
-Not only will God *vindicate* his people (verse 8), he will *change* his people (verse 9).
+In response, Paul wrote to remind them that the life of the Kingdom is found ultimately in Christ, and Christ alone.  In Christ we find new life.  Through Christ’s death we die to our old lives, and through his life we are given new life.  Our new lives are characterized by transformed relationships with God and with others.  And as a result, the life of the Kingdom is a cross-centered life.  
 
-| “For at that time I will change the speech of the peoples
-|     to a pure speech,
-| that all of them may call upon the name of the Lord
-|     and serve him with one accord.
+But before we dive into to the letter itself, a little background.
 
-Note that this is happening to all peoples, not just Israel.
+## Background & Date
 
-He will gather his people from all nations (verse 10), and he will exult in his people even as they praise him. There’s that famous section in 3:17: “He will rejoice over you with gladness; he will quiet you by his love; he will exult over you with loud singing.” There is no more punishment left for God’s people (verse 15). No more enemies. No more fear. And God’s people, verse 20, will be at home. “At that time I will bring you in, at the time when I gather you together; for I will make you renowned and praised among all the peoples of the earth.”
+It seems that Paul wrote and sent Ephesians and Colossians together.  There is considerable overlap between the two letters, and Paul mentions Tychicus at the end of both letters as the one who likely delivered them.  If you were to read the two letters back to back, you would likely get the distinct impression that Ephesians was the general letter (you’ll recall it was likely written as a circular letter to a whole group of churches in Asia Minor), while Colossians deals with many of the same themes but was addressed to the needs of one particular church.  Unlike Ephesus, Paul never visited Colossae, even though it was only 100 miles east of Ephesus. Nevertheless, he had been instrumental in that church’s founding, through the conversion of Epaphras, who he then sent with the gospel to Colossae.  Like the letter to the Ephesians, it appears that Paul wrote this while in prison in Rome, around 60AD. (4:3, 10, 18).
 
-## Application
+## Outline
 
-Friends, despite any troubles we have faced in this life, our greatest problem has already been solved. God has reconciled us to Himself in Christ! If we can really get our minds around that, then of course we will not fear the world as Nahum instructs us. We will not love the world as Habakkuk instructs us. We will glory in our God like Zephaniah instructs us. We will have confidence in God’s justice. We will wait patiently for him. And we will put our hope in this glorious promise of complete restoration for all of God’s people.
+So then, what do we find in this letter?  Well, not surprising given its audience of a particular church, the letter begins with a fairly lengthy introduction that focuses on Paul’s aim for this (and every) church is that we “walk in a manner worthy of the Lord, fully pleasing to him, bearing fruit in every good work and increasing in the knowledge of God. Ay you strengthened with all power, according to his glorious might, for all endurance and patience with joy, giving thanks to the Father, who has qualified you to share in the inheritance of the saints in light.” (1:10-13).  Quite a run-on sentence, but quite an amazing picture of our objective in this Christian life.
 
-# Transition
+From there, Paul steps right into the meat of his letter with one of the most amazing portraits of Christ that we find anywhere in Scripture.  “He is the image of the invisible God, the firstborn of all creation” (1:15) and on from there through verse 20 of chapter one.  From there, Paul turns his attention to the primary implication of who Christ is for the Colossians: their reconciliation with God that you see in 1:21 through verse 23.  These two truths: who Christ is, and who we are as a result, are the theological core of this book.  And Paul steps back for a moment, 1:24-2:3, to consider his own work to support those great truths.
 
-Today we’ll return to the Major Prophets. We’re going to study Jeremiah and Lamentations, both written by Jeremiah. Just a reminder: the reason we’re moving backward in the Old Testament, instead of just taking the books in canonical order isn’t to confuse you! We’re trying to understand the flow of redemptive-history. That is, we’re trying to understand the historical account of how God has been working through history to redeem a people to Himself. Ultimately, to prepare the way for His Son, Jesus Christ. Though the Old Testament is comprised of 39 books, they come together to tell one story. We’re trying to take that story in an order that helps us understand it better.
+Then, beginning in 2:4 on through the end of chapter 2, we read on to see the alternative that has been placed in front of these Christians.  It stems from “philosophy and empty deceit, according to human tradition, according to the elemental spirits of the world, and not according to the Christ.”  (verse 8).  Paul pauses for a moment to remind us (beautifully) of the gospel, and then continues describing this false teaching in verse 16.  It is consumed with tradition — religious festivals, new moon celebrations, Sabbath days.  It delights in false humility (verse 18) and the worship of angels and a celebration of that mystical experience.  It is ascetic, imposing strict rules on the body (verses 20-23).  Tellingly, Paul observes, verse 23, that “These indeed have an appearance of wisdom in promoting self-made religion and asceticism and severity to the body, but they are of no value in stopping the indulgence of the flesh.”  A very good litmus test for evaluating different strands of teaching in our own day.
 
-# Jeremiah
+And then Paul turns, in chapter 3, to how we should live as Christians — the implications of the true gospel that do in fact result in changed lives, in real restraint of sensual indulgence.  He covers how we should live together in holiness, how our families should function, and how we should behave toward others in the broader community.  And then, with another round of personal greetings, Paul ends his letter with chapter four.
 
-Now, what’s happening as Jeremiah is writing? The Babylonians are threatening the Southern Kingdom, Judah. As the book progresses, Judah is invaded. By the time we reach the end, the people have been dragged away in three waves of exile (in 605, 597, and 586 BC). After the last wave, the Babylonians razed the city of Jerusalem to the ground, including Solomon’s great temple. You can read about all of this in 2 Kings 22-25 and 2 Chronicles 34-36.[^5] Jeremiah himself lived and prophesied through all this. 
+## Major Themes
 
-Why did God allow this to happen? That’s the question 1 and 2 Kings answer. The covenant people have been involved in idolatry for decades. They’ve worshiped every strange deity from Baal to Molech to “the queen of heaven,” and engaging in such acts of “worship” as temple prostitution and child sacrifice. That, on top of open dishonesty, corruption, injustice, adultery, oppression of the helpless, slander, and so on. They’d been sent prophets for a long time, but they would not repent. The people have made shipwreck of the covenant. Now Jeremiah is announcing the covenant curses that were written into the covenant from day one in Deuteronomy 27 and 28. But even as Jeremiah prophecies this destruction, he also, describes God’s way forward to complete his plan of redemption — more clearly than any prophet we’ve studied so far.  
+Now, with that as an overview, I’d like to turn this letter over thematically and try to parse out its primary message to us.
 
-One thing Jeremiah talks a lot about is our hearts. Our sinful, unchangeable-by-human-effort hearts. So let’s start by talking about those hearts. __*How does God change a sinful human heart?*__ (Push the class to think not merely about justification but sanctification as well.)
+How exactly does Paul address the false teaching that is threatening to turn the Colossians away from Christ to the wisdom of this world?  Two big things that I want you to notice.
 
-## Theme
-Now Jeremiah is a big book, and no short theme statement can really do justice to the whole thing. But let me try to encapsulate the theological center of the book with this statement:
+### 1. First, the Christian’s new life comes from God through Christ alone
 
-*The old covenant has failed; not because it itself was defunct, but because the people were not able to keep it due to their sinful hearts. Therefore a new covenant is needed which will involve new hearts for the people of God.*
+In Christ we have received new life.  Before (2:13) “you were dead in your trespasses” but now “God made alive together with him, having forgiven us all our trespasses.”  Before (3:1-4) your minds were set on “the things that are on earth” but now your minds and hearts are set “on things that are above.”  Before (2:21) we lived life as enemies of God, alienated from him, but now, we live “in a manner worthy of the Lord” (1:10).  This new life changes the way we relate to God and to other people.  But if we jump straight into how we should live and forget the source of that — that our new life comes from God — we will find ourselves lined up squarely with these false teachers preaching a gospel based on our own strength, derived from our own wisdom and traditions, that — in the end — is powerless against the sinfulness of our own hearts.  
 
-If you’re familiar with Jeremiah, it may sound to you like I just made a bee line for chapter 31. Not so. Chapter 31 is simply the theological mountain top that the rest of the book is climbing to and descending from. This is what the whole book is about. The question that Jeremiah sets out to answer is, Why was the covenant broken? In a deeper sense than “the people sinned.” The conclusion he comes to very early in the book is that the covenant itself was just fine. The problem lies with the people. They have not been able to keep it. I’ll repeat that: they are *unable*. They cannot keep the covenant, and it’s because they’re hearts are in love with their sin. And if their hearts are the problem, that’s a pretty hopeless situation since corrupt hearts cannot change themselves. So for the first 28 chapters Jeremiah is *very* pessimistic. The people cannot keep the covenant because they have these depraved hearts, and they *cannot* change their hearts. The only possible solution is if God *changes their hearts* and makes them fit, from the inside out, to participate again in the covenant. Though, remember back to Deuteronomy where God promises to “circumcise your hearts:” this is something he’s already promised to do.
+### 2. And second, the Christian’s new life is displayed in relationships with other people
 
-The book is structured, as you see on the back of your handout, in five basic pieces. The first 29 chapters prophesy God’s judgment against his people. Then we break in chapters 30-33 with a beautiful description of God’s ultimate solution to this problem: new hearts. Chapters 34-45 then shift back to prophesy the final destruction of Jerusalem. Chapters 46-51 address the wickedness of the nations, including the invading Babylonians. And finally chapter 52 recounts the fulfillment of much of this prophesy: the invasion and decimation of Judah. All together, it amounts to the longest book in the Bible.
+As a result of the cross, not human wisdom, Christians’ lives are changed. It may be that your mind used to be set on partying on the weekend, or expanding your portfolio, or just making sure that no one messed with you. Now think about what your priories are: loving others sacrificially, spreading the gospel, pleasing God.
 
-## I. Major Themes
+Let’s look at these two main points in more detail.
 
-OK. With that as intro, we’ll tackle the first 30 chapters by focusing in on five important themes.
+## A.  From God
 
-### 1. Breach of Covenant
+First, our new life is a gift from God.  Paul thanks God for the Colossians’ faith, knowing that God is the author of it (1:3).  He prays: “giving thanks to the Father, who has qualified you to share in the inheritance of the saints in light. He has delivered us from the domain of darkness and transferred us to the kingdom of his beloved Son, in whom we have redemption, the forgiveness of sins.”  (1:12-14)  In his prayer he acknowledges that God rescues, strengthens, qualifies, and redeems us.
 
-First, throughout the book of Jeremiah God accuses Judah of breaking his covenant. He first lays out the charges in 2:9-12. Judah is guilty of nothing less than giving up the true God in exchange for worthless idols.
+Let’s note two things about God’s gift of new life to us.  First, God gives us this new life through Christ.  “For in him the whole fullness of deity dwells bodily,” Paul writes (2:9).  “And you, who were dead in your trespasses... God made alive together with him, having forgiven us all our trespasses.” (2:13) Christ is the source of our life and his death and resurrection is the means by which God applies that life to us.  Paul writes “For you have died, and your life is hidden with Christ in God. When Christ who is your life appears, then you also will appear with him in glory.” (3:3-4) This is what baptism symbolizes, and why baptism is the public sign of our profession of faith.  Paul writes, “In him also you were circumcised with a circumcision made without hands, by putting off the body of the flesh, by the circumcision of Christ, having been buried with him in baptism, in which you were also raised with him through faith in the powerful working of God, who raised him from the dead.” (2:11-12) Incidentally, Colossians is one of the clearest places in the New Testament where we understand what baptism means.  Often, people have suggested that baptism is a continuation of the covenant of circumcision in the Old Testament — and thus should be applied to our children even before they are saved.  And sure enough, in 2:11-12, Paul does indeed parallel baptism with circumcision.  But he takes pains to show that the circumcision he is referring to is not physical circumcision “done by the hands of men” but circumcision of the heart.  And just as circumcision of the heart was a reference to faith in the Old Testament, so baptism today is only for those who have experienced that same faith.
 
-| “Therefore I still contend with you,
-| declares the Lord,
-|     and with your children's children...
-| Has a nation changed its gods,
-|     even though they are no gods?
-| But my people have changed their glory
-|     for that which does not profit.
-| Be appalled, O heavens, at this;
-|     be shocked, be utterly desolate,
-| declares the Lord
+Second, if God gives us this new life through Christ, we should also note that God gives us this new life through Christ alone.  No other person, achievement, idea, or human effort will avail us.  And this idea of salvation through Christ alone is critical as Paul defends the gospel from these false teachers.  Paul calls Christ  “God’s mystery... in whom are hidden all the treasures of wisdom and knowledge.” (2:2-3).  To that end Paul warns the Colossians not to be deceived or taken captive “with plausible arguments.” (2:4), “philosophy and empty deceit,” “human tradition,” or the “elemental spirit of the world,” (2:8).  The Colossians evidently were being led astray by relying on ritual, asceticism, angel worship, and fashionable philosophy.  “Therefore let no one pass judgment on you in questions of food and drink, or with regard to a festival or a new moon or a Sabbath... Let no one disqualify you, insisting on asceticism and worship of angels, going on in detail about visions, puffed up without reason by his sensuous mind,” (2:16, 18).  These are serious temptations.  As I read earlier, Paul acknowledges that “such regulations indeed have an appearance of wisdom, with their self-imposed worship, their false humility and their harsh treatment of the body,” but ultimately “These have indeed an appearance of wisdom in promoting self-made religion and asceticism and severity to the body, but they are of no value in stopping the indulgence of the flesh.” (2:22-23).
 
-As the book continues, God’s condemnation grows more graphic, more passionate, and more intense. He describes Judah’s sin as adultery. “as a treacherous wife leaves her husband, so have you been treacherous to me, O house of Israel” (3:20). He describes their sin as prostitution. “By the waysides you have sat awaiting lovers like an Arab in the wilderness. You have polluted the land with your vile whoredom.” (3:2)
+Beware of Christianity *plus* something else.  Christianity — with a dash of Buddhism.  Christianity and a daily regime of meditation and exercise.  Christianity modernized with New Age sensibility.  Christianity made intellectually respectable with Plato or Aristotle.  Christianity made easy with a fixed calendar of prayers and recitations and scented candles.  There are a lot of formulas for how to augment the Bible with something else.  Lots of Christians feel the pull to mix their faith with something else, whether it is philosophy, asceticism, other religions, or elaborate ceremonies and rituals.  The problem is that the something else ends up becoming more important and conflicting with fundamental truths of Scripture.  The book of Colossians is a good place to go to reflect on the sufficiency and supremacy of God’s work in Christ — and the resulting simplicity of the Christian faith.
 
-So... Judah’s broken the covenant. That’s the first theme.
+There isn’t anything wrong with simply studying other world religions or philosophy.  Such study can help us become better evangelists and apologists for the faith.  And there is nothing wrong with participating in shared corporate worship — that will over time, develop its own habits and characteristics.  But these things should never become substitutes for Christ, or even necessary additions to Christ.  We can change our rituals and still worship God.  We can go our entire Christians lives without an angelic encounter or even a dramatic spiritual “experience” and still be faithful.  We can become perfectly knowledgeable about the faith without studying the philosophers’ commentaries on it.  Paul strongly cautions the Colossians always to remember that Christ alone is fully sufficient to bring us to “fullness” and to give us “new life.”  In fact Paul gives one of the strongest statements of Christ’s supremacy and sufficiency in all Scripture in 1:15-20:
 
-### 2. Repeated, Widespread Sin
+> He is the image of the invisible God, the firstborn of all creation.  For by him all things were created, in heaven and on earth, visible and invisible, whether thrones or dominions or rulers or authorities –All things were created through him and for him. And he is before all things, and in him all things hold together. And he is the head of the body, the church. He is the beginning, the firstborn from the dead, that in everything he might be preeminent. For in him all the fullness of God was pleased to dwell, and through him to reconcile to himself all things, whether on earth or in heaven, making peace by the blood of his cross.”  
 
-But second, the breach of covenant was not a one-time event. It was a repeated habit that that pervaded society. And for hundreds of years God had sent prophet after prophet to them. Listen to Jeremiah talk about his own ministry and those before him in chapter 25.
+Nothing can compare with Christ!  
 
-> “For twenty-three years, from the thirteenth year of Josiah the son of Amon, king of Judah, to this day, the word of the Lord has come to me, and I have spoken persistently to you, but you have not listened. You have neither listened nor inclined your ears to hear, although the Lord persistently sent to you all his servants the prophets, saying, ‘Turn now, every one of you, from his evil way and evil deeds, and dwell upon the land that the Lord has given to you and your fathers from of old and forever.
+## B.  For God and Others
 
-It’s gotten so bad that God says, “Though Moses and Samuel stood before me, yet my heart would not turn toward this people. Send them out of my sight, and let them go!” (15:1).
+That was the first thing I wanted you to notice: our new life comes from God through Christ alone.  And the second: this new life is lived for God’s glory and according to his purposes.  God is not only the source of our new life:  God’s character is the model for our new life and His will is a guide for our new life.
 
-Instead the people have listened to the lying words of false prophets. 6:14:
+As I mentioned earlier, Paul prays that the Christians in Colossae would live “so as to walk in a manner worthy of the lord, fully pleasing to him, bearing fruit in every good work and increasing in the knowledge of God. May you be strengthened with all power, according to his glorious might, for all endurance and patience with joy, giving thanks to the Father, who has qualified you to share in the inheritance of the saints in light.” (1:10-12).  Our lives are to be worthy of God and pleasing to him, which means that our lives should be marked by increasing knowledge about God, thankfulness for all that he has given us, and patience with the trials and temptations of this life.  Paul reiterates this theme in 2:6, where he writes that the truth of the gospel “which has come to you, as indeed in the whole world it is bearing fruit and increasing –as it also does among you, since the day  you heard it and understood the grace of God in truth.” 
 
-| They have healed the wound of my people lightly,
-|     saying, ‘Peace, peace,’
-|     when there is no peace.
+Paul tells the Colossians that their new life in Christ should have real implications for how they live their lives and how they treat each other.  Because “you have put off the old self with its practices and have put on the new self, which is being renewed in knowledge after the image of its creator.” (3:9-10) he expects them to “put them all away: anger, wrath, malice, slander, and obscene talk from your mouth. Do not lie to one another, seeing that you have put off the old self with its practices” (3:8-9). In their new life, they are to live differently.  “Put on then, as God’s chosen ones, holy and beloved, compassionate hearts, kindness, humility, meekness, and patience, bearing with one another and, if one  has a complaint against another, forgiving each other; as the Lord has forgiven you, so you also must forgive. And above all these put on love, which binds everything together in perfect harmony.” (3:12-14) Our new life starts with a new heart, with new attitudes, with a new approach and a new way of thinking about and responding to the world.
 
-False prophets tell the people what they want to hear instead of the truth they need to hear. I wonder how many preachers today are guilty of the same thing. In how many of our churches is God’s word not preached faithfully, in such a way as people are changed. As Paul writes in 1 Cor. 4:20, “For the kingdom of God does not consist in talk but in power.” Our standard should not simply be, “did the preacher say things that weren’t untrue” (though even the false prophets in Jeremiah’s day failed that test, 7:8). Rather, our standard should be, “is the *whole* counsel of God preached such that people are being changed?”
+Practically speaking, this new way of living shows itself in our relationships with other people.  In chapter 3 Paul gives guidance to different groups of people in their key relationships, focusing on the family.  “Wives, submit to your husbands, as is fitting in the Lord. Husbands, love your wives, and do not be harsh with them. Children, obey your parents in everything, for this pleases the Lord. Fathers do not provoke your children, lest they become discouraged.” (3:18-21).  Our new life in Christ should be evident first in how we treat our family members.  This can be especially challenging because our family members are precisely the people we often take for granted.  It can be tempting to treat one’s home as the place where we no longer have to be polite or kind, where we are allowed to “relax,”—in other words, let’s be honest, to be selfish with our words and our time.  But Paul is very specific:  the home is where we begin to live our new lives.  Note that while the roles differ—wife, husband, children—the theme is the same:  love.
 
-### 3. Total Depravity
+We also live our new lives in the workplace.  Paul gives guidance to “bondservants” which parallels loosely with our concept of “servants,” and to “masters.”  “Bondservants, obey in everything those who are your earthly masters, not by way of eye-service, as people-pleasers, but with sincerity of heart, fearing the Lord. Whatever you do, work heartily, as for the Lord and not for men, knowing that from the Lord you will receive the inheritance as your reward. You are serving the Lord Christ. For the wrongdoer will be paid back for the wrong he has done, and there is no partiality.” (3:22-24). Now modern employees in this country typically have far more rights and privileges in the workplace than ancient servants did in theirs.  Yet Paul was telling servants in the ancient world to “obey” with “sincerity of heart,” and to “work heartily.”  If they, with far fewer rewards, were to work with sincerity and hard effort, how much more should we?  This can be difficult, because complaining about our jobs is pretty much the entire content of our small talk at parties and lunches here in Washington, D.C.  Yet Paul reminds us that we should be grateful to work and should be careful to honor God with or labor.  We should eagerly seek to please our employers, genuinely from the heart.  We shouldn’t do just enough to get by, or only perform when the boss is watching.  I think Paul is saying that we should take pride in our work, even enjoy it!  Finally, Paul adds a word for employers.  “Masters, treat your bondservants justly and fairly, knowing that you also have a Master in heaven.”
 
-Third, let’s look more deeply at why this happened. Yes, this disaster is the result of the broken covenant. But a deeper question than that: *Why was the covenant broken?* *Why* couldn’t the people keep it? Jeremiah says in 6:10, “their ears are uncircumcised, they cannot listen; behold, the word of the Lord is to them an object of scorn; they take no pleasure in it.” They *cannot* hear the word of God, because they have no desire to. Lack of desire so severe it equates to lack of ability.
+So our new life should show itself in our relationships with our family, in the workplace, and in all of our interactions generally.  As Paul is winding down his short letter to the Colossians, he counsels them to “Walk in wisdom toward outsiders, making the best use of the time. Let your speech always be gracious, seasoned with salt, so that you may know how you ought to answer each person.” (4:5-6) This new life should simply be a way of life evident in everything we do, in all that we say, to every person we meet and with whom we interact.
 
-Going even deeper, Jeremiah tells us in 17:1 “The sin of Judah is written with a pen of iron; with a point of diamond it is engraved on the tablet of their heart.” Sin is carved, etched, onto the heart! Look at verse 9. “The heart is deceitful above all things, and desperately sick; who can understand it?” In 18:12 God tells Jeremiah to call on Judah to repent, but tells Jeremiah to expect Judah to reply “That is in vain! We will follow our own plans, and will every one act according to the stubbornness of his evil heart.” The people are led by these evil hearts. Sin *drives and controls* them.
+Because our new life is so important and so all-encompassing, we must strive to endure to the end.  “He has now reconciled in his body of flesh by his death, in order to present you holy and blameless and above reproach before him, if indeed you continue in the faith, stable and steadfast, not shifting from the hope of the gospel that you heard, which has been proclaimed in all creation under heaven, and of which I, Paul, became a minister.” (1:22-23).  We must persevere to the end to receive the fullness of our new lives with him in the new creation.  That is why Paul prays that the Colossians would have “all endurance and patience with joy,” (1:11).  We know that our perseverance is guaranteed by God who enables us to live through his Spirit, yet we also see here in Colossians that we must strive every day to live out this perseverance.
 
-Finally, let’s read 13:23.
+And all of this, if we understand it correctly, is impossible if we don’t understand the Christ and the gospel laid out in the first half of the letter.  So as you study this book, spend good time considering and meditating on Paul’s words in the first chapter.  Consider this God-centered, God-powered, God-glorifying gospel that we have received, and then — only then — read on and contemplate how it should evidence itself in your life.
 
-| Can the Ethiopian change his skin
-|     or the leopard his spots?
-| Then also you can do good
-|     who are accustomed to do evil.
+## C.  Conclusion
 
-Not only does the entrenched sin of a man’s heart cripple and control him, it won’t release him. As we just read in 17:9, the heart is beyond cure.  
+Paul’s letter to the Colossians teaches us that in Christ we have received new life.  We are dead to our sins and made alive through him.  And Christ alone is sufficient for our new lives.  He is the “image of the invisible God” in whom the fullness of God dwells.  Compared to the absolute supremacy of Christ, nothing else compares.  Sophisticated philosophy, angelic encounters, beautiful rituals, ancient traditions, supposedly secret knowledge, New Age spiritualism, and anything else simply pales in comparison to Christ the King.
 
-In its natural state, the human heart is incapable of hearing God’s word. It’s restricted in its desires, emotions, and feelings because sin is carved onto it. Sin is its slave master, driving and controlling it. And there’s no way out. In a word, this is damning! Warning, disaster, logic, and will power are all powerless to turn us back to God. That’s theme #3.
+And our new lives bring new relationships.  We relate in a fundamentally new way to God.  We have peace with him, seek to grow in knowledge of him, and obey his will for our lives.  We relate in a new way as well to our families, friends, colleagues, and co-workers.  We are no longer marked by “sexual immorality, impurity, passion, evil desire, and covetousness” but by “compassionate hearts, kindness, humility, meekness, and patience.” And we are called to persevere in this new life to the end — with God’s help through his Spirit.  That is the message of Colossians.  Which brings us to Philemon.
 
-[Questions]
+# Philemon: Reconciliation
 
-### 4. Proclamation of Judgment
+Philemon is the shortest of Paul’s letters.  It is also unique in that it is not a letter to a church, but to an individual church member.  It’s a personal letter from Paul on behalf of Philemon's runaway slave Onesimus who served alongside Paul (we assume Onesimus became a Christian after he ran away).  Paul's compassion and love for the young man is apparent when he calls him "my child."  He has sent him back to ask for forgiveness.
 
-Fourth, let’s look at what happens after God charges Judah with breaking the covenant. Jeremiah writes in 11:11-12 “Therefore, thus says the Lord, Behold, I am bringing disaster upon them that they cannot escape. Though they cry to me, I will not listen to them. Then the cities of Judah and the inhabitants of Jerusalem will go and cry to the gods to whom they make offerings, but they cannot save them in the time of their trouble.” God asks, earlier, in 5:7, 9. “How can I pardon you? Your children have forsaken me and have sworn by those who are no gods. When I fed them to the full, they committed adultery and trooped to the houses of whores... Shall I not punish them for these things?
-declares the Lord?”
+Before we go further, let me say a word about slavery in the NT. To begin with, we want to be careful not to read 18th and 19th century race-based chattel slavery back into the 1st century. In Paul’s day, though some slavery was the result of warfare, most was of an economic kind more akin to indentured servanthood. Rome was full of doctors, lawyers and teachers who were slaves And it was not based on race.  That said, the New Testament never excuses slavery, nor exonerates slave holders. It does not try to set up an alternative political-economic system. Rather, as Paul does here, it seeks to bring the implications of the gospel to bear on both slave and master.
 
-God will punish Judah for breaking the covenant. And this is where Jeremiah gets his reputation. In God’s proclamations of judgment we have some of the most harrowing, horrific language in the Bible. 8:13:
+## Outline
 
-| When I would gather them, declares the Lord,
-|     there are no grapes on the vine,
-|     nor figs on the fig tree;
-| even the leaves are withered,
-|     and what I gave them has passed away from them.”
+1) Paul's Greeting (1-3)
+2) Thanksgiving and intercession for Philemon (4-7)
+3) Paul's plea for Onesimus (8-22)
+4) Final remarks (23-25)
 
-9:22:
+## Major Themes and Message
 
-| ‘The dead bodies of men shall fall
-|     like dung upon the open field,
-| like sheaves after the reaper,
-|     and none shall gather them.’
+The theme of reconciliation through the power of Christ, the cross-centered life, runs throughout the book of Colossians (written to the church attended by the recipients of this note).  __Reconciliation__ is put into practice in the book of Philemon, in a very real way.  Paul is asking one man to forgive another who has wronged him directly. Both are asked to do something difficult.
 
-12:11-12:
+*Onesimus is a picture of someone who needs forgiveness.*  Paul has sent Onesimus back to his employer whom he had wronged.  Now Onesimus would turn up at Philemon’s house with nothing but a letter from Paul in his hand.  Can you imagine the former slave standing in the doorway as his former employer opens the door — needing forgiveness, helpless to repay, cared for only by someone far away in prison.  In one sense, the destitution of this former slave is incomparable.  He can offer nothing, and he deserves punishment.  
 
-| The whole land is made desolate,
-|     but no man lays it to heart.
-| Upon all the bare heights in the desert
-|     destroyers have come,
-| for the sword of the Lord devours
-|     from one end of the land to the other;
-|     no flesh has peace.
+Philemon, for his part, may not have found it easy to forgive.  *By forgiving Onesimus, he might be regarded as showing weakness.  He might bring shame upon himself among his neighbors for treating a runaway employee, or indentured servant, this way.  Perhaps he worries that such leniency would encourage Onesimus to view his crime lightly.  Perhaps it would also encourage others to follow Onesimus’s example and let them think they too would get off lightly.*  Any of you who have exercised authority in the workplace know the tension between justice and mercy towards your employees.
 
-15:7-8:
+Why does Paul make this request? So that the love of Christ and the reconciling, redeeming power of the gospel, might be displayed.  Paul is a peacemaker, and he is pushy about it!  Note how Paul goes about pleading with Philemon.  Onesimus had become a Christian, and so Paul identifies himself closely with Onesimus.  Onesimus is “my child,” (10) and “my very heart,” (12) and “beloved brother –especially to me,” (16).  He even says “receive him as you would receive me.” (17) and offers to pay Onesimus’ debts (18).  Paul enters into Onesimus’ world and identifies closely with him and his trials.  From within that position Paul pleads with Philemon not for Onesimus’ sake, but for his own.  What a picture of what Christ has done for us!  When we join ourselves to him, he identifies with us and pleads with the Father on our behalf.  Paul is simply following Christ’s example in seeking reconciliation between two believers.
 
-| I have destroyed my people;
-|     they did not turn from their ways.
-| I have made their widows more in number
-|     than the sand of the seas
+Paul’s use of the situation offers a model and an example of pastoral ministering, counseling, and forgiveness.  When confronting someone, appeal to the love that they have known in Christ. Have confidence that if you are speaking to a Christian then the Lord will work love in them. We don’t need to manipulate one another. Just as in Colossians, we can hold out the gospel to one another, trusting that it is the only sufficient grounds for transformation.
 
-And it goes on, and on, and on, and on — for 30 chapters. So Jeremiah wails, chapter 6 verse 26:
+And Onesimus, for his part, is in the situation we are all in before God.  We can offer nothing to God.  We deserve punishment.  And we are desperately in need of his forgiveness.  We can only imagine how Onesimus must have felt when Paul told him he had to return to Philemon, or what it was like to carry that letter back to his employer.  Do you remember what it was like the first time you realized the depth of your sin and the justice of God’s wrath against you?  Paul’s little letter offers a good opportunity to meditate on that and call it to mind again.  *We need God’s condescending, self-lowering love in our own lives, offered to us only because Christ has met the demands of justice for all who repent and believe.  We need to be forgiven, and we need to forgive, if we would have true Christian faith.*
 
-| O daughter of my people, put on sackcloth,
-|     and roll in ashes;
-| make mourning as for an only son,
-|     most bitter lamentation,
-| for suddenly the destroyer
-|     will come upon us.
+## Conclusion
 
-As Hebrews 10:31 says, “It is a fearful thing to fall into the hands of the living God.”
+What then is the life of the Kingdom? It is a life that from first to last is marked by the grace that we have been shown in and through Christ. A grace that unites us, a grace that animates us, a grace that has changed us, so that we might indeed be a display of the glory of God, and Jesus words might be fulfilled, that all men would know that we are his disciples, because of our love for one another.
 
-But there is still one last theme in these chapters:
+[^1]: Pronounced “karis”
 
-### 5. Judgment as the Undoing of Creation
-
-The last theme we want to note is the character of God’s judgment. The judgment in Jeremiah isn’t simply the invasion of Judah. It may begin there, but goes much further. It is so complete, it is in fact an undoing of creation itself. Listen as I read from chapter 4.
-
-| I looked on the earth, and behold, it was without form and void;
-|     and to the heavens, and they had no light.
-| I looked on the mountains, and behold, they were quaking,
-|     and all the hills moved to and fro.
-| I looked, and behold, there was no man,
-|     and all the birds of the air had fled.
-| I looked, and behold, the fruitful land was a desert,
-|     and all its cities were laid in ruins
-|     before the Lord, before his fierce anger.
-
-Do you hear Genesis 1 in reverse? There is something cosmic, something primal in this judgment that goes well beyond the fate of one nation in the 6th Century BC. 4:28, “For this the earth shall mourn, and the heavens above be dark; for I have spoken; I have purposed; I have not relented, nor will I turn back.”
-
-## B. Jeremiah the Prophet
-
-Those are the themes of this first section. Now before going further, let’s look at Jeremiah the man. Think of our word “jeremiad.” It means “long and mournful complaint.” Usually with a negative connotation: the words of a pessimist, a prophet of doom and gloom. Is that Jeremiah?
-
-Jeremiah was a man of God in love with the word of God. He writes in 20:9,
-
-| If I say, “I will not mention him,
-|     or speak any more in his name,”
-| there is in my heart as it were a burning fire
-|     shut up in my bones,
-| and I am weary with holding it in,
-|     and I cannot.
-
-Sometimes we think of God’s inspiration as a gentle breeze carrying God’s messengers forward. Jeremiah experienced it as a driving hurricane, a consuming fire, an irresistible force!
-
-And God’s words earned Jeremiah enemies. Jeremiah records a plot against his life by the priests and false prophets in chapter 26, and he was arrested for treason in chapter 37 because he prophesied the Babylonians would win. The king, recognizing that Jeremiah was a true prophet, privately pulled him out of prison to ask if there is a word from the Lord. “Yes,” Jeremiah replied, “You shall be delivered into the hand of the king of Babylon.” Jeremiah, arrested, beaten, and on trial for his life, refused to compromise his message! Then Jeremiah challenged the king: “What wrong have I done to you or your servants or this people, that you have put me in prison? Where are your prophets who prophesied to you, saying, ‘The king of Babylon will not come against you and against this land’?” What courage!
-
-Jeremiah was driven to speak the judgment of God not out of a melancholy disposition, or clinical depression, but because he loved the word of God and was surrounded by sin. Jeremiah was a man of conviction.
-
-But back to what Jeremiah wrote.
-
-## C. The New Covenant: Jeremiah 31:31-37
-
-Happily, Jeremiah is not just about sin and judgment. In this harshest of prophecy, we see promise of God’s continuing plan of redemption. And it isn’t just a glimmer; this is one of the most spectacular passages of promise in all the prophets. We read the theological climax of the book in Jeremiah 31:31-34:
-
-> “Behold, the days are coming, declares the Lord, when I will make a new covenant with the house of Israel and the house of Judah, not like the covenant that I made with their fathers on the day when I took them by the hand to bring them out of the land of Egypt, my covenant that they broke, though I was their husband, declares the Lord. For this is the covenant that I will make with the house of Israel after those days, declares the Lord: I will put my law within them, and I will write it on their hearts. And I will be their God, and they shall be my people. And no longer shall each one teach his neighbor and each his brother, saying, ‘Know the Lord,’ for they shall all know me, from the least of them to the greatest, declares the Lord. For I will forgive their iniquity, and I will remember their sin no more.”
-
-Notice that in __verse 31__ God is promising a new covenant here. Remember the problem with the first covenant was not God, or the covenant, it was the people and their sinful hearts. The solution of the new covenant is simply: give them *new* hearts! And what makes the new covenant so superior to the old one is that now the law is *within* the people of God. It shapes their desires, wills, wants, and loves. Indeed, they love it.
-
-This becomes possible because God promises to forgive sins, as we heard in verse 34. Now that is good news! That is gospel! Those of us who have turned from their sin and trusted in Christ in this way do so only because, as we read in Jeremiah, God has given us new hearts. He has given us hearts and minds to love Him with, eyes to see and ears to hear the truth. And desires that are no longer enslaved to sin. But set free to pursue the delight of beholding the majesty of God in the face of Jesus Christ.
-
-Do you have this new heart? In New Testament terms, have you been born again? Christianity is not mere intellectual assent to things that happened one weekend outside of Jerusalem two thousand years ago. It is a regeneration of spiritually dead people into a dynamic relationship with the Holy One of the Universe. Is that what you experience? Stare with an intense gaze into the gospel of Jesus, because it is there that the glory of God shines forth, to rescue people out of darkness, redeem them from sin, and give new birth.
-
-And keep in mind how much more precious this message is having waded through the first 30 chapters of Jeremiah. If all we ever do is look at climax passages like this, we miss our own depravity that stands in sharp relief to the good news. Use Jeremiah to understand your own complete inability and unwillingness to follow the law of God apart from Christ. And then drink in chapter 31 as the good news it really is.
-
-## D. Judgment Against the Nations and The Destruction of Jerusalem: Jeremiah 46-52
-
-Well. We could spend much more time on chapter 31, as the New Testament authors do. But for the sake of time, let’s continue. In chapters 34-45, Jeremiah describes the final destruction of Jerusalem. And then chapters 46-51 are prophecies of judgment against other nations, including Egypt, the Philistines, Moab, Ammon, Edom, and a few others. Like the other prophets, Jeremiah condemns the gentile nations for pride, insolence, boasting, foolishness, for mistreating God’s people, for trusting in riches and military power. This section finally culminates with a lengthy proclamation of judgment against Babylon itself. Babylon was the instrument God used to exact his punishment on Judah, and Jeremiah had been accused of treason by prophesying Babylon’s victory. But Jeremiah is no traitor. He knows that even though God is using Babylon, Babylon is not guiltless. Babylon is condemned because she rejoiced in the downfall of God’s people (50:11). And because Babylon was guilty of cruelty, oppression, and murder against God’s people. Therefore Babylons overthrow was the “vengeance of the Lord,” (50:15). Babylon is God’s “war club” with which he shatters nations and kingdoms (51:20ff); nonetheless, God says, “I am against you, O destroying mountain,
-declares the Lord, which destroys the whole earth” (51:25). Though God judges his people, he will ultimately judge their oppressors as well. As Jeremiah says,
-
-| “For Israel and Judah have not been forsaken
-|     by their God, the Lord of hosts,
-| but the land of the Chaldeans [that is, the Babylonians] is full of guilt
-|     against the Holy One of Israel” (51:5).
-
-Finally, Jeremiah records the fulfillment of his main prophecy. We read in chapter 52: “On the ninth day of the fourth month the famine was so severe in the city that there was no food for the people of the land. Then a breach was made in the city, and all the men of war fled…[The Babylonians] burned the house of the Lord, and the king's house and all the houses of Jerusalem; every great house he burned down…So Judah was taken into exile out of its land.” The stay of God’s people in the promised land was seemingly at an end, and the nation has failed. So ends the prophecy of Jeremiah. Oh — except for the last few verses. Look at verses 31-34. Remember Jehoiachin? An earlier king of the line of David? He lives — and in fact, is invited to the king’s table. What an interesting way to end this chronicle of judgment. The seed of the woman, the seed of David, is still alive. God will still make good on his promises.
-
-# Lamentations
-
-Lamentations is set right after God has destroyed His own city, Jerusalem. In this poem Jerusalem is personified as a woman mourning for her lost children and has no one to comfort her.
-
-## Theme
-
-The message to those left behind after the destruction of the city is this:
-
-*We are in mourning because God has done this, even though it’s our fault. Now we need Him to change our hearts, for He will again comfort us.*
-
-Yes, I said that the focus of the book is that God has destroyed His city. The author makes that very clear in this book. This is another one of those books that is strong on the sovereignty of God. Nonetheless, it’s the people’s own fault that this has happened. Yet, as with every prophet, there is hope. And just like the book of Jeremiah, hope is held out in the prospect of receiving new hearts from God.  
-
-The book of Lamentations is highly structured. It’s a series of acrostic poems written in the rhythm of a funeral dirge. The overall structure puts the theme of God’s compassion, in chapter 3, in the center of the book, with discussions of sin and judgment on either end in chapters 2 and 4. We’ll finish our time together this morning by walking through these poems.
-
-## The City’s Sin and the Judge’s Wrath
-
-The first poem recounts the fall of Jerusalem, and the sins of the people that brought about God’s judgment. “How lonely sits the city, that was full of people!” he cries (v1). “Her foes have becomes the head, her enemies prosper” (v5). Worst of all, this desolation is deserved. “Jerusalem sinned grievously; therefore she became filthy; all who honored her despise her.” (v8).
-
-The second and fourth poems expand on the themes of sin and judgment, echoing much of what we saw in Jeremiah. “How the Lord in his anger has set the daughter of Zion under a cloud!” he says (2:1), “The Lord has swallowed up without mercy all the habitations of Jacob” (2:2). In the fourth poem the author says “The Lord gave full vent to his wrath; he poured out his hot anger, and he kindled a fire in Zion that consumed its foundations” (4:11).
-
-## The Compassion of God
-
-But in chapter 3, the middle of the poem, the theme changes and we read a meditation on God’s compassion and goodness. “But this I call to mind, and therefore I have hope: The steadfast love of the Lord never ceases; his mercies never come to an end; they are new every morning; great is your faithfulness…It is good that one should wait quietly for the salvation of the Lord” (3:21-26)
-
-A few verses later the author offers a meditation on the twin roles played by God’s sovereignty and human responsibility. “Is it not from the mouth of the Most High that good and bad come? Why should a living man complain, a man, about the punishment of his sins?” (v38-39). Both blessings and curses come from God, but we are responsible for our choices. There’s no apologetic for that; it’s just affirmed, and accepted.
-
-Finally, the fifth and final poem in chapter 5 ends with a recognition of God’s rightful kingship and a plea for his mercy. Verse 21:
-
-| “But you, O Lord, reign forever;
-|     your throne endures to all generations.
-| Why do you forget us forever,
-|     why do you forsake us for so many days?
-| Restore us to yourself, O Lord, that we may be restored!
-|     Renew our days as of old” (21-23)
-
-Even in the midst of God’s most severe judgment, God’s people may still turn to him in hope, plea for mercy, and look forward to renewal. This can be a message of great encouragement and solace in the midst of suffering.
-
-[^1]: Habakkuk 2:4
-[^2]: In fact, it was the Assyrians who invented the most brutal form of execution that humans have ever thought up: crucifixion.
-[^3]: Cf. for example Exodus 19:18; 20:5-7; 34:6f; Deuteronomy 32:35, 41.
-[^4]: Removed: “Incidentally, there’s some significant suspense here that doesn’t quite come through in our English Bibles. Take a look at verse 12. Do you see those little brackets around the words “O Judah”? Again around the words “Nineveh” in verse 14. That means those words aren’t actually there in the original text. They are implied and have been added in our translation for the sake of clarity. But in this promise of protection for God’s people and threatening of judgment for God’s enemies, God’s people aren’t explicitly identified until chapter 1, verse 15. And Nineveh isn’t identified as the enemy in view until chapter 2, verse 8 — almost halfway through the book. It seems that the focus of the early sections of the book is God and his character, regardless of who the individual actors might be.”
-[^5]: The teacher may at this time also want to recommend three reference books that any serious student of the Old Testament should have in their personal library: The New Bible Dictionary edited by Marshall, Millard, Packer, and Wiseman (published by IVP), The New Dictionary of Biblical Theology edited by Alexander, Rosner, Carson, and Goldsworthy (also published by IVP), and An Introduction to the Old Testament by Dillard and Longman (Zondervan). I suppose while we’re at it, we can add The Rose Book of Bible Charts, Maps & Time Lines [sic] (by Rose Publishing) to this list. These are great reference books for these sorts of historical and biblical-theological issues.
+[^2]: I wouldn’t waste time repeating this summary, which is also in the handout.  But it’s reprinted here so you know what your class is looking at.
