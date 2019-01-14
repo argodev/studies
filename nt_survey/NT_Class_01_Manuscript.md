@@ -27,9 +27,9 @@ In that one sentence, your concept of the entire Old Testament is blown apart an
 
 ## Welcome
 
-Welcome to the New Testament Overview Core Seminar class.  This week  is the first of a 26 week overview of the New Testament.  You can see what each of these weeks will cover on the back of your handout.  Many of you have been attending the Old Testament overview class, which takes as its theme "The Kingdom of God" and the Promises God made to His People.  The New Testament overview picks up that theme by studying both "The King and the Kingdom" and the Promises God has Kept to His people.  Our hope is to demonstrate the continuity of themes across the span of scripture, just as we saw in Luke 4, the continuity from the Prophet Isaiah to Jesus Christ.
+Welcome to the New Testament Overview Core Seminar class.  This week  is the first of a 15 week overview of the New Testament.  You can see what each of these weeks will cover in your handout.  Some of you have attended the Old Testament overview class, which takes as its theme "The Kingdom of God" and the Promises God made to His People.  The New Testament overview picks up that theme by studying both "The King and the Kingdom" and the Promises God has Kept to His people.  Our hope is to demonstrate the continuity of themes across the span of scripture, just as we saw in Luke 4, the continuity from the Prophet Isaiah to Jesus Christ.
 
-Today we will discuss the structure and purpose of the New Testament Overview class, and then I’ll run through the whole New Testament twice: once to overview the types of literature we’ll encounter in this course, and a second time to paint a picture of the message of the entire New Testament.
+Today we will discuss the structure and purpose of the New Testament Overview class, and then I’ll run through the whole New Testament twice: once to overview the types of literature we’ll encounter in this course, and a second time to paint a picture of the message of the entire New Testament. Finally, we'll jump into Hebrews as it provides one of the clearest links between the Old and New testaments.
 
 ## Purpose and Summary of Course
 
@@ -63,7 +63,7 @@ Luke, Acts, Romans, 1 & 2 Corinthians, 1 & 2 Timothy, 1 & 2 Thessalonians, Titus
 
 - 13 letters of Paul
 - Hebrews (unknown authorship but “Timothy our brother” 13:23 places him within the Pauline Circle),
-- Luke / Acts (It is clear that Luke is part of Paul’s circle: note the “we passages)
+- Luke / Acts (It is clear that Luke is part of Paul’s circle: note the "we" passages)
 
 ### Johannine Circle
 
@@ -75,7 +75,7 @@ And yet with a number of human authors, we see a unity in both the NT and OT Scr
 
 ## Genre
 
-So, what exactly did God inspire?  Not a single style or a single genre, but a diversity of writing and perspective that contains the unity of his word.  I’m going to run through the three genres of the New Testament—taking us from Matthew to Revelation—as we look through the three basic genres.  Those would be the Gospels (including Acts as a continuation of Luke), the Epistles (or letters), and the apocalyptic literature (Revelation, which is also a letter).  We’ll start with the Gospels.
+So, what exactly did God inspire?  Not a single style or a single genre, but a diversity of writing and perspective that contains the unity of his word.  I’m going to run through the three genres of the New Testament—taking us from Matthew to Revelation—as we do so. Those would be the Gospels (including Acts as a continuation of Luke), the Epistles (or letters), and the apocalyptic literature (Revelation, which is also a letter).  We’ll start with the Gospels.
 
 ### Gospel / Acts
 
@@ -110,11 +110,11 @@ Well, there is one final genre we find in the New Testament, and it is confined 
 
 Well, those are the types of books you can expect to find in the New Testament.  But what is the message that they communicate all together?  In short, if we can summarize the message of the Old Testament as Promises Made, the New Testament is about how God has kept those promises.
 
-It would be a tragedy for us to spend 26 weeks studying the New Testament, gaining the ability to understand the different genres, the occasion and audience of each Epistle, why the Gospels are not modern biographies, and yet miss the entire point of the New Testament which is to understand that God has kept his promises of the Old Testament in Christ and therefore we can trust him.  As our pastor, Mark Dever, put it:
+It would be a tragedy for us to spend 15 weeks studying the New Testament, gaining the ability to understand the different genres, the occasion and audience of each Epistle, why the Gospels are not modern biographies, and yet miss the entire point of the New Testament which is to understand that God has kept his promises of the Old Testament in Christ and therefore we can trust him.  As Mark Dever, pastor of Capitol Hill Baptist Church put it:
 
 > “The point of the New Testament, indeed, the point of the whole Bible, is that God has made promises to us, he has kept those promises to us, and we are called to trust him because he is the keeper of promises! God has revealed himself to humanity through his promises. And that is why faith is so important. At the end of the day, the Bible does not lie on the shelf like a passive object for us to investigate. At the end of the day, it turns and looks at us and says, will you believe and trust?”
 
-As we study the New Testament we will see through whom God fulfilled His promises [Christ], to whom He has fulfilled His promises [the New Covenant People], and what ultimate fulfillment of those promises will entail [the New Creation]. So we will spend the rest of our time today going back through the sections of the NT we have just considered, but this time around we are going to think about the NT through the lens of promises God has made, has kept, and will continue to keep.
+As we study the New Testament we will see through whom God fulfilled His promises (__Christ__), to whom He has fulfilled His promises (__the New Covenant People__), and what ultimate fulfillment of those promises will entail (__the New Creation__). So we will spend the next bit of our time today going back through the sections of the NT we have just considered, but this time around we are going to think about the NT through the lens of promises God has made, has kept, and will continue to keep.
 
 ### Christ
 
@@ -146,7 +146,7 @@ All of these letters are the manual of life for God’s new covenant people.  Th
 
 So the New Testament is about Christ, about his new covenant people, and about the final fulfillment of his promises.  Christ instructs His disciples to pray, “Thy kingdom come. Thy will be done on earth as it is in heaven.” Since the dawn of Creation, God has been about having creatures, made in His Image, worshiping Him as they properly image Him. Sin, and God’s right wrath against sin, broke this perfection.  Yet the story of the Bible, the story of this Creation we see coming to a conclusion through Christ, is God establishing a new Kingdom which doesn’t just replace Eden but surpasses it.  And so the New Testament concludes with a vision of this future.
 
-John’s vision of the future New Creation in Revelation sees God’s people living in God’s city for eternity.  To quote our pastor, “The end will be like the beginning, only better. The Garden of Eden, in some sense, will be restored. God will dwell with his people. The whole heavenly city is presented in Revelation as a perfect cube, which recalls the Most Holy Place in the Old Testament temple. The Most Holy Place, which represented the presence of God on earth, was also in the shape of a cube. Only now, this heavenly cube is not restricted to the high priests once a year, as in ancient Israel. Rather, all the children of God will enter his presence, and we will live there with him forever!” (Message of the New Testament, 32)
+John’s vision of the future New Creation in Revelation sees God’s people living in God’s city for eternity.  To again quote Dever, “The end will be like the beginning, only better. The Garden of Eden, in some sense, will be restored. God will dwell with his people. The whole heavenly city is presented in Revelation as a perfect cube, which recalls the Most Holy Place in the Old Testament temple. The Most Holy Place, which represented the presence of God on earth, was also in the shape of a cube. Only now, this heavenly cube is not restricted to the high priests once a year, as in ancient Israel. Rather, all the children of God will enter his presence, and we will live there with him forever!” (Message of the New Testament, 32)
 
 The New Testament and the entire Bible helps us to understand the past, ourselves and the lives we live today, the future, and how we are to relate to God. If you have thought of Scripture as only addressing one of those categories, I hope you will continue attending this class as we unpack the inestimable riches of God’s promises made and kept in the Scriptures. 
 
