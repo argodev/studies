@@ -158,7 +158,7 @@ God has made lavish promises in the Old Testament.  Today, we live in that gap i
 
 Wait you’re thinking, isn’t this the introduction to New Testament class? Why did you just quote from the Psalms? Well, first you are in the New Testament class, and I didn’t exactly quote from Psalm 40, but from Hebrews 10 in which the writer quotes that Psalm of David as the writer connects the substitutionary atonement of Christ with the Old Testament sacrificial system which pointed to Christ.
 
-Now the next thing you’re thinking is, did I just miss about 15 weeks of the New Testament? If last week was the introductory class, why did we just skip over all the Gospels, Acts, and all the letters of Paul? Well, in many ways the book of Hebrews is the doorway from the Old Testament to the New, and is therefore foundational to understanding the New Testament. The writer of Hebrews references and expounds on many Old Testament passages including: 2 Sam 7 and Deut 32 (1:1-2:4), Ps. 8:4-6 (2:5-18), Ps. 95:7-11 (3:1-4:13), Ps. 110:4 (4:14-7:28), Jer. 31:31-34 (8:1-10:18), Ps. 40:6-8 (10:1-10), Hab. 2:3-4 (10:32-12:3), Prov. 3:11-12 (12:4-13), and Ex. 19, 20 12:18-29).
+Now the next thing you’re thinking is, did I just miss about 15 weeks of the New Testament? If we just covered the introduction, why did we just skip over all the Gospels, Acts, and all the letters of Paul? Well, in many ways the book of Hebrews is the doorway from the Old Testament to the New, and is therefore foundational to understanding the New Testament. The writer of Hebrews references and expounds on many Old Testament passages including: 2 Sam 7 and Deut 32 (1:1-2:4), Ps. 8:4-6 (2:5-18), Ps. 95:7-11 (3:1-4:13), Ps. 110:4 (4:14-7:28), Jer. 31:31-34 (8:1-10:18), Ps. 40:6-8 (10:1-10), Hab. 2:3-4 (10:32-12:3), Prov. 3:11-12 (12:4-13), and Ex. 19, 20 12:18-29).
 
 Hebrews acts as God’s commentary on the Old Testament as it beautifully casts the scripture and history of Israel in the light of Christ.  Christ is the main point of the Old Testament; it is to him that the entire sacrificial system points.  And there are few places in Scripture that make this point better than the book of Hebrews.  If you want to understand the rich backdrop that the Old Testament provides for the life and work of Christ, if you want in fact to understand your Old Testament, Hebrews is a great place to start.  And, here is where we will take our first look at the coming of God's kingdom.
 
@@ -263,7 +263,7 @@ Hebrews is all about perseverance in faith, hope and love through our knowledge 
 
 ## Dangers in our struggle to persevere
 
-In Messages of the New Testament, Mark gives seven dangers that the writer of Hebrews lays out throughout the book to warn these struggling Christians. We will conclude our time today considering these dangers.
+In *Messages of the New Testament*, Dever gives seven dangers that the writer of Hebrews lays out throughout the book to warn these struggling Christians. We will conclude our time today considering these dangers.
 
 1. Ignoring what God has done in Christ
    “We must pay more careful attention, therefore, to what we have heard, so that we do not drift away.” (2:1) God’s Word must be studied carefully, particularly what it has to say about Christ and what He has done.
