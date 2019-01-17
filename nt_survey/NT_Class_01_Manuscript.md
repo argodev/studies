@@ -284,4 +284,4 @@ Will you heed the message of Hebrews, will you believe in Christ, will you trust
 
 ## What’s Next Week?
 
-We will be looking at the 5 depictions of the king in the Gospels & Acts, and what the Gospels say to God’s people as a whole.
+We will be looking at the 5 depictions of the king in the Gospels & Acts, and what the Gospels say to God’s people as a whole. We will then dive into the book of Matthew.
