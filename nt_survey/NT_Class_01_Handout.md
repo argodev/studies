@@ -13,114 +13,123 @@ fontfamily: libertine
 fontfamilyoptions: sfdefault
 ---
 
-# Introduction to the Old Testament
+# Introduction to the New Testament: The Covenant Kingdom
 
-_Why study the Old Testament?_
+And he stood up to read. The scroll of the prophet Isaiah was handed to him. Unrolling it, he found the place where it is written: "*The Spirit of the Lord is on me, because he has anointed me to preach good news to the poor.  He has sent me to proclaim freedom for the prisoners and recovery of sight for the blind, to release the oppressed, to proclaim the year of the Lord's favor.*” Then he rolled up the scroll, gave it back to the attendant and sat down. The eyes of everyone in the synagogue were fastened on him, and he began by saying to them, __“Today this scripture is fulfilled in your hearing."__ (Luke 4:16b-21)
 
-1. It teaches us about God
+## I.  Introduction
 
-1. It tells us about Christ
+## II.  Purpose and Summary of the Course
 
-   1. Historical and thematic context
-   1. Allusions and quotations
-   1. Fulfilled in Christ
+## III.  Authorship of the New Testament
 
-# Historical Overview of the Old Testament
+- Petrine Circle
 
-Rough Storyline
+- Pauline Circle
 
-## The Histories
+- Johanine Writings
 
-- Genesis
-- Exodus
-- Leviticus
-- Numbers
-- Deuteronomy
-- Joshua
-- Judges
-- Ruth
-- 1 & 2 Samuel
-- 1 & 2 Kings
-- 1 & 2 Chronicles
-- Ezra
-- Nehemiah
-- Esther
+## IV. Genre
 
-## The Writings
+- Gospels and Acts
 
-- Job
-- Psalms
-- Proverbs
-- Ecclesiastes
-- Song of Songs
+- Epistles
 
-## The Prophets
+- Revelation
 
-- Isaiah
-- Jeremiah
-- Lamentations
-- Ezekiel
-- Daniel
-- Hosea
-- Joel
-- Amos
-- Obadiah
-- Jonah
-- Micah
-- Nahum
-- Habakkuk
-- Zephaniah
-- Haggai
-- Zechariah
-- Malachi
+## V. The Message of the New Testament
 
-# The Story of Sin and Holiness
+- God fulfilled His promises through *Christ*
 
-We cannot deal with sin ourselves
+- God fulfilled His promises to *the New Covenant People*
 
-How sin perverts God's good purposes for his people (Ezekiel 36)
+- God will ultimately fulfill His promises in *the New Creation*
 
-Atonement
 
-- Old Testament reveals more and more about sacrifice
-  - Abel’s sacrifice
-  - Noah’s sacrifice pleases God
-  - Abraham’s sacrifice of a substitute
-  - Passover sacrifice turns aside God’s wrath
-  - Levitical sacrifices show a penal substitute
-  - Day of Atonement shows restoration of relationship
-- What the concept of sacrifice teaches us about God and ourselves
-- The ineffectual nature of Old Testament sacrifice (Psalm 51:4, Psalm 40:6, Hosea 6:6, Hebrews 10:1-3)
-- The Old Testament bookended with the curse (Genesis 3, Malachi 4:6)
+# The Kingdom Comes: The Book of Hebrews
 
-The "riddle of the Old Testament"
+“Sacrifice and offering you did not desire, but a body you prepared for me; with burnt offerings and sin offerings you were not pleased. Then I said, ‘Here I am — it is written about me in the scroll—I have come to do your will, O God.’” (Psalm 40:6-8 AND Hebrews 10:5-7)  
 
-> "The Lord, the Lord, the compassionate and gracious God, slow to anger, abounding in love and faithfulness, maintaining love to thousands, and forgiving wickedness, rebellion and sin.  Yet he does not leave the guilty unpunished..." (Exodus 34:6-7)
+## I.  Purpose and Background
 
-# The story of the promise
+## II. Theme and Key Points
 
-The promise to Adam and Eve
+Overarching theme: the supremacy and finality of Jesus Christ.  
 
-> "I will put enmity between you and the woman, and between your offspring and hers; he will crush your head, and you will strike his heel" (Genesis 3:15)
+ “He has appeared once for all at the end of the ages to do away with sin by the sacrifice of himself”
+(9:26; see also 1:2. 5:9; 12:22-24)
 
-The promise to Noah
+## III. Outline of book
 
-The promise to Abraham (Genesis 12:2-3)
+A. Superiority of Who Jesus Is (Ch. 1-7)
+B. Supremacy of What Jesus Has Done (Ch. 8-10:18)
+C. A Life-Transforming Hope (Ch. 10:19-13)
 
-Salvation through Joseph
+### We see the supremacy and finality of Christ in: 
 
-Salvation from Egypt
+A. The Superiority of Who Jesus Is (Chapters 1-7)
 
-Law and rebellion
+   1. Jesus greater than the angels (1:4-2:18)
 
-The promise to David (2 Sam. 7:11-16)
+      - Jesus is God’s Son
 
-Unfaithfulness of the people and their leaders
+      - Jesus is fully human
 
-The promise of the new covenant (Jer. 31:31-34)
+   2. Jesus greater than Moses (3:1-4:13)
 
-Salvation from the exile yet the new covenant is not yet here
+      - Moses was a servant; Jesus is the Son
 
-# Conclusion
+      - Israel disobeyed Moses; do not disregard Jesus
 
-Does the Old Testament make any progress in God’s plan to redeem his people?
+   3. Jesus greater than the Levitical Priesthood (4:14-7:28)
+
+      - Jesus is eternal
+
+      - Jesus is perfect
+
+B. The Supremacy of Jesus’ Work (Chapters 8-10:18)
+
+   1. The New Covenant
+
+   2. The Sacrifice of Christ
+
+C. A Life-Transforming Hope (Chapters 10:19-13)
+
+   1. Faith (10:39 and Ch. 11)
+
+   2. Perseverance (12:1-12)
+
+   3. Hope (12:18-24)
+
+   4. Love (13:1, 12-13)
+
+| | Old Covenant | New Covenant |
+|-------|-----------|-----------|
+| Priesthood | Levitical (7:11) | Melchizedek (7:1-22) |
+| High Priest | High Priests (Aaron, etc.) | Jesus Christ |
+| Tenure of High Priest | Death Limits Term (7:23) | Forever (7:17) |
+| Kind of Sacrifice | Blood of Bulls and Goats   (9:13, 10:4) | Blood of Jesus (9:14, 10:10) |
+| Location of Sacrifice | Earthly Tabernacle (9:1-8) | Heavenly Sanctuary (9:24) |
+| Frequency of Sacrifices | Continual (10:1, 11) | Just Once (9:28, 10:12) |
+| Effect | Annual Reminder of Sins (10:3) | Permanent Forgiveness of Sins (10:18) |
+| Purpose | Ceremonial Cleanness (9:10) | A Cleansed Conscience / A New Heart (9:14/10:16) |
+
+# Class Outline
+
+Week / Subject
+
+1. Overall introduction / The Covenant Kingdom; Hebrews / The Kingdom Comes
+2. Gospels & Acts intro / The supremacy of the King; Matthew / The Promised King
+3. Mark / The Servant King
+4. John / The Divine King
+5. Luke / The Savior King
+6. Acts / The Kingdom expands; Paul intro / Truths of the Kingdom
+7. Romans / The Subjects of the King
+8. 1 Corinthians / The Foolishness of the Kingdom; 2 Corinthians / The Weakness of the Kingdom
+9. Philippians / The fellowship of the Kingdom; 1 Timothy / The Leaders of the Kingdom
+10. Titus / The Consistency of the Kingdom; 2 Timothy / The Continuation of the Kingdom
+11. Ephesians / The Glory of the Kingdom; Colossians, Philemon / The sufficiency of the King
+12. Galatians / The Enemies of the Kingdom (Legalism); James / The Wisdom of the Kingdom
+13. 1 Peter / The Enemies of the Kingdom (Persecution); 2 Peter & Jude / The Enemies of the Kingdom (License)
+14. 1,2,3 John / The Love of the Kingdom; 1 Thessalonians
+15. 2 Thessalonians / The consummation of the Kingdom, Revelation / The victory of the Kingdom
