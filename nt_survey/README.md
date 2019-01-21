@@ -24,3 +24,9 @@ consider the [original materials available on their website](http://www.capitolh
 |        | 4/21 | Easter |  |
 | 14     | 4/28 | 1, 2, 3 John, 1 Thessalonians | 23 1, 2, 3 John <br> 24 1 Thessalonians |
 | 15     | 5/05 | 2 Thessalonians, Revelation | 25 2 Thessalonians <br> 26 Revelation |
+
+## Referfence Resources
+
+- [The New Testament Documents - Are They Reliable?](https://amzn.to/2W7R6D1) F.F. Bruce
+- [THe Historical Reliability of the Gospels](https://amzn.to/2FOEzi7) Craig L. Blomberg
+
