@@ -13,170 +13,139 @@ fontfamily: libertine
 fontfamilyoptions: sfdefault
 ---
 
-# Section 1: Genesis 1-11
+# Introduction to the Gospels & Acts
 
-Why study Genesis?
+I. Introduction
 
-Historical Context
+II. What is a Gospel?
 
-Redemptive-Historical Context
+    A. Not a modern biography
 
-### Theme
+    B. Not an ancient biography
 
-_God reveals his character through the world he has created._
+    C. Not like Gnostic Gospels
 
-Summary
+III. The Life of Christ
 
-## Genesis 1 & 2 (Creation)
+     A. Preview of Who Jesus is
 
-_There exists an eternal and self-sufficient God, who by sheer verbal fiat has created the universe and all that is in it, in order to display his glory._
+     B. John the Baptist’s Birth
 
-### Who Is God? – Genesis 1:1-25
+     C. Early Years of Christ
 
-- God is eternal
-- God is self-sufficient
-- God created the universe by the power of His word
-- God is good
+     D. Ministry of John the Baptist
 
-### Who Are We? – Genesis 1:26-31
+     E. Conclusion of John the Baptist’s ministry and Beginning of Christ’s
 
-- Human beings are created in the image of God.
-- Human beings are to image God.
-- Human beings are to exercise lordship and care for the earth.
+     F. Christ’s Ministry in Galilee- Parables
 
-### What Is the World? – Genesis 2:1-3
+     G. Christ’s Ministry around Galilee
 
-- The world was created as a place of rest and peace.
+     H. Later Judean Ministry
 
-### How Are We to Relate to Each Other? – Genesis 2:18-25
+     I. Ministry around Perea
 
-- Men and women were created to have a restful, peaceful relationship with each other.
+     J. Passion Week
 
-### How Are We to Relate to God? – Genesis 2:15-17
+     K. Post-Resurrection and Ascension
 
-- Human beings were created to have a relationship with God, in obedience and worship.
+IV. Four Portraits, One Jesus
 
-### What Is Missing if The Bible Stopped at Genesis 2?
+    A. Matthew: Jesus the Promised King
 
-## Genesis 3:1-24 (The Fall)
+    B. Mark: Jesus the Servant King
 
-_But mankind’s first parents choose to set themselves up as equals with God, disobeying him and incurring the just wrath of God.  While expelled from that pristine fellowship with God, they do not receive the complete wrath they deserve, for God has already begun a plan to overturn the curse of sin by placing enmity between the seed of the serpent and the seed of the woman._
+    C. Luke: Jesus, the Savior King
 
-### The Prohibition – Genesis 2:15-17
+    D. John: Jesus, the Divine King
 
-### The Fall and Immediate Plan of Redemption – Genesis 3:1-24
+V. Why Four Gospels?
 
-Three levels of enmity:
+   A. A sacrifice-based faith
 
-- Between the serpent and the woman
-- Between the serpent’s seed and the woman’s seed
-- Between the One seed of the woman and the serpent
+   B. An event-based faith
 
-## Genesis 4-5 (Cain, Abel, and the Wages of Sin)
+   C. A person-based faith
 
-_As generations continue, the sin resident in the hearts of mankind goes from bad to worse (yet the seed of the woman continues)..._
+# Matthew
 
-- The rest of the Bible: the outworking of Genesis 3:15
-- "...and then he died."
+> “But all this has happened so that the writings of the prophets would be fulfilled.” (Matt. 26:56)
 
-## Genesis 6:1-9:17 (The Flood)
+1. Introduction:  Was Jesus A Religious Inventor?
 
-_...and even partial judgment of the world does not end the world of sin._
+2. Background
 
-- Wrath: un-creation
-- Grace: re-creation
+   |              |                                  |
+   |--------------|----------------------------------|
+   | __Author__   | Mathew the Apostle               |
+   | __Source__   | Eyewitness                       |
+   | __Date__     | 60-80 AD, probably pre-70 AD     |
+   | __Audience__ | Largely Jewish readers           |
+   | __Style__    | Systematic, orderly thinking     |
+   | __Theme__    | Jesus, the promised King/Messiah |
 
-### Typology
+3. Outlines
 
-## Genesis 10-11 (Humanity After the Flood)
+   a. Introduction (1:1-4:11)
+   b. Galilee (4:12-18:35)
+   c . Judea (19:1-20:34)
+   d. Jerusalem (21:1-28:15)
+   e. Galilee (28:16-20)
 
-_And so rebellion against God continues._
+   | Section    | Context                       | Discourse                      |
+   |------------|-------------------------------|--------------------------------|
+   | Chs. 1-2   | Genealogy and Birth           | N/A                            |
+   | Chs. 3-7   | Early Ministry                | Sermon on the Mount            |
+   | Chs. 8-10  | Miracles                      | Disciples’ Mission/Persecution |
+   | Chs. 11-13 | Rising Opposition             | Parables of the Kingdom        |
+   | Chs. 14-18 | Jesus’ Identity: Son of David | Church Instruction             |
+   | Chs. 19-25 | Road to the Cross             | End Times                      |
+   | Chs. 26-28 | Crucifixion and Resurrection  | N/A                            |
 
-## Study Outline for Genesis 1-11
+4. The Message of Matthew
 
-i. Genesis 1:1-2:3
+   1. __The Identity of the King__: Genealogy and Birth (Chs. 1-2)
 
-    The Telling of the Seven Days of Creation
+   2. __Early Ministry and Teaching__
 
-i. Genesis 2:4-4:26
+      i. The Preparation of the King (Chs. 3-4)
 
-    The Dawn of Humanity: 2 Seeds
+      ii. __Discourse #1__: The Precepts of the King: The Sermon on the Mount (Chs. 5-7)
 
-i. Genesis 5:1-6:8
+   3. __Miracles and Persecution__
 
-    The Descendants of Adam and Their Sin
+      i. The Power of the King: Demonstration (Chs. 8-9)
 
-i. Genesis 6:9-9:29
+      ii. __Discourse #2__: The Power of the King: Delegation (Ch. 10)  
 
-    The Punishment for Sin: Un-Creating the Universe... and Grace: Re-Creating the Universe
+   4. __Rising Opposition__
 
-i. Genesis 10:1-11:9
+      i. The Surprising Nature of the King (Chs. 11-12)
 
-    Humanity after the Flood: Still Sinful
+      ii.  __Discourse #3__: The Surprising Nature of the Kingdom (Ch. 13)  
 
-i. Genesis 11:10-26
+   5. __Jesus’ Identity: Son of David__
 
-    The Seed of the Woman Continues On
+      i. The Identity of the King (Chs. 14-17)
 
-# Section 2: Genesis 12-50
+      ii.  __Discourse #4__: The Church of the King (Ch. 18)  
 
-### Context
+   6. __Road to the Cross__
 
-- Historical Context
-- Redemptive-Historical Context
+      i. The Final Resolve of the King (Chs. 19-23)
 
-### Theme
+      ii. __Discourse #5__: The Future Return of the King (Chs. 24-25)
 
-_God is making a gracious covenant with one man and his descendants which will bless the entire world.  In this covenant God has promised to be their God and that they will be His special people, that they will live in the place of His choosing, and that they will enjoy a unique relationship with Him, under His rule._
+   7. __The Passion of the King__: Crucifixion and Resurrection (Chs. 26-28)
 
-The Kingdom: God’s people in God’s place under God’s rule
+5. __Responses to Jesus__
 
-### God’s Place – Genesis 12:1, 6-7
+   a. Faith
 
-### God’s People – Genesis 12:2-3, 15:1-6
+   b. Faith, yet confusion and slow growth
 
-- Faith
+   c. Rejection
 
-### God’s Rule – Genesis 15:7-21
+## How will you respond to Jesus, the Promised King?
 
-- Covenant
-
-### Is Isaac the Seed?
-
-### Is Esau the Seed?...Or is Jacob?
-
-### Election – Genesis 25:19-34
-
-- Grace
-
-### Is Joseph the Seed?
-
-### Sovereignty of God – Genesis 45:4-7; 50:18-21
-
-### Judah’s Descendant Will Be The Seed! – Genesis 49:8-12
-
-### But look where we end: “in a coffin in Egypt.”
-
-## A Study Outline for Genesis 12-50
-
-i. Genesis 11:27-25:11[^1]
-
-    God’s promises to Abraham & sons, Isaac and Ishmael
-
-i. Genesis 25:12-18
-
-    Ishmael’s descendants
-
-i. Genesis 25:19-35:29
-
-    God’s promises to Isaac & sons, Jacob and Esau
-
-i. Genesis 36
-
-    Esau’s descendants
-
-i. Genesis 37-50
-
-    God’s promises to Jacob & sons; focus on Joseph
-
-[^1]: Notice that the longer sections, I, III, and V, focus on the lineage through which the Savior will come, while section II and IV are brief excursuses.
+> Matt. 11:28-29:  “Come to me, all of you who are weary and burdened, and I will give you rest. Take up my yoke and learn from me, because I am lowly and humble in heart, and you will find rest for your souls”
