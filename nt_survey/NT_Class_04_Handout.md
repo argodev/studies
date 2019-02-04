@@ -13,121 +13,82 @@ fontfamily: libertine
 fontfamilyoptions: sfdefault
 ---
 
-# Leviticus
+# John: Who is tghe King? The Son of God
 
-## Context
+> John 20:30-31 Jesus performed many other signs in the presence of his disciples that are not written in this book. But these are written so that you may believe that Jesus is the Messiah, the Son of God, and that by believing you may have life in his name.
 
-- Historical Context
+1. Author and Date
 
-    Mid 15th century BC
+2. Composition and Outline
 
-    Still at the foot of Mount Sinai
+   a. Prologue | *The King, Eternal and Incarnated (1:1-18)*
 
-    At/In the tabernacle
+   b. Public Ministry | *Presentation of the King (1:19-12:50)*
 
-- Redemptive-Historical Context
+   c. Private Ministry | *The King’s Preparations (13:1-17:26)*
 
-    Promises are being fulfilled!
+   d. Passion | *The King’s Death and Resurrection (18:1-20:29)*
 
-    Israel getting ready to enter the land Yahweh has promised.
+   e. Epilogue | *Follow the King (21:1-25)*
 
-    Israel instructed in how to be holy.  
+3. The Message of John
 
-## Theme
+   a. What We Should Believe
 
-_Yahweh is holy, and therefore His people must be holy too._
+      1. Jesus is God
 
-## The Offerings at the Tabernacle – Leviticus 1-7
+         a) The Son of God
 
-## Regulations for Aaron and His Sons – Leviticus 8-10
+         b) “I AM”
 
-## Yahweh Will Show Himself Holy – Leviticus 9:22-10:3
+      2. What Jesus Came to Do
 
-## The Holiness Code – Leviticus 11-15, 18-27
+         a) To expose misunderstanding and disobedience (5:17)
 
-- What makes some things holy, and other things not?
+         b) To provide a sacrifice for the salvation of sinners (6:53-54)
 
-- Are we still to obey these laws?
+         c) To be glorified by the Father (17:1)
 
-## The Day of Atonement – Leviticus 16
+   b. Why We Should Believe
 
-## A Study Outline for Leviticus
+      1. The Signs
 
-i. Leviticus 1-15 – LAW*
-    a. Chapters 1-7: Offerings
-    a. Chapters 8-10: Obedience of Priesthood
-    a. Chapters 11-15: Separation from the Unclean
-i. Leviticus 16-17 – GRACE
-    a. The Day of Atonement
-i. Leviticus 18-27 – HOLINESS
-    a. Ethical Purity of the People & Religious Festivals
+         a) Water into wine at Cana (2:1-11)
 
-*Notice that the flow of the book follows a real gospel train of thought:  First there are laws to tell the Israelites how they might approach Yahweh (part I).  But when they fail in their obedience, provision is made for them in the form of a substitutionary sacrifice (part II).  Then, from that position of forgiveness and grace, the people are called to live holy lives (part III).
+         b) Healing of the official’s son (4:43-54)
 
-# Numbers
+         c) Sabbath healing at the pool (5:1-15)
 
-## Context
+         d) Feeding of the 5,000 (6:1-15)
 
-- Geographical context – God’s people on the move
-  - 1-10: Packing up at Sinai
-  - 11-12: Journeying to Kadesh
-  - 13-19: Wandering in Paran
-  - 20-21: Journeying to Moab
-  - 22-36: Preparing in Moab
+         e) Walking on water (6:16-24)
 
-- Historical Context – God’s promises to Abraham
-  - People – Genesis 13v15
-  - Place – Genesis 12v2
-  - Presence – Genesis 15v1
-  - Blessing to nations – Genesis 12v3
+         f) Healing of the man born blind (9:1-12)
 
-## Theme sentence
+         g) Raising of Lazarus from the dead (11:38-44)
 
-_Past promises will prevail in spite of present problems_
+      2. What Believing Means
 
-## God’s preparation preserves his promises – Numbers 1-10
+         a) To “receive” Jesus (1:12-13)
 
-People – 1v46 (2v32) and 4v48
+         b) God works sovereignly in us (6:37)
 
-Place - 10v33
+         c) We trust his words (5:39)
 
-Presence - 5-6, 7, 8v5 and 9v15-18 (John 14v16-18)
+         d) We believe in Jesus (11:25-26)
 
-Blessing to nations? – 10v29 (Galatians 3v14)
+         e) We love and obey Jesus (16:27, 14:21)
 
-## God’s punishment preserves his promises – Numbers 11-16
+   c. The Results of Believing
 
-Complaining:
+      1. Salvation (3:17)
 
-- at hardships (11v1)
-- at food (11v13)
-- at Moses (12v1)
-- at God! (13v31-33, 14v1-7)
+      2. Life (6:33, 10:10)
 
-### People’s Unbelief = God’s Punishment (14v10-12, v21-23)
+      3. Eternal Life (10:28, 17:3)
 
-People – 14v23 vs. 14v31
+      4. Love (13:34-35)
 
-Place – 14v25 (Hebrews 3v12-19)
+4. Conclusion: The Story of Nicodemus
 
-Presence – 15, 16v41-42
-
-Blessing to nations?
-
-## God’s patience preserves his promises – Numbers 17-36
-
-More disbelief:
-
-- against God’s word (17v13)
-- from Moses (20v8-12)
-- against Moses (21v4)
-
-### People’s Unbelief leads to God’s Patience (21v6-9)
-
-People – 26v51
-
-Place – 27, 32, 34, 36
-
-Presence – 29v1
-
-Blessing to nations? – 21, 22-24, 31, 24v9
+> Do you believe Jesus is the Son of God?
