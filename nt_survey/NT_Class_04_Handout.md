@@ -13,7 +13,7 @@ fontfamily: libertine
 fontfamilyoptions: sfdefault
 ---
 
-# John: Who is tghe King? The Son of God
+# John: Who is the King? The Son of God
 
 > John 20:30-31 Jesus performed many other signs in the presence of his disciples that are not written in this book. But these are written so that you may believe that Jesus is the Messiah, the Son of God, and that by believing you may have life in his name.
 
@@ -88,7 +88,3 @@ fontfamilyoptions: sfdefault
       3. Eternal Life (10:28, 17:3)
 
       4. Love (13:34-35)
-
-4. Conclusion: The Story of Nicodemus
-
-> Do you believe Jesus is the Son of God?
