@@ -13,228 +13,130 @@ fontfamily: libertine
 fontfamilyoptions: sfdefault
 ---
 
-# Ruth
+# Acts: The Risen King
 
-## Context
+> “But you will receive power when the Holy Spirit has come on you, and you will be my witnesses in Jerusalem, in all Judea and Samaria, and to the end of the earth.” – Acts 1:8
 
-- The time of the Judges
+## Introduction: "To the ends of the earth..."
 
-- Redemption History:  a king is coming!
+## Background
 
-__Theme:__  _God sovereignly orchestrates all things - even trials - for the good of His people, who He will one day redeem through the perfect rule of the kinsman King._
+- Authorship & Date
 
-## I. The Bitterness of Sin—Ruth 1:11-12, 20
+- Purpose
 
-## II. The Kindness of Kinsman Redemption—Ruth 4:9-10
+## The Power of Kingdom Expansion: The Holy Spirit
 
-## III. The Wisdom of God’s Good Plan—Ruth 4:13-17
+- Acts 2:1-4
 
-# 1st & 2nd Samuel
+- Acts 8:17
 
-- Historical Context
+- Acts 10:44-45
 
-    Events occurred between ca. 1100 and 970 BC
+## The Message of Kingdom Expansion: The Gospel of Jesus Christ
 
-- Redemptive-Historical Context
+- Acts 2:38-39
 
-    Another step forward: The king is crowned!
+- Acts 3:13-15
 
-__Theme:__  _God rules His people through the king who is a representative of the people and whose actions will bring God’s blessing or punishment._
+## The Progression of Kingdom Expansion: To the Nations
 
-## I.  Kingship
+- The Birth of the Church in Jerusalem (1:1–2:47)
 
-- 1 Sam. 8:19-20: “We want a king!”
+- The Expansion of the Church in Jerusalem (3:1–6:7)
 
-- The “X” Pattern:  Leaders’ Decline and Rise
+- The Extension of the Church to Judea and Samaria (6:8–9:31)
 
-  - The Decline of Eli: 1 Sam. 2:29-30
+- The Extension of the Church to the Gentiles (9:32–12:24)
 
-  - The Rise of Samuel: 1 Sam. 3:19-20
+- The Extension of the Church to Asia Minor (12:25–16:5)
 
-- 2 Sam. 21:1:  The King = The Representative of the People
+- The Extension of the Church to the Aegean Area (16:6–19:20)
 
-- 2 Sam. 8:14-15:  David = The Type of Christ
+- The Extension of the Church to Rome (19:21–28:31)
 
-## II. Rest
+## The Providence of Kingdom Expansion: The Sovereign God
 
-- 2 Sam. 7:  The Davidic Covenant
+- Acts 5:34-39
 
-  - 7:1-3:  David desires a “house” for God...
+- Old Testament Prophecy Fulfilled:
 
-  - 7:5-6:  God doesn’t need that kind of house...
+  - Psalm 109:8 --> Acts 1:16-20
 
-  - 7:10-11:  God renews promises to Abraham...
+  - Joel 2:28-32 --> Acts 2:16-21
 
-  - 7:12-16:  God promises David a “house”
+  - Isaiah 49:6 --> Acts 13:46-47
 
-- Near and Far Fulfillment of Prophecy
+- Acts 4:24-29
 
-  - 7:13 – Solomon builds a “house” (temple)
+# Introduction to Paul: The Truths of the Kingdom
 
-  - 7:13 – Jesus is the everlasting king
+Who is Paul?
 
-    - Heb. 3:6:  _“Christ is faithful over God's house as a son. And we are his house if indeed we hold fast our confidence and our boasting in our hope.”_
+## Conversion: From Persecutor to Preacher
 
-- Our rest in Christ – Heb. 1:3
+- Jewish Heritage - Philippians 3:4-6
 
-## Major Dates of Old Testament Events
+  - Of the tribe of Benjamin
 
-+-------------------------------------+-------------------+
-| __Event__                           | __Date__          |
-+=====================================+===================+
-| Call of Abraham                     | ca. 2,000 BC      |
-+-------------------------------------+-------------------+
-| Joseph in Egypt                     | ca. 1850 BC       |
-+-------------------------------------+-------------------+
-| Exodus                              | 1445 BC           |
-+-------------------------------------+-------------------+
-| Conquest of Canaan                  | ca. 1400 BC       |
-+-------------------------------------+-------------------+
-| Time of the Judges                  | ca. 1390-1050 BC  |
-+-------------------------------------+-------------------+
-| Crowning of King Saul               | 1050 BC           |
-+-------------------------------------+-------------------+
-| Crowning of King David              | 1010 BC           |
-+-------------------------------------+-------------------+
-| Crowning of King Solomon            | 970 BC            |
-+-------------------------------------+-------------------+
-| Construction of the Temple          | started in 966 BC |
-+-------------------------------------+-------------------+
-| Division of the Kingdom             | 931 BC            |
-+-------------------------------------+-------------------+
-| Scattering of the Northern Kingdom  | 722 BC            |
-+-------------------------------------+-------------------+
-| Daniel Taken Captive to Babylon     | ca. 606 BC        |
-+-------------------------------------+-------------------+
-| Exile of the Southern Kingdom       | 586 BC            |
-+-------------------------------------+-------------------+
-| Return from Exile                   | 537 BC            |
-+-------------------------------------+-------------------+
-| The Prophets Fall Silent            | ca. 450 BC        |  
-+-------------------------------------+-------------------+
+  - Hebrew of Hebrews
 
-## A Study Outline for Ruth
+  - As to the law a Pharisee
 
-i. Ruth 1 – God brings affliction.
-i. Ruth 2 – God arranges circumstances.
-i. Ruth 3 – God builds suspense.
-i. Ruth 4 – God provides a redeemer.
-(And soon a kingly redeemer!)
+  - As for zeal, persecuting the church
 
-## A Study Outline for 1st and 2nd Samuel[^1]
+>>FF Bruce: ‘If Stephen argued, “The new has come; therefore the old must go”, Paul [sic] for his part argued, “The old must stay; therefore the new must go”. Hence the uncompromising rigour with which he threw himself into the work of repression.’[^1]
 
-i. 1 Samuel 1-7 – Samuel is a prophet from God’s grace.
-i. 1 Samuel 8-14 – Saul is a king in God’s place.
-i. 1 Samuel 15-2 Samuel 8 – David is a man after God’s heart.
-i. 2 Samuel 9-20 – David is a servant under God’s rod.
-i. 2 Samuel 21-24 – Israel is a kingdom in God’s hands.  
+- Roman Citizen
 
-# Job
+  Acts 22:25-29
 
-## Introduction to the Wisdom Literature
+  Acts 25:10-12
 
-## Introduction to Job
+- Conversion
 
-## Theme
+## Apostleship
 
-_God is completely sovereign over all the affairs of his universe, for his own glory.  But often his motives, reasons, and goals behind what he does are not revealed to us.  Yet we find in his character, and in our Redeemer, reason to trust in his care._
+- Independent calling, same gospel.
 
-## We Often Suffer
+  Galatians 1
 
-Chapters 1-2
+- Unique ministry to Gentiles
 
-Job loses:
+  - Spearheaded the Gentile mission
 
-- His wealth
+  - Grasped the multinational implications of the gospel
 
-- His family
+  Galatians 2:11-16
 
-- His health
+## Paul the Missionary
 
-## We Only Sometimes Understand
+- Preaching
 
-Overview of the book of Job
-(See outline)
+  - Centrality of the cross
 
-God’s verdict on each player in the story
+  1 Corinthians 1:22-24
 
-- Job’s three friends: rebuke
+  1 Cor 9:20-23
 
-- Job: affirmation of his statements about God; blessing
+  1 Cor 9: 11-18
 
-- Elihu: silence
+- Glory of God
 
-Cycles of dialog
+  Romans 1:5
 
-- Assumption of Job’s friends
+   Ephesians 1:13-14
 
-- Job’s response
+- Writing: the missionary writer
 
-Four logical pillars
+  1 Thess 3:7-10
 
-- The reality of Job’s suffering
+## Application questions
 
-- God’s sovereignty
+1. Are we ultimately concerned about God’s glory?
 
-- God’s goodness
+2. To what extent are our lives and decisions driven by the one overarching concern of how we can further the ministry of the gospel?
 
-- Job’s innocence
+3. Do we see Paul’s letter’s as a great resource for evaluating ways in which the centrality of the gospel might be displaced in our own lives?
 
-Summary: there _is_ no satisfying explanation for Job or his friends
-
-## We Can Always Trust
-
-"_And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus._"
-Philippians 4:7
-
-God’s reasons for trusting his character (chapters 38-41)
-
-Additional reasons to trust (chapters 1-2)
-
-Job's suffering was because of his _virtue_.
-
-Our reasons to trust: progression of revelation through Scripture
-
-- Naomi’s reason to trust
-
-- Job’s reason to trust
-
-- Habakkuk’s reason to trust
-
-- The ultimate evidence: the cross of Jesus Christ
-
-## Conclusion
-
-"Have you considered my servant?"
-
-## Study Outline for Job
-
-i. Job 1-2 – God sets His plan in action
-
-i. Job 3-14 – First Round of Discussion:[^2]
-
-    Job’s friends insist that this calamity has come upon him because he’s sinned, and therefore must repent.  Job maintains that he is innocent in this situation.
-
-i. Job 15-21 – Second Round of Discussion:
-
-    Job’s friends insist that is speech is wrong (i.e.: he either doesn’t know what he’s talking about, or he’s lying).  But Job insists that he’s right.
-
-i. Job 22-26 – Third Round of Discussion:
-
-    Job’s friends say he’s hiding something.  But Job says he’s righteous.
-
-i. Job 27-31 – Two Monologues by Job:
-
-    Man cannot discover God’s wisdom.
-
-i. Job 32-37 – Four Monologues by Elihu:
-
-    Human observers cannot expect to adequately understand God’s dealings in justice and mercy, for indeed, God might have a loving purpose after all in Job’s sufferings.  Even still, in this suffering, it is still of great value to lead a godly life.
-
-i. Job 38-42 – God questions Job:
-
-    "Who are you, oh man, to doubt and questions the wisdom and workings of the Almighty?"
-
-[^1]: The first four sections end with concluding summations of each central figure’s work.
-
-[^2]: Each round of discussion follows this pattern: one of Job’s friends speaks, then Job responds to that friend before another friend speaks, then Job responds to that friend, and so forth.
+[^1]: FF Bruce, _Paul, Apostle of the Heart Set Free_, 70
