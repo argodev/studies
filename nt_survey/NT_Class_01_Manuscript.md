@@ -148,7 +148,7 @@ So the New Testament is about Christ, about his new covenant people, and about t
 
 John’s vision of the future New Creation in Revelation sees God’s people living in God’s city for eternity.  To again quote Dever, “The end will be like the beginning, only better. The Garden of Eden, in some sense, will be restored. God will dwell with his people. The whole heavenly city is presented in Revelation as a perfect cube, which recalls the Most Holy Place in the Old Testament temple. The Most Holy Place, which represented the presence of God on earth, was also in the shape of a cube. Only now, this heavenly cube is not restricted to the high priests once a year, as in ancient Israel. Rather, all the children of God will enter his presence, and we will live there with him forever!” (Message of the New Testament, 32)
 
-The New Testament and the entire Bible helps us to understand the past, ourselves and the lives we live today, the future, and how we are to relate to God. If you have thought of Scripture as only addressing one of those categories, I hope you will continue attending this class as we unpack the inestimable riches of God’s promises made and kept in the Scriptures. 
+The New Testament and the entire Bible helps us to understand the past, ourselves and the lives we live today, the future, and how we are to relate to God. If you have thought of Scripture as only addressing one of those categories, I hope you will continue attending this class as we unpack the inestimable riches of God’s promises made and kept in the Scriptures.
 
 # Hebrews
 

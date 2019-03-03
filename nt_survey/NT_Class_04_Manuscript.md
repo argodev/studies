@@ -31,7 +31,7 @@ __Third and finally__, we will look at the *results* of believing: “*that by b
 
 But initially, as I mentioned before, some basic background, starting with authorship.  Like the other gospels, the author of the book of John does not identify himself.  But  unlike the other gospels, when the author writes about the disciples, he doesn’t talk about the disciple John in the 3rd person.  He instead mentions “the disciple whom Jesus loved,” and in chapter 21 indicates that he is that beloved disciple.  Therefore, the apostle John is recorded as being the author of this gospel early in the 2nd century AD by the church father Polycarp, who himself was a disciple of John.  And the wealth of first-hand accounts in this book, especially in private settings, suggests that the author must have been part of Jesus’ very closest circle.
 
-The gospel seems to have been written after the other three, in part because it allude to Peter’s future death in 21:18-19 as a past event.  Given the tradition that John lived a rather long life in Ephesus, a date fairly late in the first century is generally cited — perhaps around 90 A.D.  Interestingly, given its late date, it is John for which we have the oldest physical fragment of any of the gospels, dating to around 125 AD.[^1]
+The gospel seems to have been written after the other three, in part because it alludes to Peter’s future death in 21:18-19 as a past event.  Given the tradition that John lived a rather long life in Ephesus, a date fairly late in the first century is generally cited — perhaps around 90 A.D.  Interestingly, given its late date, it is John for which we have the oldest physical fragment of any of the gospels, dating to around 125 AD.[^1]
 
 ## Composition
 
@@ -137,9 +137,9 @@ We are to believe these facts about Jesus — that he came from God, lived, died
 
 ## The Results of Believing
 
-And that brings us to the third part of John’s purpose statement for the book: “But these are written that you may believe that Jesus is the Christ, the Son of God, *and that by believing you may have life in his name*” (20:31).  What are the results of believing?  As John states in this verse, by believing we will be given life in Jesus’ name.  Several states are involved in this process.
+And that brings us to the third part of John’s purpose statement for the book: “But these are written that you may believe that Jesus is the Christ, the Son of God, *and that by believing you may have life in his name*” (20:31).  What are the results of believing?  As John states in this verse, by believing we will be given life in Jesus’ name.
 
-It’s important to know where we start: in death.  Jesus tells us in chapter 5, verse 24 reads “I tell you the truth, whoever hears my word and believes him who sent me has eternal life and will not be condemned; he has crossed over from death to life.”  In that sense, we are born dead.  Without belief, we stand condemned for our sin.
+Several states are involved in this process. It’s important to know where we start: in death.  Jesus tells us in chapter 5, verse 24 reads “I tell you the truth, whoever hears my word and believes him who sent me has eternal life and will not be condemned; he has crossed over from death to life.”  In that sense, we are born dead.  Without belief, we stand condemned for our sin.
 
 ### Belief results in salvation
 

@@ -45,7 +45,7 @@ Because it’s short and simple, it’s a great book to use for introducing the 
 
 The Gospel of Mark is basically divided into 2 main sections: what happens before Peter acknowledges Jesus as the Messiah, and what happens after his confession.
 
-In the first half (1:1-8:26) we see Jesus public ministry in Galilee where He established himself as one who had authority as a teacher and one who could perform miracles.  And then, a in Matthew’s Gospel, the turning point of the Gospel occurs when Peter confessed that Jesus is the Messiah (8:29).  Mark sets this up in a very interesting way, using the healing of a blind man to explain what is happening.
+In the first half (1:1-8:26) we see Jesus public ministry in Galilee where He established himself as one who had authority as a teacher and one who could perform miracles.  And then, like in Matthew’s Gospel, the turning point of the Gospel occurs when Peter confessed that Jesus is the Messiah (8:29).  Mark sets this up in a very interesting way, using the healing of a blind man to explain what is happening.
 
 Take a look at chapter 8, verse 22.  
 
@@ -57,7 +57,7 @@ Incredible parallelism between these two accounts at the core of the book.  Vers
 
 This is the pivot point of the entire book.  Up until now, the people have seen partially — as the blind man illustrates.  But suddenly, clarity have been had, and everything changes.  Until now, all the locational details have pointed to places around Galilee.  But chapter 8, verse 27 shows Jesus on the way to Ceasarea Philippi, from whence he goes to Jerusalem.  From the moment that clarity is first achieved, Jesus begins his walk to the cross.
 
-Ultimately, then, that means that the first part of bookmark asks the question: __“Who is Jesus?” and giving the answer: “Jesus is the Christ!”__  But once that answer is understood, the second half of the book asks a different question: “What kind of Messiah is Jesus?” Answer: “He is the Suffering servant.”  As Jesus says later on in chapter 10, “For even the Son of Man did not come to be served, but to serve, and to give his life as a ransom for many.” (10:45)
+Ultimately, then, that means that in the first part of book Mark asks the question: __“Who is Jesus?” and giving the answer: “Jesus is the Christ!”__  But once that answer is understood, the second half of the book asks a different question: “What kind of Messiah is Jesus?” Answer: “He is the Suffering servant.”  As Jesus says later on in chapter 10, “For even the Son of Man did not come to be served, but to serve, and to give his life as a ransom for many.” (10:45)
 
 The second half of Mark includes Jesus’ private teaching of the disciples (8:27-10:52): Jesus provides private and intense teaching to disciples about his coming suffering, death, and resurrection, and what it means to follow Him. The book concludes with six chapters focused on the final week of Christ life, His death, and Resurrection.
 
@@ -77,11 +77,11 @@ So when he calls himself the “Son of Man,” Jesus is identifying himself with
 
 But from the people’s perspective, there is also discontinuity with their expectations.
 
-*“Son of Man” also refers to human frailty.  It’s used 93 times to refer to the suffering Ezekiel.  And it is often used in the first half of the Old Testament to emphasize the difference between man and God.  Contradiction in terms?  In fact, no.  Jesus was both the deific figure of Daniel 7 and the suffering servant of Isaiah 53.*  As we see in John’s Gospel (12:34), where the crowd clearly equates the “Son of Man” with the Messiah. “Then the crowd replied to him, “We have heard from the law that the Messiah will remain forever. So how can you say, ‘The Son of Man must be lifted up’? Who is this Son of Man?”
+*“Son of Man” also refers to human frailty.  It’s used 93 times to refer to the suffering Ezekiel.  And it is often used in the first half of the Old Testament to emphasize the difference between man and God.  Contradiction in terms?  In fact, no.  Jesus was both the deific figure of Daniel 7 and the suffering servant of Isaiah 53.*  As we see in John’s Gospel (12:34), the crowd clearly equates the “Son of Man” with the Messiah. “Then the crowd replied to him, “We have heard from the law that the Messiah will remain forever. So how can you say, ‘The Son of Man must be lifted up’? Who is this Son of Man?”
 
 Clearly Jesus’ portrayal of the son of man as one who was to suffer and die was contrary to the crowds understanding of the expected Messiah.
 
-So, the first thing we learn in the book of Mark about Jesus is that he is the Son of Man — in both seemingly opposite context of the term in the Old Testament.
+So, the first thing we learn in the book of Mark about Jesus is that he is the Son of Man — in seemingly opposite context of the term in the Old Testament.
 
 ### Jesus has Authority
 
@@ -89,9 +89,9 @@ But secondly, we see that Jesus has authority.  The striking feature of the firs
 
 The first half of Mark’s Gospel is leading us to ask, Who is this?  So, in Mark 4:41, we see that the disciples were terrified and asked each other, "__Who__ is this? Even the wind and the waves obey him!"
 
-And, Jesus himself poses this question to the disciples in Mark 8:27-30, as we just saw — leading to Peter’s confession of Jesus as the Christ and the turning point of the entire book.:
+And, Jesus himself poses this question to the disciples in Mark 8:27-30, as we just saw — leading to Peter’s confession of Jesus as the Christ and the turning point of the entire book.
 
-But Jesus not just the authoritative, divine Son of man. He is also the Suffering Servant — the other half of that term.  And that’s the second theme in Mark that we want to consider.
+But Jesus not just the authoritative, divine Son of man. He is also the Suffering Servant — the other half of that term.  And that’s the third theme in Mark that we want to consider.
 
 ### Jesus came with a Mission: To Die As a Ransom for Many
 
@@ -114,9 +114,11 @@ How counter-intuitive this must have been to the Jews of that day.  Jesus mentio
 - 10:45 __“For even the Son of Man did not come to be served, but to serve, and to give his life as a ransom for many.”__
 
 And in the crucifixion narrative, that is exactly what we see Jesus doing.
-We see that after his arrest, Jesus is utterly deserted [14:50].  In chapter 15, we see that a guilty is released in place of the innocent.  And in Mark 15: 21-31, we read of the crucifixion and death of Jesus:
+We see that after his arrest, Jesus is utterly deserted [14:50].  In chapter 15, we see that a guilty man is released in place of the innocent.  And in Mark 15: 21-31, we read of the crucifixion and death of Jesus:
 
-> They forced a man coming in from the country, who was passing by, to carry Jesus’s cross. He was Simon of Cyrene, the father of Alexander and Rufus. They brought Jesus to the place called Golgotha (which means Place of the Skull). They tried to give him wine mixed with myrrh, but he did not take it. Then they crucified him and divided his clothes, casting lots for them to decide what each would get.> Now it was nine in the morning when they crucified him. The inscription of the charge written against him was: THE KING OF THE JEWS. They crucified two criminals with him, one on his right and one on his left. Those who passed by were yelling insults at him, shaking their heads, and saying, “Ha! The one who would destroy the temple and rebuild it in three days, save yourself by coming down from the cross!”
+> They forced a man coming in from the country, who was passing by, to carry Jesus’s cross. He was Simon of Cyrene, the father of Alexander and Rufus. They brought Jesus to the place called Golgotha (which means Place of the Skull). They tried to give him wine mixed with myrrh, but he did not take it. Then they crucified him and divided his clothes, casting lots for them to decide what each would get.
+
+> Now it was nine in the morning when they crucified him. The inscription of the charge written against him was: THE KING OF THE JEWS. They crucified two criminals with him, one on his right and one on his left. Those who passed by were yelling insults at him, shaking their heads, and saying, “Ha! The one who would destroy the temple and rebuild it in three days, save yourself by coming down from the cross!”
 
 > In the same way, the chief priests with the scribes were mocking him among themselves and saying, “He saved others, but he cannot save himself! Let the Messiah, the King of Israel, come down now from the cross, so that we may see and believe.” Even those who were crucified with him taunted him.
 
@@ -124,7 +126,7 @@ His suffering on the cross is the greatest display of his service to us. Reflect
 
 And then most immediately, what does this mean for us?  Jesus prepares His disciples for what lies ahead.  What did he say to them in Mark 8? To follow this servant King means to take up our cross and share in the cost of discipleship.  It means to surrender our lives for Christ knowing how much we have been forgiven by His service.  It means, for example, to share the cost of discipleship and suffering in evangelism by telling others about Christ even though that may be difficult in various ways; and it means to obey and trust Him in the difficult things as well as the easy ones.
 
-In The Message of the NT, Dever writes, “If the Gospel of Mark is about who Jesus is, it is also about who we are and his claim on our live. His claim is total... True repentance often begins with realizing the weight of your sins and the greatness of your need. It can come like a thunderclap. Then it can cause showers of regretful weeping. If it is godly sorrow, it brings change. It brings the kind of change that transforms a boastful traitor like Peter into a faithful pastor, who, according to church history, would one day walk onto a Roman road, take up his cross, and follow Christ. Tradition tells us that Peter would not let himself be crucified in the same way Christ was. He did not feel worthy. So he was crucified upside down. Peter may have been the leader of the disciples in confusion and confession, as well as in cowardly denials and bold promises. But he could also weep. If you want to see Jesus for who he is, you must see yourself for who you are.”
+In The Message of the NT, Dever writes, “If the Gospel of Mark is about who Jesus is, it is also about who we are and his claim on our lives. His claim is total... True repentance often begins with realizing the weight of your sins and the greatness of your need. It can come like a thunderclap. Then it can cause showers of regretful weeping. If it is godly sorrow, it brings change. It brings the kind of change that transforms a boastful traitor like Peter into a faithful pastor, who, according to church history, would one day walk onto a Roman road, take up his cross, and follow Christ. Tradition tells us that Peter would not let himself be crucified in the same way Christ was. He did not feel worthy. So he was crucified upside down. Peter may have been the leader of the disciples in confusion and confession, as well as in cowardly denials and bold promises. But he could also weep. If you want to see Jesus for who he is, you must see yourself for who you are.”
 
 The question remains, what do you do with this suffering servant?
 
@@ -138,13 +140,13 @@ Some believed that Jesus was who he said He was; we read that they had faith; li
 
 There is also the woman who had been subject to bleeding for a long time who touched Jesus’ cloak, and then fell at his feet.  In Mark (5:34), Jesus tells her that her faith has healed her. There are others:  Jairus the synagogue ruler (5:23), the Syrophoenician woman (7:29), etc.
 
-It is interesting to note, that many of those who responded most positively and decisively were the outcast of society. Again, this is a great testament to the veracity of the Gospels, what kind of followers would we want to brag about. Probably the kinds we in DC find ourselves “dreaming” about coming to Christ…the influential, the powerful, the rich. Now the New Testament certainly gives account of these types of people coming to Christ also, the preponderance of followers seem to be outsiders in the view of society. Mark, as someone from a family of means, would have had every reason to focus on some well-known, wealthy converts in order to convince a Greek/Roman audience of why Christ should be followed — but this is not what he does.
+It is interesting to note, that many of those who responded most positively and decisively were the outcast of society. Again, this is a great testament to the veracity of the Gospels, what kind of followers would we want to brag about. Probably the kinds we find ourselves “dreaming” about coming to Christ... the influential, the powerful, the rich. Now the New Testament certainly gives account of these types of people coming to Christ, the preponderance of followers seem to be outsiders in the view of society. Mark, as someone from a family of means, would have had every reason to focus on some well-known, wealthy converts in order to convince a Greek/Roman audience of why Christ should be followed — but this is not what he does.
 
 ### 2. Some were Confused
 
 We also see that it wasn’t always a clean-cut response to Jesus of true belief or rejection. Some reacted to Jesus with confusion.  We see this mainly with the disciples.  Although the disciples responded in faith by following Jesus when he called them, they are slow to understand who He is.  When the disciples did not understand the parable of the sower and asked Jesus to explain it, he responded, “Don’t you understand this parable?” [Mark 4:13].  When they were surprised by his ability to calm the storm on the lake, Jesus asked, “Why are you so afraid?  Do you still have no faith?” [4:40]. When Jesus fed a large crowd of people a second time, the disciples were just as uncomprehending and surprised as after the first time. [8:14].  
 
-Isn’t this the way we often are? We are slow to learn, we think we believe rightly, but when confronted with false ideas we have about Jesus, we are often more like the disciples than the outcasts in the way we respond to Jesus.
+Isn’t this the way we often are? We are slow to learn; we think we believe rightly, but when confronted with false ideas we have about Jesus, we are often more like the disciples than the outcasts in the way we respond to Jesus.
 
 Also, we should be encouraged as we minister to others that Jesus didn’t cast off the disciples because of their confusion or slowness in learning. Likewise, we should be patient and humble in the way we consider the growth and maturation of other believers. We should not be exasperated when others get confused or seem unable to comprehend a spiritual truth that seems simple…Jesus has never been exasperated with us!
 
@@ -158,7 +160,7 @@ But others that you might not expect reacted antagonistically as well.  Jesus’
 
 In the end, the opposition to Jesus became so comprehensive it engulfed the Pharisees and Sadducees, Jews and Gentiles, foes and even friends.  Not only Judas, but the rest of the disciples played their parts in betraying, denying and deserting Jesus.  After Jesus’ arrest in the Garden of Gethsemane, the disciples melted away into the night, deserting their rabbi.
 
-Some people believed, some were confused, and some were antagonistic. We may be tempted to think there is a fourth response, ambivalence towards Christ. And yet we see throughout this book — and the rest of the New Testament for that matter — that  while this may seem like an attractive post-modern position, it doesn’t actually exist. Apparent ambivalence towards Christ is merely disguised opposition.
+Some people believed, some were confused, and some were antagonistic. We may be tempted to think there is a fourth response, ambivalence towards Christ. And yet we see throughout this book — and we will see, the rest of the New Testament for that matter — that  while this may seem like an attractive post-modern position, it doesn’t actually exist. Apparent ambivalence towards Christ is merely disguised opposition.
 
 How about us?  Can you think of times when each one of these responses characterized you? While it is true that, as Christians, Christ has granted us the gifts of faith and repentance, we can react in all of these ways at various points in our discipleship — just as Peter, the source for the book of Mark, at various times reacts in all three of these ways.  In what ways might you be confused or antagonistic to what Jesus requires of you?
 
