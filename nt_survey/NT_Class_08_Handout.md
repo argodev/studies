@@ -13,154 +13,149 @@ fontfamily: libertine
 fontfamilyoptions: sfdefault
 ---
 
-# Ecclesiastes
+# 1 Corinthians: The Foolishness of the Kingdom
 
-## Context
+## Background
 
-- Who is the “Teacher?”
+- Location
 
-- Setting within the narrative of salvation history
+- Paul’s First Trip
 
-## Theme
+- The Letter: how should the church reflect to the watching world the character of God?
 
-_Meaningful!  Meaningful!  All is meaningful because all is ordered by an eternal, sovereign, and purposeful God.  Therefore, we should fear God and rejoice in what He has given us to do and to have._
+## Themes
 
-## Structure of the Book
+1. A Gospel-Centered Church is to be United
 
-## Vanity of Vanities – Ecclesiastes 1:1-2:23
+   a. Unity is based on the cross of Christ.
 
-## The Book’s Thesis: Ecclesiastes 2:24-26
+   a. Disunity is a sign of worldliness.
 
-> There is nothing better for a person than that he should eat and drink and find enjoyment in his toil. This also, I saw, is from the hand of God, for apart from him who can eat or who can have enjoyment? For to the one who pleases him God has given wisdom and knowledge and joy, but to the sinner he has given the business of gathering and collecting, only to give to one who pleases God. This also is vanity and a striving after wind.
+   a. The body of Christ is unified in its diversity.
 
-Ecclesiastes 3:12-14; 5:18-20; 8:15; 9:7-10
+   a. Unity is built up by unselfish love.
 
-Eating and drinking
+1. A Gospel-Centered Church is to be Holy
 
-Who can enjoy?
+   a. Beware persistent sin.
 
-_God_ gives wisdom, knowledge, and joy
+   a. Practice church discipline with love.
 
-An opening for the gospel in our culture
+1. A Gospel-Centered Church is to be Edifying
 
-## The Remainder of the Book
+   a. Give up your rights.
 
-Objection: The Problem of Evil
+   a. Image Christ.
 
-Three Answers
+## Application Questions
 
-Practical Application
+1. Do we solve conflicts, or do we contribute to them?
 
-# The Song of Songs
+2. Do we resist the temptation to boast in or even to worship other human beings, or do we yield to it?
 
-## Context
+3. Are we absolutely pure in our relationship with the other sex, or are we calculating and compromising?
 
-A book about marriage?  Or God’s love for his people?
+4. Are we using our spiritual gifts to build up all the members of the Christian community, or are we hoarding our gifts or using them for our own selfish advantage?
 
-## Theme
+5. Are our actions motivated by love, or by some other inferior motivation?
 
-Option #1:
+6. Are we givers, or takers?
 
-_The Song of Solomon sings of the son of David, who is the ideal king of Israel, who is the seed of the woman, seed of the Abraham, seed of Judah, seed of David, who enjoys uninhibited, unashamed intimacy with his beloved, in a garden that belongs to him._
+## Outline
 
-Option #2:
+1. Introduction (1:1-9)
+1. Sin in the Body of Christ (1:10 – 6:20)
+   a. Divisions (1:10-4:21)
+   a. Discipline (chapter 5)
+   a. Lawsuits (6:1-8)
+   a. Impurity (6:9-20)
+1. Answers to Questions (7:1 – 11:1)
+   a. Celibacy, Marriage & Divorce (Chapter 7)
+   a. Rights and Responsibilities (8:1-11:1)
+   a. Public Worship (11:2-14:40)
+      1. The role of Women in the church (11:2-16)
+      2. Lord’s supper (11:17-34)
+      3. Spiritual gifts (12-14)
+   a. The Resurrection (chapter 15)
+1. Conclusion (chapter 16)  
 
-_God has created the sexual relationship between man and woman as a beautiful gift. This relation, and the entire marriage relationship is regularly used in Scripture to illustrate the closeness of the relationship between Christ and the Church. Satan's perversion of that gift does not justify the rejection/embarrassment of the gift by Christians. The Song of Songs reminds us of the beauty of this relationship and calls us to the right (i.e. biblical) view of it_
+# 2 Corinthians: The Weakness of the Kingdom
 
-## The Courtship
+1. Background
 
-## The Wedding
+1. Purposes
 
-## The Marriage
+   - To address public conduct of the Corinthians
 
-## The Song of Solomon in light of Genesis 3
+   - To respond to personal criticism against Paul
 
-## A Study Outline for Ecclesiastes
+   - To expresss practical concern for believers in Jerusalem
 
-i. Ecclesiastes 1:1-11 – Antithesis: All is vain.
-i. Ecclesiastes 1:12-2:23 – All is vain apart from a sovereign Creator.
-i. Ecclesiastes 2:24-26 – Thesis: All is meaningful if a sovereign God rules the universe.
-i. Ecclesiastes 3:1-15 – The sovereignty of God affirmed.
-i. Ecclesiastes 3:16-4:16 – Objection: If God is sovereign, why are there so many problems in the world?
-i. Ecclesiastes 5:1-7 – First answer: Who are you, the created, to point your finger at the Creator; you should be silent and worship in reverence instead.
-i. Ecclesiastes 5:8-7:14 – Second answer: What is good/prosperity?  Those who have it don’t necessarily have a blessing from God, nor do those without it necessarily have a curse from God.
-i. Ecclesiastes 7:15-29 – Third answer: “Bad” things happen to “good” people because no one is good.
-i. Ecclesiastes 8:1-12:14 – Practical application stemming from chapters 1-7.
+1. Themes
 
-## A Study Outline for the Song of Songs
+   a. Kingdom Apostles Display God’s Power in Weakness
 
-i. Song of Solomon 1:1-3:5 – The Courtship
-i. Song of Solomon 3:6-5:1 – The Wedding
-i. Song of Solomon 5:2-8:14 – The Marriage
+      1. Critiques of Paul:
 
-# 1 & 2 Kings
+         - Paul was fickle (1:17)
 
-## Context
+         - Paul was harsh (2:7-8)
 
-- Historical Context
+         - Paul lacked credentials (3:1-2)
 
-    Compiled during the time of the exile
+      1. Characteristics of true Kingdom ministry:
 
-    To show exile a result of sin; not Yahweh’s unfaithfulness
+         a. The glory of Kingdom ministry = The Gospel (2:14-17)
 
-    Events take place roughly between 970 BC and 560 BC
+         a. The power for Kingdom ministry = God’s grace (3:4-6)
 
-- Redemptive-Historical Context
+         a. The focus of Kingdom ministry = Jesus Christ (4:5-6)
 
-    Covenant with David looms large in the background
+         a. The concern of Kingdom ministry = The heart (4:16-18)
 
-    What of the promises to Abraham, Israel, and David?
+         a. The agent of Kingdom ministry = God (5:20-21)
 
-## Theme
+         a. The result of Kingdom ministry = Changed lives (6:14, 7:1)
 
-_The King, the covenant representative, sometimes obeys the word of Yahweh and the people are blessed, but sometimes rebels against the word of Yahweh and brings calamity upon the people.  Finally, Yahweh’s patience runs out and His people suffer the covenant consequences for their sins.  Yet, through it all, Yahweh is still faithful to the promises He made to David._
+      1. Chapters 10-12:  Weak Apostles Vs. “Super-Apostles”
 
-## David’s Charge to Solomon – 1 Kings 2:1-4
+   a. Kingdom Citizens Display God’s Generosity in Weakness
 
-## The Zenith of Redemptive-History in the OT – 1 Kings 8:56-61
+      - Give sacrifically, like Jesus (8:9)
 
-## But Sin Still Remains in the Kingdom – 1 Kings 11:1-14
+      - Give generously, like the Macedonians (8:2-4)
 
-## New Vocabulary
+      - Give cheerfully, relying on God’s grace (9:7-9)
 
-- “Judah”
+   a. Kingdom Churches Display God’s Grace in Weakness
 
-- “Israel”
+      - A passion for weakness (12:8-10)
 
-## The Northern Kingdom: Israel
+      - A passion for the Gospel (5:14-15, 18-21)
 
-- “the sins of Jeroboam” – 1 Kings 14:14-16
+      - A passion for repentance (7:8-13)
 
-- Two prophets: Elijah and Elisha – 1 Kings 17-2 Kings 13
+## Outline
 
-    Deuteronomy 17:18-20
-
-- The scattering – 2 Kings 17
-
-## The Southern Kingdom: Judah
-
-- “for David’s sake” – 1 Kings 15:1-5
-
-- Assyria’s attack on Jerusalem – 2 Kings 18:3-5
-
-- A godly king – 2 Kings 19:16-19
-
-- “Manasseh shed innocent blood” – 2 Kings 21:10-18
-
-- Judah will be removed as well – 2 Kings 23:25-27
-
-## All Looks Lost – 2 Kings 25:7
-
-## A Little Ray of Hope – 2 Kings 25:27-30
-
-## There Must Be Something Greater
-
-## Just Like the Fall and Exile from Eden
-
-## A Second Exodus Now Needed
-
-## A Study Outline for 1st and 2nd Kings
-
-i. I Kings 1-11 – The Height of the Kingdom
-i. I Kings 12-II Kings 17 – The Division of the Kingdom
-i. II Kings 18-25 – The Fall of the Kingdom
+1. Greeting & Thanksgiving (1:1-11)
+1. Defense of Apostleship: Answering the Critics’ Charges (1:12–7:16)
+   a. The Defense of Paul’s Conduct (1:12–2:13)
+      1. Explanation of Altered Plans (1:12–2:4)
+      2. The Forgiveness of the Offending Brother (2:5-11)
+      3. Missing Titus in Troas (2:12-13)
+   a. The Nature of a True Apostleship (2:14–7:16)
+      1. The Glory of the Ministry (2:14–4:6)
+      1. The Frailty of the Ministers (4:7–5:10)
+      1. The Message of Reconciliation (5:11–6:10)
+      1. Paul’s Appeal to the Corinthians (6:11–7:4)
+      1. Meeting Titus in Macedonia (7:5-16)
+1. Exhortation to Give: Collection for Believers in Jerusalem (8:1–9:15)
+   a. The Necessity for Generosity (8:1-15)
+   a. The Mission of Titus to Corinth (8:16–9:5)
+   a. The Results of Generosity (9:6-15)
+1. Affirmation of Apostolic Authority (10:1–13:10)
+   a. In Spite of an Unimpressive Appearance (10:1-11)
+   a. Boasting Only in the Lord (10:12-18)
+   a. Vindication of Authenticity of Paul’s Apostleship (11:1–12:13)
+   a. The Planned Third Visit (12:14–13:10)
+1. Final Exhortation and Greetings (13:11-14)
