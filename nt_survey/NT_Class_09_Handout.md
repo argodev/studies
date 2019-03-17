@@ -13,147 +13,123 @@ fontfamily: libertine
 fontfamilyoptions: sfdefault
 ---
 
-# Isaiah
+# Philippians: Kingdom Partnership
 
-## Introducing Old Testament Prophecy
+## Background
 
-- Counseling Scenario
+   a. The City of Philippi
 
-- Forthtelling and Foretelling
+   a. The Church at Philippi
 
-- Seven Tips for Interpretation
+## Purpose: Three practical reasons
 
-  1. Discern the immediate context
+   1. 
 
-  2. Discern the kind of oracle employed
+   1. 
 
-  3. Study the balance between the historical and predictive
+   1. 
 
-  4. Determine what kind of language is being used
+## Outline
 
-  5. Place the text in its place in redemptive-history
+   1. Salutation (1:1-2)
+   1. Thanksgiving & prayer for the Philippians’ Gospel Partnership (1:3-11)
+   1. Paul’s Present Circumstances as a model of gospel Partnership (1:12-26)
+   1. Practical Instructions in contending for gospel partnership (1:27–2:30)
+      a. Living Boldly as Citizens of Heaven (1:27–2:30)
+      a. Living Humbly as Servants of Christ (2:1-11)
+      a. Living Obediently as Children of God (2:12-18)
+      a. Examples of Humble Servants (2:19-30)
+   1. The enemies of gospel partnership (3:1-6)
+   1. The Goal of Gospel partnership: Heaven through preserving in suffering (3:7-4:1)
+   1. Exhortations to gospel partnership (4:2-13)
+   1. Thankfulness for gospel partnership (4:10-20)
+   1. Final Greetings (4:21-23)
 
-  6. Be aware of recurring and sweeping themes
+## Major Theme: Gospel Humility
 
-  7. Consider New Testament usage
+   a. Humility as Patient Suffering
 
-## Introducing Isaiah (Isaiah 1 & 2)
+   a. Humility as Unity and Support for One Another
 
-Chapter 1:
+   a. Humility as Dependence on God
 
-Chapter 2:
+   a. Humility as Modeling Christ’s Example for One Another
 
-## Principle 1: Know the Structure
+# 1 Timothy: Servant Leaders of the King
 
-- Isaiah 1-39
+## Pastoral Epistles Background
 
-- Isaiah 40-66
+- Pastoral Epistles
 
-## Principle 2: Be Alert for Recurring & Sweeping Themes
+- The Church
 
-1. Pride (2:11; 5:21)
+## Background to 1 Timothy
 
-2. Trust (chs. 1-39)
+- The Ephesian Church
 
-3. God as the Holy One (ch. 6)
+- Timothy
 
-4. God as the Sole and Incomparable Ruler of Creation and History (chs. 40-48)
+- Goal of Letter
 
-5. God as the Sole Redeemer (54:5,8)
+## What should a leader Teach?
 
-6. The Remnant (10:20-21; 11:1-2; see chs. 56-59)
+- False teaching 1 versus the gospel: Chapter 1:3-17
 
-7. The Servant (42:1; 49:1-6; 50:4-9; 52:13-53:12)
+- False teaching 2 versus the gospel: Chapter 4:1-5
 
-8. The Conqueror (59:15-21; 61:1-4; 61:10-62:7; 63:1-6)
+- The leader with right living and right doctrine: Chapter 4:16
 
-9. New Jerusalem — the Bride (62:3-5)
+## Who should have authority?
 
-## Principle 3: Consider the NT Authoritative Interpretation
+- Relationship of government authority to the church: Chapter 2:1-2
 
-1. Jesus Is the Promised Messiah (Rom. 15:12)
+- Relationship of women to the church: Chapter 2:9-15
 
-2. Jesus Is the Holy One (Jn. 12:41)
+- The character of elders and deacons in the Church: Chapter 3: 1-16
 
-3. Jesus Is the Promised Redeemer (Lk. 3:4-6)
+## How should we live and relate to one another in the church?
 
-4. Jesus as Suffering Servant (Matt. 12:17-18)
+- Generations and gender: Chapter 5: 1-2
 
-5. Jesus as Conqueror (Rev. 22:12)
+- Widows, proper and improper: Chapter 5: 3-16
 
-## A Study Outline for Isaiah
+- Elders: Chapter 5: 17-20
 
-i. Historical Jerusalem and the failure of the Davidic kings (chs. 1-39)
-   a. Chapters 1-5:  Prologue.  Darkness gathering around the people of Israel.
-   b. Chapter 6:  Isaiah’s call to the prophetic ministry.
-   c. Chapter 7: Historical narrative concerning trust # 1 — Ahaz
-   d. Chapter 8-11: Two prophecies of woe to Israel and Judah foretelling destruction but ending with a prophecy of the coming Messiah
-   e. Chapter 12:  Song of praise to God.
-   f. Chapters 13-27:  Three cycles of prophecy against the nations surrounding the two kingdoms of Israel. 
-   g. Chapters 28-35:  A series of six poems, each starting with the word “Woe.” The Lord upbraids his people for looking for security in Egypt. Israel’s main problem is not political, but spiritual.
-   h. Chapters 36-39:  Historical narrative concerning trust # 2 — Hezekiah
-ii. Eschatological Jerusalem and the triumph of the Servant and Conqueror (chs. 40-66)
-    a. Chapters 40-42:17: Consolation to Israel and the nations
-    b. Chapters  42:18-44:23: Israel’s Two Problems; God’s Two Promises
-    c. Chapters 44:24-48: A great deliverance (Cyrus)
-    d. Chapters 49-55: A greater deliverance (Suffering Servant)
-    e. Chapters 56-59:13: Ethical sermons: the needs and sins of the Lord’s people
-    f. Chapters 59:14-63:6: The coming conqueror
-    g. Chapter 63:7-66: Paradise regained — the new heavens and earth
+- Slaves: Chapter 6: 1-2
 
-# Introduction to the Minor Prophets
+- Final warning against money-loving teachers: Chapter 6:3-10
 
-# Hosea
+## Conclusion
 
-## Context, Outline & Theme
+- Paul's Summary: Chapter 6:20-21
 
-## Hosea 1-3
+## Outline of 1 Timothy
 
-Love’s Strange Story
+1. Salutation (1:1-2)
 
-## Hosea 4-14
+1. Confronting False Teaching with the True Gospel (1:3-20)
+   a. The charge to deal with false teachers (1:3-11)
+   a. Paul: an example of the effect of the true gospel (1:12-17)
+   a. Restatement of the charge to deal with false teachers (1:18-20)
 
-Love’s Challenge: Sin
+1. Gospel-Shaped Living, Part 1 (2:1-3:16)
+   a. Authority of the state; authority in the church (2:1-15)
+   a. Qualifications for overseers (3:1-7)
+   a. Qualifications for deacons (3:8-13)
+   a. The goal: proper conduct in God's household (3:14-16)
 
-Love’s Recovery: Repentance
+1. Identifying False Teaching and the True Gospel (4:1-16)
+   a. How to identify false teachers (4:1-5)
+   a. How Timothy should be shaped by the gospel (4:6-16)
 
-Love’s Hope: Restoration
+1. Gospel-Shaped Living, Part 2 (5:1-6:2a)
+   a. Respectful dealing with church members by age and gender (5:1-2)
+   a. Honoring widows (5:3-16)
+   a. Honoring elders (5:17-25)
+   a. Honoring masters (6:1-2a)
 
-# Joel
-
-## Context & Theme
-
-### Joel 1:1-2:11 — The Call to Lament
-
-### Joel 2:12-2:17 — The Call to Repent
-
-### Joel 2:18-2:32 — The Promise of Salvation
-
-### Joel 3:1-3:16 — The Promise of Justice
-
-### Joel 3:17-3:21 — The Call to Lament
-
-## Outline of Hosea
-
-i. Hosea 1:1-3:5 – Hosea’s Adulterous Wife, Gomer
-   a. Hosea, Gomer, and Their Children 1:2-2:1
-   b. The Lord’s Marriage to Israel 2:2-23
-   c. Hosea’s Restored Marriage 3:1-5
-ii. Hosea 4:1-14:9 – Yahweh’s Adulterous Wife, Israel
-    a. Accusation, Judgment, and Mercy* 4:1-6:3
-    b. Accusation, Judgment, and Mercy 6:4-11:11
-    c. Accusation, Judgment, and Mercy 11:12-14:9
-
-_This threefold structure becomes apparent in the text through some key words.  Phrases like “bring charges,” “rebuke,” “plead with,” and “contend with” begin the **accusations** of sin.  Phrases like “blow the horn,” and “sound the trumpet” show God’s **judgment** against sin.  And phrases like “yet,” “afterward,” and other such transition words, “I will return,” “I will go back,” and “return O Israel” indicate God’s promises of **mercy**._
-
-## Outline of Joel
-
-i. Joel 1:1-2:17 – The Day of the LORD in Judgment
-   a. The Call to Lament 1:1-2:11
-   b. The Call to Repent 2:12-17
-i. Joel 2:18-3:21 – The Day of the LORD in Grace
-   a. The Promise of Salvation 2:18-32
-   b. The Promise of Justice 3:1-16
-   c. The Promise of Restoration 3:17-21
-
-_Notice the gospel flow of thought through the book: lamentation over sin followed by repentance from sin results in salvation and a restored relationship with God._
+1. Confronting False Teaching Again (6:2b-21)
+   a. False teachers and greed (6:2b-10)
+   a. Timothy's behavior in contrast (6:11-16)
+   a. Charge to the rich (6:17-19)
+   a. Closing exhortation to Timothy (6:20-21)
