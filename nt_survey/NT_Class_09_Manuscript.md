@@ -15,9 +15,7 @@ fontfamilyoptions: sfdefault
 
 # Philippians: The Fellowship of the Kingdom
 
-By now, we’ve explored enough of Paul’s letters that we’ve seen a general pattern.  The first section is the gospel doctrine; the second is gospel application.  And the application only makes sense — and is only possible in light of the gospel.
-
-But this morning, as we get to the book of Philippians, we’ll see a wonderful twist on this. Because the letter isn’t just centered around the gospel; it is centered around gospel humility.  And it is gospel humility that is the key to unlocking the many famous imperatives in this book.  We’ve seen so far how the gospel upends the applicative commands in Paul’s letters so far.  How does humility do the same thing?  And what would be missing if we attempted to live in the way Paul describes with an understanding of the gospel, but not an attitude of humility?  Those are the questions we’ll address as we get into Paul’s letter to the Philippians.
+This morning, as we get to the book of Philippians, we’ll see a wonderful twist on this. Because the letter isn’t just centered around the gospel; it is centered around gospel humility.  And it is gospel humility that is the key to unlocking the many famous imperatives in this book.  We’ve seen so far how the gospel upends the applicative commands in Paul’s letters so far.  How does humility do the same thing?  And what would be missing if we attempted to live in the way Paul describes with an understanding of the gospel, but not an attitude of humility?  Those are the questions we’ll address as we get into Paul’s letter to the Philippians.
 
 ## Background
 
@@ -41,7 +39,7 @@ Second, Paul is writing to update them on his circumstances, and to encourage th
 
 Third, not only does he want to encourage them about his condition, he also wants to reassure them about Epaphroditis, who the Philippians had sent to Paul with their gift, but who had become ill and almost died. The Philippians had heard of this and were concerned, so Paul writes to reassure them and to send Epaphroditis himself with the letter. (2:25-30).  In this context Paul talks a lot about service for the gospel, so this is a good book to turn to if you need to remind yourself why we should be more involved in service and ministry at church.
 
-But the main theme of the letter is above these circumstantial elements.   Above all else, Paul writes to deliver a powerful description of the humility of Christ in going to the cross, and urges his readers to grow in Christ-like humility.  And so this is a good book to turn to for all Christians to be reminded of our basic purpose: to model Christ to others in all ways, including in how he humbled himself to serve his people. You can see the outline of the book under point IV on your handout, but the main thing we’ll be talking about is our main theme — humility, which is under point V.
+But the main theme of the letter is above these circumstantial elements.   Above all else, Paul writes to deliver a powerful description of the humility of Christ in going to the cross, and urges his readers to grow in Christ-like humility.  And so this is a good book to turn to for all Christians to be reminded of our basic purpose: to model Christ to others in all ways, including in how he humbled himself to serve his people. You can see the outline of the book under point IV on your handout, but the main thing we’ll be talking about is our main theme — humility.
 
 We’ll be criss-crossing the letter thematically, looking at what gospel humility is, and then four different ways that this letter applies it to our lives.  So first: __Gospel Humility__
 
@@ -79,7 +77,7 @@ Paul wants the Philippians — and, by extension, us — to be prepared to be in
 
 ## B.  Humility as Unity and Support for One Another
 
-So — the humility exemplified in Christ displays itself in patience amidst suffering.  But there is another way it shows up in this letter — the third theme that we’ll look at: humility drives a church to be united and to support one another when in need.  The two virtues — unity and generosity — are flip sides of the same coin.  When Christians are united, they are moved to care for one another — and caring for one another builds and reinforces gospel unity.
+So — the humility exemplified in Christ displays itself in patience amidst suffering.  But there is another way it shows up in this letter: humility drives a church to be united and to support one another when in need.  The two virtues — unity and generosity — are flip sides of the same coin.  When Christians are united, they are moved to care for one another — and caring for one another builds and reinforces gospel unity.
 
 Recall again how Paul begins his famous passage on Christ’s humility (2:2):  “Complete my joy by being of the same mind, having the same love, being in full accord and of one mind.” Christians imitate Christ’s humility by putting disagreements aside and being like-minded, by having the same love, by cooperating together for the gospel and being one in spirit and purpose.  He says earlier (1:27) that he wants them to “stand firm in one spirit, with one mind striving side by side for the faith of the gospel.” Again, Paul’s presumption is that acting in a manner worthy of Christ involves unity with other believers, both in our hearts and minds (spirit) and in action (contending as one man).
 
@@ -93,9 +91,7 @@ And Paul concludes the letter by reemphasizing his thanks to the Philippians for
 
 ## C. Humility as Dependence on God
 
-So — humility displays itself in unity and generosity.  But ultimately, we cannot imitate Christ’s humility on our own.  None of us are able to suffer patiently, work for unity, or partner for the gospel solely by the strength of our will or our character. Paul reminds the Philippians that we can make no progress without relying on God and his gracious aid for our salvation and spiritual maturity.  This is another aspect of gospel humility:
-
-recognizing our sinfulness and limitations and learning to depend on God in faith for his righteousness and his provision and support.
+So — humility displays itself in unity and generosity.  But ultimately, we cannot imitate Christ’s humility on our own.  None of us are able to suffer patiently, work for unity, or partner for the gospel solely by the strength of our will or our character. Paul reminds the Philippians that we can make no progress without relying on God and his gracious aid for our salvation and spiritual maturity.  This is another aspect of gospel humility: recognizing our sinfulness and limitations and learning to depend on God in faith for his righteousness and his provision and support.
 
 Paul holds himself out as an example of dependence on God.  It was not as if he was humble because he had no reason to think himself great in the world’s eyes. He had the perfect religious resume.  “If anyone else thinks he has reason for confidence in the flesh, I have more: circumcised on the eighth day, of the people of Israel of Israel, of the tribe of Benjamin, a Hebrew of Hebrews; as to the law, a Pharisee; as to zeal, a persecutor of the church; as to righteousness under the law, blameless.” (3:4-6) But Paul insists that Christians “put no confidence in the flesh,” (3:3) that is, that they do not depend on themselves for salvation or spiritual growth.  Paul recognizes that he does “not hav[e] a righteousness of my own that comes from the law.” Rather, he is pursuing a righteousness “which comes through faith in Christ — the righteousness from God that depends on faith.” (3:9)
 
@@ -123,15 +119,15 @@ Note also how Jesus and Paul describe the Christian life.  Stars and cities don�
 
 ## Conclusion
 
-That is a good place for us to end.  Philippians is a beautiful and uplifting depiction of Christ’s humility.  And it is an exhortation for followers of Christ to emulate his humility.  We are called to follow Christ in suffering, in service and unity with one another, in practicing dependence on God, and in modeling Christ to the world.  Let’s pray.
+Philippians is a beautiful and uplifting depiction of Christ’s humility.  And it is an exhortation for followers of Christ to emulate his humility.  We are called to follow Christ in suffering, in service and unity with one another, in practicing dependence on God, and in modeling Christ to the world.
 
 # I Timothy: Servant Leaders of the Kingdom
 
-How often do we really remember the losers?  So you’ve heard of Lincoln (not John Breckenridge) and FDR but not Alf Landon, Wendell Willkie, or Thomas Dewey.  So what makes a memorable, successful leader?
+What makes a memorable, successful leader?
 
-But short of winning an election, or more importantly, going platinum, or a Superbowl ring, what is the measure of such success in our day-to-day lives, our careers, our relationships and networks? In America today, the metric is pretty standard:  How productive are you compared to others, how much attention have you received in comparison to others, how do you stand out from the next person, from each other?
+Short of winning an election, or "going platinum", or winning a Superbowl ring, what is the measure of such success in our day-to-day lives, our careers, our relationships and networks? In America today, the metric is pretty standard:  How productive are you compared to others, how much attention have you received in comparison to others, how do you stand out from the next person, from each other?
 
-Well if that is how our culture measures the world, how does the Bible stack up against that?  More so, how does the Bible view a successful leader - what does he look like, how does he win? Well, let's take a look this morning at a book, in the Bible, that talks about leadership in the church.  
+Well if that is how our culture measures the world, how does the Bible stack up against that?  More so, how does the Bible view a successful leader - what does he look like, how does he win? Well, let's take a look at a book, in the Bible, that talks about leadership in the church.  
 
 ## Background:  Pastoral Epistles
 
@@ -157,11 +153,11 @@ He was from Lystra and not from Ephesus.  He was probably converted during Paul�
 
 But we also know that Timothy had a Godly heritage and had been mentored by Paul:  Both his mother and grandmother were Christians, and had apparently been saved prior to Timothy’s conversion (2 Timothy 1:5).  He enjoyed a close relationship with the Apostle Paul, who referred to him as his “son” in the faith  (see 1 Tim 1:2; 2:1; Phil 2:19-22).  And the feeling seems to have been mutual (2 Tim 1:4).  He traveled extensively with Paul and is mentioned in the introductions of many Pauline letters. (See I and II Thessalonians)
 
-With that is Background, we now turn to the main theme of the Book:
+With that as background, we now turn to the main theme of the book:
 
 Paul is preparing guidelines for how people should act as members of God’s household.  
 
-1 Timothy 3:14-15 seems to capture pretty well the purpose of the book.  “*I hope to come to you soon, but I am writing these things to you so that, if I delay, you may know how one ought to behave in the household of God, which is the church of the living God”*
+1 Timothy 3:14-15 seems to capture pretty well the purpose of the book.  *“I hope to come to you soon, but I am writing these things to you so that, if I delay, you may know how one ought to behave in the household of God, which is the church of the living God”*
 
 The goal: leading God’s people to conduct themselves as a church in a way that brings honor to God.  It’s interesting: a book that on one hand seems to be a manual of church structure and authority is filled with teaching about the gospel and about how Christians should live their lives.  It seems that teaching about church offices (pastors and deacons) actually is there as part of a larger theme of how the gospel should evidence itself in our lives — especially in contrast to the false teaching Timothy was confronting.  So a good thematic statement for this book would be something like this:
 
@@ -207,7 +203,7 @@ So, We can see something of what these false teachers were teaching:  “myths a
 
 Paul's Point is that the gospel is for these kinds of people, and the law is what shows us that we really are like this (I Tim 1:9b-10a)…[this] is a message that brings joy to people like father-killers and slave-traders! Apparently, some teachers in Ephesus did not know that. They thought church was for good, respectable, law-abiding people!
 
-Now, what is the simple and clear antidote to false teaching? The Gospel. Remember that passage I read earlier.  ” Turn to 1:15-16. After urging Timothy to resist the false teachers in Ephesus, he gives that example from his own life. *“The saying is trustworthy and deserving of full acceptance, that Christ Jesus came into the world to save sinners, of whom I am the foremost. But I received mercy for this reason, that in me, as the foremost, Jesus Christ might display his perfect patience as an example to those who were to believe in him for eternal life.”*
+Now, what is the simple and clear antidote to false teaching? The Gospel. Remember that passage I read earlier. Turn to 1:15-16. After urging Timothy to resist the false teachers in Ephesus, he gives that example from his own life. *“The saying is trustworthy and deserving of full acceptance, that Christ Jesus came into the world to save sinners, of whom I am the foremost. But I received mercy for this reason, that in me, as the foremost, Jesus Christ might display his perfect patience as an example to those who were to believe in him for eternal life.”*
 
 If the Gospel could penetrate Paul’s dark heart and make him an apostle of Jesus Christ, then we have the same hope ourselves.  If I am a sinner, what hope do I have if someone teaches me the law? But if I am a sinner, and someone teaches me grace, I have real hope.  ...This message is worthy of being believed and proclaimed over and above the message of the false teachers.
 
@@ -215,7 +211,7 @@ If the Gospel could penetrate Paul’s dark heart and make him an apostle of Jes
 
 Important lesson here for us in the church: Do not fail to notice how attractive false teaching is.  In chapter 1, we learn the false teaching is about the law, and the law is about right and wrong.  In chapter 4, we find that the false teaching included asceticism and self-denial for spiritual reasons…What was so bad about this teaching?
 
-Well, whenever we do things in order to earn God’s favor, we have accepted false teaching. We have fundamentally misunderstood Christianity to be about us and our character when it is fundamentally about God and his character. You see how the gospel is woven into even this book of practical living and instruction. The Gospel exposes God’s gracious love and mercy to us in Christ, NOT our upstanding characters.”
+Well, whenever we do things in order to earn God’s favor, we have accepted false teaching. We have fundamentally misunderstood Christianity to be about us and our character when it is fundamentally about God and his character. You see how the gospel is woven into even this book of practical living and instruction. The Gospel exposes God’s gracious love and mercy to us in Christ, NOT our upstanding characters.
 
 SO: Timothy's job, according to Paul, is to point out these teachers and their teachings to the faithful and avoid their foolishness, combating falsehood by teaching the true gospel of grace.
 
@@ -254,7 +250,7 @@ Once: again there is to be self-sacrificial leadership, obeying the ordinances o
 
 [EXAMPLE: The perfectly divine Father eternally exercises loving authority over the perfectly divine Son. The Son, being in very nature God doesn’t see equality with God as something to be exploited, but makes himself nothing, taking the very nature of a servant, and becomes obedient to his Father to the point of death. He came, not to do his own will, but the will of the Father who sent him.]
 
-So, within the church, men and women are of equal significance but are different in role.   Contrary to some claims, the apostle's arguments appear to be normative for all time and not culturally conditioned or bound.  If you want  to take a closer look at these issues, track down Mark’s recent sermon on “Gender Roles in the Church,” or pick up *Recovering Biblical Manhood and Womanhood* on the bookstall.
+So, within the church, men and women are of equal significance but are different in role.   Contrary to some claims, the apostle's arguments appear to be normative for all time and not culturally conditioned or bound.  If you want  to take a closer look at these issues, track down Mark Dever’s sermon on “Gender Roles in the Church,” or pick up *Recovering Biblical Manhood and Womanhood*.
 
 A few additional notes on this point, on how to apply it:
 
@@ -312,7 +308,7 @@ Apparently the early church kept a list of widows it was to care for.  However, 
 
 ### 3. Elders (5:17-20)
 
-Elders are to be respected and accorded honor, especially those who invest the most time and effort in teaching the word.  Here, we also get a NT basis for paying ministers in the word.  They are not to be lightly accused, but they are to be disciplined when wrong and to submit to such disciplined before the congregation as an example to others.  
+Elders are to be respected and accorded honor, especially those who invest the most time and effort in teaching the word.  Here, we also get a NT basis for paying ministers in the word.  They are not to be lightly accused, but they are to be disciplined when wrong and to submit to such discipline before the congregation as an example to others.  
 
 ### 4. Slaves (6:1-2)
 
@@ -320,7 +316,7 @@ We’ll return to this in our discussion of Titus. While we don’t want to thin
 
 And then, as I said earlier, Paul concludes his letter with another contrast between false teachers and the true gospel through the rest of chapter six.  Here, he looks at treatment and love of money as a primary indicator of where a teacher’s motivation is, and thus, whether what he is teaching is good or bad.   It seems there was a connection between those who saw godliness as a means to financial gain (6:6) and those who had an *“constant friction among people who are depraved in mind and deprived of the truth”* (there in 6:5)
 
-So let us be careful with how we and our leaders treat money, and how we structure the finances in our church here on Capitol Hill to promote good teaching. (6:4).  
+So let us be careful with how we and our leaders treat money, and how we structure the finances in our church here at Immanuel to promote good teaching. (6:4).
 
 ## Conclusion
 
@@ -328,7 +324,7 @@ So what do we take away from all this?  A few final observations.
 
 Paul gives us a nice little summary of his own letter right at the end:  chapter 6:20-21 – *"O Timothy, guard the deposit entrusted to you. Avoid the irreverent babble and contradictions of what is falsely called ‘Knowledge,’ for by professing it some have swerved from the faith.”*
  
-__First__, the need to always be on our guard against those who preach a false gospel.  Even here at CHBC, this is something we must watch out for.
+__First__, the need to always be on our guard against those who preach a false gospel.  Even here at Immanuel, this is something we must watch out for.
 
 __But second__, the essential connection between teaching the true gospel and structuring our lives — as a church and as individuals — in a Godly way.  The broader evangelical culture suggests that there is little connection between our view of authority (say, of men in the church) and our ability to guard the truth of the gospel.  I think that the whole of 1 Timothy would take great issue with that.  Gospel truth promotes right living, but right living also is important in preserving the gospel, and as far as Paul is concerned, a right view of authority and leadership should be foremost in mind as we consider right living.  Guard your life and your doctrine.
 
