@@ -13,168 +13,131 @@ fontfamily: libertine
 fontfamilyoptions: sfdefault
 ---
 
-# Amos
+# Titus: Gospel-Centered Church
 
-## Theme
+> "But when the kindness of God our Savior and his love for mankind appeared, he saved us—not by works of righteousness that we had done, but according to his mercy—through the washing of regeneration and renewal by the Holy Spirit."– Titus 3:4-5
 
-_Yahweh is angry because His people are getting rich by oppressing their own kinsmen, and despising the righteous and His word._
+## Background and Structure
 
-## I.  God Judges the Nations
+- “Innovation” in the church
 
-1:3 – Damascus
+- Purpose of the letter (1:5)
 
-1:6 – Gaza
+- Structure of the letter
 
-1:9 – Tyre
+Key phrase: __“The knowledge of the truth, which accords with godliness”__ (1:1)
 
-1:11 – Edom
+## Theme #1: Gospel-Shaped Leaders (1:5-9)
 
-1:13 – Ammon
+Qualifications of Elders:
 
-2:1 – Moab
+- Leaders in their own homes
 
-## II.  God Judges His People (2:6ff)
+- Blameless
 
-- Sins of Injustice
+- Relationships with others
 
-- Religious Sins
+- Hold firmly to the “trustworthy word;” refute those who oppose it
 
-## III. God’s Judges with Justice and with Certainty
+## Theme #2: Resistance of Gospel-Deniers (1:10-16, 3:9-11)
 
-7:7-9
+- Extent of deception (ruining whole households)
 
-## IV.  God Judges with Mercy
+- Nature of false teaching
 
-5:14-15
+## Theme #3: Gospel-Saturated Doctrine (2:11-15, 3:3-8)
 
-9:11-15
+- Grace: the heart of the gospel
 
-# Obadiah
+- What we’ve been saved from – we’re all like the false teachers
 
-## Theme
+- God’s grace teaches us godly living
 
-_Yahweh will judge those who arrogantly mistreat His people._
+## Theme #4: Gospel-Centered Living (2:2-10, 3:1-2)
 
-## Obadiah 1-9.  The Sentence: Coming Destruction
+- Specific applications for age and gender
 
-## Obadiah 10-14:  The Charge:  Oppressing God’s People
+- A culture of deliberately edifying relationships in the church 
 
-## Obadiah 17-21:  The Result:  Establishment of God’s Kingdom
+- Witness through work
 
-## A Study Outline for Amos
+## Outline of Titus
 
-i. Amos 1-2:5 – Yahweh deals with the nations
-i. Amos 2:6-4 – Yahweh deals with His people
-i. Amos 5-6 – The call to repent
-i. Amos 7-9 – Five visions
+1. Opening (1:1-4)
+1. The Occasion: The Need for Proper Leadership (1:5-9)
+1. The Problem: False Teachers (1:10-16)
+1. Christian Living in Contrast to the False Teachers (2:1-3:8)
+   a. Proper living by age and gender groupings (2:1-10)
+   a. Gospel basis (2:11-14)
+   a. Summary command (2:15)
+   a. Proper living, particularly regarding to outsiders (3:1-2)
+   a. Gospel basis (3:3-7)
+   a. Summary command (3:8)
+1. The Problem Restated: False Teachers (3:9-11)
+1. Closing Exhortation (3:12-15)
 
-## A Study Outline for Obadiah
+# 2 Timothy: The Continuation of the Kingdom
 
-i. Obadiah 1-9 – Coming destruction of Edom: serves as a type of the Day of the LORD
-i. Obadiah 10-14 – Reason for the coming destruction: oppression of God’s people
-i. Obadiah 15-21 – Coming destruction upon all: the antitype - the real Day of the LORD
-   a. Judgment vv. 15-16
-   b. Salvation vv. 17-21
+## Background and Structure
 
-# Micah
+- Paul’s last words
 
-## Context
+  4:14-18
 
-- Late 8th century BC
+  4:6-8
 
-- Assyria is about to invade Israel; then does invade Israel
+- Structure of the letter
 
-- Israel is falling
+  Ch.1
 
-- But Yahweh provides hope for the future
+  Ch.2-3
 
-## Theme
+  Ch.3-4
 
-_God will judge all people; yet he will save a remnant through a future king._
+## Theme #1: Protect the Message (1:7-14)
 
-## A Note on Style
+- Starts with God
 
-“You cannot _wash_ the corruption out of _Washington_; sin is nothing _new_ in _New_ York”
+- Give the gospel of Jesus Christ alone
 
-## God wants wrongs to be rebuked
+  - Guard how we present human need
 
-Micah 1:3ff
+  - Guard how we present God’s provision for our need
 
-Hebrews 3:12-13
+  - Guard against assuming the Gospel
 
-## God wants his people to be restored
+## Theme #2: Preach the Message, No Matter The Cost
 
-Example of hope after judgment: 4:6-8
+- Raise up other teachers 2:1-3
 
-Promise of a ruler: 5:1-5
+- Suffering may come 2:8-9
 
-## God wants his character to be known
+- How to handle false teaching 2:14-15; 3:1-5
 
-Acknowledgment of his supremacy (4:1-3)
+## Theme #3: Persevere to the End
 
-Remembrance of his righteousness (Chapter 6)
+- Not all who claim the name of Christ will persevere to the end 3:14; 4:9-10
 
-Demonstration of his mercy (6:18-10)
+- How to persevere
 
-## What does it mean to repent?
+  - Do not neglect the Word 3:15-17
 
-# Jonah
+  - Teach with patience and embrace community 4:2
 
-## Context
+- Equip the next generation to persevere 4:6
 
-- Early to mid 8th century BC
+## Outline of 2 Timothy
 
-- The Assyrians have been Israel’s enemy for a long time
-
-- Not the first time Jonah has prophesied (2 Kings 14)
-
-## Theme
-
-_Salvation — of all nations — is Yahweh’s sovereign work._
-
-## What is Jonah?
-
-- Allegory?  Parable?  Myth?
-
-## Jonah Chapter 1
-
-Who is following God?  Jonah?  The pagan sailors?
-
-## Jonah Chapter 2
-
-Jonah’s repentance
-
-## Jonah Chapter 3
-
-Jonah preaches only about judgment, not about repentance.
-
-The Ninevites repent (3:5)
-
-The king repents (3:6)
-
-Contrast between Jonah and the Ninevites
-
-## Jonah Chapter 4
-
-Jonah was afraid of God’s mercy.
-
-God’s unstoppable grace.
-
-“Should I not be concerned about that great city?”
-
-## Conclusion
-
-“God has always been more committed to reaching the world than his own people have been” (_Promises Made_)
-
-## A Study Outline for Micah
-
-i. Micah 1-2 – Judgment is coming.
-i. Micah 3-5 – But the remnant will be saved through the coming King.
-i. Micah 6-7 – Therefore repent and be saved.
-
-## A Study Outline for Jonah
-
-i. Jonah 1:1-16 – Yahweh saves those ignorant of Him.
-i. Jonah 1:17-2:10 – Yahweh saves those disobedient to Him.
-i. Jonah 3 – Yahweh saves those rebellious against Him.
-i. Jonah 4 – Jonah needs a lesson about the heart of mercy that overflows in salvation.
+1. Introduction (1:1–4)
+1. Paul’s Concern for Timothy (1:5–14)
+1. Paul’s Situation (1:15–18)
+1. Special Instructions to Timothy (ch. 2)
+   a. Call for Endurance (2:1–13)
+   a. Warning about Foolish Controversies (2:14–26)
+1. Warning about the Last Days (ch. 3)
+   a. Terrible Times (3:1–9)
+   a. Means of Combating Them (3:10–17)
+1. Paul’s Departing Remarks (4:1–8)
+   a. Charge to Preach the Word (4:1–5)
+   a. Paul’s Victorious Prospect (4:6–8)
+1. Final Requests, Greetings and Benediction (4:9–22)
