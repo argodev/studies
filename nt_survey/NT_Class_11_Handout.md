@@ -13,193 +13,206 @@ fontfamily: libertine
 fontfamilyoptions: sfdefault
 ---
 
-# Nahum
+# Ephesians
 
-## Context
+## Introduction
 
-- Late 7th century BC; North has fallen, South still standing
+- The message of Ephesians: “You have received supernatural grace for the glory of God; therefore, live in supernatural unity to the glory of God.”
 
-- The Assyrians are feared by the people of Judah
+- Purpose and background
 
-- “Where is your God, O people of Yahweh?”  
+## Chapter 1: God Elects
 
-## Theme
+_Praise be to God who predestined us to be redeemed through Christ, to the praise of his glorious grace.  I thank God and pray for you, that you may know Christ better as well as his power for you._
 
-_Yahweh is still jealous for His people, and ferociously protective of them, therefore they need not fear, for Yahweh is stronger than their enemies, and will strip them of their strength._
+- Salvation by God’s choice alone
 
-1. Yahweh’s Will Protect His People – Nahum 1:2-8
+- Paul’s prayer for the Ephesians
 
-2. God’s threatened judgment
+## 2:1-10: Election Based Purely on Grace
 
-3. A vision of Nineveh’s demise
+_As for us, we were all dead in our sins, but God graciously made us alive to show his grace and end our boasting._
 
-# Habakkuk
+- Dead
 
-## Context
+- But God...
 
-- Late 7th century BC; North has fallen, South still standing
+2:11-3:13: The Primary Application of the Gospel is Unity
 
-- Internal ethical decline in Judah
+_As a result, God has destroyed the barrier between Jew and Gentile, building them into a single building in which God lives by his Spirit.  This is the mystery of which I am a herald and for which I am now suffering._
 
-- Now the Chaldeans are on Judah’s doorstep
+- “Made the two one”
 
-- “How can a holy God use a wicked nation for His purposes?”
+- Unity in the church as the central application of the gospel
 
-## Theme
+# 3:14-21: Prayer for the Supernatural
 
-_Yahweh is sovereign over even the actions of the wicked.  For even in their wickedness they serve Yahweh’s purpose.  However, Yahweh is not indicted for evil Himself, for they will be judged for their own wickedness in due time.  Thus, the people of Yahweh should patiently wait and trust in their God, and worship Him._
+_So I pray for the supernatural power of God to work this kind of unity in you._
 
-1. How Long This Violence? – Habakkuk 1:2-4
+- Pray for faith
 
-2. Until God Judges Through a Wicked Nation – Habakkuk 1:5-11
+- Pray for knowledge of Christ’s love
 
-3. Doesn’t Yahweh Love Righteousness? – Habakkuk 1:12-2:1
+# Why Has God Done All This?
 
-4. Be Patient and Trust – Habakkuk 2:2-20
+1. For the praise of his grace (1:5-6, 11, 2:7)
 
-   - Romans 1:17; Galatians 3:11f; Hebrews 10:38
+1. For the praise of his wisdom (3:10)
 
-5. Praise and Trust in Yahweh – Habakkuk 3
+1. For the glory of God (3:20-21)
 
-# Zephaniah
+## 4:1-5:2: Build One Another Up
 
-## Context
+_Keep the unity of the Spirit required by your new lives in Christ; to accomplish this, God has given us gifts to build unity.  So you must no longer live as godless Gentiles.  Instead, speak the truth, building each other up and forgiving just as Christ forgave you._
 
-- Late 7th century BC; North has fallen, South still standing
+- Gifts
 
-- Judah is practicing idolatry
+- Wisdom
 
-- The “day” of some great king common language
+- Speech
 
-## Theme
+- Money
 
-_The Day of the LORD will be the most terrible “day” ever, and it is executed against all false gods. But even in that calamity, God will create a remnant for himself._
+## 5:3-14: Do Not Partner with Darkness
 
-1. The Day of the Lord Upon Judah – Zephaniah 1:2-6
+_Don’t misunderstand me, however, I am not telling you to have unity with those who lie and say that immorality is okay._
 
-2. The Day of the Lord Upon All – Zephaniah 2
+- Warning about the wrong kind of unity
 
-3. Salvation for the Remnant – Zephaniah 3:8-20
+## 5:15-6:9: Make the Most of Every Opportunity
 
-# Jeremiah
+_Instead, make the most of every opportunity, submitting to each other in the following ways: Wives, submit to your husbands; husbands love your wives as Christ did the church.  Children, obey your parents; fathers, bring your children up in the training of the Lord.  Slaves, obey your earthly masters; masters, treat your slaves with respect and fear since you serve the same master._
 
-## Context
+- Be filled with the Spirit, sing to one another
 
-- Jewish exiles go off to Babylon in 605, 597, and 586 BC.
+- Submit to one another
 
-- The covenant people are engaged in gross idolatry.
+  - Wives submit to your husbands (and husbands love your wives) to image Christ and the church
 
-- The covenant curses have now come upon them.
+  - Children submit to your parents (and fathers instruct your children in the Lord)
 
-## Theme
+  - Slaves submit to your masters (and masters treat your slaves with Christ as your master)
 
-_The old covenant has failed; not because it itself was defunct, but because the people were not able to keep it due to their sinful hearts.  Therefore a new covenant is needed which will involve new hearts for the people of God._
+## 6:10-23: Stand to the End
 
-## I. Chapters 1-45
+_Finally, put on the full armor of God so that you can continue to stand, praying even for me, that I might continue to stand._
 
-### 1. Breach of Covenant – Jeremiah 2:9-12, 3:20
+- Stand
 
-### 2. Repeated, Widespread Sin
+- Pray
 
-God repeatedly warns them (7:13, 25:3-4)
+## Study Outline for Ephesians
 
-The people listen instead to false prophets (6:14)
+1. What God Has Done: United Us in Grace (Chs. 1-3)
+   a. Introduction (1:1-2)
+   a. God’s eternal purpose of glorifying himself (1:3-14)
+   a. Prayer for understanding of Unity (1:15-23)
+   a. Unity with God by grace through faith (2:1-10)
+   a. Unity between Jew and Gentile
+      1. The basis for unity (2:11-22)
+      1. The display of God’s wisdom through unity (3:1-13)
+      1. Prayer for God to accomplish this unity (3:14-21)
+1. What We Must Do: Live Out Our Unity (Chs. 4-6)
+   a. Loving unity built through diverse gifting (4:1-16)
+   a. Loving unity maintained through renewed thinking (4:17-5:2)
+   a. Warning against unity with darkness (5:3-14)
+   a. Loving unity by making the most of opportunity
+      1. Live and encourage wisely (5:15-20)
+      2. Submit to one another (5:22-6:9)
+         a. Wives and husbands
+         a. Children and parents
+         a. Slaves and masters
+   a. Loving unity strengthened through dependent spiritual warfare (6:10-20)
+   a. Final Greetings (6:21-24)
 
-### 3. Total Depravity
+## The Sufficient King: Overview of Colossians & Philemon
 
-- Jeremiah 6:10 – The people are unable to hear...
+## Introduction
 
-- Jeremiah 17:1, 9 – ...because sin is engraved on their hearts...
+1. Authorship:
 
-- Jeremiah 18:12 – ...which now controls them...
+1. Date:
 
-- Jeremiah 13:23 – ...and they cannot change this.
+## Colossians: New Life in Christ
 
-### 4. Proclamation of Judgment
+### Purpose  
 
-Disaster the people cannot escape (11:11-2)
+Attack on the sufficiency of Jesus Christ.
 
-Disaster that is horrific
-(5:15-17, 6:26, 8:13, 9:22, 12:11-12, 15:7-8)
+1. Judaising tendencies deny the ___________ of Christ’s work (2:16-17)
 
-### 5. Judgment as the Undoing of Creation (4:23-28)
+1. Preoccupation with angelic experiences deny the _________________ of Christ (2:18-19)
 
-## II. Jeremiah the Prophet
+1. Asceticism denies the ____________ of Christ. (2:20-23)
 
-A man of God in love with the word of God (20:9, 1:9)
+The life of the Kingdom is a cross-centered life.  
 
-God’s word earned Jeremiah enemies (chapters 26, 37)
+### Key verses: 2:6-7
 
-## III. The New Covenant: Jeremiah 31:31-37
+_So then, just as you have received Christ Jesus as Lord, continue to live in him, being rooted and built up in him and established in the faith, just as you were taught, and overflowing with gratitude._
 
-Theological climax of the book
+### Outline
 
-The solution: give the people new hearts
+1. Introduction (1:1-14)
+1. Christ is sufficient for attaining new life. (1:15-20)
+1. Reconciliation of the Colossians to God (1:21-23)
+1. The apostle Paul’s labor for the gospel (1:24-2:3)
+1. The worldly alternatives, and their dangers (2:4-23)
+1. How to out our new life in Christ (3:1-4:6)
+1. Personal notes and final greetings (4:7-18)
 
-## IV. Judgment and Destruction: Jeremiah 34-52
+### Major Themes
 
-Judgment against Egypt, the Philistines, Moab, Ammon, Edom, and others
+1. The source of their new life
+   a. _____ God.
+   a. ________ Christ
+   a. Through Christ ______
+1. The purpose of their new life
+   a. ____ God
+   a. For others
+      1. Family
+      1. Colleages
+      1. Everyone
+   a. The need to persevere
 
-Judgment against Babylon (chapters 50-51)
+### Application:
 
-The destruction of Jerusalem (chapter 52)
+_What is it in our lives that might replace Christ in terms of how we live the Christian life?_
 
-# Lamentations
+1. Are we always looking to the next spiritual ‘high’
 
-## Context
+   a. The great sermon
 
-- Just after Jerusalem is destroyed
+   a. The answered prayer
 
-- Jerusalem personified
+   a. The new Christian book
 
-## Theme
+_All these things are good only as much as they point us back to the gospel and to depend upon Christ._
 
-_We are in mourning because God has done this, even though it’s our fault.  Now we need Him to change our hearts, for He will again comfort us._
+1. Do we depend upon ourselves or Christ?
 
-## The City’s Sin and the Judge’s Wrath (Chapters 1, 2, 4)
+   a. How different would your day look if you decided that tomorrow you were going to stop trying to live for Jesus in His strength and start living in your strength?
 
-- First poem: the fall of Jerusalem
+   b. When things are going well, do we feel good about ourselves, or feel grateful to the Lord?
 
-- Second and Fourth poems: Sin and judgment
+## Philemon: Reconciliation in the Kingdom
 
-## The Compassion of God (Chapter 3)
+### Background
 
-- God’s compassion (3:21-26)
+### Key verses (8-9)
 
-- God’s Kingship and Mercy (Chapter 5)
+_For this reason, although I have great boldness in Christ to command you to do what is right, I appeal to you, instead, on the basis of love._
 
-# Study Outlines
+### Outline
 
-## A Study Outline for Nahum
+1. Paul's greeting (1-3)
+1. Thanksgiving and intercession for Philemon (4-21)
+1. Paul's plea for Onesimus (8-22)
+   a. Paul’s return of Onesimus (8-16)
+   a. Philemon’s reception of Onesimus (17-22)
+1. Final remarks (23-25)
 
-i. Nahum 1:2-11 – Yahweh is strong and powerful
-i. Nahum 1:12-2:12 – Nineveh only appears to be strong
-i. Nahum 2:13-3:19 – Yahweh is against Nineveh
+### Major Themes and Message
 
-## A Study Outline for Habakkuk
-
-i. Habakkuk 1:2-4 – How long this violence?
-i. Habakkuk 1:5-11 – Until Yahweh judges through a wicked nation.
-i. Habakkuk 1:12-2:1 – How so?  Doesn’t Yahweh love righteousness?
-i. Habakkuk 2:2-20 – Fear not!  The righteous will be saved and the wicked will be punished in due time.
-i. Habakkuk 3:1-19 – Habakkuk’s response of worship and trust.
-
-## A Study Outline for Zephaniah
-
-i. Zephaniah 1:2-2:2 – The Day of the LORD upon Judah
-i. Zephaniah 2:3-3:7 – The Day of the LORD upon all the earth
-i. Zephaniah 3:8-20 – The remnant of all nations will be saved
-
-## A Study Outline for Jeremiah
-
-i. Jeremiah 1-45 – Yahweh and His People
-   a. Ch. 1-29 – The proclamation against Judah
-   a. Ch. 30-33 – The promise of a New Covenant
-   a. Ch. 34-45 – The final destruction of Jerusalem
-i. Jeremiah 46-52 – Yahweh and the Nations
-
-## A Study Outline for Lamentations
-
-i. Lamentations 1-2 – A Hebrew Acrostic
-i. Lamentations 3-4 – Acrostic at a Quicker Pace
-i. Lamentations 5 – Fractionalized, Still Quicker, Acrostic
+- Reconciliation through the power of the cross
+- Appealing on the basis of love
