@@ -13,320 +13,312 @@ fontfamily: libertine
 fontfamilyoptions: sfdefault
 ---
 
-# Ezekiel
+# The Enemies of the Kingdom - Legalism: The Book of Galatians
 
-A few weeks ago, we heard Isaiah warn Judah’s King Hezekiah about the Assyrian army, while assuring him of God’s care. Last week, we heard the prophet Jeremiah, who lived a century after Isaiah, urge Judah and Jerusalem to follow the Lord’s direction by surrendering to the Babylonian army. This morning, we encounter the prophet Ezekiel who lived at the same time as Jeremiah, but whose ministry was actually set in exile in Babylon. Let’s start off with a quick biographical sketch of Ezekiel, and an overview of the structure of the book.
+## Introduction
 
-The Babylonians carted Israelites off to exile in Babylon in several waves, and Ezekiel was among the earlier waves. He probably traveled to Babylon in 597 b.c., along with the royal family and other leading citizens of Jerusalem. Remember, Jerusalem was not entirely destroyed until a decade later. Ezekiel had been trained as a priest in Jerusalem, and he knew the religious life of his people well. Perhaps he’d even heard Jeremiah preach in Jerusalem before he was taken away. But once in exile away from the temple, it may have looked like this priest had no future serving God’s people. After all, a priest’s work was tied up with the temple. That’s an important question. Will God still be with his people in exile? And that’s the question God prepared this young priest to answer.
+All throughout history, man has been trying to please God through his own works.  It’s built into our natures.  People want to be able to say that their destiny depends on some action of their own doing.  And so man has created all sorts of false religions to provide a system of beliefs through which he can _earn_ reconciliation with God.  
 
-This book has been regarded as so strange that Jewish rabbis would often not allow young men to read it until they were thirty years old. But it’s really not that hard to understand. Let me give you a quick overview before we dive in. Ezekiel’s structure is even clearer than Isaiah’s or Jeremiah’s. It falls into two halves. In the first twenty-four chapters, the Lord tells his people that the Babylonians will destroy Jerusalem. The climax occurs in chapter 24 when word comes to Ezekiel that the siege has begun. Then chapters 25 to 48 turn to hope. They begin with condemnations of the surrounding nations, specifically, Ammon, Moab, Edom, Philistia, Tyre, and Egypt. Then in 33:21, word arrives that Jerusalem has fallen. From that point, Ezekiel prophesies about hope and restoration for God’s people. The book largely occurs in chronological order, and Ezekiel’s prophesies stretch over a two decade period — from around 593 to 571 b.c.
+It could be the person who thinks they’ll be saved because they’re a generally good person.  It could be the Roman Catholic who believes that God’s grace cooperates with their own good works to secure justification.  It could be the devout Muslim who thinks that their good works achieve most of what they need to make it to heaven, and that God’s mercy accomplishes the rest.  It could be the person who think that they must be baptized in order to be saved.  Whatever the situation, all these ways of thinking have the same thing in common: we do some, God does some.  And, presumably, in the end we both get credit.
 
-On top of this chronology, God gives Ezekiel three sequences of visions, and if you understand these, you’ll understand the book. The first sequence occurs in chapters 1-3, where Ezekiel, now in Babylon, sees God coming to him in a vision. The second sequence occurs in chapters 8-11. It’s a flashback, as it were, in which God shows Ezekiel how his presence departed from Jerusalem because of the idolatrous worship being practiced in the temple. The book then concludes with a long vision sequence in chapters 40-48 when God returns to his people in a rebuilt temple.
+Well, that’s exactly the kind of false belief that Paul is responding in the letter to the Galatians.  The false teachers in the cities of Galatia were perverting the Gospel by adding requirements for salvation, namely circumcision, and Paul with great passion and zeal exhorts the Galatians to recognize this teaching as false.  So, please open you Bibles to Galatians (ask if anyone needs a Bible).   First, a little background.
 
-So that’s Ezekiel in a nutshell. For the rest of our time, I want us to follow the three sequences of visions the Lord gave to Ezekiel. We can summarize these three visions as: A Vision of God the King; A Vision of God’s Departure; and A Vision of God’s Coming and the Promise of Paradise.
+## Background
 
-## A Vision of God the King
+### The Region of Galatia and Founding of Churches
 
-First, a vision of God the King. Have you ever seen a child do something wrong and then receive a “time out” in the corner for punishment? The Babylonian exile was like a big time out for God’s people. He gave them a time out from the land, the throne, and the temple, all of which they had begun to misunderstand and even idolize. The Promised Land, the Davidic line of the kings, and the temple (which symbolized God’s presence) were all good gifts from him. But the people had misused them. The gifts became too important. So God took them away by calling his people out to Babylon. He set them aside for seventy years so that they could refocus on what was important and why.
+Galatia was a Roman province in central Asia Minor (central Turkey).  So unlike some other letters in the New Testament, Galatians was written not to a single church but to a group of churches—all those in the province of Galatia.  Paul most likely planted churches in southern Galatian cities during his first missionary journey (46-48 A.D.).  In particular, we learn in the book of Acts that he planted churches in Pisidian Antioch (13:14-50), Iconium (13:51-14:7), Lystra (14:8-19), and Derbe (14:20, 21).
 
-So let’s think about this setting a bit. __*What do you think God’s people were thinking as they sat there in exile?*__
+### The Opposition: The Judaizers[^1]
 
-The amazing truth of Ezekiel is that God actually went with his people into exile. And that’s how Ezekiel’s vision begins. With God coming to his people apart from the temple, the line of David, or the land of Israel.
+Well, what happened between the planting of these churches and the writing of this letter?  After Paul left the churches in Galatia, we read in Acts 15:1 that:  "But some men came down from Judea and were teaching the brothers, ‘Unless you are circumcised according to the custom of Moses, you cannot be saved.’"
 
-God appears to Ezekiel in an extraordinary opening vision, which begins with the words,
+Commonly called "Judaizers," these Jews taught that Gentiles who wanted to become Christians must still follow the law of the Old Testament.  It’s possible that the teachers who came down to Antioch were the same teachers troubling the churches throughout Galatia.  
 
-> “In the thirtieth year, in the fourth month, on the fifth day of the month, as I was among the exiles by the Chebar canal, the heavens were opened, and I saw visions of God.” (1:1).
+Now, it does not appear that these false teachers were rejecting Christ out of hand.  In fact, they may have believed that he was the Messiah.  Indeed, there is no indication that Paul tries to correct anyone for saying that Jesus was not the Messiah.  But what they were doing was saying that God’s people must continue to observe the law.  So, according to them, to become a Christian, you must first obey the law, particularly through circumcision.  They were teaching a false Gospel.  Recognize that some false gospels are false because they subtract from the gospel.  You can be a Christian but not believe in the reality of sin, the deity of Christ, and so forth.  But other false gospels are false because they _add_ to the gospel.  They get everything right, but then add in a few additional requirements.  But those “gospels,” as Paul says, are no gospel at all.
 
-The vision itself begins with a mighty wind:
+Well, in order to convince these churches of their additional requirements, it seems from this letter that these false teachers were attacking the reputation and authority of Paul.  We glean this from some of Paul's comments, and the defense he offers of his ministry in chapters 1 and 2.  It seems that the Judaizers claimed that:  Paul made up "his" gospel, (1:11-12), that he erred with regard to the law, and that Man, not the Lord, gave Paul's authority or apostleship to him (1:1).
 
-> “As I looked, behold, a stormy wind came out of the north, and a great cloud, with brightness around it, and fire flashing forth continually, and in the midst of the fire, as it were gleaming metal.  And from the midst of it came the likeness of four living creatures. And this was their appearance: they had a human likeness,  but each had four faces, and each of them had four wings. ” (1:4-6).
+The false teachers were motivated by a couple of factors.  First, they wanted to avoid persecution.  Jews, of all people, were exempt under Roman law from submitting to the state religion, so obeying the Jewish law could help a person avoid persecution both by the Jews and the Romans.  And second, they want to boast in themselves – in their own deeds.  Paul warns “It is those who want to make a good showing in the flesh who would force you to be circumcised, and only in order that they may not be persecuted for the cross of Christ. For even those who are circumcised do not themselves keep the law, but they desire to have you circumcised that they may boast in your flesh.” (6:12-13).  
 
-As the vision continues, we see some very bizarre creatures surrounding God’s throne:
+## Purpose of the Letter
 
-> “Now as I looked at the living creatures, I saw a wheel on the earth beside the living creatures, one for each of the four of them. As for the appearance of the wheels and their construction: their appearance was like the gleaming of beryl. And the four had the same likeness, their appearance and construction being as it were a wheel within a wheel. When they went, they went in any of their four directions without turning as they went. And their rims were tall and awesome, and the rims of all four were full of eyes all around. And when the living creatures went, the wheels went beside them; and when the living creatures rose from the earth, the wheels rose.” (1:15-19).
+And so, the purpose of the letter is clear: To counter the Judaizers' false teachings. Paul writes this letter to the Galatian churches.  And in it, he re-asserts the true gospel of justification by faith alone in Christ alone.  Many of the points that Paul makes here, he makes as well in his letter to the Romans.  So, on the back of the handout, you’ll see a chart summarizing many of the similarities between the two letters.
 
-After further description of these creatures, a voice sounds out overhead. And then the throne itself appears:
+[questions?]
 
-> “And there came a voice from above the expanse over their heads. When they stood still, they let down their wings.  And above the expanse over their heads there was the likeness of a throne, in appearance like sapphire; and seated above the likeness of a throne was a likeness with a human appearance.  And upward from what had the appearance of his waist I saw as it were gleaming metal, like the appearance of fire enclosed all around. And downward from what had the appearance of his waist I saw as it were the appearance of fire, and there was brightness around him. Like the appearance of the bow that is in the cloud on the day of rain, so was the appearance of the brightness all around.” (1:25-28).
+## Brief Outline
 
-Let’s pull out five observations about God from this vision.
+As the ESV Study Bible notes, it is difficult to divide Galatians into neat sections because Paul returns to the same themes throughout the book.  Roughly, he spend the first two chapters on personal matters.  He establishes his credentials as an apostle.  He defends the Gospel he preaches as not of his own invention. He recounts his relationships with the other Apostles, including their recognition of him and his opposition to Peter on one occasion.  His purpose here is to defend against accusations some false teachers were evidently leveling against him and to establish that the Gospel is more important than any individual’s personal authority.
 
-### God Is Not Like Us
+The next two or two-and-a-half chapters are the core theological argument of the book.  Paul tells the Galatians that their reliance on good works for righteousness was exactly counter to the Gospel.  It is tantamount to returning to the Mosaic Law and disregarding Christ’s atoning work.  But the Law given to Moses did not make Israel righteous: instead, it served to illustrate Israel’s inability to live up to God’s standards.  Even Abraham was justified not by works but by faith, Paul writes.  But God through Christ has given us grace that we might be adopted as his sons.  As sons we are free.
 
-Many people have tried to draw — literally illustrate — what this vision must have looked like to Ezekiel. But that’s probably an impossible task. And that’s the whole point. What Ezekiel could see in this vision was that God is not like us. He is strange, other, and different than we are. Often, we assume God is just like us. But Ezekiel’s vision let’s us see how God is an entirely different being than we are. We cannot simply make him over in our own image. He is unusual.
+The final chapter and a half apply the theological argument to everyday living.  Because we are free we should live lives marked by the Spirit, not by the flesh.  Life according to the flesh is marked by idolatry, immorality, jealousy, etc, but life by the Spirit is marked by love, peace, patience, kindness, and the other fruits of the Spirit.  Paul concludes with a final warning and farewell.
 
-Ezekiel did not hesitate to describe everything he did see, but notice how often he used the words “appearance” and “as it were.” It was “the likeness of a throne, in appearance like sapphire,” and below the figure’s apparent waist, it looked “as it were the appearance of fire.”
+So, at the risk of oversimplification, you can think of the letter in three parts.  The Personal, the Preacher of Justification (that is, Paul) in chapters 1 and 2.  The Doctrinal, the Principle of Justification, from 3:1 through 5:15.  And the Practical, the Privileges of Justification, from 5:16 through the end of chapter 6.
 
-The Bible calls God “holy.” And it’s not that he just possesses holiness; he _is_ holy. Therefore, we must show reverence to God. Ezekiel himself fell face down, even after all his theological training! His new knowledge of God did not make him feel more casual about God at all. He is awed by this vision of God, like Job was awed when he had a vision of God.
+## Major Themes
 
-### God Is All-Powerful and All-Wise
+Well, how does Paul respond to the false teaching, to the accusations against his authority, and to the perversion of the gospel?
 
-We see here, too, that God is all-powerful and all-wise. Perhaps you noticed that the rims of the wheels are covered with eyes (1:18). And the four faces look in every direction (1:6,10,17). These things show God’s omniscience—he sees everywhere. There is nothing he does not perceive. He is all-knowing. And the fact that God can be on this chariot that moves in all directions shows that he is all-powerful. He can be in any place. Ezekiel could trust this all-powerful and all-wise God!
+Specifically, he gives the reader of Galatians:
 
-### God Is Not Limited by Circumstances
+_Two things_ to remember, and
+_Two things_ to do.
 
-But the real point for Ezekiel was that he was seeing God at all. After all, he was not in Jerusalem or in the temple. He was in exile when he had a vision of God Almighty! God is not limited to Jerusalem. The vision assured Ezekiel that God would be with his people wherever they were scattered. Indeed, God is not limited to any one place. He has a concern for the whole world, as the rainbow in verse 28, recalling God’s covenant with Noah for the whole world, reminds us.
+This will form the outline of the rest of our time in Galatians.
 
-### God Takes the Initiative
+### Two Things to Remember
 
-Notice also that God takes the initiative. He is the one who comes to us. Look again at verse 1: “the heavens were opened.” He chose to come down. Ezekiel didn’t open the heavens and go to him. Then verse 3: “the word of the Lord came.” And verse 4: “As I looked, behold, a stormy wind came out of the north.” Then in verse 25: “there came a voice.” And finally verse 28: “I heard the voice of one speaking.”
+First, let's take a look at the two things Paul encourages us to remember.
 
-Like Moses and the burning bush. Like Isaiah in the temple. Like Paul on the road to Damascus. So with Ezekiel. None of these men were out looking for God or initiated with him. This God takes the initiative. He comes to us.
+#### 1. The Gospel Comes Directly From God
 
-### God Communicates
+First, Paul refutes the claim that he or any other man invented the gospel or made up core doctrines of the faith to suit their own ends.  Paul makes this point throughout the letter.
 
-And this God communicates. Did you notice that Ezekiel’s vision climaxes in a voice? In words? If we where choreographing this vision, we would not do it this way. These days, we would want a spectacle — a show for the eyes. But here, God’s vision climaxes not with something for the eyes, but with a word to the ears — “I heard the voice of one speaking” (1:28).
+__He first re-asserts his apostleship__ – Jesus Christ and God the Father sent him.  He opens the letter by introducing himself and his credentials:  “Paul, an apostle—not from men nor through man, but through Jesus Christ and God the Father, who raised him from the dead” (1:1).  As we mentioned earlier, it seems from the tone and comments made in the first two chapters, that the Judaizers were attacking Paul's claim to authentic apostleship.  So, he counters that error from the start – literally from the opening greeting in verse 1.  
 
-This is why the God’s Word is central in our church’s gatherings. We take time to hear from God’s Word because he speaks to us through his Word. God is committed to speaking to his people, to knowing them, and to having them know him. And so with Ezekiel.
+__Not only does Paul re-assert his apostleship, He then demonstrates that he received the revelation directly from Jesus Christ.__  “For I would have you know, brothers that the gospel that was preached by me is not man’s gospel. For I did not receive it from any man, nor was I taught it, but I received it through a revelations of Jesus Christ.” He writes in __1:11-12__.  To emphasize this point, Paul reveals his dramatic conversion from persecuting Christians to being persecuted for the sake of Christ.  How ridiculous to think that this is something he made up.  “For you have heard of my former life in Judaism, how I persecuted he church of God violently and tried to destroy it. And I was advancing in Judaism beyond many of my own age among my people, so extremely zealous was I for the traditions of my fathers. But when he who had set me apart before I was born, and who called me by his grace, was pleased to reveal his Son to me, in order that I might preach him among the Gentiles, I did not immediately consult with anyone; nor did I go up to Jerusalem to those who were apostles before me, but I went away into Arabia, and returned again to Damascus.” __(1:13-17)__.
 
-[Questions]
+__Therefore, Paul demonstrates the consistency of his gospel with that taught from the beginning.__  Notice in chapter 2, that Paul had no acquaintance with the Judean church, but that they confirmed that the Gospel Paul was preaching was the same as that taught from the beginning in the early church.  It was the same faith that they already held and the same faith that Paul had previously persecuted.  So, the gospel he preached predated his conversion and his apostleship.  
 
-## A Vision of God's Departure
+__Paul then documents that his gospel was the same gospel affirmed and recognized by the Apostles.__  Paul recounts a meeting with the Apostles, which was important because it affirmed the work of God in Paul's ministry and affirmed that the "pillars" of the church – James, Peter, and John – were in agreement with the message Paul delivered to the Gentiles.  Paul records: “On the contrary, when they saw that I had been entrusted with the gospel to the uncircumcised, just as Peter had been entrusted with the gospel to the circumcised (for he who worked through Peter for his apostolic ministry to the circumcised worked also through me for mine to the Gentiles), and when James and Cephas and John, who seemed to be pillars, perceived the grace that was given me, they gave the right hand of fellowship to Barnabas and me, that we should go to the Gentiles and they to the circumcised. “ (2:7-9).  
 
-The second great vision in this book is a flashback. It’s a vision of God’s departure from the temple in Jerusalem. And this vision reminds us of how far away we are from paradise. That true paradise won’t be found on this earth.
+#### 2. Justification by Faith Alone in Christ Alone
 
-Certainly, Ezekiel’s fellow exiles in Babylon knew this. They knew Babylon wasn’t paradise. But Ezekiel’s vision showed them that neither was Jerusalem! They’d gone to great lengths to protect Jerusalem, thinking that holding onto Jerusalem was holding onto God. But that was wrong. So Ezekiel was given another vision, or series of visions, in which he saw the sin of Israel and God’s evacuation of Jerusalem. God turned his people over to the care of the gods they really loved.
+Well, that's the response to the argument that "Paul made up the gospel or invented Christianity."  But what do we say to those who claim that "the gospel is faith plus works"?  That leads us to the second thing we must remember about that the gospel: __Justification is by faith alone in Christ alone__.
 
-Chapters 6 to 24 are prophecies against Israel because of its sin. God wants the people to know exactly why he’s deserted them. The prophecies against Israel begin in chapters 6 and 7, and the Lord promises, “I will turn my face away from [my people]” (7:22), just as he promised through Jeremiah: “I will show them my back, not my face” (Jer. 18:17). But the core of God’s complaint against his people is shown to Ezekiel in chapters 8 to 11. Beginning in chapters 8 and 9, God gives him a very specific vision of the idolatry being practiced in the temple itself. In chapters 10 and 11, the vision continues, but now Ezekiel sees God departing from the temple and its grounds, just as the people had departed from the worship of God. The vision ends in chapter 11 as the Lord departs the city itself. Here’s a sample of this vision:
+This was one of the central issues and principles of the Protestant Reformation.  But hundreds of years before the reformation, Paul makes precisely the same point here.  Paul is very clear in this.  And we see that right at the beginning of the letter.  Look at 1:3:  “Grace to you and peace from God our Father and Lord Jesus Christ, who gave himself for our sins to deliver us from the present evil age, according to the will of our God and Father, to whom be the glory forever and ever. Amen.”
 
-> “The hand of the Lord God fell upon me there. Then I looked, and behold, a form that had the appearance of a man. Below what appeared to be his waist was fire, and above his waist was something like the appearance of brightness, like gleaming metal. He put out the form of a hand and took me by a lock of my head, and the Spirit lifted me up between earth and heaven and brought me in visions of God to Jerusalem, to the entrance of the gateway of the inner court that faces north, where was the seat of the image of jealousy, which provokes to jealousy” (8:1-3).
+It is Christ alone who has rescued us and saved us, and not because of any merit in us.  Notice one thing here right at the beginning of this letter.  Paul doesn’t begin as he does in his other letters – by pointing out evidences of grace in the lives of his readers or by praising God for them.  No, he gets right to the point.  “I am astonished that you are so quickly deserting him who called you in the grace of Christ and are turning to a different gospel –not that there is another one, but there are some who trouble you and want to distort the gospel of Christ.” (1:6-7).  Paul recognizes that the very heart of the Gospel is at stake here.  The debate in the Galatian churches raised questions vitally important questions.  Was the law to be kept in order to be justified?  Were some parts of the law, like circumcision and certain feasts, essential to salvation?
 
-> “And he said to me, “Go in, and see the vile abominations that they are committing here.” So I went in and saw. And there, engraved on the wall all around, was every form of creeping things and loathsome beasts, and all the idols of the house of Israel (8:9-10).
+Paul gives a summary answer to that question in 2:15-16.  He writes “We ourselves are Jews by birth and not Gentile sinners; yet we know that a person is not justified by works of the law but through faith in Jesus Christ, so we also have believed in Christ Jesus, in order to be justified by faith in Christ and not by works of the law, because by works of the law no one will be justified.”
 
-> “Then the cherubim lifted up their wings, with the wheels beside them, and the glory of the God of Israel was over them.  And the glory of the Lord went up from the midst of the city and stood on the mountain that is on the east side of the city.  And the Spirit lifted me up and brought me in the vision by the Spirit of God into Chaldea, to the exiles. Then the vision that I had seen went up from me.” (11:22-24).
+This may be the key verse in the entire epistle.  We must believe in Jesus Christ alone to be justified.  This passage warns that the law is utterly ineffective for justification.  We should let the last part of verse 16 ring in our ears.  _By observing the law no one will be justified._
 
-The people had caused this unnatural separation, this divorce, between them and God by pursuing other gods! And in chapters 16, 20, and 23, the Lord uses the most graphic of language to charge Jerusalem with heinous unfaithfulness. He says to them,
+To support this argument, Paul wisely calls upon the very person regarded as "the father" of the Judaizers:  Abraham.  And yet he points out that Abraham is the very model of justification by faith alone; not even Abraham was justified by observing the law, but by faith.  He starts by quoting Genesis 15:6, “Just as Abraham ‘believed God, and it was counted to him as righteousness’?” He then continues, “Know then that it is those of faith who are the sons of Abraham. And the Scripture, foreseeing that God would justify the Gentiles by faith, preached the gospel beforehand to Abraham, saying, ‘In you shall all the nations be blessed.’ So then, those who are of faith are blessed along with Abraham, the man of faith.” (3:6-9).  
 
-> “But you trusted in your beauty and played the whore because of your renown and lavished your whorings on any passerby; your beauty became his. You took some of your garments and made for yourself colorful shrines, and on them played the whore. The like has never been, nor ever shall be. You also took your beautiful jewels of my gold and of my silver, which I had given you, and made for yourself images of men, and with them played the whore. And you took your embroidered garments to cover them, and set my oil and my incense before them. Also my bread that I gave you—I fed you with fine flour and oil and honey — you set before them for a pleasing aroma; and so it was, declares the Lord God” (16:15-19).
+This is set in sharp contrast to the law, which brings a curse on sinners, a curse that Christ alone can bear for us.  “Christ redeemed us from the curse of the law by becoming a curse for us –for it is written, ‘Cursed is everyone who is hanged on a tree’ –so that in Christ Jesus the blessing of Abraham might come to the Gentiles, so that we might receive the promised Spirit through faith.” (3:13-14).
 
-Many years before Ezekiel’s day, God had warned his people through Moses that he would send them into exile if they were unfaithful to him. In one of Moses’ final speeches to the people of Israel before they entered the Promised Land, he prophesied this: “And as the Lord took delight in doing you good and multiplying you, so the Lord will take delight in bringing ruin upon you and destroying you. And you shall be plucked off the land that you are entering to take possession of it.  And the Lord will scatter you among all peoples” (Deut. 28:63-64).
+Paul then anticipates the reader's next question.  If this is so... if the law does not impart salvation, "What then is the purpose or value of the law?"  First notice what Paul says that the law was not intended to do.  “Is the law then contrary to the promises of God? Certainly not! For if a law had been given that could give life, then righteousness would indeed be by the law.” (3:21).  So, the law was not in opposition to the promise of God to Abraham to bless him with a Seed that would bless all nations.  Neither was the law to impart life or righteousness.  Rather, the law was to lead us to Christ.  “So then, the law was our guardian until Christ came, in order that we might be justified by faith. But now that faith has come, we are no longer under a guardian,” (3:24-25).  Paul teaches us that the law functioned as a stern schoolmaster or tutor, barking at us for our every sin and pointing out to us our desperate need for a Savior.  
 
-God’s people, as I said, caused this unnatural separation, this divorce. And now they would pay the price. After all the stinging indictments against Israel’s unfaithfulness that we’ve read, we read at the beginning of chapter 24:2, “Son of man, write down the name of this day, this very day. The king of Babylon has laid siege to Jerusalem this very day.” In the siege, Jerusalem began to bear the punishment of God’s desertion.
+Paul then goes on to talk more specifically about what it means to have been justified with God through faith alone in Christ alone.  Paul gives us at least three direct consequences of justification that we should remember.  
 
-In chapters 25 to 32 and chapter 35, Ezekiel’s attention shifts away from the Israelites and onto the nations. As we learned from the final chapters of Jeremiah in our previous study, we learn here that God’s justice is not confined to his people. The nations that looked victorious, both to themselves and to the exiled Israelites, were in trouble with God. God would judge them as well. God’s people could be certain that God alone was sovereign over all nations.
+First, God adopts us as sons and heirs. “But when the fullness of time had come, God sent forth his Son, born of a woman, born under the law, to redeem those who were under the law, so that we might receive adoption as sons.” (4:4-5).  We are no longer slaves but sons.  
 
-Then in chapters 33 and 34, God takes his own people to task once more for two reasons. First, he says, the leaders are corrupt and only take care of themselves (34:2). Second, the people themselves have ignored his Word:
+Second, God sends His Spirit into our hearts.  “And because you are sons, God has sent the Spirit of his Son into our hearts, crying, ‘Abba! Father!’” (4:6).  The Spirit will never leave us.
 
-> “As for you, son of man, your people who talk together about you by the walls and at the doors of the houses, say to one another, each to his brother, ‘Come, and hear what the word is that comes from the Lord.’  And they come to you as people come, and they sit before you as my people, and they hear what you say but they will not do it; for with lustful talk in their mouths they act; their heart is set on their gain.  And behold, you are to them like one who sings lustful songs with a beautiful voice and plays well on an instrument, for they hear what you say, but they will not do it.” (33:30-32).
+Third, God makes us free.  We are no longer held under the condemnation of the law (more on this in a little while).
 
-The people would simultaneously sit, hear, and enjoy God’s Word and then ignore it! They would go through all the motions of worshiping God, but their hearts were devoted to idols. In short, the people of Israel were tempted to trust the wealth of their land. They were tempted to trust the political stability of the Davidic line, and even the temple itself. All the while ignoring God’s Word. So none of these things would save God’s people.
+### Point of Application
 
-## A Vision of God's Coming and the Promise of Paradise
+This distinction between law and gospel or grace helps us in our evangelism.  Perhaps you know someone who thinks that their morality is good enough to secure God's salvation.  This view of the law prompts us to ask, "How good is good enough?"  Or, "What do you suppose is God's standard for righteousness and salvation?"  Well, the answer is perfection.  Breaking the least of the commandments is breaking the whole law. [most people will acknowledge that they do not live perfect lives].  We should help people see that perfection is required by God and is well beyond our ability; AND so, we all are in need of the Savior; one who can pay the punishment of all of our sins.  A careful reading of the sermon on the mount—especially Jesus’ call to perfection—is incredibly helpful in these conversations.  “...unless your righteousness exceeds that of the scribes and Pharisees, you will never enter the kingdom of heaven.” (Matt 5:20b)
 
-The last section of Ezekiel’s prophecy contains several more famous visions of hope. In chapter 36, for instance, we read about God’s remarkable promise to gather his people from the nations, cleanse them from their impurities and idols, replace their hearts of stone with hearts of flesh, and grant them his Spirit who will move them to follow his ways and keep his commands (36:24-28). In chapter 37, we watch how this will be done in Ezekiel’s remarkable vision of the valley of the dry bones. Ezekiel preaches God’s Word, and the bones come to life!
+So, two things to remember when countering this false teaching – (1) the gospel comes directly from God; and (2) the content of the gospel message is justification is by faith alone in Jesus Christ alone.
 
-The last great series of visions in the book then occur in chapters 40 to 48, where God shows Ezekiel a new temple. The first temple had been destroyed in the Babylonian invasion after God’s departure.
+[any questions?]
 
-Now, some people may regard this final vision of a new temple as a boring addition that clutters our Bibles and confuses our minds. Is this just architectural doodling by an unemployed priest in Babylon with nothing better to do?
+### Two Things To Do
 
-Of course not! Instead, God says to Ezekiel, “Son of man, look with your eyes, and hear with your ears, and set your heart upon all that I shall show you, for you were brought here in order that I might show it to you. Declare all that you see to the house of Israel” (40:4). This is the climax of the whole book. Most likely, Ezekiel’s listeners would have been enthralled by this vision. Most of all, God’s pledge to be with his people would have kept his audience in rapt attention.
+Next, let's consider the two things we are to do if we are to keep the biblical gospel and its effects in full view.  First:
 
-This is what the vision of God returning to a re-built temple in chapter 43 is all about. Even as Ezekiel had seen the glory of the Lord depart from the temple and the city in chapters 10 and 11, now he watches God return to his temple:
+#### 1. Fight for the Truth of the Gospel
 
-> “Then he led me to the gate, the gate facing east. And behold, the glory of the God of Israel was coming from the east. And the sound of his coming was like the sound of many waters, and the earth shone with his glory. And the vision I saw was just like the vision that I had seen when he came to destroy the city, and just like the vision that I had seen by the Chebar canal. And I fell on my face.  As the glory of the Lord entered the temple by the gate facing east,  the Spirit lifted me up and brought me into the inner court; and behold, the glory of the Lord filled the temple” (43:1-5).
+Some things are worth fighting for.  The Gospel is clearly worth fighting for.  The apostle's instructions for fighting for the truth might be summarized in three points:
 
-Ezekiel prophesied that the exiles would return to the land, and here he promises that the destroyed temple would be rebuilt and filled again with the presence of God. God would once again be with his people. From God’s renewed presence and rule, unnumbered blessings would flow, even as a river would flow out of the new temple (ch. 47).
+Step 1:  __Do not be persuaded by false teachers to forsake the truth__, rather stand up to those who pervert the gospel.  “But even if we or an angel from heaven should preach to you a gospel contrary to the one we preached to you, let him be accursed. As we have said before, so now I say again: If anyone is preaching to you a gospel contrary to the one you received, let him be accursed.” __(1:8-9)__.
 
-The purpose of this temple vision was to highlight a restored relationship of God with his people. So the final verse of the book is a fitting ascription: “And the name of the city from that time on will be: “the Lord is there” (48:35b). The book leaves us with the picture of God forever with his people. Ezekiel is, in a sense, the Old Testament equivalent to the book of Revelation, especially given Revelation’s closing visions of God, God’s judgment, and the heavenly city.
+Step 2:  __Do not worry about how others think of you.__  Paul recognizes he has opponents, and asks “For am I now seeking the approval of man, or of God? Or am I trying to please man, I would not be a servant of Christ.” __(1:10)__.  Fear of man is a powerful temptation.  Here Paul is saying, don’t fear man, fear God.  
 
-In the book of Ezra, we learn that the exiles did return to the Promised Land and rebuild the temple, yet we have no record of the glory of the Lord filling the temple as it did at Solomon’s inauguration of the first temple. But centuries later, Immanuel himself would enter the precincts of the temple in Jerusalem. And in that final vision of the heavenly city in the book of Revelation, communion with God would become even more intimate. God’s people would celebrate not just in his presence, as wonderful as that is, but in full view of him, dwelling with him forever!
+Step 3:  The third aspect of fighting for the Gospel is that we are to __take stands even against leaders and others we respect if they are in serious error where the gospel is concerned.__  This is exactly what Paul did when he found Peter to be in error.  Peter seems to have fallen into this when he separated himself from gentiles because of his fear of man.  “But when Cephas came to Antioch, I opposed him to his face, because he stood condemned. For before certain men came from James, he was eating with the Gentiles; but when they came he drew back and separated himself, fearing the circumcision party. And the rest of the Jews acted hypocritically along with him, so that even Barnabas was led astray by their hypocrisy. But when I saw that their conduct was not in step with the truth of the gospel, I said to Cephas before them all, ‘If you, though a Jew, live like a Gentile and not like a Jew, how can you force the Gentiles to live like Jews?’” __(2:11-14)__.  It’s interesting, you know, that just a few verses ago, in verse 9, Paul describes Peter as one whom God was at work in as an apostle, and one reputed to be a pillar of the church.  And yet, here in verse 14, Paul is recounting how he rebuked Peter because he was in error.
 
-Like Revelation, Ezekiel closes with the glorious hope of paradise. Each tribe is promised a portion of a renewed land, and a land which seems to point beyond what Ezra and Nehemiah returned to find. A land we still look forward to.
+Now, of course, this idea of fighting for the gospel is a dangerous one.  What do we do with it?
 
-For our purposes here, two questions still need to be answered. First, why would God offer this renewed hope for his unfaithful people? Above all else, God promises to change his people and restore them to himself for his own name’s sake.
+### Application
 
-> “It is not for your sake, O house of Israel, that I am about to act, but _for the sake of my holy name_, which you have profaned among the nations to which you came. And I will vindicate _the holiness of my great name_, which has been profaned among the nations, and which you have profaned among them. And the nations will know that _I am the Lord_, declares the Lord God, when through you I vindicate _my holiness_ before their eyes” (36:22-23; emphasis added).
+Quite simply, don’t act on your own.  But do act!  For a congregational church like Immanuel, the Galatian letter suggests that ultimately __it is the _membership’s_ responsibility to judge the accuracy of its leaders.__  Remember, that this letter is addressed to the churches, not to a particular church leader or to a group of elders.  Paul is admonishing the members of the church for putting up with these false teachers (and these are young Christians).  Indeed in __1:8__ Paul says that even if he—an apostle!—should come and preach a different gospel than the one they had already accepted, then they should reject him.   Paul assumes that his readers know the gospel, or should, and that they have the ability and responsibility for correcting those who teach false things.  We must prayerfully be prepared to protect the witness of the church and the purity of the gospel by immediately addressing false teaching.
 
-Second, _how_ will God restore sinners to himself? After all, he is holy. How can he disregard heinous sin and bring sinners into his presence? Well, Ezekiel only shines a light dimly on the answer to this question; but we do see that God will not simply disregard this sin, he will deal with it. Repeatedly, God calls Ezekiel the “son of man.” And this son of man symbolizes the bearing of sin on his body when he lays on his side (4:4,5,6). And in chapter 16, God promises a time “when I atone” for faithless Israel (16:63).
+#### 2. Protect our Freedom in Christ.
 
-God also promises that a day would come when he would judge the people’s useless shepherds and “set up over them one shepherd, my servant David, and he shall feed them: he shall feed them and be their shepherd.  And I, the Lord, will be their God, and my servant David shall be prince among them.” (34:23-24). On that day, he will also grant his people a “covenant of peace” (34:25). Who would this coming shepherd be? Who does this son of man point to? None other than Jesus Christ, who called himself the son of man and lay down his life for his sheep (John 10:15). By laying down his life on the cross, he paid for the sins of all those who would ever repent and believe. He brought peace for the rebels ready to lay down their arms. He brought forgiveness for the sinners who wanted to be done with sin and knew they could do nothing to forgive themselves. Only through Christ can we be reconciled to the Father.
+The second thing Paul's letter encourages us to _do_ is to keep in full view the freedom we have in Christ.  Throughout chapter 4, especially 4:21-31, Paul argues that the law enslaves those who try to obey it.  
 
-So that’s our tour of Ezekiel. God is with his people, and he will make a way for them to be truly with him in heaven. But to see more of that future, heavenly vision — we’ll have to look to Daniel which is what we'll do next.
+But with regard to the gospel, Paul tells us: "For freedom Christ has set us free;” (5:1).  Jesus has set us free from the curse of the law, from sin and its effects, from God's wrath.  And so we are free to serve the true and living God knowing that our attempts at earning God's love or approval are futile and oppressive.  
 
-# Daniel
+But having discovered our freedom, how are we to use it?  We are to use our freedom to love others, which ironically, fulfills the law of Christ.  “For you were called to freedom, brothers. Only do not use your freedom as an opportunity for the flesh, but through love serve one another. For the whole law is fulfilled in one word: ‘You shall love your neighbor as yourself.’” (5:13-14).  So, with this Paul makes an important point.  Our freedom is not to be consumed on our lusts and sin (antinomianism– opposite of legalism); rather we are free _from_ sin and free to _give_ ourselves to others in love.  
 
-The book of 1 Peter begins as follows: “Peter, an apostle of Jesus Christ, to God’s elect, strangers in the world...”
+What Paul has been opposing was not _that people were obeying the law_, but that they were insisting that obedience to the law _was required for salvation_.  That’s why Paul can plead with the Galatians not to live as slaves to the law, and then turn around and tell them to do many of the very things required by the law.  The difference is that, _rather than obeying the law with an eye toward earning God’s favor, we as Christians should live consistent with our new nature as children of God, in such a way as to glorify him by our transformed lives_.  We should live holy lives because we cannot help but want to please our saving God.
 
-__*What does Peter mean by calling us “strangers in the world?”*__ [Wait for answers.] Well, all that leads to a good question for us. What does it mean to live in the world as a stranger — and yet still live in the world?
+Thus, faith in Jesus alone for our salvation leads to Spirit-filled living.  We are to grow in the fruits of the Spirit.  “But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control; against such things there is no law. And those who belong to Christ Jesus have crucified the flesh with its passions and desires.” (5:22-25.)
 
-That’s what we’ll be looking at in the book of Daniel this morning. An interesting book, given that the first six chapters, with accounts like the fiery furnace and the lion’s den, are so familiar. And yet the last six chapters are some of the least-read in Scripture because they’re so confusing. My hope is that across the next few minutes we can piece it together as one book. And, along the way, learn what it means to live as strangers in this world.
+And how do we apply these principles of freedom in our own lives?  By battling both legalism and libertinism as enemies of our freedom in Christ.
 
-First, some context.
+I don’t think many of us here are advocating circumcision as necessary for our salvation.  As Christians, we would agree that we are saved by faith in Christ alone.  And yet even as Christians, legalism often creeps into our lives.  So, we should examine ourselves regularly for this.
 
-## Context
+Do you at times try to become “righteous” before God through your right living, such that you forget that it is only Christ’s righteousness that helps us?  Are you counting on your consistent quiet times or your model church membership over several years to earn favor with God?
 
-Daniel is the only book that spans the entire exile. A teenager when he was taken captive to Babylon during the first wave of exiles, Daniel was still in Babylon as an old man, when the Jews began returning to Jerusalem in 536/537 BC.[^1] Daniel spends that entire time in the city of Babylon. The Babylonians were conquered by the Medes & Persians in 539 BC. So, chapters 1-4, 7, and 8 occur during the reign of the Babylonians. Chapter 5 records the fall of the last Babylonian king, and the takeover by the Medes. And chapters 9 and 6 record events that occurred during the reign of the new empire, called the Medo-Persian Empire. God’s people, it seems, are just caught up as pawns in this great battle for dominance.
+Do you have a difficult time accepting God’s grace when you sin, thinking that you must somehow endure punishment for that sin?  These are legalistic ways of thinking that we can fall into.  To counter such thinking, we should continue to preach the Gospel to ourselves, reminding ourselves of Christ’s perfect sacrifice for our sin, past, present and future, and his perfect righteousness which is imputed to us if we believe.  His blood alone paid for us and because of that, now we are secure in Him forever.
 
-And that really captures the redemptive-historical context of the book. The question on the table is this. Who rules the earth? Is God really in control? Or is he also at the whims of these empires? And, equally importantly, how ought the people of God behave through all of this? Those are the questions that Daniel will answer.
+But at the same time, just because salvation is by faith, we are not to presume upon God’s grace.  __Are you tempted to turn freedom into permission to sin?__
 
-## Theme
+If so, read these verses again in Galatians 5:13-14
 
-And the answer will come basically in this form:
+“For you were called to freedom, brothers. Only do not use your freedom as an opportunity for the flesh, but through love serve one another. For the whole law is fulfilled in one word: ‘You shall love your neighbor as yourself.’”
 
-_The Most High, the God of Daniel, sovereignly rules and reigns supreme over all mankind. Therefore His people are brave in the face of persecution._
+Or perhaps it’s not to that extreme, but out of a desire to flee legalism, your tendency would be to structure the church such that we are not providing the accountability we need to fight sin.  Yes, we need to be reminded daily of the gospel of grace.  But the moment you start accusing those asking you difficult questions about your life of legalism—presumptively judging their motives to be judgmental—you have done exactly what Paul warns us against.  Probing questions are at times legalistic.  But not necessarily.  And among healthy Christians, not often.  Healthy peer pressure to do Godly things can be interpreted—especially by those who tend to be insecure—as legalistic.  But it is often nothing more than the type of Godly encouragement we see written of in Hebrews.  Especially if you come from a background that was genuinely legalistic, be very careful of pasting the label of “legalism” on everything that feels uncomfortable in this church.  God seems to have created a culture here of being grace-focused gospel-celebrators and also deeply involved in each other’s lives, in ways that sometimes get uncomfortable.  That’s an amazing thing, and we need to work hard to protect both.
 
-You’ll notice in that first sentence that I didn’t refer to God by His covenant name, Yahweh, as we have so often since we were in the book of Exodus. Well, that’s because Daniel doesn’t either. With the exception of one reference to Yahweh in chapter 9, God is largely referred to in this book as “the Most High.” Thus the lack of the capital letters “Lord” in your English language Bibles. What Daniel is doing is emphasizing that his god is God over all peoples on earth, not just the Jews. And, as you’ll recall, these people are in exile. They have been called “not my people” by Hosea. So how fitting it is that in chapter 9 when the word “Yahweh” reappears, it is as Daniel prays about the end of the exile. That one little hint — the use of God’s name — tells us so much about the message of this book.
-
-For some books of the Bible, we can basically wander in and understand what the author’s doing. For others, knowing the book’s structure can help quite a bit -- and Daniel most certainly falls into that second category. Think of what you know about the book of Daniel. It begins in chapter 1, verses 1-4 with Daniel and the nation of Judah going into exile. And then near the end, Daniel chapter 9, we see that it’s time for the exile to be finished. Move a little further in. Chapter 2 focuses on king Nebuchadnezzar’s vision of a statue representing four great kingdoms. Now, with the end of the exile in chapter 9 we move a little bit further in and we see, in chapters 7 and 8, more visions of kingdoms, with four kingdoms again in chapter 7. In all, the content of the first half of the book is recapitulated in the second half. For those of you familiar with the term, the book of Daniel — like many other pieces of ancient literature — is structured as a “chiasm.” That is, pairs of parallel passages that work from the ends of the book to its middle where the main point lies. You can see that in the outline in your handout.
-
-Do you see that chiastic mirroring here? The outside pairs are the two parallels I just mentioned. And then the middle, the main point, is the two sections labeled 'a' and 'b' where we have stories of two kings being humbled from what they thought they were untouchable places of sovereignty. And set in the middle of those two stories we find __chapter 4, verses 34 and 35__.
-
-> At the end of the days I, Nebuchadnezzar, lifted my eyes to heaven, and my reason returned to me, and I blessed the Most High, and praised and honored him who lives forever, for his dominion is an everlasting dominion, and his kingdom endures from generation to generation; all the inhabitants of the earth are accounted as nothing, and he does according to his will among the host of heaven and among the inhabitants of the earth; and none can stay his hand or say to him, “What have you done?”
-
-_That_ is the point of the book. God has humbled even the great king Nebuchadnezzar, conqueror of Judah.
-
-Now, for clarity’s sake, I should point out that some of the parallels in Daniel are quite clear; others aren’t as much. So different scholars have slightly different versions of this chiasm. We won’t concern ourselves today with exactly how the structure works out. We’ll simply note that (1) the book is built around this amazing humbling of the kings of men. And (2) the accounts in the first half can help us understand the visions of the second half.
-
-So how do we get into this book? Well, to help you understand the structure better, we’ll take the chapters that are meant to reinforce each other and look at those pairs together. We’ll start in the middle and work our way out.
-
-## Daniel 4, 5
-
-So we’ll start in chapters 4 and 5. In these two chapters we have prideful kings who believe that they rule by their own might. They believe that they are the king of kings. We’ll take each in turn.
-
-The first is Nebuchadnezzar, king of the Babylonians. In the first part of __chapter 4__, Nebuchadnezzar has a dream of a large tree with different birds nesting in it, which is suddenly chopped down. By this time Daniel has risen far in the Babylonian government because of the wisdom God’s given him. He’s also shown himself to be an accurate interpreter of dreams. Of course, God’s the one who gives him the interpretations. Anyway, in __4:24-26__ Daniel gives the king this interpretation of the dream.
-
-> It is a decree of the Most High, which has come upon my lord the king, that you shall be driven from among men, and your dwelling shall be with the beasts of the field. You shall be made to eat grass like an ox, and you shall be wet with the dew of heaven, and seven periods of time shall pass over you, till you know that the Most High rules the kingdom of men and gives it to whom he will. And as it was commanded to leave the stump of the roots of the tree, your kingdom shall be confirmed for you from the time that you know that Heaven rules.
-
-Now whether or not Nebuchadnezzar believed Daniel or not the text doesn’t say. But the prophesy came true. In verse 31, as he is reveling in his greatness, a voice from heaven speaks and he is struck with some kind of insanity that strips him of his ability to rule. And he didn’t recover until he confesses those verses we read earlier as the main point of the book. And so the story ends with Nebuchadnezzar uttering these words in verse 37. “Now I, Nebuchadnezzar, praise and extol and honor the King of heaven, for all his works are right and his ways are just; and those who walk in pride he is able to humble.” And that last sentence leads us right into chapter 4’s sister chapter, chapter 5.
-
-In __chapter 5__ the Most High delivers the same message to another king. By now Nebuchadnezzar is dead and Belshazzar is running Babylon.[^2] However, Belshazzar didn’t learn that lesson from Nebuchadnezzar. Instead he threw himself a big party and used, as drinking goblets, the sacred vessels from the temple in Jerusalem! Just like Nebuchadnezzar, he’s given a vision from the Most High, this time in the form of handwriting suddenly appearing on the wall, putting a real damper on his merrymaking. But he doesn’t know what the writing means, and so Daniel is called in to interpret. After soundly rebuking the king — Daniel is no respecter of men — he provides the interpretation in verses 26-28. “God has numbered the days of your kingdom and brought it to an end... you have been weighed in the balances and found wanting... your kingdom is divided and given to the Medes and Persians.”  And that very night Belshazzar is killed.
-
-Again, the point of it all is that the Most High will brook no rivals.  He alone rules over Heaven and Earth.  And the same is true today.  God’s not changed.  So when His people see kingdoms rising and falling and governing in godless ways, they need not fear that the Lord does not see and is somehow off His throne.[^3]
-
-[TAKE QUESTIONS]
-
-## Daniel 3, 6
-
-Let’s work our way out from those central chapters to see what a theology of divine sovereignty looks like when it runs up against more arrogant kings. We’ll look now at chapters 3 and 6.
-
-__Chapter 3__ contains that famous story of Daniel’s three friends, Shadrach, Meshach, and Abed-Nego, in the fiery furnace. Nebuchadnezzar sets up a gold image of himself that all must worship.
-
-Well, like proper monotheists who still love their covenantal God, Shadrach, Meshach, and Abed-Nego will not bow down and will not worship the image. In response, Nebuchadnezzar is furious that anyone would challenge his universal authority. End of verse 15: “And who is the god who will deliver you out of my hands?” Really, Nebuchadnezzar? Let’s see.
-
-In response, we find these three men as brave as Daniel. Some amazing words in verse 16:
-
-> Shadrach, Meshach, and Abednego answered and said to the king, “O Nebuchadnezzar, we have no need to answer you in this matter. If this be so, our God whom we serve is able to deliver us from the burning fiery furnace, and he will deliver us out of your hand, O king.  But if not, be it known to you, O king, that we will not serve your gods or worship the golden image that you have set up.”
-
-That’s backbone!!
-
-Well, as you can imagine, an answer like that seals their fate and into the fire they go. But God rescues them! Not only are they completely protected, but they are joined by a fourth, who, according to the king, looks like a “son of the gods.” So, Nebuchadnezzar, “who is the god who will deliver you out of my hands?” The God of the Jews, that’s who. And so Nebuchadnezzar is astonished, as we see in verse 29.
-
-In __chapter 6__ we have a similar account. This time the king is Darius,[^4] and the faithful Jewish victim is Daniel. This Daniel in the lion’s den. By now Daniel is an old man, and has enemies as well as friends. As the well-known story goes, Daniel’s enemies look for a way to trap him but can’t find anything scandalous in him. So they decide to go after the one thing that sticks out: his commitment to pray to his God. They convince Darius to pass a decree outlawing prayer to any god but Darius — and then go and catch Daniel in this criminal act. The punishment? To be thrown into the lion’s den.
-
-But once again, God rescues his servant. And once again, God turns the mouth of a pagan king to His praise. Darius’ words in verses 26-27:
-
-| I make a decree, that in all my royal dominion people are to
-| tremble and fear before the God of Daniel,
-| for he is the living God,
-|     enduring forever;
-| his kingdom shall never be destroyed,
-|     and his dominion shall be to the end.
-| He delivers and rescues;
-|     he works signs and wonders
-|     in heaven and on earth,
-| he who has saved Daniel
-|     from the power of the lions.
-
-The point? God is on his throne. But a primary implication of this is important: just because the true God reigns, doesn’t mean that His people will be exempt from persecution. In fact, it means that they will be the target of all the more persecution.[^5] The allegiance of God’s people to him will appear a challenge to any earthly claim to sovereignty. So God’s people will seem to only be in the way in any earthly power grab. But it’s because of that confidence, that indeed the Most High does rule over the kingdoms of men, that the persecuted and afflicted people of God are willing to endure great trial and tribulation for the sake of the God they love.[^6]
-
-Do you see how God’s preparing his people for the age in which we now live? King Solomon could hardly have thought of himself as a stranger and alien in this world; he ruled at what for all intents and purposes was the very center of the world. But by the time we get to Daniel, God is using his prophets to teach us what it looks like to be citizens of a kingdom that is not of this world. The final culmination of God’s kingdom is yet to come.
-
-[TAKE QUESTIONS]
-
-## Daniel 2, 7-8
-
-Well, on to our next pairing: chapters 2, 7 and 8[^7]
-
-In __chapter 2__ Nebuchadnezzar has a dream. This time he a large statue, the meaning of which only Daniel can interpret.[^8] The statue that Nebuchadnezzar saw had a head make of gold, chest and arms of silver, belly and thighs of bronze, and feet of an iron/clay mix (cf. vv. 31-33). But it’s destroyed by a rock, thrown it seems, from heaven, that grows to fill the whole earth. Daniel explains the meaning of the dream, that God had told him. He says in the following verses that each section of the statue represents four successive kingdoms. Nebuchadnezzar’s kingdom is the golden head, but the Babylonians will be succeeded by three other kingdoms. The last of which will be as strong as iron, yet at the same time as fragile as clay because it will be divided. And what about that rock that smashed the statue and itself grew into a mountain? Look at __verse 44__. It’s God’s own kingdom.
-
-And now I ask you. __*How did that get fulfilled?*__ [WAIT FOR SOMEONE TO ANSWER] Even Daniel’s interpretation is a little cloudy because it pertains to events he didn’t witness. But for us, who are further along and history, we see more precisely what’s going on here. As we already said, the Babylonian Empire was taken over by the Medo-Persian Empire in 539 BC. That empire is the silver chest and arms. Then, in around 332 BC the Kingdom of Persia was conquered by Alexander the Great of Greece. The Grecian Empire is represented by the legs of bronze. That then gave way to the feet of iron and clay, the Roman Empire, in the 2nd and 1st centuries BC.
-
-But what we’re most interested in is that rock cut out without hands! That of course is the Kingdom of Heaven, and its ruler is the Lord Jesus Christ. His conquest didn’t come through military might, but through the preaching of the gospel. Over time, though he conquered the hearts and the minds of many in the Roman Empire. And, just as we read with the mountain filling the whole earth in verse 35, Christ’s Kingdom has spread throughout the entire world. And as we read in verse 44, it is forever. So what Daniel sees here is the victory of the preaching of Christ and the spread of His Church to every tongue, tribe, people, and nation. Amen!
-
-Now, with that we jump ahead to __chapter 7__. And what see there is that this vision of four kingdoms isn’t just an exercise in prediction. It is there to teach an important truth.
-
-Turn to __chapter 7__. Here Daniel has a dream of four beasts. The first resembles a lion with eagle’s wings, the second a bear devouring bones, the third a leopard with four wings and four heads, and the fourth is so terrible that there’s no animal to compare it to.
-
-Then, Daniel has a vision of God, whom he calls The Ancient of Days. Let’s see what happens. Look at __verse 9__.
-
-| “As I looked,
-| thrones were placed,
-|     and the Ancient of Days took his seat;
-| his clothing was white as snow,
-|     and the hair of his head like pure wool;
-| his throne was fiery flames;
-|     its wheels were burning fire.
-| A stream of fire issued
-|     and came out from before him;
-| a thousand thousands served him,
-|     and ten thousand times ten thousand stood before him;
-| the court sat in judgment,
-|     and the books were opened.
-| “I looked then because of the sound of the great words that the horn
-| was speaking. And as I looked, the beast was killed, and its body
-| destroyed and given over to be burned with fire. As for the rest of
-| the beasts, their dominion was taken away, but their lives were
-| prolonged for a season and a time.
-
-So God destroys these beasts. Who takes the power and dominion that was once theirs? Look at __verse 13__.
-
-| “I saw in the night visions,
-| and behold, with the clouds of heaven
-|     there came one like a son of man,
-| and he came to the Ancient of Days
-|     and was presented before him.
-| And to him was given dominion
-|     and glory and a kingdom,
-| that all peoples, nations, and languages
-|     should serve him;
-| his dominion is an everlasting dominion,
-|     which shall not pass away,
-| and his kingdom one
-|     that shall not be destroyed.
-
-__*Who is this “one like a son of man” who will rule forever with power given Him by God?*__ [WAIT FOR SOMEONE TO ANSWER] When Jesus was on trial, and asked who He was, He referred to this passage! Listen to __Mark 14:61-62__. “Again the high priest asked him, ‘Are you the Christ, the Son of the Blessed?’ And Jesus said, ‘I am, and you will see the Son of Man seated at the right hand of Power, and coming with the clouds of heaven.’ Jesus alone approached the living God, and reigns with Him, and He will return to earth on the clouds of heaven to publicly take what is rightfully His! We know by faith that He currently reigns. Soon all will see it.
-
-Verse 17 tells us that these four great beasts are four kingdoms. So do you see how chapters 2 and 7 help interpret each other? Chapter two is referring to current events in Daniel’s day. And it’s much more narrative than apocalyptic. Four earthly kingdoms that, today, we can call by name. But without chapter 7, we might miss the main point about that rock that fills the earth. Chapter 7 shows that this immediate, chapter 2 view of the future points ahead to a still greater fulfillment. Four beasts that don’t simply represent specific kingdoms — even as the “beast” imagery in Revelation refers generally to the earthly opponents of God. And then a culmination that’s more specific — and more amazing. When the kingdom of the son of man is finally and firmly established. A fulfillment toward which we are still yearning.
-
-I’ll leave it to you to study __chapter 8__ on your own. Something similar thing is going on.
-
-[TAKE QUESTIONS]
-
-## Daniel 1, 9
-
-And that means that we’ve finally made it to chapter 1! We’ll pair it with chapter 9. In chapter 1 the people of God go into exile. And in chapter 9 the people of God are ready to come out! (Cf. 1:2 & 9:2.)
-
-In __chapter 1__, we see all four of the Jewish boys, Daniel, Shadrach, Meshach, and Abed-Nego,[^9] placed in a Babylonian prep school of sorts. They’re put there because they’ve shown potential to someday serve the king.  Well, while there they bravely ask to be exempt from eating foods outside of their religious dietary laws. And the result? God’s blessing on them. Even in exile, God blesses his people — and gives them wisdom (verse 17)— another theme through this book.
-
-Finally, let’s look at the wonderfully encouraging __chapter 9__. Look at verse 2. __*How did Daniel know the exile was almost over?*__ [Wait for an answer] What a novel concept! For encouragement, and understanding, Daniel reads the Bible! You’ll remember from Jeremiah that no one was listening to Jeremiah. Well, Daniel was. The prayer that follows, beginning in verse 3, is eloquent and moving. You can tell from reading it that Daniel truly knows his God. It’s a good challenge for us all to adopt this kind of language in our own prayers. In fact, I’d encourage you to read and meditate on this chapter this week. And like I said before, it’s particularly exciting in the context of Daniel because Daniel again refers to God as “__Yahweh, our__ God!” The end of the exile is here!
-
-But again, the parallel with chapter 1 is helpful. Remember in chapter 1, the exile wasn’t just a physical exile. The physical exile merely reflected an ongoing spiritual exile. The people had rejected their God. And Nebuchadnezzar was trying to assimilate these Israelites into pagan culture. So, we’d expect in chapter 9 to see something about an end to both the physical and the spiritual exile. And so we do. The physical exile is about to end, as we saw in verse 2. But, __the *real* exile__, the exile that began when Adam and Eve were kicked out of the Garden of Eden, the exile from God that we all experience because of our sins, will not end simply with the Jews’ return to Jerusalem. *That* exile, the exile the Jewish exile merely points to, ends only when Christ makes atonement for our sins. Look at 9:24-25.
-
-> “Seventy weeks are decreed about your people and your holy city, to finish the transgression, to put an end to sin, and to atone for iniquity, to bring in everlasting righteousness, to seal both vision and prophet, and to anoint a most holy place. Know therefore and understand that from the going out of the word to restore and build Jerusalem to the coming of an anointed one, a prince, there shall be seven weeks.
-
-So what do we see here: an end to sin! After seventy weeks. And an anointed one, a price. Who, verse 26, “shall be cut off and shall have nothing.” What’s going on here? Well, the seventy years of physical exile have finished. But these seventy weeks, these seventy “sevens” — whatever they are — are just beginning. But that their end will be God’s final answer to his people’s sin in the atoning death and triumphant return of Jesus Christ.
-
-[TAKE QUESTIONS]
-
-## Daniel 10-12
-
-Finally, that brings us to chapter 10. Chapters 10-12 don’t sit in that mirroring structure with the first 9 chapters, but they’re just as important. They contain more predictive prophesies about the future of the people of God. And like what we’ve seen so far, the fulfillment of these prophecies is both near-term and in the last days. I’ll leave you to study these chapters and see for yourself how they continue the theme of God’s rule over all nations.
+[Questions?]
 
 ## Conclusion
 
-So how does Daniel speak to our life as exiles in this world? It reminds us, chapters 4-5, that those who set themselves up against the Most High will indeed be humbled, whether to their everlasting benefit or everlasting regret. It shows us, chapters 3 and 6, what it looks like to be faithful servants of a sovereign lord even when we suffer persecution and opposition for our faith. It helps us see, chapters 2 and 7/8, how the “great powers” around us are all passing away and that God’s kingdom on earth is indeed coming. It shines light on the hope Daniel had, that we can now see clearly of the end to our spiritual exile that has come in Christ. And it looks forward, chapters 10-12, to the eternal reward that’s waiting when we finally arrive home.
+The Galatian church, and the church today, encounters assaults from the enemies of the kingdom.  In the face of such assaults, we are to keep in full view the __*true gospel of trust in Christ alone*__ and its effects of freedom, love and a Christ-provided righteousness.  We are to contend for the truth of the gospel; resist those who obscure it; and live by the Spirit of God, putting to death the sinful desires of the flesh.
 
-[TAKE QUESTIONS]
+# The Wisdom of the Kingdom: James
 
-[PRAY]
+Wisdom, from a biblical perspective, is not the mere possession of knowledge but the process of employing knowledge correctly in order to please God. In the Old Testament, God inspired what came to be known as Wisdom literature—the books of Proverbs, Job, Song of Solomon, and Ecclesiastes—to give his people practical instruction in how to live wisely and in the fear of the Lord. 
 
-[^1]: He may have died just shortly before the first wave returned.
-[^2]: Belshazzar was not the king of Babylon, but only the coregent of the city for his father, Nabonidus, who was at the time elsewhere in the empire.
-[^3]: This is much the point that Augustine makes in The City of God.
-[^4]: Darius may not be a name, but a title (like Caesar) for Cyrus, king of the Medes.
-[^5]: __2 Timothy 3:12__ says that “Indeed, all who desire to live a godly life in Christ Jesus will be persecuted.”
-[^6]: I again think of Augustine teaching us that the City of God is always under attack by the City of Man, but it’s the City of God that will persevere in the end.
-[^7]: Now, there may not be time for this in the class, but it sure is interesting enough to note: Daniel is here portrayed as a new Joseph. There are many similarities between them. They are both captured and oppressed by Gentiles when they are young. They both rise high in the service of the Gentiles, second in command no less. The are both falsely accused. They are both delivered by God in life threatening situations. They both interpret dreams. And they both ascribe their ability to interpret dreams to God in the face of others who cannot interpret them relying on their religious means. The point of all this is most likely to encourage the people of God that as He had been with His people before in a foreign land to protect them, He will do so again. And afterwards, as He brought His people out of Egypt, He will bring them out of Babylon too. The “new Joseph” is a sign unto all these things. And both are types of Christ.
-[^8]: Actually, Daniel is able to recount to Nebuchadnezzar the content of the dream as well without having first been told. All of this, of course, comes from the sovereign hand of God (cf. 2:19-23, 27-30).
-[^9]: The last three of which being their given Babylonian names.
+At the heart of all Wisdom literature, as at the heart of the entire Old Testament, was the pressing reality of a coming kingdom, a kingdom whose principles and standards were foreshadowed in the admonitions and aphorisms presented in those ancient Wisdom texts.
 
+In the New Testament, as we’ve seen in this course repeatedly, the kingdom foreshadowed in the Old Testament is finally here. The dawning of this new and glorious age begs some important questions for Christians in their pursuit of wisdom. In light of the gospel, has God left us any instruction about how to live wisely? What does wisdom look like this side of Calvary? 
+
+There is nothing quite like the book of Proverbs or Ecclesiastes in the New Testament, let alone a case study of the magnitude of the one found in the Book of Job. Yet there is no question that in the gospel, God has unveiled the ultimate wisdom for his people. As Paul writes in 1 Corinthians 1:22-25
+
+> 22For Jews demand signs and Greeks seek wisdom, 23but we preach Christ crucified, a stumbling block to Jews and folly to Gentiles, 24but to those who are called, both Jews and Greeks, Christ the power of God and the wisdom of God. 25For the foolishness of God is wiser than men, and the weakness of God is stronger than men.
+
+This morning, in the hopes of addressing the question of Wisdom in the kingdom of God, we turn to the book of James. Not unlike Old Testament Wisdom literature in structure and tone, the book is also—perhaps more so than any other book in the New Testament—directly informed by Jesus’ Sermon on the Mount.
+
+We’ll begin our study with a look at the purpose, background, context, and structure of James before turning to major themes and, in keeping with spirit of the letter, some practical application for our lives.
+
+## Purpose
+
+So, why was the book of James written? To begin with, it was written to encourage Christians after the persecution that began with the stoning of Stephen in __Acts 7–8__. We can see this in the opening verses. “Count it all joy, my brothers, when you meet trials of various kinds,” it says in verse 2. The book, however, clearly intends not only to encourage but also to exhort young Christians to pursue wisdom. The author suggests that an essential element, and even a primary means, of persevering in the Christian life is wise living.
+
+Twice, in verse __1:5__ and verses __3:13–18__, the author exhorts his readers to ask for and to demonstrate wisdom. The book teems with example after example of what a life of wisdom entails. But ultimately, such wisdom is summed up in a manner very consistent with what we see in the Old Testament. The book of Proverbs, if you recall, declares, “The fear of the Lord is the beginning of wisdom.” The book of James, at its climax in __chapter 4 verses 4-10__, in characteristically blunt yet pastoral language, puts it like this:
+
+> 4 You adulterous people! Do you not know that friendship with the world is enmity with God? Therefore whoever wishes to be a friend of the world makes himself an enemy of God. 5 Or do you suppose it is to no purpose that the Scripture says, ‘He yearns jealously over the spirit that he has made to dwell in us’? 6 But he gives more grace. Therefore it says, ‘God opposes the proud, but gives grace to the humble.’ 7 Submit yourselves therefore to God. Resist the devil, and he will flee from you. 8 Draw near to God, and he will draw near you. Cleanse your hands, you sinners, and purify your hearts, you double-minded. 9 Be wretched and mourn and weep. Let your laughter be turned to mourning and your joy to gloom. 10 Humble yourselves before the Lord, and he will exalt you.
+
+As these verses demonstrate, wisdom in the New Testament, as in the Old, is ultimately an issue of repentance and faith, of turning away from the world and turning to God, through Christ, in humble devotion and faith. James wrote his letter precisely so that Christians would know how to apply the Gospel to their lives in a variety of situations, so that they might indeed live wisely and in the fear of the Lord.
+
+## Authorship & Date
+
+The Book of James takes its title from James, Jesus’ half brother and the man whom most scholars credit with authoring the book. The authority which comes through in the inordinate amount of imperative verbs in the letter matches the authority of James that we see in his speech to the council of elders in Jerusalem in Acts 15:13-21. James, who was also a key leader in the early church in Jerusalem, was martyred in 62 AD, which means he wrote his eponymous letter before then, perhaps even as early as 45 AD, several years before the Jerusalem Council.  The general idea is that if he had written his letter _after_ he met the apostle Paul at the Jerusalem Council, the letter would have more clearly dealt with the way Paul taught about justification.  So it must have been written prior to the Council, which was sometime around 48 AD.  If this is correct, it would make the book of James the oldest book in the New Testament.
+
+## Context & Emphasis
+
+With the Book of James, understanding context is of the utmost importance. We don’t have to read very far into the book before coming across passages that, on the surface at least, appear to contradict other foundational New Testament teachings, particularly regarding the connection between faith and works.
+
+So let’s just get it out there and tackle it: I am thinking specifically of verses such as __James 2:24__, which states: “You see that a person is justified by works and not by faith alone.” Juxtaposing this text against Paul’s teaching in __Romans 3:28__—“For we hold that one is justified by faith apart from works of the law.”—some theologians in church history, even Martin Luther for a short time, have concluded that James undermines the biblical truth of justification by faith alone.
+
+So, was James off his rocker on this point? Do Paul and James in fact contradict each other? Well, to start, we know that James and Paul accepted one another as fellow believers. In Gal 2:9 James extends the right hand of fellowship to Paul. In Acts 21:18-20 James praises Paul’s ministry. So James and Paul themselves didn’t think they disagreed.  But how do we reconcile the two and be faithful to Scripture? To answer these questions, it is helpful to contrast the divergent yet equally worrisome teachings that prompted Paul and James to write their respective letters.
+
+When Paul uses the word _justified_, he is employing it in a legal sense, as a word that means _being declared not guilty_. In Romans, Paul is addressing the claims of the so-called Judaizers, who taught that God declared people guilty or innocent based upon their actions. Paul counters by arguing that we are justified before God not by the works of our hands, which only ever supply damning evidence of our guilt, but by faith in Jesus Christ and what he has done on our behalf. When Paul uses the word “justification” he is meaning a “declaration of righteousness.”
+
+In Romans, as it were, we are in the courtroom. In James, however, we have moved into the court of public opinion. When James uses the word _justified_, he means a _visible, public vindication of a personal claim- or a "demonstration of righteousness."_ James is countering a common misunderstanding among wealthy Jewish leaders in Jerusalem—perhaps even influenced by a misunderstanding of Paul’s teaching. These hypocrites taught that works were of little-to-no importance so long as people believed the right things. In contrast, James argues that Christian faith is not justified, or vindicated, by hollow orthodoxy, but by works that provide evidence of true faith.  
+
+In short, both James and Paul agree that, to quote Martin Luther, justification is by faith alone by never by faith that is alone.  Instead, it is always accompanied by a life of obedience, love, and the fear of the Lord.
+
+## Structure & Outline
+
+So, with that as the purpose and context for the letter, how does James actually accomplish this?  Deceptively short, the Book of James wastes few words. In five concise chapters, the author packs in more than 50 imperative verbs, a literary device that gives the writing a force disproportionate to its relative brevity. As in the book of Proverbs, the material is often presented in the form of pithy sayings grouped around particular themes. Many of these sayings, or aphorisms, carry the residue of Jesus’ teachings in the gospels. For this reason, some scholars have characterized James as a kind of Cliff’s Notes to, or greatest-hits album of, Jesus’ core teachings. Although it can have a “collected sayings” feel to it, the letter nevertheless follows a loose structure, which we can outline, roughly, as follows:
+
+| | |
+|--|-------|
+| Chapter 1 | Introduction of major arenas: Wisdom is displayed through testing __(1:2-5)__, and specifically in 3 arenas of life: generosity __(1:27)__, speech __(1:19-26)__, and attitude towards money __(1:9-11)__.  We then spend the rest of the letter stepping through each of these individually. |
+| Chapter 2 | First, testing through generosity: Favoritism is forbidden __(2:1-15)__, which leads to a discussion of faith and deeds. |
+| Chapters 3-4 | Second, testing through speech: Taming the tongue __(3:1-12)__, prayer __(4:1-3)__, slander and boasting __(4:11-17)__ |
+| Chapter 5 | And finally, testing through our attitude toward wealth __(1:1-6)__, followed by a summary and a conclusion __(5:7-20)__ |
+
+## Major Themes
+
+But James has some common things to say about wisdom displayed in each of these three arenas of life (that is, generosity, speech, and money), just like we see some common themes across all the varied topics in the book of Proverbs.  For the rest of the class today, we’ll look at three of these themes and how they play out in all three of the arenas of life featured in the book of James.  A) the harmony between the law and the gospel, B) faithful submission to God as the means to a blessed life, and C) practical obedience. Let’s take some time to unpack each of these themes, starting with harmony between the law and the gospel.
+
+### A. Harmony between the law and the gospel
+
+Although less explicit than the other themes in the book of James, the harmony between the Old Testament and the New, between the law and the gospel, is the backdrop against which the entire book is written, and forms the basis for how wisdom is to be displayed in the three arenas of life James deals with: generosity, speech, and wealth.
+
+In the Bible, the law has three intended uses. The first use of the law is to restrain sin and provide for a civil society. This is law in the sense that Paul writes of it in __Romans 1 and 2__. The second use of the law, which Paul writes of in __Galatians 3__, is to convict people of their sins and lead them to Christ.  You see this also in the Sermon on the Mount.  As Jesus says, unless your righteousness exceeds that of the scribes and Pharisees, you will never enter the kingdom of God.  Impossible, you say!  Exactly the point.  Jesus’ explanation of the law is intended to drive us to the cross by proving to us that we cannot possibly be good enough for God in our own strength.
+
+But there is a third use of the law, the one that James is most concerned with, and that is the law as a guide for how Christians should live in light of the gospel.  Going back to the sermon on the mount, for example, once we have been driven to the cross, and have accepted Christ’s righteousness lived on our behalf, we can now go back to that sermon and find incredible wisdom for how we should live the Christian life.  Even as Christians, imperative verbs are important.  And that’s what we see here in James.  The third use of the law.  Now, this distinction is important to understand as we read the imperatives James gives to his readers. As we’ve already discussed, James is not commanding his readers to work for their salvation but rather to show they are saved by their good works. This kind of living is not arbitrary moralism but evidence that we have found wisdom in the gospel, that we are living in the fear of the Lord.
+
+Christ often spoke about the law in this way, and as we previously mentioned, the book of James is heavily dependent of Jesus’ Sermon on the Mount as he goes about instructing us on how we should live now that God’s kingdom has come. In your handout, you’ll see a chart that shows different passages in James alongside Jesus’ teaching in the Sermon on the Mount as recounted in the gospel of Matthew. I’ll read the first few of these, and leave the rest for your personal reference.
+
+| | James | | Matthew |
+|--|------|--|------|
+| 1:2 | Count it all joy, my brothers, when you meet trials of various kinds  | 5:11f. | Blessed are you when others revile you and persecute you and utter all kinds of evil against you falsely on my account. Rejoice and be glad, for your reward is great in heaven, for so they persecuted the prophets who were before you. |
+| 1:4 | And let steadfastness have its full effect, that you may be perfect and complete, lacking in nothing. | 5:48 | You therefore must be perfect, as your heavenly Father is perfect. |
+| 1:5 | If any of you lacks wisdom, let him ask God, who gives generously to all without reproach, and it will be given him. | 7:7 | Ask, and it will be given to you; seek, and you will find; knock, and it will be opened to you. |
+| 1:17 | Every good gift and every perfect gift is from above, coming down from the Father of lights with whom there is no variation or shadow due to change. | 7:11 | If you then, who are evil, know how to give good gifts to your children, how much more will your Father who is in heaven give good things to those who ask him! |
+| 1:20 | For the anger of man does not produce the righteousness of God. | 5:22 | But I say to you that everyone who is angry with his brother will be liable to judgment; whoever insults his brother will be liable to the council; and whoever says, “You fool!” will be liable to the hell of fire. |
+| 1:22-24 | But be doers of the word, and not hearers only, deceiving yourselves. For if anyone is a hearer of the word and not a doer, he is like a man who looks intently at his natural face in a mirror. For he looks at himself and goes away and at once forgets what he was like. | 7:24-26 | “Everyone then who hears these words of mine and does them will be like a wise man who built his house on a rock. And the rain fell, and the floods came, and the winds blew and beat on the house, but it did not fall, because it had been founded on the rock. And everyone who hears these words of mine and does not do them will be like a foolish man who built his house on the sand. |
+| 2:5 | Listen, my beloved brothers, has not God chosen those who are poor in the world to be rich in faith and heirs of the kingdom, which he has promised to those who love him? | 5:3-5 | “Blessed are the poor in spirit, for theirs is the kingdom of heaven. Blessed are those who mourn, for they shall be comforted. Blessed are the meek, for they shall inherit the earth.” |
+| 2:10-11 | For whoever keeps the whole law but fails in one point has become accountable for all of it. For he who said, “Do not commit adultery but do murder, you have become a transgressor of the law.” | 5:19-22 | Therefore whoever relaxes one of the least of these commandments and teaches others to do the same will be called least in the kingdom of heaven, but whoever does them and teaches them will be called great in the kingdom of heaven. For I tell you, unless your righteousness exceeds that of the scribes and Pharisees, you will never enter the kingdom of heaven. You have heard that it was said to those of old, “You shall not murder; and whoever murders will be liable to judgment.” But I say to you that everyone who is angry with his brother will be liable to judgment; whoever insults his brother will be liable to the council; and whoever says, “You fool!” will be liable to the hell of fire. |
+| 2:13 | For judgment is without mercy to one who has shown no mercy. Mercy triumphs over judgment. | 5:7 | Blessed are the merciful, for they shall receive mercy. |
+| 3:12 | Can a fig tree, my brothers, bear olives, or a grapevine produce figs? Neither can a salt pond yield fresh water. | 7:16 | You will recognize them by their fruits. Are grapes gathered from thornbushes, or figs from thistles? |
+| 3:18 | And a harvest of righteousness is sown in peace by those who make peace. | 5:9 | Blessed are the peacemakers, for they shall be called sons of God |
+| 4:2-3 | You desire and do not have, so you murder. You covet and cannot obtain, so you fight and quarrel. You do not have, because you do not ask. You ask and do not receive, because you ask wrongly, to spend it on your passions. | 7:7-8 | Ask, and it will be given to you; seek, and you will find; knowck, and it will be opened to you. For everyone who asks receives, and the one who seeks finds, and to the one who knocks it will be opened. |
+| 4:4 | You adulterous people! Do you not know that friendship with the world is enmity with God? Therefore whoever wishes to be a friend of the world makes himself an enemy of God. | 6:24 | No one can serve two masters, for either he will hate the one and love the other, or he will be devoted to the one and espies the other. You cannot serve God and money. |
+| 4:8 | Draw near to God, and he will draw near to you. Cleanse your hands, you sinners and purify your hearts, you double-minded. | 6:22 | The eye is the lamp of the body. So, if your eye is healthy, your whole body will be full of light, |
+| 4:9 | Be wretched and mourn and weep. Let your laughter be turned to mourning and your joy to gloom. | 5:4 | Blessed are those who mourn, for they shall be comforted. |
+| 4:11-12 | Do not speak evil against one another, brothers. The one who speaks against a brother or judges his brother, speaks evil against the law and judges the law. But if you judge the law, you are not a doer of the law but a judge. There is only one lawgiver and judge, he who is able to save and to destroy. But who are you to judge your neighbor? | 7:1 | Judge not, that you be not judged. |
+| 4:13-14 | Come now, you who say, “Today or tomorrow we will go into such and such a town and spend a year there and trade and make a profit” –Yet you do not know what tomorrow will bring. What is your life? For you are a mist that appears for a little time and then vanishes. | 6:34 | Therefore do not be anxious about tomorrow, for tomorrow will be anxious for itself. Sufficient for the day is its own trouble. |
+| 5:2 | Your riches have rotted and your garments are motheaten. | 6:19-20 | Do not lay up for yourselves treasures on earth, where moth and rust destroy and where thieves break in and steal, but lay up for yourselves treasures in heaven, where neither moth nor rust destroys and where thieves do not break in and steal. |
+| 5:9 | Do not grumble against one another, brothers, so that you may not be judged; behold, the Judge is standing at the door. | 5:22, 7:1 | But I say to you that everyone who is angry with his brother will be liable to judgment; whoever insults his brother will be liable to the council; and whoever says, “You fool!” will be liable to the hell of fire. ; Judge not, that you be not judged. |
+| 5:10 | As an example of suffering and patience, brothers, take the prophets who spoke in the name of the Lord. | 5:11-12 | Blessed are you when others revile you and persecute you and utter all kinds of evil against you falsely on my account. Rejoice and be glad, for your reward is great in heaven, for so they persecuted the prophets who were before you. |
+| 5:12 | But above all, my brothers, do not swear, either by heaven or by earth or by any other oath, but let your “yes” be yes and your “no” be no, so that you may not fall under condemnation. | 5:34-35 | But I say to you, Do not take an oath at all, either by heaven, for it is the throne of God, or by the earth, for it is his footstool, or by Jerusalem, for it is the city of the great King. |
+
+### B. Faithful submission
+
+Let’s turn now to the second theme of James, faithful submission to God. William Dumbrell, an Old Testament scholar, has remarked, “[M]eaning in life cannot be understood within the human compass, but only within the framework of a vision of God.” If you have ever grappled with the problems of suffering and evil, or the seeming injustices of this world, you know the truth of those words. Nothing in our world finally makes sense apart from a proper fear and reverence for the God who made, sustains and redeems our world.
+
+According to the book of James, the path to a blessed life in the kingdom begins, first and foremost, with submission to the Lord and to what he says about the world. Any wisdom that has anything else as its starting point is foolishness. In __James 3:13-18__, we read of the stark contrasts between the so-called “wisdom” of this world and the wisdom of God:
+
+> Who is wise and understanding among you? By his good conduct let him show his works in the meekness of wisdom. But if you have bitter jealousy and selfish ambition in your hearts, do not boast and be false to the truth. This is not the wisdom that comes down from above, but is earthly, unspiritual, demonic. For where Jealousy and selfish ambition exist, there will be disorder and every vile practice. But the wisdom from above is first pure, then peaceable, gentle, open to reason, full of mercy and good fruits, impartial and sincere. And a harvest of righteousness is sown in peace by those who make peace.
+
+The wisdom of the world, as this passage makes patently clear, stands in direct opposition to the wisdom that comes down from heaven. In fact, blind or willful adherence to the world’s wisdom is more than mere foolishness—it is an affront against the Lord. “Anyone who chooses to be a friend of the world,” we read in __James 4:4__, “becomes an enemy of God.” So, James calls us, bluntly yet lovingly, to “Humble [o]urselves before the Lord,” and he bookends this command with a sweet promise. If you do this, the verse continues, “He will exalt you.”
+
+And so this motivates action.  As we read in 4:17, “whoever knows the right thing to do and fails to do it, for him it is sin.” Simple, but powerful as a principle to combat apathy and procrastination.  Good must be done today.  Not tomorrow.
+
+### C. Practical obedience
+
+A final theme native to the book of James is practical obedience. The author spends most of his time here. To James, obedience to God’s word in our daily lives is the ultimate display of wisdom. “But the one who looks into the perfect law, the law of liberty, and perseveres, being no hearer who forgets but a doer who acts, he will be blessed in his doing.” as it says in __James 1:25__. True blessing, according to James, proceeds from applying God’s word directly to our lives.
+
+Far from a passive enterprise, Christianity is actually an active process of continually heeding God’s word as we hear it preached in community and meditate on it in our quiet times. Christianity is more than just a belief system; it is also a way of life—a faith with implications on how we think and act. Christians, James concludes, are to be doers of God’s word.
+
+As the book of James progresses, the author tethers this overarching admonition that Christians should be doers of God’s word to some specific areas of life:
+
+#### Generous Love
+
+__James 2:1-16__, for instance, entreats Christians to __love others generously__. In these verses, we learn that there was a temptation among the churches to whom James was writing to show favoritism to people based upon worldly prestige, and so James calls them back to the kind of undiscriminating and merciful love that Christ has displayed towards them in the gospel. He commands in __2:12-13__: “So speak and so act as those who are to be judged under the law of liberty. For judgment is without mercy to one who has shown no mercy. Mercy triumphs over judgment.” To show favoritism is to forget that we have been shown grace by God, grace that we, an unfaithful band of sinners, did not deserve to receive from a holy God. The fact that we have received such mercy in Christ should compel us to show love and mercy towards others.
+
+#### Careful Speech
+
+In __James 3:1-12__ and then in __James 4:1–3__ and __11-17__, James gives instruction concerning __speech__, the way we use our tongues toward God and others. "With it we bless our Lord and Father, and with it we curse people who are made in the likeness of God..." it says in __3:9-10__, and continues, “My brothers, these things ought not to be so.” The language in these verses is poetic and leavened with some potent metaphors. James compares the human tongue to, among other things, a tiny spark that can nevertheless engulf a mighty forest in flames.
+
+A loose tongue, to James, reveals a lack of self-control, and a lack of self-control reveals a void of reverence and submission towards God. Indeed, an untamed tongue reveals a fundamental lack of wisdom and invites judgment from God instead of blessing. What comes out of our mouths—whether slander or praise, gossip or words of encouragement, silence or prayer—bears testimony about the condition of our hearts. For that reason, James entreats Christians to tame their tongues and take speech seriously.
+
+Incidentally, as regards the most difficult decisions we face in our speech—when we are in relational conflict—James has some profound insight for us.  Chapter 4, verse 1.  “What causes quarrels and what causes fights among you? Is it not this, that your passions are at war within you?” As you understand it, that little gem of a thought can completely transform your relationships in this world.  Fights and quarrels don’t come, James says, because of something the other person did, or because you had a bad day, or you’re tired, or your personalities don’t click.  Fights and quarrels come from desires that battle within you.  Verse 2: “You desire and do not have, so you murder. You covet and cannot obtain, so you fight and quarrel. You do not have, because you do not ask.” Paul Tripp’s book, “War of Words” is a great resource to help you understand the profound implications of this little verse on your life.
+
+#### Compassionate Wealth
+
+Throughout the book, James also cautions his readers about wealth. In __1:9-11__, by comparing a rich man to a wild flower that has no sooner bloomed than withered in the field, he reminds us that worldly riches are ultimately fleeting. Later, in __James 4:13-14__, he warns against the pride and boasting that often erupts from the fount of worldly success: “Come now, you who say, ‘Today or tomorrow we will go into such and such a town and spend a year there and trade and make a profit’ –yet you do not know what tomorrow will bring. What is your life?”
+
+But we know that wealth in and of itself is not sinful: Jesus himself calls Zacchaeus, a wealthy tax collector, ‘son of Abraham’ in Luke 19:9. In 1:10, James calls rich believers “to take pride in his low position.” But lest we think James is calling Christians to avoid wealth entirely, to take up a vow of poverty, he gives some positive examples of how to handle money appropriately, namely by using it to bless others, instead of hoarding it for ourselves. “Religion,” it says in __James 1:27__, that God our Father will “visit orphans and widows in their affliction, and to keep oneself unstained from the world.” Because we have been so richly blessed in Christ, we are called, and freed, to use the wealth that we do have to bless others.
+
+## Application
+
+So, what does wisdom look like in the Kingdom of God? Well, the life of wisdom, according to the book of James, is a life lived in submission to God, a life of faith evidenced by works. Hopefully, as we’ve covered topics like applying the law to our lives, faithful submission, practical obedience, careful speech, and compassionate wealth love, you’ve been encouraged and challenged in different areas of your life. I wonder, which of these is the hardest for you? 
+
+Let’s conclude with a few more points of application.. We could come up with dozens, but here are three I’d like to leave us with:
+
+### 1. Pursue true wisdom
+
+If you are tempted, as I often am, to look to this world for wisdom as opposed to God’s word, let James be both a warning and an encouragement to you. The wisdom that leads to a blessed life comes only from God and his Word. Let God’s Word be the roadmap for your life. “Humble yourself,” as James commands, “and he will exalt you.”
+
+### 2. Examine your relationships
+
+James’ admonition to avoid favoritism should cause us to examine, among other things, our relationships and social interactions. Who are your friends and the people you often find yourself gravitating towards and reaching out to? Are they people who dress a certain way? People who have a certain type of job? People with interests that line-up, line by line, with ours? Or are we loving people indiscriminately, mindful of how God has loved us in Christ?
+
+### 3. Commit to meditating on James
+
+Hold James’ definition of Christian faith—a faith that produces good works—up to your life like a mirror and respond accordingly. Ask a friend about what fruit they have seen in your life in the past few months, especially in regards to the way you speak, handle money, and serve others. Ask them to help you brainstorm ways to grow in glorifying God in those areas. There are passages in James, which if taken to heart, can change our lives and relationships, so we should spend time reading it, meditating on it, even memorizing verses from it.
+
+[^1]: See Don Carson's section on the Judaizers in _Love in Hard Places_.
