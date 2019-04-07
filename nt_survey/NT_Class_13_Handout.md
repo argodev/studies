@@ -13,142 +13,167 @@ fontfamily: libertine
 fontfamilyoptions: sfdefault
 ---
 
-# 1st &amp; 2nd Chronicles
+# 1 Peter: The Enemies of the Kingdom
 
-Context
+## Introduction
 
-Purpose of Chronicles
+"If anyone would come after me, let him deny himself and take up his cross and follow me." (Matthew 16:24).
 
-## I. 1 Chronicles 1-9 Genealogies: The Roots of the Postexilic Community
+## I. Purpose
 
-A focus on the line of promise
+## II. Date & Audience
 
-A focus on Judah
+## III. Structure & Outline
 
-Inclusion of “all Israel”
+__Chapter 1:1-2:  God’s Elect, Strangers in the World__
 
-To interpret a genealogy (or any text of Scripture), always start with the author’s main point.
+> To those who are elect exiles of the Dispersion... (1:1)
 
-## II. 1 Chronicles 10 – 2 Chronicles 9 The United Monarchy: The Messianic Hope of the Postexilic Community
+__Chapter 1:3—2:10:  The High Privilege and Calling of Being Elect Strangers__
 
-Communicating his point by differences from Samuel & Kings:
+> But as he who called you is holy, you also be holy in all your conduct, since it is written, “You shall be holy, for I am holy.” (1:15-16)
 
-1. Chronicles presents a vision of what the Messiah will be like by highlighting only positive aspects of David and Solomon.  
+__Chapter 2:11—4:11:  A Lifestyle Different From, Yet Attractive to the World__
 
-    2 Sam. 11:1-2 v. 1 Chron. 20:1-2
+> Be subject for the Lord’s sake... (2:13)
 
-    What happened to Bathsheba and Uriah?
+__Chapter 4:12—5:14:  Responding to Suffering__
 
-2. In Chronicles, the accounts of David and Solomon revolve around the temple of God.
+> Do no be surprised... but rejoice insofar as you share in Christ’s sufferings... (4:12-13)
 
-    1 Kings 5:7 v. 2 Chron. 2:12
+__The Goal of 1 Peter:__ "Keep your conduct among the Gentiles honorable, so that when they speak against you say evildoers, they may see your good deeds and glorify God on the day of visitation." (2:12)
 
-    Wisdom for ruling v. wisdom for building
+## IV. Major Themes
 
-    2 Chron. 6:24-26
+A.  Holiness and suffering
 
-## III. 2 Chronicles 10-36 The Kings of Judah: Examples of Rebellion and Repentance for the Postexilic Community
+A.  Christ’s suffering and ours
 
-Key to understanding this section: 2 Chron. 7:13-15
+A.  Future vindication
 
-A focus on repentance and forgiveness
+A.  Right responses to suffering
 
-A focus on “immediate retribution”
+    1.  Witness
 
-- The danger of applying 2 Chron. 7:14 to any nation-state today
+    1.  Love
 
-- Examples of “immediate retribution:”
+    1.  Submit
 
-- Examples of mercy: 2 Chron. 17:9-10, 32:25-26
+## Conclusion
 
-- Examples of judgment: 2 Chron. 12:1-2, 25:27
+"Prepare your minds for action ... Arm yourselves with the same way (as Christ) ... Be sober-minded; be watchful ... entust [yourself] to [your] faithful Creator while doing good ... Stand firm."  (1:13, 4:1, 4:19, 5:8, 5:12).
 
-The end of the book: exile and release (2 Chron. 36:15-20)
+# 2 Peter & Jude
 
-## Conclusion: Three Ways to Apply Chronicles
+> "Take care that you are not carried away with the error of lawless people and lose your own stability." 2 Pet. 3:17
 
-1. See how it points to Jesus
+> "Contend for the faith that was once for all delivered to the saints." – Jude 3
 
-2. Learn about living in the “already, not yet”
+## Introduction
 
-3. Thank God for absorbing immediate retribution
+- 2 Peter 2:1, Jude v.4:  “Among you”
 
-## A Study Outline for 1st and 2nd Chronicles
+__Purpose:__ To warn Christians against false teaching and to encourage them to persevere in the true faith.
 
-i. A Genealogical Presentation of the Tribes of Israel (1 Chron. 1-9)
-   a. Adam to Esau (1:1-54)
-   a. The sons of Israel (2:1-2)
-   a. The tribe of Judah (2:3-4:23)
-   a. The tribe of Simeon (4:24-43)
-   a. The Transjordanian tribes (5:1-26)
-   a. The tribe of Levi (6:1-81)
-   a. Other northern tribes (7:1-40)
-   a. The tribe of Benjamin (8:1-40)
-   a. The resettlement of Jerusalem (9:1-34)
-   a. The genealogy of Saul (9:35-44)
-i. The United Kingdom of David and Solomon (1 Chron. 10-2 Chron. 9)
-   a. David’s rise to power over Israel (1 Chron. 10:1-12:40)
-   a. David’s transfer of the ark to Jerusalem (13:1-16:43)
-   a. The dynastic promise to David (17:1-27)
-   a. David’s wars (18:1-20:8)
-   a. David’s census and preparation for the temple (21:1-29:30)
-   a. Solomon’s temple preparations (2 Chron. 1:1-2:18)
-   a. Solomon’s building of the temple (3:1-5:1)
-   a. The dedication of the temple (5:2-7:22)
-   a. Solomon’s other accomplishments (8:1-16)
-   a. Solomon’s international relations and renown (8:17-9:31)
-i. The Kingdom of Judah down to the Exile (2 Chron. 10-36)
-   a. Rehoboam (10:1-12:16)
-   a. Abijah (13:1-14:1)
-   a. Asa (14:2-16:14)
-   a. Jehoshaphat (17:1-21:1)
-   a. Jehoram and Ahaziah (21:2-22:12)
-   a. Joash (23:1-24:27)
-   a. Amaziah (25:1-28)
-   a. Uzziah (26:1-23)
-   a. Jotham (27:1-9)
-   a. Ahaz (28:1-27)
-   a. Hezekiah (29:1-32:33)
-   a. Manasseh (33:21-25)
-   a. Amon (33:21-25)
-   a. Josiah (34:-35:27)
-   a. The last four kings (36:1-21)
-   a. Restoration (36:22-23)
+## Authorship, Audience & Context
 
-# Ezra - Nehemiah
+- 2 Peter 1:1, 1:16, 2:1
 
-Context
+- Jude 1, 4
 
-- Historical Context
+### Key Similarities
 
-  - Events occur between 538 and ca. 433 BC
+| 2 Peter | Jude |
+|--|--|
+| 1:12 | 5 |
+| 2:4 | 6 |
+| 2:10-12 | 8-10 |
+| 2:15-16 | 11 |
+| 2:17 | 12-13 |
+| 3:2 | 17 |
 
-  - Cyrus, the Persian king, allows Jews to return and rebuild 
+## Main Themes of 2 Peter and Jude
 
-- Redemptive-Historical Context
+1. The Certainty of your Call
 
-  - God still committed to His plan of redemption
+   - Salvation is God’s work – Jude 1, 2 Pet. 1:3-4
 
-  - But the full kingdom of God is still not yet
+   - Make your calling and election sure – 2 Pet. 1:5-11
 
-## Theme
+   - Examine the fruit of your life – 2 Pet. 1:5-7
 
-God is renewing the covenant by restoring His people, the temple, true worship, and Jerusalem.  But it’s not the same, and it doesn’t fulfill all the great prophesies.  Thus His people still look to the future.  
+   - Depend on the mercy of Jesus – Jude 21
 
-## God Initiates and the People Respond – Ezra 1:5-6
+2. The Certainty of God's Truth
 
-## The People Return and Rebuild – Ezra 1:7 – 6:22
+   - Remember the apostles’ words – Jude 17-18
 
-## The People Sin and Repent – Ezra 7 – 10
+   - Trust the Old Testament Scripture – 2 Pet. 1:19-21
 
-## Nehemiah Returns and the People Rebuild – Nehemiah 1 – 7
+   - Trust the writings of Paul – 2 Pet. 3:15-16
 
-## The People Rejoice….and Relapse – Nehemiah 8 - 13
+   - Recall God’s Word – 2 Pet. 3:2
 
-## A Study Outline for Ezra-Nehemiah
+3. The Certainty of Bad Fruit from False Teaching
 
-i. God Initiates, People Respond – Ezra 1:1-6
-i. The People Return and Rebuild Ezra 1:7 – 6:22
-i. The People Sin and Repent – Ezra 7 – 10
-i. Nehemiah Returns, People Rebuild the Walls – Nehemiah  1 – 7
-i. The People Rejoice….and Relapse Nehemiah 8-13
+   - Flawed doctrine – 2 Pet. 3:4, Jude 4 – “Antinomianism”
+
+   - Godless lifestyle:
+
+     - Rejecting authority – 2 Pet. 2:10
+
+     - Embracing immorality – 2 Pet. 2:13-14
+
+     - Serving only themselves – Jude 12, 16
+
+   - Our response:  Contend for the faith – Jude 3, 2 Pet. 3:17
+
+4. The Certainty of God's Judgement
+
+   - Judgment to punish ungodliness – Jude 14-15
+
+   - The folly of denying God’s judgment – 2 Pet. 3:8-9
+
+   - The unexpectedness of the day of the Lord – 2 Pet. 3:10
+
+   - Living in light of God’s coming judgment:
+
+     - Pursue holiness – 2 Pet. 3:11-12
+
+     - Look forward – 2 Pet. 3:14
+
+5. Conclusion: He is able to keep us from stumbling (Jude 24-25)
+
+## Outline of 2 Peter
+
+1. Exhortation to Make Your Calling Sure (1:1-15)
+
+   (“Make every effort to add to your faith,” 1:5)
+
+1. Confidence in Christ’s Second Coming (1:16-21)
+
+   (“Until the day dawns,” 1:19)
+
+1. False Teachers:Their Deeds and Destiny (2:1-22)
+
+   (Center section of letter)
+
+1. Comfort from Christ’s Second Coming (3:1-13)
+
+   (“The day of the Lord will come like a thief,” 3:10)
+
+1. Exhortation to Grow as the Day Approaches (3:14-18)
+
+   (“Make every effort to be found spotless,” 3:14)
+
+## Outline of Jude
+
+I.  Greeting (1-2)
+
+I.  Exhortation to Contend for the Faith (3-4)
+
+I.  Center of book: False Teachers:  Their Deeds and Destiny (5-16)
+
+I.  Exhortation to Be Built Up in the Faith (17-23)
+
+I.  Doxology (24-25)
