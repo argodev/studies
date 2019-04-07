@@ -35,7 +35,7 @@ _Two things to remember:_
 
 ### B. Remember that we are justified by faith alone in Christ alone
 
-__Key Verse:__  “We ourselves are Jews by birth and not Gentile sinners; yet we know that a person is not justified by works of the law but through faith in Jesus Christ, so we also have believed in Christ Jesu, in order to be justified by faith in Christ and not by works of the law, because by works of the law no one will be justified.” (2:15-16)
+__Key Verse:__  “We ourselves are Jews by birth and not Gentile sinners; yet we know that a person is not justified by works of the law but through faith in Jesus Christ, so we also have believed in Christ Jesus, in order to be justified by faith in Christ and not by works of the law, because by works of the law no one will be justified.” (2:15-16)
 
 __Application:__ Use the distinction between law and grace in your evangelism.  No man can perfectly comply with the law, and therefore all are in need of a Savior.
 
@@ -110,7 +110,7 @@ _Three uses of the Law_
 
 1. Second use: to convict of sin (Galatians 3)
 
-1.Third use: to instruct in wisdom (James)
+1. Third use: to instruct in wisdom (James)
 
 ### Relationship to Matthew 5-7
 
@@ -144,12 +144,12 @@ Compassionate Wealth (James 1:9-11, 27; 4:13-17)
 
 1. Pursue true wisdom
 
-Are you seeking wisdom from God’s Word?
+   Are you seeking wisdom from God’s Word?
 
 1. Examine relationships
 
-Are you showing favoritism to others based upon what they look like, what they do, or their similarities to you?
+   Are you showing favoritism to others based upon what they look like, what they do, or their similarities to you?
 
 1. Meditate on James
 
-Is your faith evidencing itself in good works? Do you have people in your life who can help you grow in this way?
+   Is your faith evidencing itself in good works? Do you have people in your life who can help you grow in this way?
