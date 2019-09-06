@@ -6,7 +6,7 @@ header-includes:
     - \usepackage{fancyhdr}
     - \pagestyle{fancy}
     - \fancyhead[RO,RE]{Class 1 - Introduction - The Covenant Kingdom, Hebrews}
-    - \fancyhead[LO,LE]{Old Testament Seminar}
+    - \fancyhead[LO,LE]{New Testament Seminar}
     - \usepackage{tikz}
     - \usetikzlibrary{calc,shapes.multipart,chains,arrows}
 fontfamily: libertine
