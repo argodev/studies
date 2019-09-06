@@ -15,7 +15,7 @@ fontfamilyoptions: sfdefault
 
 # Introduction to the New Testament: The Covenant Kingdom
 
-And he stood up to read. The scroll of the prophet Isaiah was handed to him. Unrolling it, he found the place where it is written: "*The Spirit of the Lord is on me, because he has anointed me to preach good news to the poor.  He has sent me to proclaim freedom for the prisoners and recovery of sight for the blind, to release the oppressed, to proclaim the year of the Lord's favor.*” Then he rolled up the scroll, gave it back to the attendant and sat down. The eyes of everyone in the synagogue were fastened on him, and he began by saying to them, __“Today this scripture is fulfilled in your hearing."__ (Luke 4:16b-21)
+He entered the synagogue on the Sabbath day and stood up to read. The scroll of the prophet Isaiah was given to him, and unrolling the scroll, he found the place where it was written: *The Spirit of the Lord is on me, because he has anointed me to preach good news to the poor. He has sent me to proclaim release to the captives and recovery of sight to the blind, to set free the oppressed, to proclaim the year of the Lord’s favor*. He then rolled up the scroll, gave it back to the attendant, and sat down. And the eyes of everyone in the synagogue were fixed on him. He began by saying to them, __“Today as you listen, this Scripture has been fulfilled.”__ (Luke 4:16b-21)
 
 ## I.  Introduction
 
@@ -48,7 +48,8 @@ And he stood up to read. The scroll of the prophet Isaiah was handed to him. Unr
 
 # The Kingdom Comes: The Book of Hebrews
 
-“Sacrifice and offering you did not desire, but a body you prepared for me; with burnt offerings and sin offerings you were not pleased. Then I said, ‘Here I am — it is written about me in the scroll—I have come to do your will, O God.’” (Psalm 40:6-8 AND Hebrews 10:5-7)  
+You did not desire sacrifice and offering, but you prepared a body for me. You did not delight in whole burnt offerings and sin offerings. Then I said, “See— it is written about me in the scroll— I have come to do your will, O God.” (Psalm 40:6-8 AND Hebrews 10:5-7)
+
 
 ## I.  Purpose and Background
 
@@ -56,7 +57,7 @@ And he stood up to read. The scroll of the prophet Isaiah was handed to him. Unr
 
 Overarching theme: the supremacy and finality of Jesus Christ.  
 
- “He has appeared once for all at the end of the ages to do away with sin by the sacrifice of himself”
+ “But now he has appeared one time, at the end of the ages, for the removal of sin by the sacrifice of himself”
 (9:26; see also 1:2. 5:9; 12:22-24)
 
 ## III. Outline of book
@@ -103,16 +104,16 @@ C. A Life-Transforming Hope (Chapters 10:19-13)
 
    4. Love (13:1, 12-13)
 
-| | Old Covenant | New Covenant |
-|-------|-----------|-----------|
-| Priesthood | Levitical (7:11) | Melchizedek (7:1-22) |
-| High Priest | High Priests (Aaron, etc.) | Jesus Christ |
-| Tenure of High Priest | Death Limits Term (7:23) | Forever (7:17) |
-| Kind of Sacrifice | Blood of Bulls and Goats   (9:13, 10:4) | Blood of Jesus (9:14, 10:10) |
-| Location of Sacrifice | Earthly Tabernacle (9:1-8) | Heavenly Sanctuary (9:24) |
-| Frequency of Sacrifices | Continual (10:1, 11) | Just Once (9:28, 10:12) |
-| Effect | Annual Reminder of Sins (10:3) | Permanent Forgiveness of Sins (10:18) |
-| Purpose | Ceremonial Cleanness (9:10) | A Cleansed Conscience / A New Heart (9:14/10:16) |
+|                         | Old Covenant                          | New Covenant                                     |
+|-------------------------|---------------------------------------|--------------------------------------------------|
+| Priesthood              | Levitical (7:11)                      | Melchizedek (7:1-22)                             |
+| High Priest             | High Priests (Aaron, etc.)            | Jesus Christ                                     |
+| Tenure of High Priest   | Death Limits Term (7:23)              | Forever (7:17)                                   |
+| Kind of Sacrifice       | Blood of Bulls and Goats (9:13, 10:4) | Blood of Jesus (9:14, 10:10)                     |
+| Location of Sacrifice   | Earthly Tabernacle (9:1-8)            | Heavenly Sanctuary (9:24)                        |
+| Frequency of Sacrifices | Continual (10:1, 11)                  | Just Once (9:28, 10:12)                          |
+| Effect                  | Annual Reminder of Sins (10:3)        | Permanent Forgiveness of Sins (10:18)            |
+| Purpose                 | Ceremonial Cleanness (9:10)           | A Cleansed Conscience / A New Heart (9:14/10:16) |
 
 # Class Outline
 
