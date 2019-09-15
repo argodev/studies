@@ -15,57 +15,57 @@ fontfamilyoptions: sfdefault
 
 # Introduction to the Gospels & Acts
 
-I. Introduction
+## Introduction
 
-II. What is a Gospel?
+## What is a Gospel?
 
-    A. Not a modern biography
+1. Not a modern biography
 
-    B. Not an ancient biography
+1. Not an ancient biography
 
-    C. Not like Gnostic Gospels
+1. Not like Gnostic Gospels
 
-III. The Life of Christ
+## The Life of Christ
 
-     A. Preview of Who Jesus is
+1. Preview of Who Jesus is
 
-     B. John the Baptist’s Birth
+1. John the Baptist’s Birth
 
-     C. Early Years of Christ
+1. Early Years of Christ
 
-     D. Ministry of John the Baptist
+1. Ministry of John the Baptist
 
-     E. Conclusion of John the Baptist’s ministry and Beginning of Christ’s
+1. Conclusion of John the Baptist’s ministry and Beginning of Christ’s
 
-     F. Christ’s Ministry in Galilee- Parables
+1. Christ’s Ministry in Galilee- Parables
 
-     G. Christ’s Ministry around Galilee
+1. Christ’s Ministry around Galilee
 
-     H. Later Judean Ministry
+1. Later Judean Ministry
 
-     I. Ministry around Perea
+1. Ministry around Perea
 
-     J. Passion Week
+1. Passion Week
 
-     K. Post-Resurrection and Ascension
+1. Post-Resurrection and Ascension
 
-IV. Four Portraits, One Jesus
+## Four Portraits, One Jesus
 
-    A. Matthew: Jesus the Promised King
+1. Matthew: Jesus the Promised King
 
-    B. Mark: Jesus the Servant King
+1. Mark: Jesus the Servant King
 
-    C. Luke: Jesus, the Savior King
+1. Luke: Jesus, the Savior King
 
-    D. John: Jesus, the Divine King
+1. John: Jesus, the Divine King
 
-V. Why Four Gospels?
+## Why Four Gospels?
 
-   A. A sacrifice-based faith
+1. A sacrifice-based faith
 
-   B. An event-based faith
+1. An event-based faith
 
-   C. A person-based faith
+1. A person-based faith
 
 # Matthew
 
@@ -88,7 +88,7 @@ V. Why Four Gospels?
 
    a. Introduction (1:1-4:11)
    b. Galilee (4:12-18:35)
-   c . Judea (19:1-20:34)
+   c. Judea (19:1-20:34)
    d. Jerusalem (21:1-28:15)
    e. Galilee (28:16-20)
 
@@ -148,4 +148,4 @@ V. Why Four Gospels?
 
 ## How will you respond to Jesus, the Promised King?
 
-> Matt. 11:28-29:  “Come to me, all of you who are weary and burdened, and I will give you rest. Take up my yoke and learn from me, because I am lowly and humble in heart, and you will find rest for your souls”
+> Matt. 11:28-29:  "Come to me, all of you who are weary and burdened, and I will give you rest. Take up my yoke and learn from me, because I am lowly and humble in heart, and you will find rest for your souls."
