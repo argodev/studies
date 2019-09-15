@@ -13,7 +13,7 @@ fontfamily: libertine
 fontfamilyoptions: sfdefault
 ---
 
-# Mark: The Servant King
+## Mark: The Servant King
 
 What kind of king is Jesus? While we in the United States don’t live under a monarchy , we are all accustomed to a certain image or expectation for what a royal person is like.
 
@@ -50,7 +50,7 @@ In the first half (1:1-8:26) we see Jesus public ministry in Galilee where He es
 Take a look at chapter 8, verse 22.  
 
 > “They came to Bethsaida. They brought a blind man to him and begged him to touch him. He took the blind man by the hand and brought him out of the village. Spitting on his eyes and laying his hands on him, he asked him, “Do you see anything?” He looked up and said, “I see people—they look like trees walking.” Again Jesus placed his hands on the man’s eyes. The man looked intently and his sight was restored and he saw everything clearly. Then he sent him home, saying, “Don’t even go into the village.”
-
+>
 > Jesus went out with his disciples to the villages of Caesarea Philippi. And on the road he asked his disciples, “Who do people say that I am?” They answered him, “John the Baptist; others, Elijah; still others, one of the prophets.” “But you,” he asked them, “who do you say that I am?” Peter answered him, “You are the Messiah.” And he strictly warned them to tell no one about him.
 
 Incredible parallelism between these two accounts at the core of the book.  Verses 22 and 27 set up the two stories: in the first, they’re coming to Bethsaida; in the second they’re going on to the villages around Caesarea Philippi.  Then we see miracles of partial sight.  The blind man sees people, but they look like trees walking around.  The people see Jesus, but think he is John, Elijah, or one of the prophets.  Then we get full sight.  The blind man sees clearly.  Peter sees that Jesus is more than one of the prophets risen to life: he is the Messiah.  And then a command to silence: both for the blind man, and for the disciples.  Don’t tell anyone what you’ve understood.  At least not yet.
@@ -85,7 +85,7 @@ So, the first thing we learn in the book of Mark about Jesus is that he is the S
 
 ### Jesus has Authority
 
-But secondly, we see that Jesus has authority.  The striking feature of the first half of the book is the extraordinary portrayal of Jesus’ authority in different realms.  The demonstration of the Son of Man’s power and authority is compelling.  We see that He has authority: Over people (1:14-20);over sickness and demons (1:29-34); over sins (2:1-12); over nature (4:35-41); over sickness and death (5:21-43); over those not even in Israel or in His presence (7:24-30); to open blind eyes twice (8:22-26)
+But secondly, we see that Jesus has authority.  The striking feature of the first half of the book is the extraordinary portrayal of Jesus’ authority in different realms.  The demonstration of the Son of Man’s power and authority is compelling.  We see that He has authority: Over people (1:14-20); over sickness and demons (1:29-34); over sins (2:1-12); over nature (4:35-41); over sickness and death (5:21-43); over those not even in Israel or in His presence (7:24-30); to open blind eyes twice (8:22-26)
 
 The first half of Mark’s Gospel is leading us to ask, Who is this?  So, in Mark 4:41, we see that the disciples were terrified and asked each other, "__Who__ is this? Even the wind and the waves obey him!"
 
@@ -99,7 +99,9 @@ Jesus’ mission as the arriving king was to die as a ransom for many. Right aft
 
 __Read Mark 8:31-38__
 
-> Then he began to teach them that it was necessary for the Son of Man to suffer many things and be rejected by the elders, chief priests, and scribes, be killed, and rise after three days. He spoke openly about this. Peter took him aside and began to rebuke him. But turning around and looking at his disciples, he rebuked Peter and said, “Get behind me, Satan! You are not thinking about God’s concerns but human concerns.” Calling the crowd along with his disciples, he said to them, “If anyone wants to follow after me, let him deny himself, take up his cross, and follow me. For whoever wants to save his life will lose it, but whoever loses his life because of me and the gospel will save it. For what does it benefit someone to gain the whole world and yet lose his life? What can anyone give in exchange for his life? For whoever is ashamed of me and my words in this adulterous and sinful generation, the Son of Man will also be ashamed of him when he comes in the glory of his Father with the holy angels.”
+> Then he began to teach them that it was necessary for the Son of Man to suffer many things and be rejected by the elders, chief priests, and scribes, be killed, and rise after three days. He spoke openly about this. Peter took him aside and began to rebuke him. But turning around and looking at his disciples, he rebuked Peter and said, “Get behind me, Satan! You are not thinking about God’s concerns but human concerns.”
+>
+> Calling the crowd along with his disciples, he said to them, “If anyone wants to follow after me, let him deny himself, take up his cross, and follow me. For whoever wants to save his life will lose it, but whoever loses his life because of me and the gospel will save it. For what does it benefit someone to gain the whole world and yet lose his life? What can anyone give in exchange for his life? For whoever is ashamed of me and my words in this adulterous and sinful generation, the Son of Man will also be ashamed of him when he comes in the glory of his Father with the holy angels.”
 
 Unlike the conquering King that they had been hoping for and were expecting, Jesus arrives on the scene, introduces himself as the Messiah, and then teaches that He must suffer and die! And if they are to follow Him, they must be willing to forfeit claim to their own lives. So, his instruction to the disciples concerning his identity is full of the servant language of Isaiah 53.
 
@@ -114,12 +116,12 @@ How counter-intuitive this must have been to the Jews of that day.  Jesus mentio
 - 10:45 __“For even the Son of Man did not come to be served, but to serve, and to give his life as a ransom for many.”__
 
 And in the crucifixion narrative, that is exactly what we see Jesus doing.
-We see that after his arrest, Jesus is utterly deserted [14:50].  In chapter 15, we see that a guilty man is released in place of the innocent.  And in Mark 15: 21-31, we read of the crucifixion and death of Jesus:
+We see that after his arrest, Jesus is utterly deserted [14:50].  In chapter 15, we see that a guilty man is released in place of the innocent.  And in Mark 15:21-31, we read of the crucifixion and death of Jesus:
 
 > They forced a man coming in from the country, who was passing by, to carry Jesus’s cross. He was Simon of Cyrene, the father of Alexander and Rufus. They brought Jesus to the place called Golgotha (which means Place of the Skull). They tried to give him wine mixed with myrrh, but he did not take it. Then they crucified him and divided his clothes, casting lots for them to decide what each would get.
-
+>
 > Now it was nine in the morning when they crucified him. The inscription of the charge written against him was: THE KING OF THE JEWS. They crucified two criminals with him, one on his right and one on his left. Those who passed by were yelling insults at him, shaking their heads, and saying, “Ha! The one who would destroy the temple and rebuild it in three days, save yourself by coming down from the cross!”
-
+>
 > In the same way, the chief priests with the scribes were mocking him among themselves and saying, “He saved others, but he cannot save himself! Let the Messiah, the King of Israel, come down now from the cross, so that we may see and believe.” Even those who were crucified with him taunted him.
 
 His suffering on the cross is the greatest display of his service to us. Reflect for a moment on this truth of the Son of Man – who bears all authority and will return to judge – this one suffering.  What does this say about the character of God?  What does it suggest about His love for repentant sinners?
@@ -140,7 +142,7 @@ Some believed that Jesus was who he said He was; we read that they had faith; li
 
 There is also the woman who had been subject to bleeding for a long time who touched Jesus’ cloak, and then fell at his feet.  In Mark (5:34), Jesus tells her that her faith has healed her. There are others:  Jairus the synagogue ruler (5:23), the Syrophoenician woman (7:29), etc.
 
-It is interesting to note, that many of those who responded most positively and decisively were the outcast of society. Again, this is a great testament to the veracity of the Gospels, what kind of followers would we want to brag about. Probably the kinds we find ourselves “dreaming” about coming to Christ... the influential, the powerful, the rich. Now the New Testament certainly gives account of these types of people coming to Christ, the preponderance of followers seem to be outsiders in the view of society. Mark, as someone from a family of means, would have had every reason to focus on some well-known, wealthy converts in order to convince a Greek/Roman audience of why Christ should be followed — but this is not what he does.
+It is interesting to note, that many of those who responded most positively and decisively were the outcast of society. Again, this is a great testament to the veracity of the Gospels, what kind of followers would we want to brag about. Probably the kinds we find ourselves “dreaming” about coming to Christ... the influential, the powerful, the rich. Now while the New Testament certainly gives account of these types of people coming to Christ, the preponderance of followers seem to be outsiders in the view of society. Mark, as someone from a family of means, would have had every reason to focus on some well-known, wealthy converts in order to convince a Greek/Roman audience of why Christ should be followed — but this is not what he does.
 
 ### 2. Some were Confused
 

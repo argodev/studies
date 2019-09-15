@@ -13,7 +13,7 @@ fontfamily: libertine
 fontfamilyoptions: sfdefault
 ---
 
-# The Gospel of Mark: Jesus, The Servant King
+## The Gospel of Mark: Jesus, The Servant King
 
 |               |                              |
 |---------------|------------------------------|
@@ -41,7 +41,7 @@ Answer: ___________________________
 
 Rest of the book...
 
-###	Private Teaching (8:27-10:52)
+### Private Teaching (8:27-10:52)
 
 ### Public Crucifixion and Resurrection (11-16)
 
@@ -84,5 +84,3 @@ Jesus evokes a response
 2. Some were confused (4:13, 4:40. 8:14)
 
 3. Some were antagonistic (2:7, 3:6, 3:21)
-
-_In what ways might you be confused or antagonistic about what Christ requires of you?_
