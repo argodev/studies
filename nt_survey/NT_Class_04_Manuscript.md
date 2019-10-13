@@ -13,8 +13,6 @@ fontfamily: libertine
 fontfamilyoptions: sfdefault
 ---
 
-# John
-
 The Christian faith is built on a simple logical sequence.  A man named Jesus lived in ancient Palestine.  He claimed to be God.  He also claimed that he would be killed and rise from the dead.  He was killed.  He did rise from the dead.  And so his claim of divinity was verified beyond doubt, and with that, the authority of all of his teaching concerning who he was, why he came, and the significance of his death on our behalf.
 
 This is the message of all of the gospels.  But none proclaim this precious string of evidence more clearly than the gospel of John.  Why was this book written?  Let’s take a look at what we might call John’s “thesis statement” in chapter 20, verses 30-31.
@@ -69,8 +67,6 @@ And we shouldn’t misunderstand this “sonship” as meaning secondary to, or 
 
 As he says so bluntly in John 10:30, “I and the Father are one.”
 
-Even if your college professor or our Muslim friends, or Time Magazine deny it, we can hear what those pious, monotheistic Jews heard at the time: Jesus was claiming to *be* God.
-
 But that is only half of what we are told we are to believe.  “But these things are written that you may believe that Jesus is the Christ, the Son of God...”  What does John say about Jesus being the Christ (the Greek word for Messiah)?  What did Jesus come to do?
 
 ### What Jesus Came to Do
@@ -123,7 +119,7 @@ If that’s how we’re made right with God, then belief is crucial to grasp.  S
 
 In John 1, we learn that it means to “receive” Jesus.  Verses 12-13: “Yet to all who received him, to those who believed in his name, he gave the right to become children of God — children born not of natural descent or of human decision or a husband’s will, but born *of God*” (1:12-13).  So believing is a kind of receiving, and apparently this receiving is worked out in our hearts by God.
 
-Incidentally, the idea that belief is ultimately God’s work is written throughout the book.  We are told in 5:21 that the Son *gives* life to whom he wishes.  We see in 6:37 that the Father gives us to the Son so that we might believe.  And we learn in 10:16 And that when sheep who are not of God’s sheep pen come in, they are “brought” by him.
+Incidentally, the idea that belief is ultimately God’s work is written throughout the book.  We are told in 5:21 that the Son *gives* life to whom he wishes.  We see in 6:37 that the Father gives us to the Son so that we might believe.  And we learn in 10:16 that when sheep who are not of God’s sheep pen come in, they are “brought” by him.
 
 So, belief is a kind of receiving, and it is the work of God.  But what exactly do we receive?
 

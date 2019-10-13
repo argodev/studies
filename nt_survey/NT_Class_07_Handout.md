@@ -39,7 +39,7 @@ fontfamilyoptions: sfdefault
 
 - Two places where God’s wrath can be satisfied
 
-# Ch. 4 Justification by faith alone did not begin in the New Testament
+## Ch. 4 Justification by faith alone did not begin in the New Testament
 
 > *For what does the Scripture say? ‘Abraham believed God, and it was credited to him for righteousness.’* 4:3
 
