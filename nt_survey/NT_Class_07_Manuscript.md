@@ -33,7 +33,7 @@ The organizing/central theme to Romans is justification by faith alone. So, befo
 
 Justification is a legal term, meaning ‘declared righteous’. When you stand before God on the last day, what will be His verdict on your life? Will he declare you guilty, or will he declare you righteous? Our great need is to be declared righteous on that last day. Our great need is to be justified.  So what we’ll do for the rest of our class today is to simply walk through the argument that Paul builds in the book of Romans, from beginning to end, about justification.  If you’re familiar with this book, as many of you I would assume are, my prayer is that by reviewing it as one grand narrative of logic, you will be able to understand more fully how all these pieces fit together.  You can follow that overall flow on your handout.
 
-## Justification by Faith Alone is Necessary (1:1-3:20)
+## Justification is Necessary (1:1-3:20)
 
 *We all deserve God’s wrath...*
 
@@ -67,7 +67,7 @@ So, who are the ungodly who are under God’s wrath? Well, Paul tells us there a
 
 Justification by faith alone is necessary because no one can be justified by their works! Our works will only serve to condemn us. But the great news of Romans, and of the Gospel is that Justification by Faith alone is not only necessary it is Sufficient! There is a way that we can be declared right with God that is not dependent upon our actions.
 
-## Justification by Faith Alone is Sufficient (3:21-28)
+## Faith Alone is Sufficient for Justification (3:21-28)
 
 *...but by God’s grace may be justified through faith because of Christ’s sacrifice for us...*
 
@@ -109,7 +109,7 @@ The other implication of what Paul is saying in this comparison of Christ to Ada
 
 *... but don’t be mistaken: justification is by faith alone but never by faith that is alone.*
 
-And that brings us to the next three chapters: 6, 7, and 8, where we see that justification is by faith alone but not by faith that is alone, to quote a common phrase.  We have been justified by faith alone.  No good works, no religious duties or rituals can accomplish this reconciliation to God. No human effort can produce salvation. In the advent of this rich teaching Paul knows what Believers may be tempted to think next. We are no longer constrained by the law in the way Israel seemed to be, so why not take our new place in Christ by faith, and then “continue in sin that grace may abound?” (6:1)
+And that brings us to the next three chapters: 6, 7, and 8, where we see that ''justification is by faith alone but not by faith that is alone'', to quote a common phrase.  We have been justified by faith alone.  No good works, no religious duties or rituals can accomplish this reconciliation to God. No human effort can produce salvation. In the advent of this rich teaching Paul knows what Believers may be tempted to think next. We are no longer constrained by the law in the way Israel seemed to be, so why not take our new place in Christ by faith, and then “continue in sin that grace may abound?” (6:1)
 
 Does the fact that we are declared righteous not by our own actions, but by those of Jesus give an incentive to sin? Paul answers: “Absolutely not! How can we who died to sin still live in it? Or are you unaware that all of us who were baptized into Christ Jesus were baptized into his death? Therefore we were buried with him by baptism into death, in order that, just as Christ was raised from the dead by the glory of the Father, so we too may walk in newness of life.” (6:2-4). Why do we want to be justified? Simply because we want God’s wrath removed from us or so we can be reconciled with Him?
 
