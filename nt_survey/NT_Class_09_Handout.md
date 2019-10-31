@@ -40,7 +40,8 @@ fontfamilyoptions: sfdefault
       a. Living Obediently as Children of God (2:12-18)
       a. Examples of Humble Servants (2:19-30)
    1. The enemies of gospel partnership (3:1-6)
-   1. The Goal of Gospel partnership: Heaven through preserving in suffering (3:7-4:1)
+   1. The Goal of Gospel partnership: Heaven through preserving in suffering 
+   (3:7-4:1)
    1. Exhortations to gospel partnership (4:2-13)
    1. Thankfulness for gospel partnership (4:10-20)
    1. Final Greetings (4:21-23)
