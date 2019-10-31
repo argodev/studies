@@ -124,6 +124,7 @@ two (2:1-11).
 > intent on one purpose. Do nothing out of selfish ambition or conceit, but in 
 > humility consider others as more important than yourselves. Everyone should 
 > look out not only for his own interests, but also for the interests of others.  
+>
 > Adopt the same attitude as that of Christ Jesus, who, existing in the form of 
 > God, did not consider equality with God as something to be exploited. Instead 
 > he emptied himself by assuming the form of a servant, taking on the likeness 
@@ -165,10 +166,10 @@ is perfect, yet became sin for us, as Paul says in 2 Corinthians 5:21. We, who
 are sinful, must only acknowledge and turn from our own sinfulness. Our humility 
 is ultimately a reflection of Christ’s perfect attitude. We are called to 
 __sacrifice our own interests__ for the sake of others, just as Christ did for 
-us. 
+us.
 
 This humility isn’t theoretical or merely an internal feeling. Paul talks about 
-obedience. He exhorts us to do everything without complaining or arguing. It 
+obedience. He exhorts us to do everything without complaining or arguing.  It 
 seems that grumbling and complaining is one of the most common ways that we give 
 away our lack of humility. As the saying goes, everyone wants to be thought of 
 as a servant, but no one wants to be treated like one. How do you respond when 
@@ -192,87 +193,271 @@ enduring suffering for the sake of Christ with patience.
 Paul models patient suffering in chapter 1 when he reflects on his 
 circumstances. He is able to see that his imprisonment "has actually advanced 
 the gospel" because "it has become known throughout the whole imperial guard, 
-and to everyone else, that my imprisonment is because I am in Christ" and “most 
-of the brothers, having become confident in the Lord by my imprisonment, are 
-much more bold to speak the word without fear.” (1:12-14).  It didn’t matter 
-that he had been wrongfully accused and unjustly imprisoned because God 
-glorified himself and spread his gospel even through Paul’s hard circumstances.  
-Paul is even able to rejoice at rival preachers!  “What then?  Only that in 
-every way, whether in pretense or in truth, Christ is proclaimed, and in that I 
-rejoice.” 
+and to everyone else, that my imprisonment is because I am in Christ" and "Most 
+of the brothers have gained confidence in the Lord from my imprisonment and dare 
+even more to speak the word fearlessly." It didn’t matter that he had been 
+wrongfully accused and unjustly imprisoned because God glorified himself and 
+spread his gospel even through Paul’s hard circumstances.  Paul is even able to 
+rejoice at rival preachers! "What does it matter?  Only that in every way, 
+whether from false motives or true, Christ is proclaimed, and in this I rejoice.  
+Yes, and I will continue to rejoice."
 
-Paul goes so far as to say that he is equally happy with life or with death because with life he can continue working for the gospel and in death he is united with Christ. “For to me, to live is Christ and to die is gain,” he says in 1:21, a key verse in Philippians and perhaps the whole Bible, which might be the most succinct summary of the meaning of life and the Christian attitude towards death in the Bible. He goes on to say “If I am to live in the flesh, that means fruitful labor for me. Yet which I shall choose I cannot tell. I am hard pressed between the two. My desire is to depart and be with Christ, for that is far better. But to remain in the flesh is more necessary on your account.” (22-24)
+Paul goes so far as to say that he is equally happy with life or with death 
+because with life he can continue working for the gospel and in death he is 
+united with Christ. "For to me, to live is Christ and to die is gain," he says 
+in 1:21, a key verse in Philippians and perhaps the whole Bible, which might be 
+the most succinct summary of the meaning of life and the Christian attitude 
+towards death in the Bible. He goes on to say "Now if I live on in the flesh, 
+this means fruitful work for me; and I don’t know which one I should choose. I 
+am torn between the two.  I long to depart and be with Christ — which is far 
+better— but to remain in the flesh is more necessary for your sake. (22-24)
 
-Think about this for a moment. Isn’t it quite amazing? Even amid thoughts of his own death, Paul is concerned for the Philippians. We tend to think our suffering justifies at least a little bit of selfishness. No sign of that here. Paul’s chief concern, even when his own life is threatened, is the furtherance of the gospel. In this he shows to the Philippians a model of laboring for the Gospel in difficult circumstances. How is that? Humility. Paul saw himself as he ought. As deserving of nothing, and yet gifted with the blessing of proclaiming the gospel to the Gentiles. That is how he can rejoice in God’s purposes even as his circumstances turn bleak.
+Think about this for a moment. Isn’t it quite amazing? Even amid thoughts of his 
+own death, Paul is concerned for the Philippians. We tend to think our suffering 
+justifies at least a little bit of selfishness. No sign of that here.  Paul’s 
+chief concern, even when his own life is threatened, is the furtherance of the 
+gospel. In this he shows to the Philippians a model of laboring for the Gospel 
+in difficult circumstances. How is that? Humility. Paul saw himself as he ought.  
+As deserving of nothing, and yet gifted with the blessing of proclaiming the 
+gospel to the Gentiles. That is how he can rejoice in God’s purposes even as his 
+circumstances turn bleak.
 
-Paul returns to his theme of patience in all circumstances at the end of the letter. The Philippians had given him aid during his travels, and he wants to thank them but also to teach them that God cares for his people regardless of their circumstances. “I have learned in whatever situation I am to be content. I know how to be brought low, and I know how to abound. In any and every circumstance, I have learned the secret of facing plenty and hunger, abundance and need. I can do all things through him who strengthens me.” (4:11-13). 
+Paul returns to his theme of patience in all circumstances at the end of the 
+letter. The Philippians had given him aid during his travels, and he wants to 
+thank them but also to teach them that God cares for his people regardless of 
+their circumstances. "I have learned to be content in whatever circumstances I 
+find myself. I know both how to make do with little, and I know how to make do 
+with a lot. In any and all circumstances I have learned the secret of being 
+content—whether well fed or hungry, whether in abundance or in need. I am able 
+to do all things through him who strengthens me." (4:11-13).
 
-In 1:27-30, Paul turns the attention to his readers and exhorts the Philippians to follow this model of patience in the midst of suffering and adverse circumstances. As he says:
 
-> Just one thing: As citizens of heaven, live your life worthy of the gospel of Christ. Then, whether I come and see you or am absent, I will hear about you that you are standing firm in one spirit, in one accord, contending together for the faith of the gospel, not being frightened in any way by your opponents. This is a sign of destruction for them, but of your salvation—and this is from God. For it has been granted to you on Christ’s behalf not only to believe in him, but also to suffer for him, since you are engaged in the same struggle that you saw I had and now hear that I have.
+In 1:27-30, Paul turns the attention to his readers and exhorts the Philippians 
+to follow this model of patience in the midst of suffering and adverse 
+circumstances. As he says:
 
-Paul wants the Philippians — and, by extension, us — to be prepared to be in want, to be hungry, and to be suffering by knowing how to rely on God’s provision of strength. How will we do that? By “not considering ourselves to be better than we ought.” Humility. We deserve nothing but have received all things. And so we rejoice. These are helpful passages to turn to if you or a fellow believer are going through hard times. Whether you are unemployed or lonely, struggling against temptation, or mocked for your faith, Paul’s reminders to the Philippians to rest in God’s strength and glorify God in your sufferings is a message for you.
+> Just one thing: As citizens of heaven, live your life worthy of the gospel of 
+> Christ. Then, whether I come and see you or am absent, I will hear about you 
+> that you are standing firm in one spirit, in one accord, contending together 
+> for the faith of the gospel, not being frightened in any way by your 
+> opponents. This is a sign of destruction for them, but of your salvation—and 
+> this is from God. For it has been granted to you on Christ’s behalf not only 
+> to believe in him, but also to suffer for him, since you are engaged in the 
+> same struggle that you saw I had and now hear that I have.
+
+Paul wants the Philippians — and, by extension, us — to be prepared to be in 
+want, to be hungry, and to be suffering by knowing how to rely on God’s 
+provision of strength. How will we do that? By "not considering ourselves more 
+important than others." Humility. We deserve nothing but have received all 
+things. And so we rejoice. These are helpful passages to turn to if you or a 
+fellow believer are going through hard times. Whether you are unemployed or 
+lonely, struggling against temptation, or mocked for your faith, Paul’s 
+reminders to the Philippians to rest in God’s strength and glorify God in your 
+sufferings is a message for you.
 
 ## B. Humility as Unity and Support for One Another
 
-So — the humility exemplified in Christ displays itself in patience amidst suffering. But there is another way it shows up in this letter: humility drives a church to be united and to support one another when in need. The two virtues — unity and generosity — are flip sides of the same coin. When Christians are united, they are moved to care for one another — and caring for one another builds and reinforces gospel unity.
+So — the humility exemplified in Christ displays itself in patience amidst 
+suffering. But there is another way it shows up in this letter: humility drives 
+a church to be united and to support one another when in need. The two virtues — 
+unity and generosity — are flip sides of the same coin. When Christians are 
+united, they are moved to care for one another — and caring for one another 
+builds and reinforces gospel unity.
 
-Recall again how Paul begins his famous passage on Christ’s humility (2:2): “Complete my joy by being of the same mind, having the same love, being in full accord and of one mind.” Christians imitate Christ’s humility by putting disagreements aside and being like-minded, by having the same love, by cooperating together for the gospel and being one in spirit and purpose. He says earlier (1:27) that he wants them to “stand firm in one spirit, with one mind striving side by side for the faith of the gospel.” Again, Paul’s presumption is that acting in a manner worthy of Christ involves unity with other believers, both in our hearts and minds (spirit) and in action (contending as one man).
+Recall again how Paul begins his famous passage on Christ’s humility (2:2): 
+"Make my joy complete by thinking the same way, having the same love, united in 
+spirit, intent on one purpose." Christians imitate Christ’s humility by putting 
+disagreements aside and being like-minded, by having the same love, by 
+cooperating together for the gospel and being one in spirit and purpose. He says 
+earlier (1:27) that he wants them to stand "firm in one spirit, in one accord, 
+contending together for the faith of the gospel" Again, Paul’s presumption is 
+that acting in a manner worthy of Christ involves unity with other believers, 
+both in our hearts and minds (spirit) and in action (contending as one man).
 
-Paul applies the call to unity to the Philippians’ specific circumstances. In 2:14 he tells them to “Do all things without grumbling or disputing,” and in 4:2-3 Paul urges two women in the church who had been destructively arguing to agree with each other, and for the church to help them resolve the dispute. To all of them he says, “Let your reasonableness be known to everyone.” (4:5). Paul’s exhortations suggest that complaining, arguing, disagreements, unkindness and sharp words are the clearest indications of a lack of unity in the body. 
+Paul applies the call to unity to the Philippians’ specific circumstances. In 
+2:14 he tells them to "Do everything without grumbling and arguing" and in 4:2-3 
+Paul urges two women in the church who had been destructively arguing to agree 
+with each other, and for the church to help them resolve the dispute. To all of 
+them he says, "Let your graciousness be known to everyone." (4:5).  Paul’s 
+exhortations suggest that complaining, arguing, disagreements, unkindness and 
+sharp words are the clearest indications of a lack of unity in the body. 
 
-Have you ever heard someone griping about church or someone in the church? Complaining about the music, the pews, the preaching, or some relationship? Or simply showing a lack of gentleness and using sharp words? Paul models the right response: he prays to God for unity and exhorts the church to intervene and work for unity. Unity is not automatic: it must be worked for and deliberately sought. And the church has a definite role to play in fostering unity among its members.
+Have you ever heard someone griping about church or someone in the church?  
+Complaining about the music, the pews, the preaching, or some relationship? Or 
+simply showing a lack of gentleness and using sharp words? Paul models the right 
+response: he prays to God for unity and exhorts the church to intervene and work 
+for unity. Unity is not automatic: it must be worked for and deliberately 
+  sought.  And the church has a definite role to play in fostering unity among 
+  its members
 
-Paul sums this up well as he begins the passage on Christ’s humility in chapter 2 (2:3-4): “Do nothing out of selfish ambition or conceit, but in humility consider others as more important than yourselves. Everyone should look out not only for his own interests, but also for the interests of others.” Which is exactly what the Philippians had done by looking to Paul’s interests before their own.
+Paul sums this up well as he begins the passage on Christ’s humility in chapter 
+2 (2:3-4): "Do nothing out of selfish ambition or conceit, but in humility 
+consider others as more important than yourselves. Everyone should look out not 
+only for his own interests, but also for the interests of others." Which is 
+exactly what the Philippians had done by looking to Paul’s interests before 
+their own.
 
-And Paul concludes the letter by reemphasizing his thanks to the Philippians for their partnership in the Gospel and the way they had looked out for his interests. He thanks them for their concern for him and for their generosity in providing financial support. The Philippians’ recent gift was evidently only the most recent in a long-standing habit of generosity, and Paul praises them for their habit of provision, and in fact in verse 15 commends them as the only church that shared in earlier days and for sending aid “again and again when I was in need.”[^1] Paul says that in sending gifts the Philippians “share my trouble” (4:14), suggesting that giving support and experiencing suffering are related — indeed, they are different ways of living out gospel humility.
+And Paul concludes the letter by reemphasizing his thanks to the Philippians for 
+their partnership in the Gospel and the way they had looked out for his 
+interests. He thanks them for their concern for him and for their generosity in 
+providing financial support. The Philippians’ recent gift was evidently only the 
+most recent in a long-standing habit of generosity, and Paul praises them for 
+their habit of provision, and in fact in verse 15 commends them as the only 
+church that shared in earlier days and for sending aid “again and again when I 
+was in need.”[^1] Paul says that in sending gifts the Philippians "partner[ed] 
+with me in my hardship" (4:14), suggesting that giving support and experiencing 
+suffering are related — indeed, they are different ways of living out gospel 
+humility.
 
 ## C. Humility as Dependence on God
 
-So — humility displays itself in unity and generosity. But ultimately, we cannot imitate Christ’s humility on our own. None of us are able to suffer patiently, work for unity, or partner for the gospel solely by the strength of our will or our character. Paul reminds the Philippians that we can make no progress without relying on God and his gracious aid for our salvation and spiritual maturity. This is another aspect of gospel humility: recognizing our sinfulness and limitations and learning to depend on God in faith for his righteousness and his provision and support.
+So — humility displays itself in unity and generosity. But ultimately, we cannot 
+imitate Christ’s humility on our own. None of us are able to suffer patiently, 
+work for unity, or partner for the gospel solely by the strength of our will or 
+our character. Paul reminds the Philippians that we can make no progress without 
+relying on God and his gracious aid for our salvation and spiritual maturity.  
+This is another aspect of gospel humility: recognizing our sinfulness and 
+limitations and learning to depend on God in faith for his righteousness and his 
+provision and support.
 
-Paul holds himself out as an example of dependence on God. It was not as if he was humble because he had no reason to think himself great in the world’s eyes. He had the perfect religious resume. “If anyone else thinks he has reason for confidence in the flesh, I have more: circumcised on the eighth day, of the people of Israel of Israel, of the tribe of Benjamin, a Hebrew of Hebrews; as to the law, a Pharisee; as to zeal, a persecutor of the church; as to righteousness under the law, blameless.” (3:4-6) But Paul insists that Christians “put no confidence in the flesh,” (3:3) that is, that they do not depend on themselves for salvation or spiritual growth. Paul recognizes that he does “not hav[e] a righteousness of my own that comes from the law.” Rather, he is pursuing a righteousness “which comes through faith in Christ — the righteousness from God that depends on faith.” (3:9)
+Paul holds himself out as an example of dependence on God. It was not as if he 
+was humble because he had no reason to think himself great in the world’s eyes.  
+He had the perfect religious resume. "If anyone else thinks he has grounds for 
+confidence in the flesh, I have more: circumcised the eighth day; of the nation 
+of Israel, of the tribe of Benjamin, a Hebrew born of Hebrews; regarding the 
+law, a Pharisee; regarding zeal, persecuting the church; regarding the 
+righteousness that is in the law, blameless." (3:4-6) But Paul insists that 
+Christians "not put confidence in the flesh," (3:3) that is, that they do not 
+depend on themselves for salvation or spiritual growth.  Paul recognizes that he 
+does "not hav[e] a righteousness of his own from the law." Rather, he is 
+pursuing a righteousness "that is through faith in Christ - the righteousness 
+from God based on faith." (3:9)
 
-This is the crux of the gospel. The Philippians had surely already heard this — they were, after all, Christians — but Paul does not shrink from repeating it to them, because it is so important. Christians believe that we are lost and dead in our sins, totally unable to approach God of our own accord or achieve spiritual good on our own. We cannot find peace with God on the basis of our own spiritual resumes. Attending church, giving a tithe, helping the poor, and reading the Bible will not fundamentally alter my spiritual state, make me righteous, or appease God’s just wrath against me. The one single thing that can do that is Christ’s death on the cross. That is a difficult thought because of our natural (sinful) pride. We want to earn God’s favor by our own effort and merit. It takes gospel humility to recognize our complete inability to effect God’s mercy towards us. Christ’s death on the cross opens up the way for God’s mercy. Only if we repent of our sins and trust in Christ, God will forgive our sins and grant “the righteousness that comes from God and is by faith.”
+This is the crux of the gospel. The Philippians had surely already heard this — 
+they were, after all, Christians — but Paul does not shrink from repeating it to 
+them, because it is so important. Christians believe that we are lost and dead 
+in our sins, totally unable to approach God of our own accord or achieve 
+spiritual good on our own. We cannot find peace with God on the basis of our own 
+spiritual resumes. Attending church, giving a tithe, helping the poor, and 
+reading the Bible will not fundamentally alter my spiritual state, make me 
+righteous, or appease God’s just wrath against me. The one single thing that can 
+do that is Christ’s death on the cross. That is a difficult thought because of 
+  our natural (sinful) pride. We want to earn God’s favor by our own effort and 
+  merit. It takes gospel humility to recognize our complete inability to effect 
+  God’s mercy towards us. Christ’s death on the cross opens up the way for God’s 
+  mercy. Only if we repent of our sins and trust in Christ, God will forgive our 
+  sins and grant "the righteousness from God based on faith."
 
-But our humble dependence on God does not stop with our salvation. It continues in our sanctification — that is, our growth in spiritual maturity and holiness. And while that work most certainly involves our own effort, even that is a gift from God and requires continued humility. 
+But our humble dependence on God does not stop with our salvation. It continues 
+in our sanctification — that is, our growth in spiritual maturity and holiness.  
+And while that work most certainly involves our own effort, even that is a gift 
+from God and requires continued humility. 
 
-Paul tells the Philippians in 2:12-13 “Work out your own salvation with fear and trembling, for it is God who works in you, both to will and to work for his good pleasure.” What a magnificent statement. All in one sentence Paul captures the Philippians’ responsibility right alongside of God’s sovereignty. He commands them to “work out your salvation with fear and trembling,” by which he means that they must work and toil for their sanctification and growth in holiness, but that ultimately “it is God who works in you,” and so they can rest in his promises and humbly give him the glory. There is no room for pride or boasting in our spiritual growth.
+Paul tells the Philippians in 2:12-13 “Work out your own salvation with fear and 
+trembling, for it is God who works in you, both to will and to work for his good 
+pleasure.” What a magnificent statement. All in one sentence Paul captures the 
+Philippians’ responsibility right alongside of God’s sovereignty. He commands 
+them to “work out your salvation with fear and trembling,” by which he means 
+that they must work and toil for their sanctification and growth in holiness, 
+but that ultimately “it is God who works in you,” and so they can rest in his 
+promises and humbly give him the glory. There is no room for pride or boasting 
+in our spiritual growth.
 
-Finally, Paul shows that we are dependent on God not only for our salvation and sanctification, but for daily provision in all things. He says in 4:6-7, “Do not be anxious about anything, but in everything by prayer and supplication with thanksgiving let your requests be made known to God.” In everything we should turn to God in prayer. And God is faithful to provide for his people. If he does not give us exactly what we think we need, he still provides what he knows we need: “And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus.” (4:7) Once again, do you see how humility changes all of this? We depend on God not because it’s the right thing to do, but because, having honestly taken stock of ourselves, we desperately have no other option. We cannot help but depend on God, to his eternal glory.
+Finally, Paul shows that we are dependent on God not only for our salvation and 
+sanctification, but for daily provision in all things. He says in 4:6-7, “Do not 
+be anxious about anything, but in everything by prayer and supplication with 
+thanksgiving let your requests be made known to God.” In everything we should 
+turn to God in prayer. And God is faithful to provide for his people. If he does 
+not give us exactly what we think we need, he still provides what he knows we 
+need: “And the peace of God, which surpasses all understanding, will guard your 
+hearts and your minds in Christ Jesus.” (4:7) Once again, do you see how 
+humility changes all of this? We depend on God not because it’s the right thing 
+to do, but because, having honestly taken stock of ourselves, we desperately 
+have no other option. We cannot help but depend on God, to his eternal glory.
 
 ## D. Humility as Modeling Christ’s Example for One Another
 
-Our last theme, then: counter-intuitively, humility drives us to be an example of Christ for one another. Paul points to himself as an example of the Christian life and exhorts the Philippians to be an example for each other. 
+Our last theme, then: counter-intuitively, humility drives us to be an example 
+of Christ for one another. Paul points to himself as an example of the Christian 
+life and exhorts the Philippians to be an example for each other. 
 
-This might sound prideful. Normally, if someone walks around saying “I’m an example. Everyone should be like me!” it would sound arrogant, not humble. But that is not what Paul is saying. He is saying “Christ is an example. Follow him! If you see Christ in me, follow him!” Paul is not pointing to himself, but to Christ’s work in his life. It takes gospel humility to hold up anything exemplary in your life that others admire and want to emulate — and credit it to someone else. But that is what Christians do.
+This might sound prideful. Normally, if someone walks around saying "I’m an 
+example. Everyone should be like me!" it would sound arrogant, not humble. But 
+that is not what Paul is saying. He is saying "Christ is an example. Follow him!  
+If you see Christ in me, follow him!" Paul is not pointing to himself, but to 
+Christ’s work in his life. It takes gospel humility to hold up anything 
+exemplary in your life that others admire and want to emulate — and credit it to 
+someone else. But that is what Christians do.
 
-And that is what Paul does. He tells the Philippians to “join in imitating me, and keep your eyes on those who walk according to the example you have in us.” (3:17) Note that the example he is talking about is not his religious resume, all his worldly accomplishments that earned him praise from me. No, he specifically holds out his dependence on God (2:4-10), his perseverance (2:12-14), and his teaching (2:15) as models for the Philippians. 
+And that is what Paul does. He tells the Philippians to "Join in imitating me, 
+brothers and sisters, and pay careful attention to those who live according to 
+the example you have in us." (3:17) Note that the example he is talking about is 
+not his religious resume, all his worldly accomplishments that earned him praise 
+from me. No, he specifically holds out his dependence on God (2:4-10), his 
+perseverance (2:12-14), and his teaching (2:15) as models for the Philippians. 
 
-Paul does not only point to himself as an example for the Philippians to follow; he urges the Philippians to be an example for others. He tells them “Only let your manner of life be worthy of the gospel of Christ,” (1:27) as they anticipate future suffering. He exhorts them to be “blameless and innocent,” so that they will “shine as lights in the world,” amidst a “crooked and twisted generation,” (2:15). And he instructs them to “Let your reasonableness be known to everyone.” (4:5) 
+Paul does not only point to himself as an example for the Philippians to follow; 
+he urges the Philippians to be an example for others. He tells them "live your 
+life worthy of the gospel of Christ," (1:27) as they anticipate future 
+suffering.  He exhorts them to be "blameless and pure," so that they will "shine 
+like stars in the world" amidst a "crooked and perverted generation," (2:15).  
+And he instructs them to "Let your graciousness be known to everyone." (4:5) 
 
-Paul’s exhortation is similar to Jesus’ instruction to his followers that “You are the light of the world. A city set on a hill cannot be hidden.” The point, as Jesus says, is to “let your light shine before others, so that they may see your good works and give glory to your Father who is in heaven.” (Matthew 5:13-16). The goal is glory to God, not to ourselves. Being an example of Christ is part of or witness to the gospel to unbelievers and part of how we encourage one another in the church. 
+Paul’s exhortation is similar to Jesus’ instruction to his followers that “You 
+are the light of the world. A city set on a hill cannot be hidden.” The point, 
+as Jesus says, is to “let your light shine before others, so that they may see 
+your good works and give glory to your Father who is in heaven.” (Matthew 
+5:13-16). The goal is glory to God, not to ourselves. Being an example of Christ 
+is part of or witness to the gospel to unbelievers and part of how we encourage 
+one another in the church. 
 
-Note also how Jesus and Paul describe the Christian life. Stars and cities don’t have to be special to be shiny: it is in their nature to be so. It doesn’t take a special kind of Christian to be an example of Christ. Every Christian is one. Christians’ holy lives should stand out and be a noticeable contrast to the world. If you — or, better, your friends and family — examine your life and do not find examples of Christ’s attitude of love and humility, then you may want to carefully examine your heart and your faith.
+Note also how Jesus and Paul describe the Christian life. Stars and cities don’t 
+have to be special to be shiny: it is in their nature to be so. It doesn’t take 
+a special kind of Christian to be an example of Christ. Every Christian is one. 
+Christians’ holy lives should stand out and be a noticeable contrast to the 
+world. If you — or, better, your friends and family — examine your life and do 
+not find examples of Christ’s attitude of love and humility, then you may want 
+to carefully examine your heart and your faith.
 
 ## Conclusion
 
-Philippians is a beautiful and uplifting depiction of Christ’s humility. And it is an exhortation for followers of Christ to emulate his humility. We are called to follow Christ in suffering, in service and unity with one another, in practicing dependence on God, and in modeling Christ to the world.
+Philippians is a beautiful and uplifting depiction of Christ’s humility. And it 
+is an exhortation for followers of Christ to emulate his humility. We are called 
+to follow Christ in suffering, in service and unity with one another, in 
+practicing dependence on God, and in modeling Christ to the world.
 
 
 # I Timothy: Servant Leaders of the Kingdom
 
 What makes a memorable, successful leader?
 
-Short of winning an election, or "going platinum", or winning a Superbowl ring, what is the measure of such success in our day-to-day lives, our careers, our relationships and networks? In America today, the metric is pretty standard: How productive are you compared to others, how much attention have you received in comparison to others, how do you stand out from the next person, from each other?
+Short of winning an election, or "going platinum", or winning a Superbowl ring, 
+what is the measure of such success in our day-to-day lives, our careers, our 
+relationships and networks? In America today, the metric is pretty standard: How 
+productive are you compared to others, how much attention have you received in 
+comparison to others, how do you stand out from the next person, from each 
+other?
 
-Well if that is how our culture measures the world, how does the Bible stack up against that? More so, how does the Bible view a successful leader - what does he look like, how does he win? Well, let's take a look at a book, in the Bible, that talks about leadership in the church. 
+Well if that is how our culture measures the world, how does the Bible stack up 
+against that? More so, how does the Bible view a successful leader - what does 
+he look like, how does he win? Well, let's take a look at a book, in the Bible, 
+that talks about leadership in the church. 
 
 ## Background: Pastoral Epistles
 
-The Apostle Paul wrote three letters to men named *Timothy and Titus*, two of his most *trusted disciples* who later became leaders in churches themselves. These letters [ 1 and 2 Timothy & Titus] became known as the “pastoral epistles” because they clearly frame many of the important aspects of good pastoring, as well as good, -- we could say, pasturing -- that is, how we as members of a church ought to live and thrive under church leaders.[^2]
+The Apostle Paul wrote three letters to men named *Timothy and Titus*, two of 
+his most *trusted disciples* who later became leaders in churches themselves.  
+These letters [ 1 and 2 Timothy & Titus] became known as the “pastoral epistles” 
+because they clearly frame many of the important aspects of good pastoring, as 
+well as good, -- we could say, pasturing -- that is, how we as members of a 
+church ought to live and thrive under church leaders.[^2]
 
-Paul probably wrote I Timothy while under house arrest in Rome; Titus during the short period of freedom between his two imprisonments in Rome, maybe on his fourth missionary journey – to Spain; and II Timothy from a Roman dungeon very shortly before Paul was put to death. So if Paul died around 67 AD, I Timothy was probably written around five years before he died - *about, the early sixties AD*.
+Paul probably wrote I Timothy while under house arrest in Rome; Titus during the 
+short period of freedom between his two imprisonments in Rome, maybe on his 
+fourth missionary journey – to Spain; and II Timothy from a Roman dungeon very 
+shortly before Paul was put to death. So if Paul died around 67 AD, I Timothy 
+was probably written around five years before he died - *about, the early 
+sixties AD*.
 
 ## Background: The Church
 
