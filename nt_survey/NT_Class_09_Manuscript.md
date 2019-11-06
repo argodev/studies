@@ -15,15 +15,15 @@ fontfamilyoptions: sfdefault
 
 # Philippians: The Fellowship of the Kingdom
 
-This morning, as we get to the book of Philippians, we’ll see a wonderful twist
-on this. Because the letter isn’t just centered around the gospel; it is
-centered around gospel humility. And it is gospel humility that is the key to
-unlocking the many famous imperatives in this book. We’ve seen so far how the
-gospel upends the applicative commands in Paul’s letters so far. How does
-humility do the same thing? And what would be missing if we attempted to live
-in the way Paul describes with an understanding of the gospel, but not an
-attitude of humility? Those are the questions we’ll address as we get into
-Paul’s letter to the Philippians.
+This morning, as we get to the book of Philippians, we’ll see that the letter 
+isn’t just centered around the gospel; it is centered around gospel humility.  
+And it is gospel humility that is the key to unlocking the many famous 
+imperatives in this book. We’ve seen so far how the gospel upends the 
+applicative commands in Paul’s letters so far. How does humility do the same 
+thing? And what would be missing if we attempted to live in the way Paul 
+describes with an understanding of the gospel, but not an attitude of humility?  
+Those are the questions we’ll address as we get into Paul’s letter to the 
+Philippians.
 
 ## Background
 
@@ -57,160 +57,10 @@ didn’t find a synagogue there. Rather he found a place, just outside the city,
 where a few Jewish women gathered to pray. God used Paul to lead at least one
 woman to Christ, Lydia, who, as it turns out, wasn’t from Philippi. [Acts
 16:12-15]. Paul also healed a demon-possessed slave girl, which caused a riot
-and led to his and imprisonment. Miraculously, God freed Paul and Silas, and
-this led to the conversion of the Philippian jailer and his household to
-Christ. Paul didn’t spend a long time in Philippi. So, the church in Philippi
-was largely Gentile, born in the midst of suffering and persecution, and
-quickly bereft of its founder. This was the beginning of the Philippian
-church.
-
-So, as we go through this letter, keep in mind these circumstances: Paul is 
-writing from prison, suffering for the sake of the Gospel, and in fact speaking 
-of the very real possibility of imminent death. And yet, despite this uncertain 
-future, his letter to the church is filled with joy. Paul makes reference to joy 
-or rejoicing many times through the letter.
-
-Also, keep in mind that he’s writing to a group of Christians who are probably 
-fairly new Christians; who are scared and discouraged because of Paul’s 
-imprisonment and their own suffering and danger of persecution.
-
-So why did Paul write this letter? Given the circumstances, we might expect that 
-the Philippian Christians were falling prey to some sort of heresy. But in fact, 
-that doesn’t seem to be the case. Rather, it would seem that Paul had a number 
-of practical reasons to write this letter.
-
-First, he had apparently received a gift from the Philippian church and he 
-wanted to thank them for it. (__4:10-19; read v. 18__ "But I have received 
-everything in full, and I have an abundance. I am fully supplied, having 
-received from Epaphroditus what you provided— a fragrant offering, an acceptable 
-sacrifice, pleasing to God."). So the book of Philippians is a thank-you 
-letter!
-
-Second, Paul is writing to update them on his circumstances, and to encourage 
-them for fear that they might be discouraged because of his chains and 
-imprisonment. (__1:12-30__) So this book is a good book to turn to for 
-encouragement if you are struggling with anxiety, fear, or discouragement.
-
-Third, not only does he want to encourage them about his condition, he also 
-wants to reassure them about Epaphroditis, who the Philippians had sent to Paul 
-with their gift, but who had become ill and almost died. The Philippians had 
-heard of this and were concerned, so Paul writes to reassure them and to send 
-Epaphroditis himself with the letter. (2:25-30). In this context Paul talks a 
-lot about service for the gospel, so this is a good book to turn to if you need 
-to remind yourself why we should be more involved in service and ministry at 
-church.
-
-But the main theme of the letter is above these circumstantial elements. Above 
-all else, Paul writes to deliver a powerful description of the humility of 
-Christ in going to the cross, and urges his readers to grow in Christ-like 
-humility. And so this is a good book to turn to for all Christians to be 
-reminded of our basic purpose: to model Christ to others in all ways, including 
-in how he humbled himself to serve his people. You can see the outline of the 
-book on your handout, but the main thing we’ll be talking about is the theme of 
-humility.
-
-We’ll be criss-crossing the letter thematically, looking at what gospel humility 
-is, and then four different ways that this letter applies it to our lives. So 
-first: __Gospel Humility__
-
-When Paul tries to put his finger on the heart of what it means to imitate 
-Christ’s love, he chooses to talk about humility. And the place where he does 
-this most powerfully is in the well-known passage at the beginning of chapter 
-two (2:1-11).
-
-> If then there is any encouragement in Christ, if any consolation of love, if 
-> any fellowship with the Spirit, if any affection and mercy, make my joy 
-> complete by thinking the same way, having the same love, united in spirit, 
-> intent on one purpose. Do nothing out of selfish ambition or conceit, but in 
-> humility consider others as more important than yourselves. Everyone should 
-> look out not only for his own interests, but also for the interests of others. 
->
-> Adopt the same attitude as that of Christ Jesus, who, existing in the form of 
-> God, did not consider equality with God as something to be exploited. Instead 
-> he emptied himself by assuming the form of a servant, taking on the likeness 
-> of humanity. And when he had come as a man, he humbled himself by becoming 
-> obedient to the point of death— even to death on a cross. 
->
-> For this reason God highly exalted him and gave him the name that is above 
-> every name, so that at the name of Jesus every knee will bow— in heaven and on 
-> earth and under the earth— and every tongue will confess that Jesus Christ is 
-> Lord, to the glory of God the Father.
-
-To understand Christ’s humility more fully, we should remind ourselves of Jesus’ 
-rightful majesty, and what he gave up or laid aside to become a servant. He is 
-“Mighty God, Everlasting Father, Prince of Peace” (Isaiah 9). He is the one 
-“like a son of man, coming with the clouds of heaven” who “was given authority, 
-glory and sovereign power” so that “men of every language worshiped him.” Whose 
-“dominion is an everlasting dominion that will not pass away” (Daniel 7). “He is 
-the image of the invisible God, the firstborn over all creation.” “For God was 
-pleased to have all his fullness dwell in him.” (Colossians 1) 
-
-Jesus is King, heir of David, rightful ruler of Israel and all creation. He is 
-more than an earthly King; he dwells with the Ancient of Days and receives 
-worship and everlasting dominion. He is nothing less than God Himself. And he 
-has a mission. He is the head of his people, the church, the Conqueror of Death, 
-the Alpha and Omega, the firstborn and judge of creation. Yet this same Jesus 
-"did not consider equality with God as something to be exploited. Instead he 
-emptied himself by assuming the form of a servant, taking on the likeness of 
-humanity. And when he had come as a man, he humbled himself by becoming obedient 
-to the point of death— even to death on a cross." He became a mortal man, a 
-squalling infant, the son of a carpenter in an unimportant backwater province. 
-He went unrecognized by almost everyone, had few followers, left no writings and 
-established no school, was unjustly accused, wrongfully arrested, and executed 
-as a criminal. That is the extent of Jesus’ humility. And he humbled himself to 
-*save us*.
-
-How much less are we called to? Jesus, who was and is God, became a man. We, who 
-are not divine, must only acknowledge our actual human failings. Jesus was and 
-is perfect, yet became sin for us, as Paul says in 2 Corinthians 5:21. We, who 
-are sinful, must only acknowledge and turn from our own sinfulness. Our humility 
-is ultimately a reflection of Christ’s perfect attitude. We are called to 
-__sacrifice our own interests__ for the sake of others, just as Christ did for 
-us.
-
-This humility isn’t theoretical or merely an internal feeling. Paul talks about 
-obedience. He exhorts us to do everything without complaining or arguing. It 
-seems that grumbling and complaining is one of the most common ways that we give 
-away our lack of humility. As the saying goes, everyone wants to be thought of 
-as a servant, but no one wants to be treated like one. How do you respond when 
-you are, or feel like you are being treated like a servant? Does your response 
-reveal humility?
-
-Our humility is not only a reflection of the love that Christ has shown us, it 
-is also a demonstration that we have understood and grasped the good news of the 
-Gospel. Paul warns the Philippians and us from taking pride in anything other 
-than Christ and his work on our behalf. He call all things “rubbish,” in 
-comparison with “the surpassing value of knowing Christ Jesus.” Humility, then, 
-is not just a moral virtue we pursue, but rather the evidence that we have met, 
-and been loved by Christ! So, how does this humility display itself? First, by 
-our patience in suffering.
-
-## A. Humility as Patient Suffering
-
-Paul tells the Philippians that one of the ways Christians show humility is by 
-enduring suffering for the sake of Christ with patience. 
-
-Paul models patient suffering in chapter 1 when he reflects on his 
-circumstances. He is able to see that his imprisonment "has actually advanced 
-the gospel" because "it has become known throughout the whole imperial guard, 
-and to everyone else, that my imprisonment is because I am in Christ" and "Most 
-of the brothers have gained confidence in the Lord from my imprisonment and dare 
-even more to speak the word fearlessly." It didn’t matter that he had been 
-wrongfully accused and unjustly imprisoned because God glorified himself and 
-spread his gospel even through Paul’s hard circumstances. Paul is even able to 
-rejoice at rival preachers! "What does it matter? Only that in every way, 
-whether from false motives or true, Christ is proclaimed, and in this I rejoice. 
-Yes, and I will continue to rejoice."
-
-Paul goes so far as to say that he is equally happy with life or with death 
-because with life he can continue working for the gospel and in death he is 
-united with Christ. "For to me, to live is Christ and to die is gain," he says 
-in 1:21, a key verse in Philippians and perhaps the whole Bible, which might be 
-the most succinct summary of the meaning of life and the Christian attitude 
-towards death in the Bible. He goes on to say "Now if I live on in the flesh, 
-this means fruitful work for me; and I don’t know which one I should choose. I 
-am torn between the two. I long to depart and be with Christ — which is far 
-better— but to remain in the flesh is more necessary for your sake. (22-24)
+and led to his He goes on to say "Now if I live on in the flesh, this means 
+fruitful work for me; and I don’t know which one I should choose. I am torn 
+between the two. I long to depart and be with Christ — which is far better— but 
+to remain in the flesh is more necessary for your sake." (22-24)
 
 Think about this for a moment. Isn’t it quite amazing? Even amid thoughts of his 
 own death, Paul is concerned for the Philippians. We tend to think our suffering 
@@ -393,7 +243,7 @@ And that is what Paul does. He tells the Philippians to "Join in imitating me,
 brothers and sisters, and pay careful attention to those who live according to 
 the example you have in us." (3:17) Note that the example he is talking about is 
 not his religious resume, all his worldly accomplishments that earned him praise 
-from me. No, he specifically holds out his dependence on God (2:4-10), his 
+from men. No, he specifically holds out his dependence on God (2:4-10), his 
 perseverance (2:12-14), and his teaching (2:15) as models for the Philippians. 
 
 Paul does not only point to himself as an example for the Philippians to follow; 
@@ -531,9 +381,9 @@ book commanding Timothy to confront false teachers with the truth of the gospel.
 But he does this in the most personal of terms. We see Paul declaring the gospel 
 through the lens of his own life: Read with me in 1:13, 15:
 
-> even though I was formerly a blasphemer, a persecutor, and an arrogant man. 
-> ButI received mercy because I acted out of ignorance in unbelief, This saying 
-> istrustworthy and deserving of full acceptance: “Christ Jesus came into the 
+> even though I was formerly a blasphemer, a persecutor, and an arrogant man.  
+> But I received mercy because I acted out of ignorance in unbelief, This saying 
+> is trustworthy and deserving of full acceptance: “Christ Jesus came into the 
 > world to save sinners”—and I am the worst of them.
 
 The gospel. Pure and simple. In contrast to false teaching.
@@ -610,7 +460,7 @@ bear are not for ‘good people.’ See what Paul says in verses 8-10:
 > immoral and homosexuals, for slave traders, liars, perjurers, and for whatever 
 > else is contrary to the sound teaching
 
-Paul's Point is that the gospel is for these kinds of people, and the law is 
+Paul's point is that the gospel is for these kinds of people, and the law is 
 what shows us that we really are like this (I Tim 1:9b-10a)... [this] is a 
 message that brings joy to people like father-killers and slave-traders! 
 Apparently, some teachers in Ephesus did not know that. They thought church was 
@@ -734,8 +584,8 @@ woman, who submits to the serpent, and God is out of the picture. Paul’s point
 is that within the New Creation, within the church, the creation order is to be 
 restored. The picture which has been flipped, is to be righted again.
 
-Once: again there is to be self-sacrificial leadership, obeying the ordinances 
-of God that were abandoned at the Fall. Culturally, we often make an assumption 
+Once again there is to be self-sacrificial leadership, obeying the ordinances of 
+God that were abandoned at the Fall. Culturally, we often make an assumption 
 that if people are to be considered equal in value, they must be equal in 
 authority, or, at the very least, have equal opportunity to reach positions of 
 authority. This is not a biblical idea. Value and Authority are not equated.
