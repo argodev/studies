@@ -17,49 +17,132 @@ fontfamilyoptions: sfdefault
 
 ## Introduction
 
-All throughout history, man has been trying to please God through his own works.  It’s built into our natures.  People want to be able to say that their destiny depends on some action of their own doing.  And so man has created all sorts of false religions to provide a system of beliefs through which he can _earn_ reconciliation with God.  
+All throughout history, man has been trying to please God through his own works.  
+It’s built into our natures.  People want to be able to say that their destiny 
+depends on some action of their own doing.  And so man has created all sorts of 
+false religions to provide a system of beliefs through which he can _earn_ 
+reconciliation with God.  
 
-It could be the person who thinks they’ll be saved because they’re a generally good person.  It could be the Roman Catholic who believes that God’s grace cooperates with their own good works to secure justification.  It could be the devout Muslim who thinks that their good works achieve most of what they need to make it to heaven, and that God’s mercy accomplishes the rest.  It could be the person who think that they must be baptized in order to be saved.  Whatever the situation, all these ways of thinking have the same thing in common: we do some, God does some.  And, presumably, in the end we both get credit.
+It could be the person who thinks they’ll be saved because they’re a generally 
+good person.  It could be the Roman Catholic who believes that God’s grace 
+cooperates with their own good works to secure justification.  It could be the 
+devout Muslim who thinks that their good works achieve most of what they need to 
+make it to heaven, and that God’s mercy accomplishes the rest.  It could be the 
+person who thinks that they must be baptized in order to be saved.  Whatever the 
+situation, all these ways of thinking have the same thing in common: we do some, 
+God does some.  And, presumably, in the end we both get credit.
 
-Well, that’s exactly the kind of false belief that Paul is responding in the letter to the Galatians.  The false teachers in the cities of Galatia were perverting the Gospel by adding requirements for salvation, namely circumcision, and Paul with great passion and zeal exhorts the Galatians to recognize this teaching as false.  So, please open you Bibles to Galatians (ask if anyone needs a Bible).   First, a little background.
+Well, that’s exactly the kind of false belief that Paul is responding in the 
+letter to the Galatians.  The false teachers in the cities of Galatia were 
+perverting the Gospel by adding requirements for salvation, namely circumcision, 
+and Paul with great passion and zeal exhorts the Galatians to recognize this 
+teaching as false.  So, please open you Bibles to Galatians. First, a little 
+background.
 
 ## Background
 
 ### The Region of Galatia and Founding of Churches
 
-Galatia was a Roman province in central Asia Minor (central Turkey).  So unlike some other letters in the New Testament, Galatians was written not to a single church but to a group of churches—all those in the province of Galatia.  Paul most likely planted churches in southern Galatian cities during his first missionary journey (46-48 A.D.).  In particular, we learn in the book of Acts that he planted churches in Pisidian Antioch (13:14-50), Iconium (13:51-14:7), Lystra (14:8-19), and Derbe (14:20, 21).
+Galatia was a Roman province in central Asia Minor (central Turkey).  So unlike 
+some other letters in the New Testament, Galatians was written not to a single 
+church but to a group of churches—all those in the province of Galatia.  Paul 
+most likely planted churches in southern Galatian cities during his first 
+missionary journey (46-48 A.D.).  In particular, we learn in the book of Acts 
+that he planted churches in Pisidian Antioch (13:14-50), Iconium (13:51-14:7), 
+Lystra (14:8-19), and Derbe (14:20, 21).
 
 ### The Opposition: The Judaizers[^1]
 
-Well, what happened between the planting of these churches and the writing of this letter?  After Paul left the churches in Galatia, we read in Acts 15:1 that:  "But some men came down from Judea and were teaching the brothers, ‘Unless you are circumcised according to the custom of Moses, you cannot be saved.’"
+Well, what happened between the planting of these churches and the writing of 
+this letter?  After Paul left the churches in Galatia, we read in Acts 15:1 
+that: _Some men came down from Judea and began to teach the brothers: “Unless 
+you are circumcised according to the custom prescribed by Moses, you cannot be 
+saved.”_
 
-Commonly called "Judaizers," these Jews taught that Gentiles who wanted to become Christians must still follow the law of the Old Testament.  It’s possible that the teachers who came down to Antioch were the same teachers troubling the churches throughout Galatia.  
+Commonly called "Judaizers," these Jews taught that Gentiles who wanted to 
+become Christians must still follow the law of the Old Testament.  It’s possible 
+that the teachers who came down to Antioch were the same teachers troubling the 
+churches throughout Galatia.  
 
-Now, it does not appear that these false teachers were rejecting Christ out of hand.  In fact, they may have believed that he was the Messiah.  Indeed, there is no indication that Paul tries to correct anyone for saying that Jesus was not the Messiah.  But what they were doing was saying that God’s people must continue to observe the law.  So, according to them, to become a Christian, you must first obey the law, particularly through circumcision.  They were teaching a false Gospel.  Recognize that some false gospels are false because they subtract from the gospel.  You can be a Christian but not believe in the reality of sin, the deity of Christ, and so forth.  But other false gospels are false because they _add_ to the gospel.  They get everything right, but then add in a few additional requirements.  But those “gospels,” as Paul says, are no gospel at all.
+Now, it does not appear that these false teachers were rejecting Christ out of 
+hand.  In fact, they may have believed that he was the Messiah.  Indeed, there 
+is no indication that Paul tries to correct anyone for saying that Jesus was not 
+the Messiah.  But what they were doing was saying that God’s people must 
+continue to observe the law.  So, according to them, to become a Christian, you 
+must first obey the law, particularly through circumcision.  They were teaching 
+a false Gospel.  Recognize that some false gospels are false because they 
+subtract from the gospel.  You can be a Christian but not believe in the reality 
+of sin, the deity of Christ, and so forth.  But other false gospels are false 
+because they _add_ to the gospel.  They get everything right, but then add in a 
+few additional requirements.  But those “gospels,” as Paul says, are no gospel 
+at all.
 
-Well, in order to convince these churches of their additional requirements, it seems from this letter that these false teachers were attacking the reputation and authority of Paul.  We glean this from some of Paul's comments, and the defense he offers of his ministry in chapters 1 and 2.  It seems that the Judaizers claimed that:  Paul made up "his" gospel, (1:11-12), that he erred with regard to the law, and that Man, not the Lord, gave Paul's authority or apostleship to him (1:1).
+Well, in order to convince these churches of their additional requirements, it 
+seems from this letter that these false teachers were attacking the reputation 
+and authority of Paul.  We glean this from some of Paul's comments, and the 
+defense he offers of his ministry in chapters 1 and 2.  It seems that the 
+Judaizers claimed that:  Paul made up "his" gospel, (1:11-12), that he erred 
+with regard to the law, and that Man, not the Lord, gave Paul's authority or 
+apostleship to him (1:1).
 
-The false teachers were motivated by a couple of factors.  First, they wanted to avoid persecution.  Jews, of all people, were exempt under Roman law from submitting to the state religion, so obeying the Jewish law could help a person avoid persecution both by the Jews and the Romans.  And second, they want to boast in themselves – in their own deeds.  Paul warns “It is those who want to make a good showing in the flesh who would force you to be circumcised, and only in order that they may not be persecuted for the cross of Christ. For even those who are circumcised do not themselves keep the law, but they desire to have you circumcised that they may boast in your flesh.” (6:12-13).  
+The false teachers were motivated by a couple of factors.  First, they wanted to 
+avoid persecution.  Jews, of all people, were exempt under Roman law from 
+submitting to the state religion, so obeying the Jewish law could help a person 
+avoid persecution both by the Jews and the Romans.  And second, they want to 
+boast in themselves – in their own deeds.  Paul warns _Those who want to make a 
+good impression in the flesh are the ones who would compel you to be 
+circumcised—but only to avoid being persecuted for the cross of Christ. For even 
+the circumcised don’t keep the law themselves, and yet they want you to be 
+circumcised in order to boast about your flesh._ (6:12-13).  
 
 ## Purpose of the Letter
 
-And so, the purpose of the letter is clear: To counter the Judaizers' false teachings. Paul writes this letter to the Galatian churches.  And in it, he re-asserts the true gospel of justification by faith alone in Christ alone.  Many of the points that Paul makes here, he makes as well in his letter to the Romans.  So, on the back of the handout, you’ll see a chart summarizing many of the similarities between the two letters.
+And so, the purpose of the letter is clear: To counter the Judaizers' false 
+teachings. Paul writes this letter to the Galatian churches.  And in it, he 
+re-asserts the true gospel of justification by faith alone in Christ alone.  
+Many of the points that Paul makes here, he makes as well in his letter to the 
+Romans.  So, on your handout, you’ll see a chart summarizing many of the 
+similarities between the two letters.
 
 [questions?]
 
 ## Brief Outline
 
-As the ESV Study Bible notes, it is difficult to divide Galatians into neat sections because Paul returns to the same themes throughout the book.  Roughly, he spend the first two chapters on personal matters.  He establishes his credentials as an apostle.  He defends the Gospel he preaches as not of his own invention. He recounts his relationships with the other Apostles, including their recognition of him and his opposition to Peter on one occasion.  His purpose here is to defend against accusations some false teachers were evidently leveling against him and to establish that the Gospel is more important than any individual’s personal authority.
+As the ESV Study Bible notes, it is difficult to divide Galatians into neat 
+sections because Paul returns to the same themes throughout the book.  Roughly, 
+he spend the first two chapters on personal matters.  He establishes his 
+credentials as an apostle.  He defends the Gospel he preaches as not of his own 
+invention. He recounts his relationships with the other Apostles, including 
+their recognition of him and his opposition to Peter on one occasion.  His 
+purpose here is to defend against accusations some false teachers were evidently 
+leveling against him and to establish that the Gospel is more important than any 
+individual’s personal authority.
 
-The next two or two-and-a-half chapters are the core theological argument of the book.  Paul tells the Galatians that their reliance on good works for righteousness was exactly counter to the Gospel.  It is tantamount to returning to the Mosaic Law and disregarding Christ’s atoning work.  But the Law given to Moses did not make Israel righteous: instead, it served to illustrate Israel’s inability to live up to God’s standards.  Even Abraham was justified not by works but by faith, Paul writes.  But God through Christ has given us grace that we might be adopted as his sons.  As sons we are free.
+The next two or two-and-a-half chapters are the core theological argument of the 
+book.  Paul tells the Galatians that their reliance on good works for 
+righteousness was exactly counter to the Gospel.  It is tantamount to returning 
+to the Mosaic Law and disregarding Christ’s atoning work.  But the Law given to 
+Moses did not make Israel righteous: instead, it served to illustrate Israel’s 
+inability to live up to God’s standards.  Even Abraham was justified not by 
+works but by faith, Paul writes.  But God through Christ has given us grace that 
+we might be adopted as his sons.  As sons we are free.
 
-The final chapter and a half apply the theological argument to everyday living.  Because we are free we should live lives marked by the Spirit, not by the flesh.  Life according to the flesh is marked by idolatry, immorality, jealousy, etc, but life by the Spirit is marked by love, peace, patience, kindness, and the other fruits of the Spirit.  Paul concludes with a final warning and farewell.
+The final chapter and a half apply the theological argument to everyday living.  
+Because we are free we should live lives marked by the Spirit, not by the flesh.  
+Life according to the flesh is marked by idolatry, immorality, jealousy, etc, 
+but life by the Spirit is marked by love, peace, patience, kindness, and the 
+other fruits of the Spirit.  Paul concludes with a final warning and farewell.
 
-So, at the risk of oversimplification, you can think of the letter in three parts.  The Personal, the Preacher of Justification (that is, Paul) in chapters 1 and 2.  The Doctrinal, the Principle of Justification, from 3:1 through 5:15.  And the Practical, the Privileges of Justification, from 5:16 through the end of chapter 6.
+So, at the risk of oversimplification, you can think of the letter in three 
+parts.  The Personal, the Preacher of Justification (that is, Paul) in chapters 
+1 and 2.  The Doctrinal, the Principle of Justification, from 3:1 through 5:15.  
+And the Practical, the Privileges of Justification, from 5:16 through the end of 
+chapter 6.
 
 ## Major Themes
 
-Well, how does Paul respond to the false teaching, to the accusations against his authority, and to the perversion of the gospel?
+Well, how does Paul respond to the false teaching, to the accusations against 
+his authority, and to the perversion of the gospel?
 
 Specifically, he gives the reader of Galatians:
 
@@ -74,103 +157,314 @@ First, let's take a look at the two things Paul encourages us to remember.
 
 #### 1. The Gospel Comes Directly From God
 
-First, Paul refutes the claim that he or any other man invented the gospel or made up core doctrines of the faith to suit their own ends.  Paul makes this point throughout the letter.
+First, Paul refutes the claim that he or any other man invented the gospel or 
+made up core doctrines of the faith to suit their own ends.  Paul makes this 
+point throughout the letter.
 
-__He first re-asserts his apostleship__ – Jesus Christ and God the Father sent him.  He opens the letter by introducing himself and his credentials:  “Paul, an apostle—not from men nor through man, but through Jesus Christ and God the Father, who raised him from the dead” (1:1).  As we mentioned earlier, it seems from the tone and comments made in the first two chapters, that the Judaizers were attacking Paul's claim to authentic apostleship.  So, he counters that error from the start – literally from the opening greeting in verse 1.  
+__He first re-asserts his apostleship__ – Jesus Christ and God the Father sent 
+him.  He opens the letter by introducing himself and his credentials: _Paul, an 
+apostle—not from men or by man, but by Jesus Christ and God the Father who 
+raised him from the dead_ (1:1).  As we mentioned earlier, it seems from the 
+tone and comments made in the first two chapters, that the Judaizers were 
+attacking Paul's claim to authentic apostleship.  So, he counters that error 
+from the start – literally from the opening greeting in verse 1.  
 
-__Not only does Paul re-assert his apostleship, He then demonstrates that he received the revelation directly from Jesus Christ.__  “For I would have you know, brothers that the gospel that was preached by me is not man’s gospel. For I did not receive it from any man, nor was I taught it, but I received it through a revelations of Jesus Christ.” He writes in __1:11-12__.  To emphasize this point, Paul reveals his dramatic conversion from persecuting Christians to being persecuted for the sake of Christ.  How ridiculous to think that this is something he made up.  “For you have heard of my former life in Judaism, how I persecuted he church of God violently and tried to destroy it. And I was advancing in Judaism beyond many of my own age among my people, so extremely zealous was I for the traditions of my fathers. But when he who had set me apart before I was born, and who called me by his grace, was pleased to reveal his Son to me, in order that I might preach him among the Gentiles, I did not immediately consult with anyone; nor did I go up to Jerusalem to those who were apostles before me, but I went away into Arabia, and returned again to Damascus.” __(1:13-17)__.
+__Not only does Paul re-assert his apostleship, He then demonstrates that he 
+received the revelation directly from Jesus Christ.__  _For I want you to know, 
+brothers and sisters, that the gospel preached by me is not of human origin.  
+For I did not receive it from a human source and I was not taught it, but it 
+came by a revelation of Jesus Christ._ he writes in __1:11-12__.  To emphasize 
+this point, Paul reveals his dramatic conversion from persecuting Christians to 
+being persecuted for the sake of Christ.  How ridiculous to think that this is 
+something he made up. _For you have heard about my former way of life in 
+Judaism: I intensely persecuted God’s church and tried to destroy it. I advanced 
+in Judaism beyond many contemporaries among my people, because I was extremely 
+zealous for the traditions of my ancestors. But when God, who from my mother’s 
+womb set me apart and called me by his grace, was pleased to reveal his Son in 
+me, so that I could preach him among the Gentiles, I did not immediately consult 
+with anyone. I did not go up to Jerusalem to those who had become apostles 
+before me; instead I went to Arabia and came back to Damascus._  __(1:13-17)__.
 
-__Therefore, Paul demonstrates the consistency of his gospel with that taught from the beginning.__  Notice in chapter 2, that Paul had no acquaintance with the Judean church, but that they confirmed that the Gospel Paul was preaching was the same as that taught from the beginning in the early church.  It was the same faith that they already held and the same faith that Paul had previously persecuted.  So, the gospel he preached predated his conversion and his apostleship.  
+__Therefore, Paul demonstrates the consistency of his gospel with that taught 
+from the beginning.__  Notice in chapter 2, that Paul had no acquaintance with 
+the Judean church, but that they confirmed that the Gospel Paul was preaching 
+was the same as that taught from the beginning in the early church.  It was the 
+same faith that they already held and the same faith that Paul had previously 
+persecuted.  So, the gospel he preached predated his conversion and his 
+apostleship.  
 
-__Paul then documents that his gospel was the same gospel affirmed and recognized by the Apostles.__  Paul recounts a meeting with the Apostles, which was important because it affirmed the work of God in Paul's ministry and affirmed that the "pillars" of the church – James, Peter, and John – were in agreement with the message Paul delivered to the Gentiles.  Paul records: “On the contrary, when they saw that I had been entrusted with the gospel to the uncircumcised, just as Peter had been entrusted with the gospel to the circumcised (for he who worked through Peter for his apostolic ministry to the circumcised worked also through me for mine to the Gentiles), and when James and Cephas and John, who seemed to be pillars, perceived the grace that was given me, they gave the right hand of fellowship to Barnabas and me, that we should go to the Gentiles and they to the circumcised. “ (2:7-9).  
+__Paul then documents that his gospel was the same gospel affirmed and 
+recognized by the Apostles.__  Paul recounts a meeting with the Apostles, which 
+was important because it affirmed the work of God in Paul's ministry and 
+affirmed that the "pillars" of the church – James, Peter, and John – were in 
+agreement with the message Paul delivered to the Gentiles.  Paul records: _On 
+the contrary, they saw that I had been entrusted with the gospel for the 
+uncircumcised, just as Peter was for the circumcised, since the one at work in 
+Peter for an apostleship to the circumcised was also at work in me for the 
+Gentiles. When James, Cephas, and John—those recognized as pillars—acknowledged 
+the grace that had been given to me, they gave the right hand of fellowship to 
+me and Barnabas, agreeing that we should go to the Gentiles and they to the 
+circumcised._ (2:7-9).  
 
 #### 2. Justification by Faith Alone in Christ Alone
 
-Well, that's the response to the argument that "Paul made up the gospel or invented Christianity."  But what do we say to those who claim that "the gospel is faith plus works"?  That leads us to the second thing we must remember about that the gospel: __Justification is by faith alone in Christ alone__.
+Well, that's the response to the argument that "Paul made up the gospel or 
+invented Christianity."  But what do we say to those who claim that "the gospel 
+is faith plus works"?  That leads us to the second thing we must remember about 
+that the gospel: __Justification is by faith alone in Christ alone__.
 
-This was one of the central issues and principles of the Protestant Reformation.  But hundreds of years before the reformation, Paul makes precisely the same point here.  Paul is very clear in this.  And we see that right at the beginning of the letter.  Look at 1:3:  “Grace to you and peace from God our Father and Lord Jesus Christ, who gave himself for our sins to deliver us from the present evil age, according to the will of our God and Father, to whom be the glory forever and ever. Amen.”
+This was one of the central issues and principles of the Protestant Reformation.  
+But hundreds of years before the reformation, Paul makes precisely the same 
+point here.  Paul is very clear in this.  And we see that right at the beginning 
+of the letter.  Look at 1:3: _Grace to you and peace from God the Father and our 
+Lord Jesus Christ, who gave himself for our sins to rescue us from this present 
+evil age, according to the will of our God and Father. To him be the glory 
+forever and ever. Amen._
 
-It is Christ alone who has rescued us and saved us, and not because of any merit in us.  Notice one thing here right at the beginning of this letter.  Paul doesn’t begin as he does in his other letters – by pointing out evidences of grace in the lives of his readers or by praising God for them.  No, he gets right to the point.  “I am astonished that you are so quickly deserting him who called you in the grace of Christ and are turning to a different gospel –not that there is another one, but there are some who trouble you and want to distort the gospel of Christ.” (1:6-7).  Paul recognizes that the very heart of the Gospel is at stake here.  The debate in the Galatian churches raised questions vitally important questions.  Was the law to be kept in order to be justified?  Were some parts of the law, like circumcision and certain feasts, essential to salvation?
+It is Christ alone who has rescued us and saved us, and not because of any merit 
+in us.  Notice one thing here right at the beginning of this letter.  Paul 
+doesn’t begin as he does in his other letters – by pointing out evidences of 
+grace in the lives of his readers or by praising God for them.  No, he gets 
+right to the point. _I am amazed that you are so quickly turning away from him 
+who called you by the grace of Christ and are turning to a different gospel— not 
+that there is another gospel, but there are some who are troubling you and want 
+to distort the gospel of Christ._ (1:6-7).  Paul recognizes that the very heart 
+of the Gospel is at stake here.  The debate in the Galatian churches raised 
+questions vitally important questions.  Was the law to be kept in order to be 
+justified?  Were some parts of the law, like circumcision and certain feasts, 
+essential to salvation?
 
-Paul gives a summary answer to that question in 2:15-16.  He writes “We ourselves are Jews by birth and not Gentile sinners; yet we know that a person is not justified by works of the law but through faith in Jesus Christ, so we also have believed in Christ Jesus, in order to be justified by faith in Christ and not by works of the law, because by works of the law no one will be justified.”
+Paul gives a summary answer to that question in 2:15-16.  He writes _We are Jews 
+by birth and not “Gentile sinners,” and yet because we know that a person is not 
+justified by the works of the law but by faith in Jesus Christ, even we 
+ourselves have believed in Christ Jesus. This was so that we might be justified 
+by faith in Christ and not by the works of the law, because by the works of the 
+law no human being will be justified._
 
-This may be the key verse in the entire epistle.  We must believe in Jesus Christ alone to be justified.  This passage warns that the law is utterly ineffective for justification.  We should let the last part of verse 16 ring in our ears.  _By observing the law no one will be justified._
+This may be the key verse in the entire epistle.  We must believe in Jesus 
+Christ alone to be justified.  This passage warns that the law is utterly 
+ineffective for justification.  We should let the last part of verse 16 ring in 
+our ears.  _By the works fo the law no human being will be justified._
 
-To support this argument, Paul wisely calls upon the very person regarded as "the father" of the Judaizers:  Abraham.  And yet he points out that Abraham is the very model of justification by faith alone; not even Abraham was justified by observing the law, but by faith.  He starts by quoting Genesis 15:6, “Just as Abraham ‘believed God, and it was counted to him as righteousness’?” He then continues, “Know then that it is those of faith who are the sons of Abraham. And the Scripture, foreseeing that God would justify the Gentiles by faith, preached the gospel beforehand to Abraham, saying, ‘In you shall all the nations be blessed.’ So then, those who are of faith are blessed along with Abraham, the man of faith.” (3:6-9).  
+To support this argument, Paul wisely calls upon the very person regarded as 
+"the father" of the Judaizers:  Abraham.  And yet he points out that Abraham is 
+the very model of justification by faith alone; not even Abraham was justified 
+by observing the law, but by faith.  He starts by quoting Genesis 15:6, _just 
+like Abraham who believed God, and it was credited to him for righteousness?_ He 
+then continues, _You know, then, that those who have faith, these are Abraham’s 
+sons. Now the Scripture saw in advance that God would justify the Gentiles by 
+faith and proclaimed the gospel ahead of time to Abraham, saying, All the 
+nations will be blessed through you. Consequently those who have faith are 
+blessed with Abraham, who had faith._ (3:6-9).  
 
-This is set in sharp contrast to the law, which brings a curse on sinners, a curse that Christ alone can bear for us.  “Christ redeemed us from the curse of the law by becoming a curse for us –for it is written, ‘Cursed is everyone who is hanged on a tree’ –so that in Christ Jesus the blessing of Abraham might come to the Gentiles, so that we might receive the promised Spirit through faith.” (3:13-14).
+This is set in sharp contrast to the law, which brings a curse on sinners, a 
+curse that Christ alone can bear for us. _Christ redeemed us from the curse of 
+the law by becoming a curse for us, because it is written, Cursed is everyone 
+who is hung on a tree. The purpose was that the blessing of Abraham would come 
+to the Gentiles by Christ Jesus, so that we could receive the promised Spirit 
+through faith._ (3:13-14).
 
-Paul then anticipates the reader's next question.  If this is so... if the law does not impart salvation, "What then is the purpose or value of the law?"  First notice what Paul says that the law was not intended to do.  “Is the law then contrary to the promises of God? Certainly not! For if a law had been given that could give life, then righteousness would indeed be by the law.” (3:21).  So, the law was not in opposition to the promise of God to Abraham to bless him with a Seed that would bless all nations.  Neither was the law to impart life or righteousness.  Rather, the law was to lead us to Christ.  “So then, the law was our guardian until Christ came, in order that we might be justified by faith. But now that faith has come, we are no longer under a guardian,” (3:24-25).  Paul teaches us that the law functioned as a stern schoolmaster or tutor, barking at us for our every sin and pointing out to us our desperate need for a Savior.  
+Paul then anticipates the reader's next question.  If this is so... if the law 
+does not impart salvation, "What then is the purpose or value of the law?"  
+First notice what Paul says that the law was not intended to do. _Is the law 
+therefore contrary to God’s promises? Absolutely not! For if the law had been 
+granted with the ability to give life, then righteousness would certainly be on 
+the basis of the law._ (3:21).  So, the law was not in opposition to the promise 
+of God to Abraham to bless him with a Seed that would bless all nations.  
+Neither was the law to impart life or righteousness.  Rather, the law was to 
+lead us to Christ. _The law, then, was our guardian until Christ, so that we 
+could be justified by faith. But since that faith has come, we are no longer 
+under a guardian_ (3:24-25).  Paul teaches us that the law functioned as a stern 
+schoolmaster or tutor, barking at us for our every sin and pointing out to us 
+our desperate need for a Savior.  
 
-Paul then goes on to talk more specifically about what it means to have been justified with God through faith alone in Christ alone.  Paul gives us at least three direct consequences of justification that we should remember.  
+Paul then goes on to talk more specifically about what it means to have been 
+justified with God through faith alone in Christ alone.  Paul gives us at least 
+three direct consequences of justification that we should remember.  
 
-First, God adopts us as sons and heirs. “But when the fullness of time had come, God sent forth his Son, born of a woman, born under the law, to redeem those who were under the law, so that we might receive adoption as sons.” (4:4-5).  We are no longer slaves but sons.  
+First, God adopts us as sons and heirs. _When the time came to completion, God 
+sent his Son, born of a woman, born under the law, to redeem those under the 
+law, so that we might receive adoption as sons._ (4:4-5).  We are no longer 
+slaves but sons.  
 
-Second, God sends His Spirit into our hearts.  “And because you are sons, God has sent the Spirit of his Son into our hearts, crying, ‘Abba! Father!’” (4:6).  The Spirit will never leave us.
+Second, God sends His Spirit into our hearts. _And because you are sons, God 
+sent the Spirit of his Son into our hearts, crying, “Abba, Father!”_ (4:6).  The 
+Spirit will never leave us.
 
-Third, God makes us free.  We are no longer held under the condemnation of the law (more on this in a little while).
+Third, God makes us free.  We are no longer held under the condemnation of the 
+law (more on this in a little while).
 
 ### Point of Application
 
-This distinction between law and gospel or grace helps us in our evangelism.  Perhaps you know someone who thinks that their morality is good enough to secure God's salvation.  This view of the law prompts us to ask, "How good is good enough?"  Or, "What do you suppose is God's standard for righteousness and salvation?"  Well, the answer is perfection.  Breaking the least of the commandments is breaking the whole law. [most people will acknowledge that they do not live perfect lives].  We should help people see that perfection is required by God and is well beyond our ability; AND so, we all are in need of the Savior; one who can pay the punishment of all of our sins.  A careful reading of the sermon on the mount—especially Jesus’ call to perfection—is incredibly helpful in these conversations.  “...unless your righteousness exceeds that of the scribes and Pharisees, you will never enter the kingdom of heaven.” (Matt 5:20b)
+This distinction between law and gospel or grace helps us in our evangelism.  
+Perhaps you know someone who thinks that their morality is good enough to secure 
+God's salvation.  This view of the law prompts us to ask, "How good is good 
+enough?"  Or, "What do you suppose is God's standard for righteousness and 
+salvation?"  Well, the answer is perfection.  Breaking the least of the 
+commandments is breaking the whole law. [most people will acknowledge that they 
+do not live perfect lives].  We should help people see that perfection is 
+  required by God and is well beyond our ability; AND so, we all are in need of 
+  the Savior; one who can pay the punishment of all of our sins.  A careful 
+  reading of the sermon on the mount—especially Jesus’ call to perfection—is 
+  incredibly helpful in these conversations.  _...unless your righteousness 
+  surpasses that of the scribes and Pharisees, you will never get into the 
+  kingdom of heaven._ (Matt 5:20b)
 
-So, two things to remember when countering this false teaching – (1) the gospel comes directly from God; and (2) the content of the gospel message is justification is by faith alone in Jesus Christ alone.
-
-[any questions?]
+So, two things to remember when countering this false teaching – (1) the gospel 
+comes directly from God; and (2) the content of the gospel message is 
+justification is by faith alone in Jesus Christ alone.
 
 ### Two Things To Do
 
-Next, let's consider the two things we are to do if we are to keep the biblical gospel and its effects in full view.  First:
+Next, let's consider the two things we are to do if we are to keep the biblical 
+gospel and its effects in full view.  First:
 
 #### 1. Fight for the Truth of the Gospel
 
-Some things are worth fighting for.  The Gospel is clearly worth fighting for.  The apostle's instructions for fighting for the truth might be summarized in three points:
+Some things are worth fighting for.  The Gospel is clearly worth fighting for.  
+The apostle's instructions for fighting for the truth might be summarized in 
+three points:
 
-Step 1:  __Do not be persuaded by false teachers to forsake the truth__, rather stand up to those who pervert the gospel.  “But even if we or an angel from heaven should preach to you a gospel contrary to the one we preached to you, let him be accursed. As we have said before, so now I say again: If anyone is preaching to you a gospel contrary to the one you received, let him be accursed.” __(1:8-9)__.
+Step 1:  __Do not be persuaded by false teachers to forsake the truth__, rather 
+stand up to those who pervert the gospel. _But even if we or an angel from 
+heaven should preach to you a gospel contrary to what we have preached to you, a 
+curse be on him! As we have said before, I now say again: If anyone is preaching 
+to you a gospel contrary to what you received, a curse be on him!_  __(1:8-9)__.
 
-Step 2:  __Do not worry about how others think of you.__  Paul recognizes he has opponents, and asks “For am I now seeking the approval of man, or of God? Or am I trying to please man, I would not be a servant of Christ.” __(1:10)__.  Fear of man is a powerful temptation.  Here Paul is saying, don’t fear man, fear God.  
+Step 2:  __Do not worry about how others think of you.__  Paul recognizes he has 
+opponents, and asks _For am I now trying to persuade people, or God? Or am I 
+striving to please people? If I were still trying to please people, I would not 
+be a servant of Christ._ __(1:10)__.  Fear of man is a powerful temptation.  
+Here Paul is saying, don’t fear man, fear God.  
 
-Step 3:  The third aspect of fighting for the Gospel is that we are to __take stands even against leaders and others we respect if they are in serious error where the gospel is concerned.__  This is exactly what Paul did when he found Peter to be in error.  Peter seems to have fallen into this when he separated himself from gentiles because of his fear of man.  “But when Cephas came to Antioch, I opposed him to his face, because he stood condemned. For before certain men came from James, he was eating with the Gentiles; but when they came he drew back and separated himself, fearing the circumcision party. And the rest of the Jews acted hypocritically along with him, so that even Barnabas was led astray by their hypocrisy. But when I saw that their conduct was not in step with the truth of the gospel, I said to Cephas before them all, ‘If you, though a Jew, live like a Gentile and not like a Jew, how can you force the Gentiles to live like Jews?’” __(2:11-14)__.  It’s interesting, you know, that just a few verses ago, in verse 9, Paul describes Peter as one whom God was at work in as an apostle, and one reputed to be a pillar of the church.  And yet, here in verse 14, Paul is recounting how he rebuked Peter because he was in error.
+Step 3:  The third aspect of fighting for the Gospel is that we are to __take 
+stands even against leaders and others we respect if they are in serious error 
+where the gospel is concerned.__  This is exactly what Paul did when he found 
+Peter to be in error.  Peter seems to have fallen into this when he separated 
+himself from gentiles because of his fear of man.  _But when Cephas came to 
+Antioch, I opposed him to his face because he stood condemned. For he regularly 
+ate with the Gentiles before certain men came from James. However, when they 
+came, he withdrew and separated himself, because he feared those from the 
+circumcision party. Then the rest of the Jews joined his hypocrisy, so that even 
+Barnabas was led astray by their hypocrisy. But when I saw that they were 
+deviating from the truth of the gospel, I told Cephas in front of everyone, “If 
+you, who are a Jew, live like a Gentile and not like a Jew, how can you compel 
+Gentiles to live like Jews?”_  __(2:11-14)__.  It’s interesting, you know, that 
+just a few verses ago, in verse 9, Paul describes Peter as one whom God was at 
+work in as an apostle, and one reputed to be a pillar of the church.  And yet, 
+here in verse 14, Paul is recounting how he rebuked Peter because he was in 
+error.
 
-Now, of course, this idea of fighting for the gospel is a dangerous one.  What do we do with it?
+Now, of course, this idea of fighting for the gospel is a dangerous one.  What 
+do we do with it?
 
 ### Application
 
-Quite simply, don’t act on your own.  But do act!  For a congregational church like Immanuel, the Galatian letter suggests that ultimately __it is the _membership’s_ responsibility to judge the accuracy of its leaders.__  Remember, that this letter is addressed to the churches, not to a particular church leader or to a group of elders.  Paul is admonishing the members of the church for putting up with these false teachers (and these are young Christians).  Indeed in __1:8__ Paul says that even if he—an apostle!—should come and preach a different gospel than the one they had already accepted, then they should reject him.   Paul assumes that his readers know the gospel, or should, and that they have the ability and responsibility for correcting those who teach false things.  We must prayerfully be prepared to protect the witness of the church and the purity of the gospel by immediately addressing false teaching.
+Quite simply, don’t act on your own.  But do act!  For a congregational church 
+like Immanuel, the Galatian letter suggests that ultimately __it is the 
+_membership’s_ responsibility to judge the accuracy of its leaders.__  Remember, 
+that this letter is addressed to the churches, not to a particular church leader 
+or to a group of elders.  Paul is admonishing the members of the church for 
+putting up with these false teachers (and these are young Christians).  Indeed 
+in __1:8__ Paul says that even if he — an apostle! — should come and preach a 
+different gospel than the one they had already accepted, then they should reject 
+him.   Paul assumes that his readers know the gospel, or should, and that they 
+have the ability and responsibility for correcting those who teach false things.  
+We must prayerfully be prepared to protect the witness of the church and the 
+purity of the gospel by immediately addressing false teaching.
 
 #### 2. Protect our Freedom in Christ.
 
-The second thing Paul's letter encourages us to _do_ is to keep in full view the freedom we have in Christ.  Throughout chapter 4, especially 4:21-31, Paul argues that the law enslaves those who try to obey it.  
+The second thing Paul's letter encourages us to _do_ is to keep in full view the 
+freedom we have in Christ.  Throughout chapter 4, especially 4:21-31, Paul 
+argues that the law enslaves those who try to obey it.  
 
-But with regard to the gospel, Paul tells us: "For freedom Christ has set us free;” (5:1).  Jesus has set us free from the curse of the law, from sin and its effects, from God's wrath.  And so we are free to serve the true and living God knowing that our attempts at earning God's love or approval are futile and oppressive.  
+But with regard to the gospel, Paul tells us: _For freedom Christ set us free_ 
+(5:1).  Jesus has set us free from the curse of the law, from sin and its 
+effects, from God's wrath.  And so we are free to serve the true and living God 
+knowing that our attempts at earning God's love or approval are futile and 
+oppressive.  
 
-But having discovered our freedom, how are we to use it?  We are to use our freedom to love others, which ironically, fulfills the law of Christ.  “For you were called to freedom, brothers. Only do not use your freedom as an opportunity for the flesh, but through love serve one another. For the whole law is fulfilled in one word: ‘You shall love your neighbor as yourself.’” (5:13-14).  So, with this Paul makes an important point.  Our freedom is not to be consumed on our lusts and sin (antinomianism– opposite of legalism); rather we are free _from_ sin and free to _give_ ourselves to others in love.  
+But having discovered our freedom, how are we to use it?  We are to use our 
+freedom to love others, which ironically, fulfills the law of Christ. _For you 
+were called to be free, brothers and sisters; only don’t use this freedom as an 
+opportunity for the flesh, but serve one another through love. For the whole law 
+is fulfilled in one statement: Love your neighbor as yourself._ (5:13-14).  So, 
+with this Paul makes an important point.  Our freedom is not to be consumed on 
+our lusts and sin (antinomianism– opposite of legalism); rather we are free 
+_from_ sin and free to _give_ ourselves to others in love.  
 
-What Paul has been opposing was not _that people were obeying the law_, but that they were insisting that obedience to the law _was required for salvation_.  That’s why Paul can plead with the Galatians not to live as slaves to the law, and then turn around and tell them to do many of the very things required by the law.  The difference is that, _rather than obeying the law with an eye toward earning God’s favor, we as Christians should live consistent with our new nature as children of God, in such a way as to glorify him by our transformed lives_.  We should live holy lives because we cannot help but want to please our saving God.
+What Paul has been opposing was not _that people were obeying the law_, but that 
+they were insisting that obedience to the law _was required for salvation_.  
+That’s why Paul can plead with the Galatians not to live as slaves to the law, 
+and then turn around and tell them to do many of the very things required by the 
+law.  The difference is that, _rather than obeying the law with an eye toward 
+earning God’s favor, we as Christians should live consistent with our new nature 
+as children of God, in such a way as to glorify him by our transformed lives_.  
+We should live holy lives because we cannot help but want to please our saving 
+God.
 
-Thus, faith in Jesus alone for our salvation leads to Spirit-filled living.  We are to grow in the fruits of the Spirit.  “But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control; against such things there is no law. And those who belong to Christ Jesus have crucified the flesh with its passions and desires.” (5:22-25.)
+Thus, faith in Jesus alone for our salvation leads to Spirit-filled living.  We 
+are to grow in the fruits of the Spirit. _But the fruit of the Spirit is love, 
+joy, peace, patience, kindness, goodness, faithfulness, gentleness, and 
+self-control. The law is not against such things.  Now those who belong to 
+Christ Jesus have crucified the flesh with its passions and desires.  If we live 
+by the Spirit, let us also keep in step with the Spirit._ (5:22-25.)
 
-And how do we apply these principles of freedom in our own lives?  By battling both legalism and libertinism as enemies of our freedom in Christ.
+And how do we apply these principles of freedom in our own lives?  By battling 
+both legalism and libertinism as enemies of our freedom in Christ.
 
-I don’t think many of us here are advocating circumcision as necessary for our salvation.  As Christians, we would agree that we are saved by faith in Christ alone.  And yet even as Christians, legalism often creeps into our lives.  So, we should examine ourselves regularly for this.
+I don’t think many of us here are advocating circumcision as necessary for our 
+salvation.  As Christians, we would agree that we are saved by faith in Christ 
+alone.  And yet even as Christians, legalism often creeps into our lives.  So, 
+we should examine ourselves regularly for this.
 
-Do you at times try to become “righteous” before God through your right living, such that you forget that it is only Christ’s righteousness that helps us?  Are you counting on your consistent quiet times or your model church membership over several years to earn favor with God?
+Do you at times try to become “righteous” before God through your right living, 
+such that you forget that it is only Christ’s righteousness that helps us?  Are 
+you counting on your consistent quiet times or your model church membership over 
+several years to earn favor with God?
 
-Do you have a difficult time accepting God’s grace when you sin, thinking that you must somehow endure punishment for that sin?  These are legalistic ways of thinking that we can fall into.  To counter such thinking, we should continue to preach the Gospel to ourselves, reminding ourselves of Christ’s perfect sacrifice for our sin, past, present and future, and his perfect righteousness which is imputed to us if we believe.  His blood alone paid for us and because of that, now we are secure in Him forever.
+Do you have a difficult time accepting God’s grace when you sin, thinking that 
+you must somehow endure punishment for that sin?  These are legalistic ways of 
+thinking that we can fall into.  To counter such thinking, we should continue to 
+preach the Gospel to ourselves, reminding ourselves of Christ’s perfect 
+sacrifice for our sin, past, present and future, and his perfect righteousness 
+which is imputed to us if we believe.  His blood alone paid for us and because 
+of that, now we are secure in Him forever.
 
-But at the same time, just because salvation is by faith, we are not to presume upon God’s grace.  __Are you tempted to turn freedom into permission to sin?__
+But at the same time, just because salvation is by faith, we are not to presume 
+upon God’s grace.  __Are you tempted to turn freedom into permission to sin?__
 
-If so, read these verses again in Galatians 5:13-14
+If so, read these verses again in Galatians 5:13-14: _For you were called to be 
+free, brothers and sisters; only don’t use this freedom as an opportunity for 
+the flesh, but serve one another through love. For the whole law is fulfilled in 
+one statement: Love your neighbor as yourself._
 
-“For you were called to freedom, brothers. Only do not use your freedom as an opportunity for the flesh, but through love serve one another. For the whole law is fulfilled in one word: ‘You shall love your neighbor as yourself.’”
-
-Or perhaps it’s not to that extreme, but out of a desire to flee legalism, your tendency would be to structure the church such that we are not providing the accountability we need to fight sin.  Yes, we need to be reminded daily of the gospel of grace.  But the moment you start accusing those asking you difficult questions about your life of legalism—presumptively judging their motives to be judgmental—you have done exactly what Paul warns us against.  Probing questions are at times legalistic.  But not necessarily.  And among healthy Christians, not often.  Healthy peer pressure to do Godly things can be interpreted—especially by those who tend to be insecure—as legalistic.  But it is often nothing more than the type of Godly encouragement we see written of in Hebrews.  Especially if you come from a background that was genuinely legalistic, be very careful of pasting the label of “legalism” on everything that feels uncomfortable in this church.  God seems to have created a culture here of being grace-focused gospel-celebrators and also deeply involved in each other’s lives, in ways that sometimes get uncomfortable.  That’s an amazing thing, and we need to work hard to protect both.
-
-[Questions?]
+Or perhaps it’s not to that extreme, but out of a desire to flee legalism, your 
+tendency would be to structure the church such that we are not providing the 
+accountability we need to fight sin.  Yes, we need to be reminded daily of the 
+gospel of grace.  But the moment you start accusing those asking you difficult 
+questions about your life of legalism—presumptively judging their motives to be 
+judgmental—you have done exactly what Paul warns us against.  Probing questions 
+are at times legalistic.  But not necessarily.  And among healthy Christians, 
+not often.  Healthy peer pressure to do Godly things can be 
+interpreted—especially by those who tend to be insecure—as legalistic.  But it 
+is often nothing more than the type of Godly encouragement we see written of in 
+Hebrews.  Especially if you come from a background that was genuinely 
+legalistic, be very careful of pasting the label of “legalism” on everything 
+that feels uncomfortable in this church.  God seems to have created a culture 
+here of being grace-focused gospel-celebrators and also deeply involved in each 
+other’s lives, in ways that sometimes get uncomfortable.  That’s an amazing 
+thing, and we need to work hard to protect both.
 
 ## Conclusion
 
-The Galatian church, and the church today, encounters assaults from the enemies of the kingdom.  In the face of such assaults, we are to keep in full view the __*true gospel of trust in Christ alone*__ and its effects of freedom, love and a Christ-provided righteousness.  We are to contend for the truth of the gospel; resist those who obscure it; and live by the Spirit of God, putting to death the sinful desires of the flesh.
+The Galatian church, and the church today, encounters assaults from the enemies 
+of the kingdom.  In the face of such assaults, we are to keep in full view the 
+__*true gospel of trust in Christ alone*__ and its effects of freedom, love and 
+a Christ-provided righteousness.  We are to contend for the truth of the gospel; 
+resist those who obscure it; and live by the Spirit of God, putting to death the 
+sinful desires of the flesh.
 
 # The Wisdom of the Kingdom: James
 
