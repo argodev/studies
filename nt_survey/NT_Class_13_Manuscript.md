@@ -15,85 +15,218 @@ fontfamilyoptions: sfdefault
 
 # 1 Peter: Suffering in the Kingdom
 
-In the Gospel of Matthew, Jesus said to his disciples, “If anyone would come after me, let him deny himself and take up his cross and follow me.” Matthew 16:24). These words must have had a shocking effect on the crowd. Remember, these were Roman times. The cross Jesus was calling them to bear was not the nice spiritual symbol that we, in our day and age, see hanging from the necks, and tattooed on the biceps, of pop musicians or professional athletes, Christians and non-Christians alike.
+In the Gospel of Matthew, Jesus said to his disciples, _"Then Jesus said to his 
+disciples, “If anyone wants to follow after me, let him deny himself, take up 
+his cross, and follow me."_ (Matthew 16:24).  These words must have had a 
+shocking effect on the crowd.  Remember, these were Roman times.  The cross 
+Jesus was calling them to bear was not the nice spiritual symbol that we, in our 
+day and age, see hanging from the necks, and tattooed on the biceps, of pop 
+musicians or professional athletes, Christians and non-Christians alike.
 
-No, the cross in Jesus’ time was a cruel instrument of state execution, a place where people suffered and bled and died. Here in this verse, Jesus was alerting his followers to a fundamental reality about the Christian life—namely, that it involves suffering. Jesus, in this verse was making clear that he was on his way to the cross and that if we would be his followers, we must go that way as well.
+No, the cross in Jesus’ time was a cruel instrument of state execution, a place 
+where people suffered and bled and died. Here in this verse, Jesus was alerting 
+his followers to a fundamental reality about the Christian life—namely, that it 
+involves suffering. Jesus, in this verse was making clear that he was on his way 
+to the cross and that if we would be his followers, we must go that way as well.
 
-This is not to say that Christians are called to go out and court hostility through needless and unwise provocations. But in a world that is hostile towards God, it only follows that God’s people will face persecution as they seek to glorify him. Paul even says it point blank in 2 Timothy 3:12: “_Indeed, all who desire to live a godly life in Christ Jesus will be persecuted_.”
+This is not to say that Christians are called to go out and court hostility 
+through needless and unwise provocations. But in a world that is hostile towards 
+God, it only follows that God’s people will face persecution as they seek to 
+glorify him. Paul even says it point blank in 2 Timothy 3:12: "_In fact, all who 
+want to live a godly life in Christ Jesus will be persecuted._."
 
-Paul’s words accurately describe the experience of countless saints throughout church history, and if we would endeavor to pursue a godly life, then they will describe ours, as well.
+Paul’s words accurately describe the experience of countless saints throughout 
+church history, and if we would endeavor to pursue a godly life, then they will 
+describe ours, as well.
 
-So, why do Christians suffer and how should Christians, in the midst of suffering, respond?
+So, why do Christians suffer and how should Christians, in the midst of 
+suffering, respond?
 
-To answer these questions and others, we turn this morning to the book of 1 Peter. As much as any book in the New Testament, 1 Peter deals with suffering, why it occurs, what it’s for, and what we’re supposed to do when it comes our way.
+To answer these questions and others, we turn this morning to the book of 1 
+Peter. As much as any book in the New Testament, 1 Peter deals with suffering, 
+why it occurs, what it’s for, and what we’re supposed to do when it comes our 
+way.
 
-So, in typical Core-seminar fashion, we’ll begin our study by considering some background information about 1 Peter before turning to the outline of the book [which you’ll see on the second page of the handout], then the major themes, and some practical application.
+So, in typical Core-seminar fashion, we’ll begin our study by considering some 
+background information about 1 Peter before turning to the outline of the book 
+[which you’ll see on the second page of the handout], then the major themes, and 
+some practical application.
 
 ## Purpose
 
-1 Peter has been described as a model of the “pastoral letter.” The writer, the apostle Peter, clearly intends in this book to refresh believers who are suffering for Christ with line after line of comforting truth. This comforting takes two forms.
+1 Peter has been described as a model of the “pastoral letter.” The writer, the 
+apostle Peter, clearly intends in this book to refresh believers who are 
+suffering for Christ with line after line of comforting truth. This comforting 
+takes two forms.
 
-__First__, it comes in the form of encouragement. We can see this in passages such as 1 Peter 1:3-6:
+__First__, it comes in the form of encouragement. We can see this in passages 
+such as 1 Peter 1:3-6:
 
-> 3Blessed be the God and Father of our Lord Jesus Christ! [pause there] According to his great mercy, he has caused us to be born again to a living hope through the resurrection of Jesus Christ from the dead, 4to an inheritance that is imperishable, undefiled, and unfading, kept in heaven for you, 5who by God’s power are being guarded through faith for a salvation ready to be revealed in the last time. 6In this you rejoice, though now for a little while, if necessary, you have been grieved by various trials.
+> Blessed be the God and Father of our Lord Jesus Christ. Because of his great 
+> mercy he has given us new birth into a living hope through the resurrection of 
+> Jesus Christ from the dead and into an inheritance that is imperishable, 
+> undefiled, and unfading, kept in heaven for you. You are being guarded by 
+> God’s power through faith for a salvation that is ready to be revealed in the 
+> last time. You rejoice in this, even though now for a short time, if 
+> necessary, you suffer grief in various trials
 
-The tone of these verses is incredibly optimistic—ecstatic, you might even say. Peter’s optimism might seem ironic or even delusional at first, given the difficult circumstances these Christians find themselves in, but unlike the baseless morale boosting so commonly incanted in our culture—the clichéd “everything is going to be alright” or “just positive thinking will get you through!”—the comfort offered in these verses is rooted in a historical fact of monumental significance: the resurrection of Jesus Christ from the dead.
+The tone of these verses is incredibly optimistic—ecstatic, you might even say.  
+Peter’s optimism might seem ironic or even delusional at first, given the 
+difficult circumstances these Christians find themselves in, but unlike the 
+baseless morale boosting so commonly incanted in our culture—the clichéd 
+“everything is going to be alright” or “just positive thinking will get you 
+through!”—the comfort offered in these verses is rooted in a historical fact of 
+monumental significance: the resurrection of Jesus Christ from the dead.
 
-Jesus’ resurrection—the fact that he defeated death and is alive and reigns now as King—gives Christians a “Living hope” and an “inheritance,” as verse 4 says, “that is imperishable, undefiled, and unfading.” _The hope and inheritance that we have in Christ helps put our sufferings in this world in much-needed perspective._ Indeed, in light of the riches we have in Christ and which we will enjoy for all __eternity__, this life and its hardships seem only like “__a little while__,” as it says in verse 6. _We’ll come back to this perspective in more depth later in the class._
+Jesus’ resurrection—the fact that he defeated death and is alive and reigns now 
+as King—gives Christians a “Living hope” and an “inheritance,” as verse 4 says, 
+“that is imperishable, undefiled, and unfading.” _The hope and inheritance that 
+we have in Christ helps put our sufferings in this world in much-needed 
+perspective._ Indeed, in light of the riches we have in Christ and which we will 
+enjoy for all __eternity__, this life and its hardships seem only like “__a 
+short time__,” as it says in verse 6. _We’ll come back to this perspective in 
+more depth later in the class._
 
-__The second type__ of comfort the author gives in 1 Peter comes in the form of imperatives, or commands. Any of you who have run a marathon, taken the bar exam, or even experienced something as minor as a flat tire know something of the comfort that comes from being prepared, from having been instructed in how to respond.
+__The second type__ of comfort the author gives in 1 Peter comes in the form of 
+imperatives, or commands. Any of you who have run a marathon, taken the bar 
+exam, or even experienced something as minor as a flat tire know something of 
+the comfort that comes from being prepared, from having been instructed in how 
+to respond.
 
-We see this kind of comfort offered in passages such as 1 Peter 3:9, which commands suffering Christians, “_Do not repay evil for evil or reviling for reviling, but on the contrary, bless, for to this you were called, that you may obtain a blessing._” When people insult us for loving Christ, we are to bless them, pray for them, and love them, taking queues from how Christ has loved us, we who were once his enemies. Following Christ, in other words, does not just mean that we suffer in the way Christ suffered, but also that we must respond to suffering as Christ did.
+We see this kind of comfort offered in passages such as 1 Peter 3:9, which 
+commands suffering Christians, not to "_[pay] back evil for evil or insult for 
+insult but, on the contrary, giving a blessing, since you were called for this, 
+so that you may inherit a blessing._" When people insult us for loving Christ, 
+we are to bless them, pray for them, and love them, taking queues from how 
+Christ has loved us, we who were once his enemies.  Following Christ, in other 
+words, does not just mean that we suffer in the way Christ suffered, but also 
+that we must respond to suffering as Christ did.
 
 So, How did Jesus respond to persecution? 1 Peter 2:23 reminds us. It says:
 
-> When he was reviled, he did not revile in return; when he suffered, he did not threaten, but continued entrusting himself to him who judges justly.
+> when he was insulted, he did not insult in return; when he suffered, he did 
+> not threaten but entrusted himself to the one who judges justly.
 
-By blending Christ-centered imperatives like this with profound words of encouragement, 1 Peter offers an amazing arsenal of comfort for Christians who are suffering for the kingdom.
+By blending Christ-centered imperatives like this with profound words of 
+encouragement, 1 Peter offers an amazing arsenal of comfort for Christians who 
+are suffering for the kingdom.
 
 ## Date & Audience
 
-And suffering for the kingdom is exactly what Peter’s audience was doing: From Peter’s continued references to insults, slander, and malicious speech—he calls their troubles a “fiery trial” in 4:12—it seems that the Christians to whom he is writing are facing abuse, and verbal abuse in particular. Perhaps their devotion to Christ has made them the butt of jokes or the subjects of nasty diatribes in the town square. If you have ever had an unbelieving family member upbraid you for sharing your faith or worked under a boss who makes jokes about Christians, then you know the sting of such persecution, how it can lead to tears, even despair.
+And suffering for the kingdom is exactly what Peter’s audience was doing: From 
+Peter’s continued references to insults, slander, and malicious speech—he calls 
+their troubles a “fiery ordeal” in 4:12—it seems that the Christians to whom he 
+is writing are facing abuse, and verbal abuse in particular. Perhaps their 
+devotion to Christ has made them the butt of jokes or the subjects of nasty 
+diatribes in the town square. If you have ever had an unbelieving family member 
+upbraid you for sharing your faith or worked under a boss who makes jokes about 
+Christians, then you know the sting of such persecution, how it can lead to 
+tears, even despair.
 
-Peter pens his letter for such an audience feeling the bitter sting of social ostracism because of their allegiance to Christ.
+Peter pens his letter for such an audience feeling the bitter sting of social 
+ostracism because of their allegiance to Christ.
 
-We know a bit about the location of the original audience as well: Look at verse 1: “_To those who are elect exiles of the Dispersion in Pontus, Galatia, Cappadocia, Asia, and Bithynia._” -- he is writing to Christians in what is now modern day Turkey.
+We know a bit about the location of the original audience as well: Look at verse 
+1: “_To those chosen, living as exiles dispersed abroad in Pontus, Galatia, 
+Cappadocia, Asia, and Bithynia_” -- he is writing to Christians in what is now 
+modern day Turkey.
 
-And we have a good idea of where Peter was when he wrote this: he gives us some clues in 5:13, as he concludes the book. In that verse, he makes reference to writing from Babylon. Here, as in Revelation, Babylon is likely a symbolic reference to the city of Rome.
+And we have a good idea of where Peter was when he wrote this: he gives us some 
+clues in 5:13, as he concludes the book. In that verse, he makes reference to 
+writing from Babylon. Here, as in Revelation, Babylon is likely a symbolic 
+reference to the city of Rome.
 
-Also, In that same verse, Peter refers to Mark, but not to Paul. This is telling because we know that Paul was with Mark in Rome until 62 AD, the year that Paul was released from his first Roman imprisonment. For this reason, most scholars believe that 1 Peter was written around AD 63, after Paul’s release but before the Roman Emperor Nero’s intense persecution of Christians begins. So this letter was not penned to Christians experiencing the threat of imprisonment and death; that was to come later. Instead, the persecution these believers were facing was of a type that we would more commonly face here, today, in Knoxville as family, friends, and even strangers mock us for our hope in Christ.
+Also, In that same verse, Peter refers to Mark, but not to Paul. This is telling 
+because we know that Paul was with Mark in Rome until 62 AD, the year that Paul 
+was released from his first Roman imprisonment. For this reason, most scholars 
+believe that 1 Peter was written around AD 63, after Paul’s release but before 
+the Roman Emperor Nero’s intense persecution of Christians begins. So this 
+letter was not penned to Christians experiencing the threat of imprisonment and 
+death; that was to come later. Instead, the persecution these believers were 
+facing was of a type that we would more commonly face here, today, in Knoxville 
+as family, friends, and even strangers mock us for our hope in Christ.
 
-The date of the book is important to understand because it means that the letter was not only a comfort to Christians already in the midst of suffering, whether social or economic, but that it was also helping to prepare its readers for harsher forms of persecution that were to come – (We might also consider that we, in studying this book now, may be doing the same thing ...).
+The date of the book is important to understand because it means that the letter 
+was not only a comfort to Christians already in the midst of suffering, whether 
+social or economic, but that it was also helping to prepare its readers for 
+harsher forms of persecution that were to come – (We might also consider that 
+we, in studying this book now, may be doing the same thing ...).
 
 ## Structure & Outline
 
-Let’s now take a look at the structure of the book, which will introduce us to some of the themes that we will discuss in more detail in a few minutes.
+Let’s now take a look at the structure of the book, which will introduce us to 
+some of the themes that we will discuss in more detail in a few minutes.
 
-So, how does Peter organize his encouragements and commands? Unlike Paul’s letters, which often divide nicely into sections of theological argument and then sections of application, 1 Peter fuses the two, tethering imperatives to theology and vice versa, often in the space of a single verse. You will find that Peter reprises similar themes again and again, adding layers and nuances as he moves along.
+So, how does Peter organize his encouragements and commands? Unlike Paul’s 
+letters, which often divide nicely into sections of theological argument and 
+then sections of application, 1 Peter fuses the two, tethering imperatives to 
+theology and vice versa, often in the space of a single verse. You will find 
+that Peter reprises similar themes again and again, adding layers and nuances as 
+he moves along.
 
-Throughout, Christ is presented as the unique and blameless savior who rescues his people from the eternal suffering that they deserve. He is also presented as an example of how God’s people are to face up to suffering this side of heaven.
+Throughout, Christ is presented as the unique and blameless savior who rescues 
+his people from the eternal suffering that they deserve. He is also presented as 
+an example of how God’s people are to face up to suffering this side of heaven.
 
 ### Chapter 1:1-2
 
-Peter begins the letter by describing Christians in two ways. First off, he calls them “_God’s elect_,” God’s chosen people, his representatives in the world. Then, in the very next phrase, he refers to them as “_exiles of the Dispersion_.” This juxtaposition—that Christians are both God’s elect and strangers in the world—helps order Peter’s commands and encouragements throughout the letter. First, he will focus on what it means to be “_elect_,” and then move to what it means to be “_strangers in the world_.”
+Peter begins the letter by describing Christians in two ways. First off, he 
+calls them “_those chosen_,” God’s chosen people, his representatives in the 
+world.  Then, in the very next phrase, he refers to them as “_exiles dispersed 
+abroad_.” This juxtaposition—that Christians are both God’s elect and strangers 
+in the world—helps order Peter’s commands and encouragements throughout the 
+letter.  First, he will focus on what it means to be “_elect_,” and then move to 
+what it means to be “_strangers in the world_.”
 
 ### Chapter 1:3—2:10
 
-And then we jump into the letter with verse 3 of chapter 1. The benefits and demands of being God’s elect, God’s chosen people, are the focus of this section, through 2:10. Peter reminds us of the living hope and inheritance we have in Christ. As we read in verses 10-12 of chapter 1, our salvation is made all the more glorious because of how it was prophesied in the Old Testament. So glorious is our salvation, in fact, that, they are “Things into which angels long to look.” Peter writes in verse 12, before shifting to the responsibilities that come with being identified as God’s people. This section is perhaps best summed up in verses 15 and 16, in which Peter demands of Christians what God demanded of his people in the Old Testament. He writes:
+And then we jump into the letter with verse 3 of chapter 1. The benefits and 
+demands of being God’s elect, God’s chosen people, are the focus of this 
+section, through 2:10. Peter reminds us of the living hope and inheritance we 
+have in Christ. As we read in verses 10-12 of chapter 1, our salvation is made 
+all the more glorious because of how it was prophesied in the Old Testament. So 
+glorious is our salvation, in fact, that, "angles long to catch a glimpse of 
+these things" Peter writes in verse 12, before shifting to the responsibilities 
+that come with being identified as God’s people. This section is perhaps best 
+summed up in verses 15 and 16, in which Peter demands of Christians what God 
+demanded of his people in the Old Testament. He writes:
 
-> But as he who called you is holy, you also be holy in all your conduct, since it is written, “You shall be holy, for I am holy.”
+> But as the one who called you is holy, you also are to be holy in all your 
+> conduct; for it is written, Be holy, because I am holy.
 
 ### Chapter 2:11—4:11
 
-In the next section, the longest in the letter, Peter elaborates on the fact that God’s holy people are also, quote, “sojourners and exiles.” To this end, he implores them, in the words of a couple New Testament scholars, to exhibit “_a lifestyle different from, yet attractive to, the hostile world in which they live_.” Being saved from the fate of this world does not exempt us from our responsibilities as workers and citizens and spouses. No, in fact our salvation frees us to be faithful in our sundry roles. The lifestyle Peter has in mind is characterized supremely by Christ-like submission—along with good and peaceful relationships with other Christians, and wherever possible, with non-Christians, too.
+In the next section, the longest in the letter, Peter elaborates on the fact 
+that God’s holy people are also, quote, “sojourners and exiles.” To this end, he 
+implores them, in the words of a couple New Testament scholars, to exhibit “_a 
+lifestyle different from, yet attractive to, the hostile world in which they 
+live_.” Being saved from the fate of this world does not exempt us from our 
+responsibilities as workers and citizens and spouses. No, in fact our salvation 
+frees us to be faithful in our sundry roles. The lifestyle Peter has in mind is 
+characterized supremely by Christ-like submission—along with good and peaceful 
+relationships with other Christians, and wherever possible, with non-Christians, 
+too.
 
 ### Chapter 4:12—5:14
 
-In this final section, in many ways the crescendo of the book, Peter launches into appropriate responses to suffering. He is emphatic that Christians endure suffering “according to God’s will” by 1) entrusting their lives and circumstances to God and 2) by continuing to live righteously. Peter begins in 4:12, “_Beloved, do not be surprised at the fiery trial when it comes upon you to test you... But rejoice insofar as you share Christ’s sufferings._” Also, chapter 5 calls on church leaders to care for the flock for the right reasons and on church members, “young men” especially, to submit to their overseers. And the book closes with Peter urging his audience once more to “Stand firm.”
+In this final section, in many ways the crescendo of the book, Peter launches 
+into appropriate responses to suffering. He is emphatic that Christians endure 
+suffering “according to God’s will” by 1) entrusting their lives and 
+circumstances to God and 2) by continuing to live righteously. Peter begins in 
+4:12, "_Dear friends, don’t be surprised when the fiery ordeal comes among you 
+to test you... Instead, rejoice as you share in the sufferings of Christ_" Also, 
+chapter 5 calls on church leaders to care for the flock for the right reasons 
+and on church members, “young men” especially, to submit to their overseers. And 
+the book closes with Peter urging his audience once more to “Stand firm.”
 
 ----
 
-You might summarize the book, then, in this way: The topic is persecution, and our confidence is the living hope and inheritance we have in Christ. But what is our goal? What are we to work toward given that confidence? IT IS NOT simply to survive persecution, BUT to turn it into a witness. 2:12, “_Keep your conduct among the Gentiles honorable, so that when they speak against you as evildoers, they may see your good deeds and glorify God on the day of visitation._”
+You might summarize the book, then, in this way: The topic is persecution, and 
+our confidence is the living hope and inheritance we have in Christ. But what is 
+our goal? What are we to work toward given that confidence? IT IS NOT simply to 
+survive persecution, BUT to turn it into a witness. 2:12, "_Conduct yourselves 
+honorably among the Gentiles, so that when they slander you as evildoers, they 
+will observe your good works and will glorify God on the day he visits._"
 
 Now, what primarily will accomplish that? What aspects of life should we focus on to put forward a positive witness in the mist of persecution? The answer is surprising. Submit to the State. Submit to your boss. Submit to your husband. Submit to the church. Submission. To authority. A good thing to think through the next time you struggle in this area: right behavior toward authority is a primary way in which we witness to the truth of the gospel, even in times of suffering.
 
