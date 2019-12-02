@@ -91,7 +91,7 @@ teaching and to provide categories by which these believers could be assured of
 their salvation. Look at 2:22-23: _"Who is the liar, if not the one who denies 
 that Jesus is the Christ? This one is the antichrist: the one who denies the 
 Father and the Son. No one who denies the Son has the Father; he who confesses 
-the Son has the Father as well."
+the Son has the Father as well."_
 
 Just as an overview, it seems that the false teachers were saying that (1) they 
 were without sin (1:8), (2) that Jesus did not come in the flesh (2:22-23), (3) 
@@ -171,59 +171,172 @@ So, next, John offers a:
 
 ### Warning against following the world (2:15-27)
 
-Look at 2:15, he says, _“Do not love the world or the things in the world. If anyone loves the world, the love of the Gather is not in him.”_
+Look at 2:15, he says, _“Do not love the world or the things in the world. If 
+anyone loves the world, the love of the Father is not in him.”_
 
-Then he picks up again on the topic of assurance, echoing many of the things he said before.
+Then he picks up again on the topic of assurance, echoing many of the things he 
+said before.
 
 ### Second Meditation On Assurance (2:28-4:6)
 
-He says, we know we are in Christ if we do what is right (2:28-3:10) – Listen to 3:6, _“No one who abides in him keeps on sinning; no one who keeps on sinning has either seen him or known him.”_ And, like earlier, he says, we know we are in Christ if we love one another (3:11-23) – For example, 3:16, _“By this we know love, that he laid down his life for us, and we ought to lay down our lives for the brothers.”_ But it’s not only obedience and love that affirm our assurance – importantly, John reminds us that the Holy Spirit’s presence confirms our position in Christ (3:24-4:6) – 3:24, _“Whoever keeps his commandments abides in God, and God in him. And by this we know that he abides in us, by the Spirit whom he has given us.”_
+He says, we know we are in Christ if we do what is right (2:28-3:10) – Listen to 
+3:6, _“Everyone who remains in him does not sin; everyone who sins has not seen 
+him or known him.”_ And, like earlier, he says, we know we are in Christ if we 
+love one another (3:11-23) – For example, 3:16, _“This is how we have come to 
+know love: He laid down his life for us. We should also lay down our lives for 
+our brothers and sisters.”_ But it’s not only obedience and love that affirm our 
+assurance – importantly, John reminds us that the Holy Spirit’s presence 
+confirms our position in Christ (3:24-4:6) – 3:24, _“The one who keeps his 
+commands remains in him, and he in him. And the way we know that he remains in 
+us is from the Spirit he has given us.”_
 
 John then proceeds to a strong:
 
 ### Exhortation toward love and faith (4:7-5:12)
 
-On love, (4:7-5:4a) listen to 4:10-11: _“In this is love, not that we have loved God but that he loved us and sent him Son to be the propitiation for our sins. Beloved, if God so loved us, we also ought to love one another.”_ -And then on faith, (5:4b-12) John says in 5:10, _“Whoever believes in the Son of God has the testimony in himself.”_ 
+On love, (4:7-5:4a) listen to 4:10-11: _“Love consists in this: not that we 
+loved God, but that he loved us and sent his Son to be the atoning sacrifice for 
+our sins.Dear friends, if God loved us in this way, we also must love one 
+another."_ -And then on faith, (5:4b-12) John says in 5:10, _"The one who 
+believes in the Son of God has this testimony within himself."_
 
 And then John finishes with some
 
 ### Concluding Remarks in 5:13-21
 
-That’s a rapid fire overview of the book. In a moment we’ll dive into three major themes. Before we do so, any questions or comments so far?
+That’s a rapid fire overview of the book. In a moment we’ll dive into three 
+major themes. Before we do so, any questions or comments so far?
 
-Now, let’s examine a few of John’s major themes. A good summary for what we’ll see is 3:23-24: “And this is his commandment, that we believe in the name of his Son Jesus Christ and love one another, just as he has commanded us. Whoever keeps his commandments abides in God, and God in him. And by this we know that he abides in us, by the Spirit whom he has given us.” In these verses we see a summary of the three tests John provides for knowing whether we are in Christ or not. Doctrinal: Do you believe the right things about who Jesus is? Moral: Do you obey the commands of God? Social: Do you love the people of God? Let’s look at these three tests in turn.
+Now, let’s examine a few of John’s major themes. A good summary for what we’ll 
+see is 3:23-24: _"Now this is his command: that we believe in the name of his 
+Son Jesus Christ, and love one another as he commanded us. The one who keeps his 
+commands remains in him, and he in him. And the way we know that he remains in 
+us is from the Spirit he has given us."_ In these verses we see a summary of the 
+three tests John provides for knowing whether we are in Christ or not. 
+Doctrinal: Do you believe the right things about who Jesus is? Moral: Do you 
+obey the commands of God? Social: Do you love the people of God? Let’s look at 
+these three tests in turn.
 
 ## Doctrinal Test:
 
-Look at 2:22: _“Who is the liar but he who denies that Jesus is the Christ? This is the antichrist, he who denies the Father and the Son.”_
+Look at 2:22: _“Who is the liar, if not the one who denies that Jesus is the 
+Christ? This one is the antichrist: the one who denies the Father and the Son.”_
 
-Throughout this book, we see John countering false teachers who are denying that Jesus is fully God and fully man. These teachers separated out Christ’s “divine” spirit and his “fleshly” body. For us today, this may seem like an academic discussion that while important doesn’t seem to have a lot of impact on us today. Others wonder if focusing on doctrine is somewhat arrogant, or a hindrance to unity among believers. _Is this false teaching merely an academic matter?_ Is it a roadblock to unity? _Not at all. Without a fully human and fully divine mediator, we cannot have the atoning sacrifice for sins that we need:_ A sacrifice that is both made by an appropriate representative of the human race, and one that is infinitely valuable. Believing in the full humanity and full divinity of Jesus is of paramount Gospel significance, even key to knowing who the Holy Spirit is -- look at 4:2-3: _“By this you know the Spirit of God: every spirit that confesses that Jesus Christ has come in the flesh is from God, and every spirit that does not confess Jesus is not from God.”
+Throughout this book, we see John countering false teachers who are denying that 
+Jesus is fully God and fully man. These teachers separated out Christ’s “divine” 
+spirit and his “fleshly” body. For us today, this may seem like an academic 
+discussion that while important doesn’t seem to have a lot of impact on us 
+today. Others wonder if focusing on doctrine is somewhat arrogant, or a 
+hindrance to unity among believers. _Is this false teaching merely an academic 
+matter?_ Is it a roadblock to unity? _Not at all. Without a fully human and 
+fully divine mediator, we cannot have the atoning sacrifice for sins that we 
+need:_ A sacrifice that is both made by an appropriate representative of the 
+human race, and one that is infinitely valuable. Believing in the full humanity 
+and full divinity of Jesus is of paramount Gospel significance, even key to 
+knowing who the Holy Spirit is -- look at 4:2-3: _“This is how you know the 
+Spirit of God: Every spirit that confesses that Jesus Christ has come in the 
+flesh is from God, but every spirit that does not confess Jesus is not from 
+God."_
 
-So, right belief is crucial to our assurance as believers. Getting rid of central doctrine makes no more sense than jettisoning the engine of a truck because it’s too heavy and can slow us down. Yes, doctrine sometimes divides. Yes, discussing doctrine can sometimes seem not that immediately practical. But without the truth of the gospel, the whole thing is really less than worthless.
+So, right belief is crucial to our assurance as believers. Getting rid of 
+central doctrine makes no more sense than jettisoning the engine of a truck 
+because it’s too heavy and can slow us down. Yes, doctrine sometimes divides. 
+Yes, discussing doctrine can sometimes seem not that immediately practical. But 
+without the truth of the gospel, the whole thing is really less than worthless.
 
-So often, we are most concerned with attacks on Christianity and the Gospel by atheists and skeptics. Yet, I John serves as an example to us today, that the greatest dangers the church faces are not from the likes of Sam Harris, Richard Dawkins, or Christopher Hitchens. _The real danger is not unbelief, but wrong belief, not irreligion, but heresy; not the doubter, but the deceiver. Wrong belief, heresy, and deceivers are what concern John. So John refutes the idea that Christ was merely a fleshless, impersonal principal that we tap into for higher energy... He also refutes the idea that Jesus was merely a teacher who taught the way of God, who became hungry and tired, and who one day bled to death..._ No, he was God himself. _We must get the doctrine of Christ’s person right, as John presents it, because our salvation hangs on it._
+So often, we are most concerned with attacks on Christianity and the Gospel by 
+atheists and skeptics. Yet, I John serves as an example to us today, that the 
+greatest dangers the church faces are not from the likes of Sam Harris, Richard 
+Dawkins, or Christopher Hitchens. _The real danger is not unbelief, but wrong 
+belief, not irreligion, but heresy; not the doubter, but the deceiver. Wrong 
+belief, heresy, and deceivers are what concern John. So John refutes the idea 
+that Christ was merely a fleshless, impersonal principal that we tap into for 
+higher energy... He also refutes the idea that Jesus was merely a teacher who 
+taught the way of God, who became hungry and tired, and who one day bled to 
+death..._ No, he was God himself. _We must get the doctrine of Christ’s person 
+right, as John presents it, because our salvation hangs on it._
 
-But clearly, as far as John is concerned, doctrine alone is not enough. We know from James that even the demons believe the “right” things about who Jesus is. And so John gives us another test for knowing we are in Christ.
+But clearly, as far as John is concerned, doctrine alone is not enough. We know 
+from James that even the demons believe the “right” things about who Jesus is. 
+And so John gives us another test for knowing we are in Christ.
 
 ## The Moral Test:
 
-Look at 3:7-10. John says, _“Little children, let no one deceive you. Whoever practices righteousness is righteous, as he is righteous. Whoever makes a practice of sinning is of the devil, for the devil has been sinning from the beginning. The reason the Son of God appeared was to destroy the works of the devil. No one born of God makes a practice of sinning, for God’s seed abides in him, and he cannot keep on sinning because he has been born of God. By this it is evident who are the children of God, and who are the children of the devil: whoever does not practice righteousness is not of God, nor is the one who does not love his brother.”_ (3-10)
+Look at 3:7-10. John says, _"Children, let no one deceive you. The one who does 
+what is right is righteous, just as he is righteous. The one who commits sin is 
+of the devil, for the devil has sinned from the beginning. The Son of God was 
+revealed for this purpose: to destroy the devil’s works. Everyone who has been 
+born of God does not sin, because his seed remains in him; he is not able to 
+sin, because he has been born of God. This is how God’s children and the devil’s 
+children become obvious. Whoever does not do what is right is not of God, 
+especially the one who does not love his brother or sister."_ (3-10)
 
-Such black and white teaching, isn’t it? Does that mean if I sin I’m no longer a child of God? Of course not. Look back earlier in 1 John to refute that erroneous thought, like 2:1, where John said that if any Christian sins, Jesus speaks to the Father in our defense. Remember that in this book especially, we need to take each piece in light of the whole. But, at the same time, don’t let that soften the sharp point John is making. John states things in a black and white way in this letter—“Anyone who does not do what is right is not a child of God”—and that’s incredibly convicting in casting the light of simplicity into our lives as Christians. 1 John is so useful in that sense, giving us full nuance in context, but in particular verses showing us how simple things really are.
+Such black and white teaching, isn’t it? Does that mean if I sin I’m no longer a 
+child of God? Of course not. Look back earlier in 1 John to refute that 
+erroneous thought, like 2:1, where John said that if any Christian sins, Jesus 
+speaks to the Father in our defense. Remember that in this book especially, we 
+need to take each piece in light of the whole. But, at the same time, don’t let 
+that soften the sharp point John is making. John states things in a black and 
+white way in this letter—“Anyone who does not do what is right is not a child of 
+God”—and that’s incredibly convicting in casting the light of simplicity into 
+our lives as Christians. 1 John is so useful in that sense, giving us full 
+nuance in context, but in particular verses showing us how simple things really 
+are.
 
-What John is saying in this passage is that _if you are a child of God, you will live like God. If you are a child of the devil, you will live like the devil. That’s all there is to it. Now, no Christian perfectly lives like God. And thankfully, no non-Christian lives exactly like the devil... Still, the contrasts between love of the world versus love of God, light versus darkness, and children of God versus children of the devil are stark and absolute. Your life will display one general pattern or the other._
+What John is saying in this passage is that _if you are a child of God, you will 
+live like God. If you are a child of the devil, you will live like the devil. 
+That’s all there is to it. Now, no Christian perfectly lives like God. And 
+thankfully, no non-Christian lives exactly like the devil... Still, the 
+contrasts between love of the world versus love of God, light versus darkness, 
+and children of God versus children of the devil are stark and absolute. Your 
+life will display one general pattern or the other._
 
-_In all of this_, John is certainly not saying that “nice people are Christians.” _All of us know nice people who are not Christians. Many of us, before we were Christians, were nice people. No, the moral test is subsequent to the doctrinal test. You might say it is the proof of the doctrinal test._
+_In all of this_, John is certainly not saying that “nice people are 
+Christians.” _All of us know nice people who are not Christians. Many of us, 
+before we were Christians, were nice people. No, the moral test is subsequent to 
+the doctrinal test. You might say it is the proof of the doctrinal test._
 
 ## Finally, the Social Test:
 
-One of the first ways we know that we are obeying the moral test John provides is whether we are loving one another. Look at 4:19-21: _“We love because he first loved us. If anyone says, ‘I love God,’ and hates his brother, he is a liar; for he who does not love his brother whom he has seen cannot love God whom he has not seen. And this commandment we have from him: whoever loves God must also love his brother.”_
+One of the first ways we know that we are obeying the moral test John provides 
+is whether we are loving one another. Look at 4:19-21: _"We love because he 
+first loved us. If anyone says, “I love God,” and yet hates his brother or 
+sister, he is a liar. For the person who does not love his brother or sister 
+whom he has seen cannot love God whom he has not seen. And we have this command 
+from him: The one who loves God must also love his brother and sister."_
 
-What makes us think that we love God? Is it our doctrinal correctness? Is it our meticulous obedience? Or is it that warm fuzzy feeling that we get when you sing his praises? Well, those will be shown to be only a mirage if our love for God is not demonstrated in love for his people. Jesus so identifies with his people that he says that our attitude towards others Christians _is_ our attitude towards him.
+What makes us think that we love God? Is it our doctrinal correctness? Is it our 
+meticulous obedience? Or is it that warm fuzzy feeling that we get when you sing 
+his praises? Well, those will be shown to be only a mirage if our love for God 
+is not demonstrated in love for his people. Jesus so identifies with his people 
+that he says that our attitude towards others Christians _is_ our attitude 
+towards him.
 
-John is explicitly clear throughout this book on this point. In 3:14 he says, _“We know that we have passed out of death into, because we love the brothers.”_ There is no middle ground option with John, no option of loving the brothers you like to be around or are able tolerate. No, you can believe all the correct doctrine you want, read all the right Christian books, have an outwardly upright life, and yet if you do not love the people of God, you are not a Christian! You may object and say, but I love God, I love Jesus, I love learning about Him and following Him, I can’t help that some people just aren’t my type. Think back on the verses we just considered from chapter 4, John reasons that if can’t love a brother, who has been loved by God and is the image of God, how can you love the God that you have not seen who created and loved this brother or sister. John argues from the greater to the lesser: Those who love God love others, so if you’re not doing the lesser, there’s no way that you’re doing the greater.
+John is explicitly clear throughout this book on this point. In 3:14 he says, 
+_“We know that we have passed from death to life because we love our brothers 
+and sisters.”_ There is no middle ground option with John, no option of loving 
+the brothers you like to be around or are able tolerate. No, you can believe all 
+the correct doctrine you want, read all the right Christian books, have an 
+outwardly upright life, and yet if you do not love the people of God, you are 
+not a Christian! You may object and say, but I love God, I love Jesus, I love 
+learning about Him and following Him, I can’t help that some people just aren’t 
+my type. Think back on the verses we just considered from chapter 4, John 
+reasons that if can’t love a brother, who has been loved by God and is the image 
+of God, how can you love the God that you have not seen who created and loved 
+this brother or sister. John argues from the greater to the lesser: Those who 
+love God love others, so if you’re not doing the lesser, there’s no way that 
+you’re doing the greater.
 
-And, John challenges us to express our love for others, especially other believers, in real, practical ways: look at 3:17-18: _“But if anyone has the world’s good and sees his brother in need, yet closes his heart against him, how does God’s love abide in him? Little children, let us not love in word or talk but in deed and in truth.”_ In other words, We do not just need doctrinal belief and morality… We also need the active love that induces church members to give themselves away for one another. We need to learn to love people who do not look like we do or act as we do…The most honest test of Christian love is whether we love those with whom we have disagreed or had difficulty.
+And, John challenges us to express our love for others, especially other 
+believers, in real, practical ways: look at 3:17-18: _"If anyone has this 
+world’s goods and sees a fellow believer in need but withholds compassion from 
+him—how does God’s love reside in him? Little children, let us not love in word 
+or speech, but in action and in truth."_ In other words, We do not just need 
+doctrinal belief and morality... We also need the active love that induces 
+church members to give themselves away for one another. We need to learn to love 
+people who do not look like we do or act as we do... The most honest test of 
+Christian love is whether we love those with whom we have disagreed or had 
+difficulty.
 
 ## Summary of 1 John
 
@@ -250,7 +363,7 @@ through more quickly.
 The key theme in 2 John is this: Christians should not support those who are 
 false teachers. Look at vv. 10-11: _"If anyone comes to you and does not bring 
 this teaching, do not receive him into your home, and don’t greet him; for the 
-one who greets him shares in his evil works."__
+one who greets him shares in his evil works."_
 
 John tells us here that there is a huge difference between what is appropriate 
 in relating to false teachers who claim to be Christians, compared with 
@@ -351,49 +464,217 @@ my disciples, if you love one another."_ (Jn. 13:35).
 
 # 1 Thessalonians
 
-In Matthew 6, Jesus teaches us how to pray using these words, “Our Father in heaven, hallowed be your name, your kingdom come, your will be done, on earth as it is in heaven.” We are all quite familiar with these words; but do you think it will ever happen? Do you think there will ever be a time when God’s will will be done on earth as it is in heaven? As we near the end of our survey of the New Testament we now turn to the books of I & II Thessalonians. The last few weeks we’ve been looking at letters in the New Testament that have been written about false teachers. How to spot them. What to do with them. Now, as we turn to Paul’s letters to the Thessalonians, we’ll continue to have in mind various errors in the church—but we’ll also consider Paul’s emphasis on Jesus’ second coming—when all things that are false will be forever done away with and the true light of the glory of Christ will shine for eternity.
+In Matthew 6, Jesus teaches us how to pray using these words, _“Our Father in 
+heaven, your name be honored as holy. Your kingdom come. Your will be done on 
+earth as it is in heaven."_ We are all quite familiar with these words; but do 
+you think it will ever happen? Do you think there will ever be a time when God’s 
+will will be done on earth as it is in heaven? As we near the end of our survey 
+of the New Testament we now turn to the books of I & II Thessalonians. The last 
+few weeks we’ve been looking at letters in the New Testament that have been 
+written about false teachers. How to spot them. What to do with them. Now, as 
+we turn to Paul’s letters to the Thessalonians, we’ll continue to have in mind 
+various errors in the church—but we’ll also consider Paul’s emphasis on Jesus’ 
+second coming—when all things that are false will be forever done away with and 
+the true light of the glory of Christ will shine for eternity.
 
 ## II. Purpose & Background
 
-Turning to purpose and background, let’s look at 1:4-6, where we’ll see the context that led Paul to write this letter: _“4For we know, brothers loved by God, that he has chosen you, 5because our gospel came to you not only in word, but also in power and in the Holy Spirit and with full conviction. You know what kind of men we proved to be among you for your sake. 6And you became imitators of us and of the Lord, for you received the word in much affliction, with the joy of the Holy Spirit.”_ Paul had preached this good news in the large city of Thessalonica and founded a church there during his second missionary journey, as related in Acts 17. He only spent a few weeks there but his visit was successful—we read in Acts 17:4 that _“4And some of them were persuaded and joined Paul and Silas, as did a great many of the devout Greeks and not a few of the leading women.”_
+Turning to purpose and background, let’s look at 1:4-6, where we’ll see the 
+context that led Paul to write this letter: _“For we know, brothers and sisters 
+loved by God, that he has chosen you, because our gospel did not come to you in 
+word only, but also in power, in the Holy Spirit, and with full assurance. You 
+know how we lived among you for your benefit, and you yourselves became 
+imitators of us and of the Lord when, in spite of severe persecution, you 
+welcomed the message with joy from the Holy Spirit."_ Paul had preached this 
+good news in the large city of Thessalonica and founded a church there during 
+his second missionary journey, as related in Acts 17. He only spent a few weeks 
+there but his visit was successful—we read in Acts 17:4 that _“Some of them were 
+persuaded and joined Paul and Silas, including a large number of God-fearing 
+Greeks, as well as a number of the leading women."_
 
-But after that, fierce persecution arose and the believers smuggled Paul out of the city in the night. Because Paul left abruptly and without having spent much time among them, he had never finished teaching the basic matters of Christianity, and the church’s foundations were not complete and solid. Several strange problems had grown up after his premature departure. Apparently, some individuals in Thessalonica opposed this new religion by accusing Paul of being a money-grubbing self-promoter. As soon as circumstances became difficult, they said, he snuck out of town. There were also doctrinal difficulties. Chiefly, The Thessalonians worried that if a Christian died before Christ returned, he or she would be lost forever. So Paul sent Timothy to find out how the Thessalonian church was doing – if they still held to the word they’d heard from him. Timothy has returned with a good report, and so Paul writes this letter around 51 AD to defend his ministry among them, clarify basic doctrine about death and the Second Coming, and reassure the Thessalonians with hope.
+But after that, fierce persecution arose and the believers smuggled Paul out of 
+the city in the night. Because Paul left abruptly and without having spent much 
+time among them, he had never finished teaching the basic matters of 
+Christianity, and the church’s foundations were not complete and solid. Several 
+strange problems had grown up after his premature departure. Apparently, some 
+individuals in Thessalonica opposed this new religion by accusing Paul of being 
+a money-grubbing self-promoter. As soon as circumstances became difficult, they 
+said, he snuck out of town. There were also doctrinal difficulties. Chiefly, The 
+Thessalonians worried that if a Christian died before Christ returned, he or she 
+would be lost forever. So Paul sent Timothy to find out how the Thessalonian 
+church was doing – if they still held to the word they’d heard from him. Timothy 
+has returned with a good report, and so Paul writes this letter around 51 AD to 
+defend his ministry among them, clarify basic doctrine about death and the 
+Second Coming, and reassure the Thessalonians with hope.
 
 ## III. Outline
 
-To see how he did that, let’s look at an outline of the letter and see how it’s structured. As you’ll see in your handout, 1 Thessalonians falls into two parts. In Chapters 1-3, Paul’s main purpose is the defense of his ministry. He opens the letter, prays the for the Thessalonians (1:2-3), and expresses confidence in their salvation – that’s 1:4 – 1:10. Next, he describes his ministry among them, defends it against false accusations, reiterates his desire to visit them again, and recounts Timothy’s good report – that’s 2:1 – 3:10. He concludes this section with another prayer in 3:11 – 13.
+To see how he did that, let’s look at an outline of the letter and see how it’s 
+structured. As you’ll see in your handout, 1 Thessalonians falls into two parts. 
+In Chapters 1-3, Paul’s main purpose is the defense of his ministry. He opens 
+the letter, prays the for the Thessalonians (1:2-3), and expresses confidence in 
+their salvation – that’s 1:4 – 1:10. Next, he describes his ministry among them, 
+defends it against false accusations, reiterates his desire to visit them again, 
+and recounts Timothy’s good report – that’s 2:1 – 3:10. He concludes this 
+section with another prayer in 3:11 – 13.
 
-Then, in keeping with his claims to love them, he moves on in Chapters 4-5 to exhort and teach them in response to their specific weaknesses and failings. First, he reminds them of the need to live lives pleasing to God in 4:1-12. Then, he spends about a chapter, in 4:13 – 5:11, on the main doctrinal exposition that the letter is known for: death, the Second Coming of Jesus, and the final judgment. His purpose in all of this is simply encouragement. As he writes in the middle of this section, in 4:18, _“18Therefore encourage one another with these words.”_ (4:18). And finally he concludes, as in many of his letters, with instructions and greetings in 5:12-28.
+Then, in keeping with his claims to love them, he moves on in Chapters 4-5 to 
+exhort and teach them in response to their specific weaknesses and failings. 
+First, he reminds them of the need to live lives pleasing to God in 4:1-12. 
+Then, he spends about a chapter, in 4:13 – 5:11, on the main doctrinal 
+exposition that the letter is known for: death, the Second Coming of Jesus, and 
+the final judgment. His purpose in all of this is simply encouragement. As he 
+writes in the middle of this section, in 4:18, _“Therefore encourage one another 
+with these words.”_ And finally he concludes, as in many of his letters, with 
+instructions and greetings in 5:12-28.
 
-OK. So that’s the basic structure. As we dive in to consider these words more carefully, we’ll look at three major themes. First, we’ll begin in the first half of the letter, looking at Paul’s __pastoral ministry__ among the Thessalonians. Then we’ll see two themes in the second half: first, Paul’s exhortations to the Thessalonians on basic __signs of the Christian life__, and finally, his teaching about the second coming of Christ. And in all of this, our focus should be on better understanding what our lives should look like in light of Jesus’ soon and certain return.
+OK. So that’s the basic structure. As we dive in to consider these words more 
+carefully, we’ll look at three major themes. First, we’ll begin in the first 
+half of the letter, looking at Paul’s __pastoral ministry__ among the 
+Thessalonians. Then we’ll see two themes in the second half: first, Paul’s 
+exhortations to the Thessalonians on basic __signs of the Christian life__, and 
+finally, his teaching about the second coming of Christ. And in all of this, our 
+focus should be on better understanding what our lives should look like in light 
+of Jesus’ soon and certain return.
 
 ## IV. Major Themes
 
 ### A. So, first, Pastoral Ministry
 
-The first half of Paul’s letter is largely about his pastoral ministry among the Thessalonians. What I’d like to do is take an overview of what he says and identify from it seven key signs of Paul’s ministry, and by extension any genuine Christian ministry. But these aren’t just things that we should look for in a godly pastor, but signs that should characterize all of our lives as servants of Christ in his church.
+The first half of Paul’s letter is largely about his pastoral ministry among the 
+Thessalonians. What I’d like to do is take an overview of what he says and 
+identify from it seven key signs of Paul’s ministry, and by extension any 
+genuine Christian ministry. But these aren’t just things that we should look for 
+in a godly pastor, but signs that should characterize all of our lives as 
+servants of Christ in his church.
 
-1. So, let’s dive in. The first sign of a genuine Christian ministry? Prayer. Paul prays for these young Christians. In fact, his prayers constitute on of the most constant and recurring aspects of the letter. He thanks God for what he has already done in the church, and he asks him to do still more. Look at 1:2-3 with me: _“2We give thanks to God always for all of you, constantly mentioning you in our prayers, 3remembering before our God and Father your work of faith and labor of love and steadfastness of hope in our Lord Jesus Christ.”_ specifically mentioning _“your work of faith and labor of love and steadfastness of hope in our Lord Jesus Christ.”_ (1:2-3). For another example, turn to 3:9-13: _“For what thanksgiving can we return to God for you, for all the joy that we feel for your sake before our God, 10as we pray most earnestly night and day that we may see you face to face and supply what is lacking in your faith? 11Now may our God and Father himself, and our Lord Jesus, direct our way to you, 12and may the Lord make you increase and abound in love for one another and for all, as we do for you, 13so that he may establish your hearts blameless in holiness before our God and Father, at the coming of our Lord Jesus with all his saints.”_
+1. So, let’s dive in. The first sign of a genuine Christian ministry? Prayer. 
+Paul prays for these young Christians. In fact, his prayers constitute on of the 
+most constant and recurring aspects of the letter. He thanks God for what he has 
+already done in the church, and he asks him to do still more. Look at 1:2-3 with 
+me: _“We always thank God for all of you, making mention of you constantly in 
+our prayers. We recall, in the presence of our God and Father, your work 
+produced by faith, your labor motivated by love, and your endurance inspired by 
+hope in our Lord Jesus Christ."_ specifically mentioning _“your work produced by 
+faith, your labor motivated by love, and your endurance inspired by hope in our 
+Lord Jesus Christ."_ (1:2-3). For another example, turn to 3:9-13: _"How can we 
+thank God for you in return for all the joy we experience before our God because 
+of you, as we pray very earnestly night and day to see you face to face and to 
+complete what is lacking in your faith? Now may our God and Father himself, and 
+our Lord Jesus, direct our way to you. And may the Lord cause you to increase 
+and overflow with love for one another and for everyone, just as we do for you. 
+May he make your hearts blameless in holiness before our God and Father at the 
+coming of our Lord Jesus with all his saints. Amen."_
 
- Note how Paul characterizes his prayer. He says that _“remembering before our God and Father”_ (1:3) their work and faith and love. Praying for others is considering evidences of how God’s Spirit has been at work in them and thanking God; and it is considering their needs and directing these requests to the Father. It’s amazing to think that when we are meeting with God individually, we can come before him and intercede for our brothers and sisters in Christ, which this book teaches us is a selfless and generous way to spend our time with the Lord. And note how Paul prays for them in light of the second coming of Christ. He prays that they would be holy and blameless before him at his coming. We should learn from Paul; he focuses his prayer on what is most important, what is eternally lasting. The emphasis is not so much on their circumstances, but their faith, love, and holiness, which is a great model for our prayers.
+ Note how Paul characterizes his prayer. He says that _“remembering before our 
+ God and Father”_ (1:3) their work and faith and love. Praying for others is 
+ considering evidences of how God’s Spirit has been at work in them and 
+ thanking God; and it is considering their needs and directing these requests 
+ to the Father. It’s amazing to think that when we are meeting with God 
+ individually, we can come before him and intercede for our brothers and 
+ sisters in Christ, which this book teaches us is a selfless and generous way 
+ to spend our time with the Lord. And note how Paul prays for them in light of 
+ the second coming of Christ. He prays that they would be holy and blameless 
+ before him at his coming. We should learn from Paul; he focuses his prayer on 
+ what is most important, what is eternally lasting. The emphasis is not so much 
+ on their circumstances, but their faith, love, and holiness, which is a great 
+ model for our prayers.
 
-2. But then, a second mark of a genuine gospel ministry: Self-sacrifice. In his missionary journeys, and not least in his trip to Macedonia, Paul showed he was willing to sacrifice his own safety. He did not benefit by it. Look at chapter 2, verses 1-3: _“For you yourselves know, brothers, that our coming to you was not in vain. 2But though we had already suffered and been shamefully treated at Philippi, as you know, we had boldness in our God to declare to you the gospel of God in the midst of much conflict. 3For our appeal does not spring from error or impurity or any attempt to deceive.”_ (2:1-3). Paul did not preach the gospel to the Thessalonians with selfish concern for himself and his own gain, but with pure motives, to please God, not men. Do we only share the good news with others when it’s convenient? Do we only speak of Jesus when we’re confident it won’t diminish our reputation? Or are we willing to sacrifice our standing and our comfort for the sake of the Gospel like Paul?
+2. But then, a second mark of a genuine gospel ministry: Self-sacrifice. In his 
+missionary journeys, and not least in his trip to Macedonia, Paul showed he was 
+willing to sacrifice his own safety. He did not benefit by it. Look at chapter 
+2, verses 1-3: _“For you yourselves know, brothers and sisters, that our visit 
+with you was not without result. On the contrary, after we had previously 
+suffered and were treated outrageously in Philippi, as you know, we were 
+emboldened by our God to speak the gospel of God to you in spite of great 
+opposition. For our exhortation didn’t come from error or impurity or an intent 
+to deceive."_ (2:1-3). Paul did not preach the gospel to the Thessalonians with 
+selfish concern for himself and his own gain, but with pure motives, to please 
+God, not men. Do we only share the good news with others when it’s convenient? 
+Do we only speak of Jesus when we’re confident it won’t diminish our reputation? 
+Or are we willing to sacrifice our standing and our comfort for the sake of the 
+Gospel like Paul?
 
-3. Third. Motherly love. Motherly love is also a sign of genuine ministry. Paul writes in 2:7-8, _“7But we were gentle among you, like a nursing mother taking care of her own children. 8So, being affectionately desirous of you, we were ready to share with you not only the gospel of God but also our own selves, because you had become very dear to us.”_ Paul was not harsh, but gentle. He did not take from them but was delighted to share with them.
+3. Third. Motherly love. Motherly love is also a sign of genuine ministry. Paul 
+writes in 2:7-8, _“we were gentle among you, as a nurse nurtures her own 
+children. We cared so much for you that we were pleased to share with you not 
+only the gospel of God but also our own lives, because you had become dear to 
+us.”_ Paul was not harsh, but gentle. He did not take from them but was 
+delighted to share with them.
 
-4. Fourth, Fatherly integrity and encouragement. Next, Paul says that he exhibited a fatherly lifestyle among them, and now he encourages them with fatherly counsel. We see this in 2:10-12: _“10You are witnesses, and God also, how holy and righteous and blameless was our conduct toward you believers. 11For you know how, like a father with his children, 12we exhorted each one of you and encouraged you and charged you to walk in a manner worthy of God, who calls you into his own kingdom and glory.”_ (2:10-12). Even as Paul instructs us on the purity and care that should characterize all of us as we speak to other Christians, by way of analogy he gives us wisdom for parenting as well - Paul assumes that a godly father encourages, comforts, and urges his children toward godliness.
+4. Fourth, Fatherly integrity and encouragement. Next, Paul says that he 
+exhibited a fatherly lifestyle among them, and now he encourages them with 
+fatherly counsel. We see this in 2:10-12: _“You are witnesses, and so is God, of 
+how devoutly, righteously, and blamelessly we conducted ourselves with you 
+believers. As you know, like a father with his own children, we encouraged, 
+comforted, and implored each one of you to live worthy of God, who calls you 
+into his own kingdom and glory.”_ Even as Paul instructs us on the purity and 
+care that should characterize all of us as we speak to other Christians, by way 
+of analogy he gives us wisdom for parenting as well - Paul assumes that a godly 
+father encourages, comforts, and urges his children toward godliness.
 
-5. Fifth, Desire for fellowship. Paul desires to be with the Thessalonians and fellowship with them. They are not just his friends. They are his spiritual family. He writes, in 2:17, _“17But since we were torn away from you, brothers, for a short time, in person not in heart, we endeavored the more eagerly and with great desire to see you face to face.”_ (2:17). Several times Paul mentions his desire to return and see them. In the next chapter he repeats _“we also long to see you,”_ (3:6) and _“10as we pray most earnestly night and day that we may see you face to face”_ (3:10). Such a desire for fellowship is another evidence of a genuine ministry. Think of God’s kindness in designing us this way: the more we mature in ministering to his people, the more we desire to spend even more time doing so. God shapes the desires of our hearts the more we soak our hearts in His word! You can’t escape Paul’s love for the Thessalonians as you read this letter -- it’s challenging! If you want to grow in your love for your fellow church members here at Immanuel, I’d encourage you to read this letter a few times this week - it only takes 15 or 20 minutes - and ask as you read, “do I love and cherish my church the way Paul loved this church he had only spent a few weeks or months with?” Let Paul’s love serve as an example for us.
+5. Fifth, Desire for fellowship. Paul desires to be with the Thessalonians and 
+fellowship with them. They are not just his friends. They are his spiritual 
+family. He writes, in 2:17, _“But as for us, brothers and sisters, after we were 
+forced to leave you for a short time (in person, not in heart), we greatly 
+desired and made every effort to return and see you face to face.”_ Several 
+times Paul mentions his desire to return and see them. In the next chapter he 
+repeats _“we also long to see you,”_ (3:6) and _“as we pray very earnestly night 
+and day to see you face to face”_ (3:10). Such a desire for fellowship is 
+another evidence of a genuine ministry. Think of God’s kindness in designing us 
+this way: the more we mature in ministering to his people, the more we desire to 
+spend even more time doing so. God shapes the desires of our hearts the more we 
+soak our hearts in His word! You can’t escape Paul’s love for the Thessalonians 
+as you read this letter -- it’s challenging! If you want to grow in your love 
+for your fellow church members here at Immanuel, I’d encourage you to read this 
+ letter a few times this week - it only takes 15 or 20 minutes - and ask as 
+ you read, “do I love and cherish my church the way Paul loved this church he 
+ had only spent a few weeks or months with?” Let Paul’s love serve as an 
+ example for us.
 
-6. Sixth: joy. When we minister faithfully, joy results. Several times Paul says that he rejoices because of the Thessalonians. In chapter 2:19-20 he writes _“19For what is our hope or joy or crown of boasting before our Lord Jesus at his coming? Is it not you? 20For you are our glory and joy.”_ And in chapter 3 he says, _“9For what thanksgiving can we return to God for you, for all the joy that we feel for your sake before our God.”_ (3:9). A godly pastor or elder is one who finds evident joy in knowing and leading his flock.
+6. Sixth: joy. When we minister faithfully, joy results. Several times Paul says 
+that he rejoices because of the Thessalonians. In chapter 2:19-20 he writes 
+_“For who is our hope or joy or crown of boasting in the presence of our Lord 
+Jesus at his coming? Is it not you? Indeed you are our glory and joy!”_ And in 
+chapter 3 he says, _“How can we thank God for you in return for all the joy we 
+experience before our God because of you”_ (3:9). A godly pastor or elder is 
+one who finds evident joy in knowing and leading his flock.
 
-7. And finally, hope. Paul has hope for the Thessalonians. His hope isn’t in them, that they’ll endure on their own – his hope is in the electing God who has chosen them, as he says in 1:4. And above all, he hopes for Christ’s return. Look at 5:23-24: _“23Now may the God of peace himself sanctify you completely, and may your whole spirit and soul and body be kept blameless at the coming of our Lord Jesus Christ. 24He who calls you is faithful; he will surely do it.”_ Paul’s ministry is characterized by hope for the Thessalonians based on his hope in God’s promises and Christ’s return.
+7. And finally, hope. Paul has hope for the Thessalonians. His hope isn’t in 
+them, that they’ll endure on their own – his hope is in the electing God who has 
+chosen them, as he says in 1:4. And above all, he hopes for Christ’s return. 
+Look at 5:23-24: _"Now may the God of peace himself sanctify you completely. 
+And may your whole spirit, soul, and body be kept sound and blameless at the 
+coming of our Lord Jesus Christ. [24] He who calls you is faithful; he will do 
+it."_ Paul’s ministry is characterized by hope for the Thessalonians based on 
+his hope in God’s promises and Christ’s return.
 
-So then. Seven marks of genuine Christian ministry. Prayer. Self-sacrifice. Motherly love. Fatherly encouragement. A desire for fellowship. Joy. And hope. Through it all you see Paul’s driving passion for people and his ultimate hope in Jesus Christ. And you see a good model for our own lives. 
+So then. Seven marks of genuine Christian ministry. Prayer. Self-sacrifice. 
+Motherly love. Fatherly encouragement. A desire for fellowship. Joy. And hope. 
+Through it all you see Paul’s driving passion for people and his ultimate hope 
+in Jesus Christ. And you see a good model for our own lives. 
 
-We can use these 7 marks to reflect on our own ministry in this church. Ministry is not for just pastors and elders; it’s for all of us. And so Paul’s example is useful for all of us. Why do we love others in this church? Paul’s most practical motivation seemed to be that he wanted a front-row seat to observe the supernatural power of God at work in the hearts of these believers, so that he could rejoice before God because of them. That’s a great example for us—especially in contrast to the mixed motives we so often have. How did he avoid making people his “projects?” He loved them. He earnestly desired to be with them. His heart was torn when he had to leave. Did he only serve when it was convenient? Certainly not. And that self-sacrifice only compounded his joy. 
+We can use these 7 marks to reflect on our own ministry in this church. 
+Ministry is not for just pastors and elders; it’s for all of us. And so Paul’s 
+example is useful for all of us. Why do we love others in this church? Paul’s 
+most practical motivation seemed to be that he wanted a front-row seat to 
+observe the supernatural power of God at work in the hearts of these believers, 
+so that he could rejoice before God because of them. That’s a great example for 
+us—especially in contrast to the mixed motives we so often have. How did he 
+avoid making people his “projects?” He loved them. He earnestly desired to be 
+with them. His heart was torn when he had to leave. Did he only serve when it 
+was convenient? Certainly not. And that self-sacrifice only compounded his joy. 
 
-And, of course, you can use this book beyond just reflecting on your own personal ministry. Use these chapters to encourage and exhort other Christian friends. Use them to evaluate a pastoral ministry at a church you may consider joining—or at your own church. A church you consider joining must have solid doctrine – it must cling to the same gospel that Paul declares in 5:9-10 of this book. But you should also look for the careful, compassionate type of leadership that Paul exemplifies in his relationship with the Thessalonians. And, finally, we can use these passages to encourage faithful ministers of the gospel who are following the pattern laid out by Paul. That’s the first half of the book. Before we move to the second half, any questions?
+And, of course, you can use this book beyond just reflecting on your own 
+personal ministry. Use these chapters to encourage and exhort other Christian 
+friends. Use them to evaluate a pastoral ministry at a church you may consider 
+joining—or at your own church. A church you consider joining must have solid 
+doctrine – it must cling to the same gospel that Paul declares in 5:9-10 of this 
+book. But you should also look for the careful, compassionate type of leadership 
+that Paul exemplifies in his relationship with the Thessalonians. And, finally, 
+we can use these passages to encourage faithful ministers of the gospel who are 
+following the pattern laid out by Paul. That’s the first half of the book. 
+Before we move to the second half, any questions?
 
 ### B. Signs of a Christian Life
 
@@ -429,14 +710,61 @@ Third, this doctrine should be an __encouragement__ and a prompting to hope and 
 
 Fourth, we don’t know when Jesus will return and we shouldn’t try to figure it out. Naturally some Christians then, as now, became preoccupied with the idea of Jesus’ return and apparently spent some time arguing about when it was going to happen. Paul writes to discourage them from such speculation, in 5:1-3 _“1Now concerning the times and the seasons, brothers, you have no need to have anything written to you. 2For you yourselves are fully aware that the day of the Lord will come like a thief in the night. 3While people are saying, ‘There is peace and security,’ then sudden destruction will come upon them as labor pains come upon a pregnant woman, and they will not escape.”_ (5:1-3). God explicitly says in his word that we do not and cannot know the day or hour of Jesus’ return. We should not listen to anyone who claims to have figured it out. We should, however, remain in eager expectation and preparedness, leading Godly and sober lives so that we will be ready by Jesus comes.
 
-Isn’t it amazing how practical all of this gets in 1 Thessalonians? You could almost think of the second half of his letter as “the end of the world, made practical.” So often, this topic invites fevered speculation and silly fantasies -- whether it’s the latest series of end-times-themed novels or a fascination with the identity of the “man of lawlessness” that is mentioned in 2 Thessalonians. But that kind of teaching and speculation is utterly foreign to Paul’s practical, Christ-centered, encouraging explanation of the end of time. One way we could apply this part of the book is by evaluating how much time we spend thinking about the past, the present, and the near future… and then compare that with how often we look forward to eternity with Christ. Hoping in eternity, Paul says, shapes the way that we live now - because it stirs our hope in the Christ who is returning. Any questions?
+Isn’t it amazing how practical all of this gets in 1 Thessalonians? You could 
+almost think of the second half of his letter as “the end of the world, made 
+practical.” So often, this topic invites fevered speculation and silly fantasies 
+-- whether it’s the latest series of end-times-themed novels or a fascination 
+with the identity of the “man of lawlessness” that is mentioned in 2 
+Thessalonians. But that kind of teaching and speculation is utterly foreign to 
+Paul’s practical, Christ-centered, encouraging explanation of the end of time.  
+One way we could apply this part of the book is by evaluating how much time we 
+spend thinking about the past, the present, and the near future… and then 
+compare that with how often we look forward to eternity with Christ.  Hoping in 
+eternity, Paul says, shapes the way that we live now - because it stirs our hope 
+in the Christ who is returning. Any questions?
 
 ## Conclusion
 
-I hope we can see how the doctrine of the future, even though certain details about it are mysterious, so fundamentally shapes the content of our belief and practice as followers of Christ. Why has Paul’s ministry been characterized by the seven aspects we looked at - things like self-sacrifice, prayer, joy, and concern? Because he deeply desires the Thessalonians to be prepared for that final day. Why should our lives as Christians be characterized by those other seven features, such as brotherly love, sexual purity, discernment? Because we are those who because of the Gospel of God’s mercy don’t have to fear Christ’s return. Instead, our greatest desire is God’s glory - that he would be glorified and made much of by his people as we wait for all his good promises to come to fruition.
+I hope we can see how the doctrine of the future, even though certain details 
+about it are mysterious, so fundamentally shapes the content of our belief and 
+practice as followers of Christ. Why has Paul’s ministry been characterized by 
+the seven aspects we looked at - things like self-sacrifice, prayer, joy, and 
+concern? Because he deeply desires the Thessalonians to be prepared for that 
+final day. Why should our lives as Christians be characterized by those other 
+seven features, such as brotherly love, sexual purity, discernment? Because we 
+are those who because of the Gospel of God’s mercy don’t have to fear Christ’s 
+return. Instead, our greatest desire is God’s glory - that he would be glorified 
+and made much of by his people as we wait for all his good promises to come to 
+fruition.
 
-Listen to how Jonathan Edwards spoke about our longing for this coming day of the Lord: “The enjoyment of God is the only happiness with which our souls can be satisfied. To go to Heaven, fully to enjoy God, is infinitely better than the most pleasant accommodations here. Fathers and mothers, husbands, wives, or children, or the company of earthly friends, are but shadows; but God is the substance. These are but scattered beams, but God is the sun. These are but streams, but God is the ocean.”[^2] We look forward to that day because of the glory of God.
+Listen to how Jonathan Edwards spoke about our longing for this coming day of 
+the Lord: “The enjoyment of God is the only happiness with which our souls can 
+be satisfied. To go to Heaven, fully to enjoy God, is infinitely better than the 
+most pleasant accommodations here. Fathers and mothers, husbands, wives, or 
+children, or the company of earthly friends, are but shadows; but God is the 
+substance. These are but scattered beams, but God is the sun. These are but 
+streams, but God is the ocean.”[^2] We look forward to that day because of the 
+glory of God.
 
-[^1]: It may be useful here to anticipate questions about what happens when Christians die. Paul uses the term “asleep,” but Paul is not teaching the doctrine of “soul sleep,” which is the idea that “when believers die they go into a state of unconscious existence, and the next thing that they are conscious of will be when Christ returns and raises the mto eternal life” (Grudem, Systematic Theology, 819). Paul is not indicating that Christians have to wait until the second coming for their souls to be united to God; he is merely showing that for Christians, death is temporary in the same way that sleep is temporary. The plain teaching of scripture is that when people die, the souls of believers go immediately into God’s presence, and the souls of unbelievers go immediately to eternal punishment (Grudem, 816, 822). 2 Cor. 5:8 – “We would rather be away from the body and at home with the Lord;” Phil. 1:23 – “I desire to depart and be with Christ, which is better by far;” Luke 23:45 – “Today you will be with me in paradise.” At the second coming of Christ, believers will receive resurrected bodies – “For the trumpet will sound, the dead will be raised imperishable, and we will be changed” (1 Cor. 15:52). As Grudem summarizes, “When Christ returns the souls of believers will be reunited with their bodies, their bodies will be raised from the dead, and they will live with Christ eternally (817).
+[^1]: It may be useful here to anticipate questions about what happens when 
+Christians die. Paul uses the term “asleep,” but Paul is not teaching the 
+doctrine of “soul sleep,” which is the idea that “when believers die they go 
+into a state of unconscious existence, and the next thing that they are 
+conscious of will be when Christ returns and raises the mto eternal life” 
+(Grudem, Systematic Theology, 819). Paul is not indicating that Christians have 
+to wait until the second coming for their souls to be united to God; he is 
+merely showing that for Christians, death is temporary in the same way that 
+sleep is temporary. The plain teaching of scripture is that when people die, the 
+souls of believers go immediately into God’s presence, and the souls of 
+unbelievers go immediately to eternal punishment (Grudem, 816, 822). 2 Cor. 5:8 
+– “We would rather be away from the body and at home with the Lord;” Phil. 1:23 
+– “I desire to depart and be with Christ, which is better by far;” Luke 23:45 – 
+“Today you will be with me in paradise.” At the second coming of Christ, 
+believers will receive resurrected bodies – “For the trumpet will sound, the 
+dead will be raised imperishable, and we will be changed” (1 Cor. 15:52). As 
+Grudem summarizes, “When Christ returns the souls of believers will be reunited 
+with their bodies, their bodies will be raised from the dead, and they will live 
+with Christ eternally (817).
 
-[^2]: From Iain Murray, _Jonathan Edwards: A New Biography_, p. 143, cited in Donald Whitey, _Ten Questions to Diagnose Your Spiritual Health_, p. 128.
+[^2]: From Iain Murray, _Jonathan Edwards: A New Biography_, p. 143, cited in 
+Donald Whitey, _Ten Questions to Diagnose Your Spiritual Health_, p. 128.
