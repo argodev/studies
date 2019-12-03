@@ -52,7 +52,7 @@ epistles are technically anonymous, there is strong internal and external
 evidence that the author is John the apostle. In 1 John the author makes a clear 
 claim to be an apostle from the very beginning. Let’s look at 1 Jn 1:1-3: 
 
-1:1-3 _"What was from the beginning, what we have heard, what we have seen with 
+1:1-3 "_What was from the beginning, what we have heard, what we have seen with 
 our eyes, what we have observed and have touched with our hands, concerning the 
 word of life— that life was revealed, and we have seen it and we testify and 
 declare to you the eternal life that was with the Father and was revealed to us— 
@@ -83,7 +83,7 @@ I John can be a difficult book to understand, especially if we pull verses out
 of the context of the entire book, so it is essential with this book—perhaps 
 more than most in the New Testament—to understand the overarching aim of the 
 letter. Look at 5:13: _"I have written these things to you who believe in the 
-name of the Son of God so that you may know that you have eternal life._"
+name of the Son of God so that you may know that you have eternal life."_
 
 The reason, as we see in this book, is that there was rampant false teaching 
 concerning the person and work of Jesus Christ. So John writes to oppose this 
@@ -132,7 +132,7 @@ works together, and you can follow along on your handout.
 
 John’s introduction to the letter? Look at 1:3: _"what we have seen and heard 
 we also declare to you, so that you may also have fellowship with us; and indeed 
-our fellowship is with the Father and with his Son Jesus Christ._" Here’s an 
+our fellowship is with the Father and with his Son Jesus Christ."_ Here’s an 
 eyewitness of Jesus, proclaiming the message of Jesus, so that believers would 
 know that fellowship with God and others is centered on a right understanding of 
 Jesus.
@@ -370,9 +370,9 @@ in relating to false teachers who claim to be Christians, compared with
 non-Christians who simply recognize themselves to be Non-Christians. To 
 Non-Christians who know they are non-Christians we are to show great generosity 
 and hospitality. But we are not to help the person who claims to teach the truth 
-about Jesus, but in fact tells lies about Jesus. Look at v. 7: _"2 John 1:7 CSB
-Many deceivers have gone out into the world; they do not confess the coming of 
-Jesus Christ in the flesh. This is the deceiver and the antichrist."_
+about Jesus, but in fact tells lies about Jesus. Look at v. 7: _"Many deceivers 
+have gone out into the world; they do not confess the coming of Jesus Christ in 
+the flesh. This is the deceiver and the antichrist."_
 
 In our increasingly pluralistic religious culture, many consider it charitable 
 to assume that anyone who calls themselves a Christian in fact is one; but this 
@@ -678,37 +678,185 @@ Before we move to the second half, any questions?
 
 ### B. Signs of a Christian Life
 
-Paul doesn’t limit himself to describing what a genuine ministry looks like. In chapters 4 and 5 Paul writes and tells them what effect a genuine ministry should have on their lives. As you’ll recall from earlier, these exhortations sandwich the core of the letter, the section of the coming of the Lord at the end of chapter 4. So we should be thinking of these exhortations especially in terms of “how should we live in light of Christ’s coming return?” Paul begins this section in 4:1-2 by writing, _“4Finally, then, brothers, we ask and urge you in the Lord Jesus, that as you received from us how you ought to walk and to please God, just as you are doing, that you do so more and more. 2For you know what instructions we gave you through the Lord Jesus.”_ Paul follows with, you guessed it, seven points. 
+Paul doesn’t limit himself to describing what a genuine ministry looks like. In 
+chapters 4 and 5 Paul writes and tells them what effect a genuine ministry 
+should have on their lives. As you’ll recall from earlier, these exhortations 
+sandwich the core of the letter, the section of the coming of the Lord at the 
+end of chapter 4. So we should be thinking of these exhortations especially in 
+terms of “how should we live in light of Christ’s coming return?” Paul begins 
+this section in 4:1-2 by writing, _"Additionally then, brothers and sisters, we 
+ask and encourage you in the Lord Jesus, that as you have received instruction 
+from us on how you should live and please God—as you are doing—do this even 
+more. For you know what commands we gave you through the Lord Jesus."_ Paul 
+follows with, you guessed it, seven points. 
 
-1. First, pursue sexual purity. Just after telling them to please God, Paul then spends several sentences repeatedly and specifically telling them to avoid sexual sin, drawing a clear link between the two. Paul writes in 4:3-8, _“3For this is the will of God, your sanctification: that you abstain from sexual immorality; 4that each one of you know how to control his own body in holiness and honor, 5not in the passion of lust like the Gentiles who do not know God; 6that no one transgress and wrong his brother in this matter, because the Lord is an avenger in all these things, as we told you beforehand and solemnly warned you. 7For God has not called us for impurity, but in holiness. 8Therefore whoever disregards this, disregards not man but God, who gives his Holy Spirit to you.”_ The connection between obeying God and maintaining sexual purity may actually have been a new idea to the Thessalonians. _Sexual promiscuity was even more accepted and practiced in the ancient pagan world than in our own world_, so it was worth Paul’s time to emphasize the point. Note that Paul does not treat sexual sin as something private, or as a “victimless crime.” He emphasizes _“no one transgress and wrong his brother,”_ (4:6). Sexual sin always involves others—including God. _“8Therefore whoever disregards this, disregards not man but God,”_ (4:8).
+1. First, pursue sexual purity. Just after telling them to please God, Paul then 
+spends several sentences repeatedly and specifically telling them to avoid 
+sexual sin, drawing a clear link between the two. Paul writes in 4:3-8, _“For 
+this is God’s will, your sanctification: that you keep away from sexual 
+immorality, that each of you knows how to control his own body in holiness and 
+honor, not with lustful passions, like the Gentiles, who don’t know God. This 
+means one must not transgress against and take advantage of a brother or sister 
+in this manner, because the Lord is an avenger of all these offenses, as we also 
+previously told and warned you. For God has not called us to impurity but to 
+live in holiness. Consequently, anyone who rejects this does not reject man, but 
+God, who gives you his Holy Spirit."_ The connection between obeying God and 
+maintaining sexual purity may actually have been a new idea to the 
+Thessalonians. _Sexual promiscuity was even more accepted and practiced in the 
+ancient pagan world than in our own world_, so it was worth Paul’s time to 
+emphasize the point. Note that Paul does not treat sexual sin as something 
+private, or as a “victimless crime.” He emphasizes _“one must not transgress 
+against and take advangage of a brother or sister”_ (4:6). Sexual sin always 
+involves others—including God. _“Consequently, anyone who rejects this does not 
+reject man, but God”_ (4:8).
 
-2. Second, we should live lives of brotherly love. Verses 9-10: _“9Now concerning brotherly love you have no need for anyone to write to you, for you yourselves have been taught by God to love one another, 10for that indeed is what you are doing to all the brothers throughout Macedonia. But we urge you, brothers, to do this more and more,”_ (4:9-10).
+2. Second, we shoulid live lives of brotherly love. Verses 9-10: _“About 
+brotherly love: You don’t need me to write you because you yourselves are taught 
+by God to love one another. In fact, you are doing this toward all the brothers 
+and sisters in the entire region of Macedonia. But we encourage you, brothers 
+and sisters, to do this even more"_ (4:9-10).
 
-3. Third. Respectability. Paul wants the Thessalonians to live in such a way as to earn the respect of others. Look at 4:11-12, _“11aspire to live quietly, and to mind your own affairs, and to work with your hands, as we instructed you, 12so that you may walk properly before outsiders and be dependent on no one.”_ The point is not that Paul wants Christians to be focused on polishing their reputation. This is not a popularity contest. No, it is in some ways precisely by doing the opposite of what would lead to popularity and success—by striving to lead a quiet life and mind your own business—that we win not popularity, but genuine respect for the Godly way of life we follow. _You do this not so that others will think well of you but so that the gospel will be commended._ So, far from the coming of the Lord inciting panic, it should spur us on to continue being faithful in respectable and quiet ways.
+3. Third. Respectability. Paul wants the Thessalonians to live in such a way as 
+to earn the respect of others. Look at 4:11-12, _"to seek to lead a quiet life, 
+to mind your own business, and to work with your own hands, as we commanded you, 
+so that you may behave properly in the presence of outsiders and not be 
+dependent on anyone."_ The point is not that Paul wants Christians to be focused 
+on polishing their reputation. This is not a popularity contest. No, it is in 
+some ways precisely by doing the opposite of what would lead to popularity and 
+success—by striving to lead a quiet life and mind your own business—that we win 
+not popularity, but genuine respect for the Godly way of life we follow. _You do 
+this not so that others will think well of you but so that the gospel will be 
+commended._ So, far from the coming of the Lord inciting panic, it should spur 
+us on to continue being faithful in respectable and quiet ways.
 
-4. Fourth, Being awake to God. Having detoured to talk directly about the second coming, Paul returns to his list of exhortations in chapter 5:4-8: _“4But you are not in darkness, brothers, for that day to surprise you like a thief. 5For you are all children of light, children of the day. We are not of the night or of the darkness. 6So then let us not sleep, as others do, but let us keep awake and be sober. 7For those who sleep, sleep at night, and those who get drunk, are drunk at night. 8But since we belong to the day, let us be sober, having put on the breastplate of faith and love, and for a helmet the hope of salvation.”_ (5:4-8). We are to be awake to God. We are not asleep but awake, alert, and self-controlled. Paul wants Christians not to be dulled by this world, deceived by the attractive appearance of its passing pleasures, or blind to the realities that God has made known in his Word. No, we are to be spiritually awake—focused on God’s truth and inwardly directed to the truth that we know but do not yet see.
+4. Fourth, Being awake to God. Having detoured to talk directly about the second 
+coming, Paul returns to his list of exhortations in chapter 5:4-8: _“But you, 
+brothers and sisters, are not in the dark, for this day to surprise you like a 
+thief. For you are all children of light and children of the day. We do not 
+belong to the night or the darkness. So then, let us not sleep, like the rest, 
+but let us stay awake and be self-controlled. For those who sleep, sleep at 
+night, and those who get drunk, get drunk at night. But since we belong to the 
+day, let us be self-controlled and put on the armor of faith and love, and a 
+helmet of the hope of salvation.”_ (5:4-8). We are to be awake to God. We are 
+not asleep but awake, alert, and self-controlled. Paul wants Christians not to 
+be dulled by this world, deceived by the attractive appearance of its passing 
+pleasures, or blind to the realities that God has made known in his Word. No, we 
+are to be spiritually awake—focused on God’s truth and inwardly directed to the 
+truth that we know but do not yet see.
 
-5. Fifth, Encouraging others. Paul goes on, _“11therefore encourage one another to build one another up, just as you are doing. 12We ask you, brothers, to respect those who labor among you and are over you in the Lord and admonish you, 13and to esteem them very highly in love because of their work. Be at peace among yourselves. 14We urge you, brothers, admonish the idle, encourage the fainthearted, help the weak, be patient with them all. 15See that no one repays anyone evil for evil, but always see to do good to one another and to everyone.”_ (5:11-15) We are to encourage everyone. Paul especially calls us to give encouragement in two particular cases. First, encourage your pastors and elders. They work hard to be wise and Godly spiritual shepherds for you. Do we encourage them? Do we tell them we appreciate them? Second, Paul tells us to encourage the weak. Weakness is often a temptation to discouragement, so Paul tells Christians to be especially diligent in encouraging those who lack strength in various ways. I wonder if you know someone in this situation that you could encourage, even this week?
+5. Fifth, Encouraging others. Paul goes on, _“Therefore encourage one another 
+and build each other up as you are already doing. Now we ask you, brothers and 
+sisters, to give recognition to those who labor among you and lead you in the 
+Lord and admonish you, and to regard them very highly in love because of their 
+work. Be at peace among yourselves. And we exhort you, brothers and sisters: 
+warn those who are idle, comfort the discouraged, help the weak, be patient with 
+everyone. See to it that no one repays evil for evil to anyone, but always 
+pursue what is good for one another and for all.”_ (5:11-15) We are to encourage 
+everyone. Paul especially calls us to give encouragement in two particular 
+cases. First, encourage your pastors and elders. They work hard to be wise and 
+Godly spiritual shepherds for you. Do we encourage them? Do we tell them we 
+appreciate them? Second, Paul tells us to encourage the weak. Weakness is often 
+a temptation to discouragement, so Paul tells Christians to be especially 
+diligent in encouraging those who lack strength in various ways. I wonder if 
+you know someone in this situation that you could encourage, even this week?
 
-6. Sixth, Paul exhorts the Thessalonians, and us, to Live a God-centered life. He says in 5:16-18: _“16Rejoice always, 17pray without ceasing, 18give thanks in all circumstances; for this is the will of God in Christ Jesus for you.”_ How can you be joyful always? If you center your life on God, regardless of what happens at work, regardless of what happens at home, regardless of what happens at church, you can be joyful. Well, how do we make God the center of our lives, so that we by the Spirit’s power do _“pray without ceasing”_ (5:17) and _“give thanks in all circumstances,”_ (5:18)? It starts with remembering the good news of grace that we’ve received, as Paul says in 5:9-10: _“9For God has not destined us for wrath, but to obtain salvation through our Lord Jesus Christ, 10who died for us so that whether we are awake or asleep we might live with him.”_ This amazing Gospel is what changes the foundation of our life so that God is at the center.
+6. Sixth, Paul exhorts the Thessalonians, and us, to Live a God-centered life. 
+He says in 5:16-18: _“Rejoice always, pray constantly, give thanks in 
+everything; for this is God’s will for you in Christ Jesus.”_ How can you be 
+joyful always? If you center your life on God, regardless of what happens at 
+work, regardless of what happens at home, regardless of what happens at church, 
+you can be joyful. Well, how do we make God the center of our lives, so that we 
+by the Spirit’s power do _“pray constantly”_ (5:17) and _“give thanks in 
+everything”_ (5:18)? It starts with remembering the good news of grace that 
+we’ve received, as Paul says in 5:9-10: _“For God did not appoint us to wrath, 
+but to obtain salvation through our Lord Jesus Christ, who died for us, so that 
+whether we are awake or asleep, we may live together with him.”_ This amazing 
+Gospel is what changes the foundation of our life so that God is at the center.
 
-7. And finally, seventh, live a discerning life. As Paul nears his conclusions, he says, _“19Do not quench the Spirit. 20Do not despise prophecies, 21but test everything; hold fast what is good. 22Abstain from every form of evil.”_ (5:19-22) These are timeless exhortations applicable in every circumstance. “Test everything.” Life is short. Don’t waste it on stupid, evil things. Think carefully before you believe something, do something, say something, or promise anything. Evil is everywhere; if we would avoid it, we must pray for discernment. 
+7. And finally, seventh, live a discerning life. As Paul nears his conclusions, 
+he says, _“Don’t stifle the Spirit. Don’t despise prophecies, but test all 
+things. Hold on to what is good. Stay away from every kind of evil.”_ (5:19-22) 
+These are timeless exhortations applicable in every circumstance. _“Test all 
+things.”_ Life is short. Don’t waste it on stupid, evil things. Think carefully 
+before you believe something, do something, say something, or promise anything. 
+Evil is everywhere; if we would avoid it, we must pray for discernment. 
 
-Those are the ways we are to behave in light of the end of the world. Love each other. Focus on living respectable, quiet lives of faithfulness. Don’t waste your time or energy. Encourage others. Any questions on this section on the Christian life?
+Those are the ways we are to behave in light of the end of the world. Love each 
+other. Focus on living respectable, quiet lives of faithfulness. Don’t waste 
+your time or energy. Encourage others. Any questions on this section on the 
+Christian life?
 
 ### C. The Second Coming
 
-So, why should we live in these ways as Christians? The answer, and our final theme in 1 Thessalonians, is because of the second coming -- because Jesus is coming back. That is the great truth animating Paul’s letter to the Thessalonians, and the point towards which all history is converging. We should live pure and holy lives because Jesus is coming back and we want to live lives worthy of him. We should minister to others because Jesus is coming back and we want others to be prepared. We should spread the gospel because Jesus is coming back and we want everyone in the world to have heard about him before he comes in final judgment.
+So, why should we live in these ways as Christians? The answer, and our final 
+theme in 1 Thessalonians, is because of the second coming -- because Jesus is 
+coming back. That is the great truth animating Paul’s letter to the 
+Thessalonians, and the point towards which all history is converging. We should 
+live pure and holy lives because Jesus is coming back and we want to live lives 
+worthy of him. We should minister to others because Jesus is coming back and we 
+want others to be prepared. We should spread the gospel because Jesus is coming 
+back and we want everyone in the world to have heard about him before he comes 
+in final judgment.
 
-We should keep in mind four things about Jesus’ return. First, it will certainly happen. Second, we will all witness it, regardless of when it happens, and will all be subject to his judgment. Third, if you are a Christian, the doctrine should be an encouragement to you. Fourth, no one knows when Jesus will return.
+We should keep in mind four things about Jesus’ return. First, it will certainly 
+happen. Second, we will all witness it, regardless of when it happens, and will 
+all be subject to his judgment. Third, if you are a Christian, the doctrine 
+should be an encouragement to you. Fourth, no one knows when Jesus will return.
 
-First, __Jesus _will_ return__. Paul describes that glorious day in 4:16-17. _“16For the Lord himself will descend from heaven with a cry of command, with the voice of an archangel, and with the sound of the trumpet of God. And the dead in Christ will rise first. 17Then we who are alive, who are left, will be caught up together with them in the clouds to meet the Lord in the air, and so we will always be with the Lord.”_ (4:16-17) Jesus himself taught that he will return, and we see more images of his return throughout the book of Revelation. Scripture is clear and consistent: Jesus is coming back!
+First, __Jesus _will_ return__. Paul describes that glorious day in 4:16-17. 
+_“For the Lord himself will descend from heaven with a shout, with the 
+archangel’s voice, and with the trumpet of God, and the dead in Christ will rise 
+first. Then we who are still alive, who are left, will be caught up together 
+with them in the clouds to meet the Lord in the air, and so we will always be 
+with the Lord.”_ (4:16-17) Jesus himself taught that he will return, and we see 
+more images of his return throughout the book of Revelation. Scripture is clear 
+and consistent: Jesus is coming back!
 
-Second, __we will all witness his return__. Evidently the Thessalonians were discouraged because some of them had died and the others thought the ones who died would miss out on Jesus’ return. Paul writes to encourage them, in 4:13-15: _“13But we do not want you to be uninformed, brothers, about those who are asleep, that you may not grieve as others do who have no hope. 14For since we believe that Jesus died and rose again, even so, through Jesus, God will bring with him those who have fallen asleep. 15For this we declare to you by a word from the Lord, that we who are alive, who are left until the coming of the Lord, will not precede those who have fallen asleep.”_ He speaks of death as “sleep” to indicate that, for Christians, it is not the end. Not only will our souls go immediately to be with Jesus in heaven, even our bodies will be resurrected from this “sleep” with Jesus in the new creation.[^1] We learn too from Revelation that non-Christians will also be resurrected to receive their final judgment. No one will miss out on Jesus’ return. It is the one event in history that all human beings who have ever lived will experience together.
+Second, __we will all witness his return__. Evidently the Thessalonians were 
+discouraged because some of them had died and the others thought the ones who 
+died would miss out on Jesus’ return. Paul writes to encourage them, in 4:13-15: 
+_“We do not want you to be uninformed, brothers and sisters, concerning those 
+who are asleep, so that you will not grieve like the rest, who have no hope. For 
+if we believe that Jesus died and rose again, in the same way, through Jesus, 
+ God will bring with him those who have fallen asleep. For we say this to you 
+ by a word from the Lord: We who are still alive at the Lord’s coming will 
+ certainly not precede those who have fallen asleep.”_ He speaks of death as 
+ “sleep” to indicate that, for Christians, it is not the end. Not only will 
+ our souls go immediately to be with Jesus in heaven, even our bodies will be 
+ resurrected from this “sleep” with Jesus in the new creation.[^1] We learn 
+ too from Revelation that non-Christians will also be resurrected to receive 
+ their final judgment. No one will miss out on Jesus’ return. It is the one 
+ event in history that all human beings who have ever lived will experience 
+ together.
 
-Third, this doctrine should be an __encouragement__ and a prompting to hope and holiness for Christians. Paul gives the Thessalonians a remarkable exhortation after describing the end of the world, in 4:18: _“18Therefore encourage one another with these words.”_ Jesus’ return should be an encouragement to us. It is the fulfillment of our hopes, it’s the vindication of our expectations. When Jesus returns, all wrongs will be righted, all apparent injustice corrected. Some Christians view the end with alarm, fear, or dread. The end will indeed be fearsome because it will be accompanied by God’s wrath—but we Christians are spared of that! SHARE GOSPEL... Jesus returns to gather his people to himself, finally and forever. For us his return is only the end of this fallen world marred by sin and death; it is the beginning of the new creation in which as Revelation says, _“4he will wipe away every tear from their eyes, and death shall be no more, neither shall there be mourning, nor crying nor pain anymore, for the former things have passed away.”_ (Revelation 21:4).
+Third, this doctrine should be an __encouragement__ and a prompting to hope and 
+holiness for Christians. Paul gives the Thessalonians a remarkable exhortation 
+after describing the end of the world, in 4:18: _“18Therefore encourage one 
+another with these words.”_ Jesus’ return should be an encouragement to us. It 
+is the fulfillment of our hopes, it’s the vindication of our expectations. When 
+Jesus returns, all wrongs will be righted, all apparent injustice corrected. 
+Some Christians view the end with alarm, fear, or dread. The end will indeed be 
+fearsome because it will be accompanied by God’s wrath—but we Christians are 
+spared of that! SHARE GOSPEL... Jesus returns to gather his people to himself, 
+finally and forever. For us his return is only the end of this fallen world 
+marred by sin and death; it is the beginning of the new creation in which as 
+Revelation says, _“He will wipe away every tear from their eyes. Death will be 
+no more; grief, crying, and pain will be no more, because the previous things 
+have passed away.”_ (Revelation 21:4).
 
-Fourth, we don’t know when Jesus will return and we shouldn’t try to figure it out. Naturally some Christians then, as now, became preoccupied with the idea of Jesus’ return and apparently spent some time arguing about when it was going to happen. Paul writes to discourage them from such speculation, in 5:1-3 _“1Now concerning the times and the seasons, brothers, you have no need to have anything written to you. 2For you yourselves are fully aware that the day of the Lord will come like a thief in the night. 3While people are saying, ‘There is peace and security,’ then sudden destruction will come upon them as labor pains come upon a pregnant woman, and they will not escape.”_ (5:1-3). God explicitly says in his word that we do not and cannot know the day or hour of Jesus’ return. We should not listen to anyone who claims to have figured it out. We should, however, remain in eager expectation and preparedness, leading Godly and sober lives so that we will be ready by Jesus comes.
+Fourth, we don’t know when Jesus will return and we shouldn’t try to figure it 
+out. Naturally some Christians then, as now, became preoccupied with the idea of 
+Jesus’ return and apparently spent some time arguing about when it was going to 
+happen. Paul writes to discourage them from such speculation, in 5:1-3 _“About 
+the times and the seasons: Brothers and sisters, you do not need anything to be 
+written to you. For you yourselves know very well that the day of the Lord will 
+come just like a thief in the night. When they say, “Peace and security,” then 
+sudden destruction will come upon them, like labor pains on a pregnant woman, 
+and they will not escape.”_ (5:1-3). God explicitly says in his word that we do 
+not and cannot know the day or hour of Jesus’ return. We should not listen to 
+anyone who claims to have figured it out. We should, however, remain in eager 
+expectation and preparedness, leading Godly and sober lives so that we will be 
+ready by Jesus comes.
 
 Isn’t it amazing how practical all of this gets in 1 Thessalonians? You could 
 almost think of the second half of his letter as “the end of the world, made 
@@ -716,10 +864,10 @@ practical.” So often, this topic invites fevered speculation and silly fantasi
 -- whether it’s the latest series of end-times-themed novels or a fascination 
 with the identity of the “man of lawlessness” that is mentioned in 2 
 Thessalonians. But that kind of teaching and speculation is utterly foreign to 
-Paul’s practical, Christ-centered, encouraging explanation of the end of time.  
+Paul’s practical, Christ-centered, encouraging explanation of the end of time. 
 One way we could apply this part of the book is by evaluating how much time we 
 spend thinking about the past, the present, and the near future… and then 
-compare that with how often we look forward to eternity with Christ.  Hoping in 
+compare that with how often we look forward to eternity with Christ. Hoping in 
 eternity, Paul says, shapes the way that we live now - because it stirs our hope 
 in the Christ who is returning. Any questions?
 
